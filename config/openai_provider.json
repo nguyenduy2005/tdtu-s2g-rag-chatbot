@@ -1,0 +1,22 @@
+{
+  "schema_version": "s2g-openai-provider-v1",
+  "provider": {
+    "name": "OpenAI",
+    "sdk": "openai==3.6.0",
+    "api_interface": "Responses API",
+    "api_method": "client.responses.create",
+    "api_key_environment_variable": "OPENAI_API_KEY",
+    "requested_model": "gpt-5-nano",
+    "qualified_resolved_model": "gpt-5-nano-2025-08-07",
+    "store": false,
+    "truncation": "disabled",
+    "structured_outputs": {
+      "type": "json_schema",
+      "strict": true,
+      "schema_repair_requests": 0
+    },
+    "request_timeout_seconds": 120,
+    "maximum_transport_retries": 2,
+    "transport_backoff_seconds": [1, 2]
+  }
+}

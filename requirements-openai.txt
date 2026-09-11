@@ -1,0 +1,3 @@
+# OpenAI runtime used by the S2G judge, sentence selector, and answer generator.
+openai==3.6.0
+Brotli==1.2.0

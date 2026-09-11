@@ -1,0 +1,681 @@
+{
+  "document": {
+    "document_id": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục",
+    "title": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục",
+    "source_file": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "23ef9a769cdc15fad9c3c52ddd8ce6c9c0212233aab79cfc4f312ca48571900d"
+  },
+  "statistics": {
+    "page_count": 14,
+    "chapter_count": 3,
+    "article_count": 20
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": null,
+      "title": null,
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Ban hành kèm theo Quyết định này Quy định về ứng dụng công nghệ trong tô chức và quản lý các hoạt động giáo dục của Trường Đại học Tôn Đức Thắng.",
+          "page_start": 1,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quy định tạm thời về hoạt động giáo dục trên nền tảng công nghệ số được ban hành kèm theo Quyết định số 832/2020/TDT-QD ngày 22/5/2020 của Trường Đại học Tôn Đức Thắng.",
+          "page_start": 1,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Các ông (bà) Trưởng đơn vị: Phòng Tổ chức hành chính, Phòng Đại hoc; Phòng Sau dai học, Phòng Công tác học sinh — sinh viên, Phong Tài chính, Phong Khảo thí và kiểm định chất lượng, Phòng Thanh tra, pháp chế và an ninh, Viện Hợp tác, Nghiên cứu và Đào tạo quốc tế, các Khoa cùng các đơn vị thuộc, trực thuộc Trường và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./ Ab Nơi nhận: - Như Điều3; - Lưu: VT, TCHC. VĂN BẢN LƯU HÀNH NỘI BỘ TONG LIEN DOAN LAO ĐỘNG VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG Độc lập — Tự do - Hạnh phúc QUY ĐỊNH VE UNG DỤNG CÔNG NGHỆ TRONG TO CHỨC VA QUAN LÝ CÁC HOẠT ĐỘNG GIÁO DỤC CỦA TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG (Kèm theo Quyết định s6:2083./OD-TDT, ngày :|2 tháng 10 năm 2021)",
+          "page_start": 1,
+          "clauses": []
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "I",
+      "title": "",
+      "page_start": 2,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Văn bản này quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục gồm: những quy định chung; tô chức và quản lý đào tạo trực tuyến; hoạt động công tác sinh viên; quyền hạn và trách nhiệm của các cá nhân, đơn vị liên quan; xử lý vi phạm và tổ chức thực hiện.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy định này áp dụng cho tất cả các đơn vị thuộc, trực thuộc Trường Đại học Tôn Đức Thắng (gọi tắt là Trường) có chức năng và nhiệm vụ liên quan đến hoạt động giáo dục từ ngắn hạn đến dài hạn, không cấp bằng và có cấp bằng; áp dụng cho tất cả nghiên cứu sinh, học viên, sinh viên của Trường (gọi chung là người học).",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Mục tiêu",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tăng cường ứng dụng công nghệ (nhất là ứng dụng công nghệ thông tin, công nghé số) trong quản lý, tổ chức các hoạt động giáo dục; đa dạng hóa hình thức và đổi mới phương pháp giáo dục nhằm nâng cao chất lượng, hiệu quả giáo dục.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phát huy năng lực tự học, tự nghiên cứu và đáp ứng nhu cầu học tập mọi lúc, mọi nơi của người học; phù hợp với sự phát triển khoa học và công nghệ và yêu cầu của hoạt động giáo dục trong tình hình mới.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Giải thích từ ngữ Trong quy định này, các từ ngữ dưới đây được hiểu như sau:",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Ứng dụng công nghệ trong tổ chức các hoạt động giáo dục là việc sử dụng các trang thiết bị điện tử, phần mềm, học liệu điện tử, hạ tang công nghệ thông tin cho phép tổ chức hoạt động giáo dục thông qua môi trường trực tuyến (mạng viễn thông, internet).",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Học liệu điện tử: là tập hợp các phương tiện điện tử phục vụ hoạt động giáo dục bao gồm (nhưng không giới hạn trong những nội dung): đề cương chỉ tiết, slide bài giảng, giáo trình, tài liệu tham khảo, bài kiểm tra đánh giá, các video, hình ảnh bài giảng, công cụ giảng dạy,...Học liệu điện tử có nội dung bám sát chuẩn đầu ra của môn học và của chương trình giáo dục; dễ tiếp cận, dé sử dụng và đáp ứng được nhu cầu tự học của người học. 2",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hệ thống quản lý học tập là hệ thống công nghệ thông tin phục vụ hoạt động giáo dục tại Trường. Việc chọn giải pháp công nghệ nào để sử dụng làm Hệ thống quản lý học tập của Trường do Hiệu trưởng quyết định.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Đào tạo trực tuyến là hoạt động giáo dục trực tuyến dia trên nền tảng công nghệ thông tin; trong đó môn học được dạy - học trực tuyến hoàn toàn.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Đào tạo-kết hợp là hoạt động giáo dục trực tuyến kết hợp với hoạt động giáo dục truyền thống; trong đó có một tỉ lệ môn học hoặc tiết học của môn học được đào tạo trực tuyến; các môn học hoặc số tiết của môn học còn lại sẽ dạy-học trực tiếp tại lớp học, phòng thí nghiệm, phòng mô phỏng, tại doanh nghiệp, ngoài hiện trường...",
+              "page_start": 3,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "II",
+      "title": "",
+      "page_start": 3,
+      "articles": [
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Tổ chức hoạt động dạy — học trực tuyến",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đối với chương trình đào tạo chính quy, Trường tổ chức tối đa 30% tổng khối lượng của chương trình đào tạo được thực hiện bằng phương pháp trực tuyến. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp đặc biệt khác, Hiệu trưởng quyết định điều chỉnh kế hoạch học trực tuyến cho phù hợp với quy định hiện hành và tình hình thực tiễn.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Các đơn vị quản lý chuyên môn (Đơn vị đào tạo/Phòng/Viện/Trường trực thuộc) có thé lựa chọn đào tạo trực tuyến hoặc đào tạo kết hợp và xác nhận danh mục các học phần có đào tạo trực tuyến hoặc kết hợp để thông báo cho người học.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sử dụng Hệ thống quản lý học tập (HTQLHT) kết hợp với các budi học trực tuyến qua công cụ dạy học trực tuyến theo thời gian thực.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Trên HTQLHI, người học được cung cấp đầy đủ các thông tin (nội dung học, yêu cầu học trực tuyến, thời gian học, thông tin về hình thức tương tác trực tuyến giữa người dạy và người học,...). Thời gian học được thiết lập theo từng tuần, đúng với thời gian thực tế theo kế hoạch năm học và triển khai thông tin - thông báo, nội dung giảng dạy cho người học.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Phương thức trao déi/twong tác dạy học trực tuyến a. Hiệu trưởng quyết định các công cụ dạy học trực tuyến theo thời gian thực để sử dụng dạy học trực tuyến (gọi tắt công cụ dạy học trực tuyến). Giảng viên thực hiện dạy học trên công cụ dạy học trực tuyến ít nhất bằng 2/3 thời lượng giờ học của lớp học trực tiếp. Giảng viên nên ghi lại nội dung (record) buổi học trực tuyến; đồng thời gửi đường dẫn lưu nội dung buổi học trực tuyến trên HTQLHT để người học có thể vào xem và học lại. Đối với các video cập nhật trên hệ thống tài nguyên môn học tại Thư viện thì thực hiện theo Thu tuc xây đựng, thẩm định, sử dụng video bài giảng, video tham khảo. 3 b. Kênh trao đôi, thảo luận học tập (diễn đàn): là các công cụ được sử dụng cho mục đích trao đổi, thảo luận các nội dung của môn học trong và ngoài buổi học trực tuyên. Trong đó: - Giảng viên và người học phải chịu trách nhiệm về nội dung bài viết của mình trước khi đăng tải; bảo đảm răng nội dung phải phù hợp với mục đích dạy học. - Nội dung bài viêt can rõ ràng, ngôn từ trong sáng, thê hiện sự tôn trọng và có thái độ đúng mực của giảng viên. - Giảng viên và người học phải thực hiện đúng quyền hạn và trách nhiệm cá nhân theo Điều 13 quy định này; nghiêm cấm việc dùng ngôn từ phản cảm, gây mất đoàn kết trong dién đàn, lớp học. c. Giảng viên đưa ra các câu hỏi, bài tập, nội dung thảo luận để đánh giá tình hình tiếp thu bài giảng và tính chuyên cần của người học trong hoặc sau mỗi ca học; tổ chức các hoạt động dạy - học, thảo luận trực tuyến khác nhằm đảm bảo người học đạt được yêu cầu của môn học. d. Giảng viên có thể sử dụng các công cụ hỗ trợ phù hợp khác có hệ thống tích hợp với tài khoản email Trường cấp dé gia tăng tương tác với người học. e. Giảng viên thực hiện giám sát quá trình tham gia học tập của người học: thông qua mức độ tham gia tương tác của người học trong các buổi học trực tuyến; mức độ hoàn thành bài tập và nộp bài trên hệ thống quản lý học tập; nhắc nhở và hỗ trợ người học hoàn thành yêu cầu môn học.",
+              "page_start": 3,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Kế hoạch giảng dạy",
+          "page_start": 4,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Kế hoạch giảng dạy được cung cấp cho người học từ đầu khóa học/môn học a. Kế hoạch day - học: thé hién trong hd sơ môn học; được phan bỗ hợp lý cho từng tuần học theo kế hoạch năm học và cung cấp cho người học trước khi môn học bắt đầu ít nhất 03 ngày. b. Kế hoạch đạy - học bao gom: muc tiéu va chuẩn đầu ra của môn học, học liệu điện tử, yêu cầu đối với người học, phương pháp giảng dạy và đánh giá người học, các mốc thời gian cho từng nội dung của môn học.",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Thông tin — thông báo a. Thông tin — thông báo bao gồm: thời gian dạy và học trực tuyến theo khung thời gian của thời khóa biểu do các đơn vị quản lý đào tạo công bố, công cụ hỗ trợ sẽ sử dụng (kèm hướng dẫn), nội dung và các yêu cầu của môn học/buổi học. b. Thông tin — thông báo phải được don vị quan lý dao tạo, giảng viên cung cấp cho người học trước khi môn học bắt đầu trên HTQLHT ít nhất 03 ngày. 4",
+              "page_start": 4,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Hoạt động đánh giá kết quả học tập Hoạt động đánh giá kết quả học tập của người học phải thực hiện nghiêm túc, công bằng, khách quan; tạo điều kiện để người học phát triển tối đa năng lực như đối với hình thức dạy - học trực tiếp.",
+          "page_start": 5,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Hình thức và phương pháp đánh giá a. Phương pháp đánh giá khi dạy học trực tuyến thực hiện đa dạng theo nhiều hình thức khác nhau, nhưng phải đảm bảo đo lường chính xác kết quả học tập và mục tiêu, yêu cầu của môn học b. Hình thức và phương pháp đánh giá môn học thực hiện theo đề cương chỉ tiết và hồ sơ môn học; đảm bảo đáp ứng chuẩn đầu ra môn học. Trường hợp cần thay đổi hình thức, phương pháp đánh giá giữa kỳ, cuối kỳ theo hình thức trực tuyến trong từng môn học phải được sự đồng ý của Hiệu trưởng. c. Việc điều chỉnh, thay đổi hình thức đánh giá vì lý do khách quan (thiên tai, dịch bệnh, hoặc các lí do bat khả kháng dẫn đến việc không thể tổ chức hình thức đánh giá như đề cương chỉ tiết) phải được đồng ý của Hiệu trưởng.",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Yéu cầu về té chức đánh giá kết quả học tập a. Giảng viên thé hiện quá trình đánh giá trong Hồ sơ môn học (đánh giá quá trình, đánh giá giữa kỳ và đánh giá kết thúc môn học). Hồ sơ môn học phải thể hiện chỉ tiết các phương pháp đánh giá, trọng số của các lần đánh giá, nội dung các nhiệm vụ đánh giá, kết nếi với chuẩn đầu ra môn học, trọng số điểm, tiêu chí đánh giá (công cụ đánh giá rubric hoặc hướng dẫn cham điểm), quy định thời gian nộp bài (nếu đánh giá bằng tiểu luận, đồ án, báo cáo). Hồ sơ phải được Trưởng bộ môn phê duyệt. b. Quá trình đánh giá kết quả người học bao gồm: - Ghi nhận sự tham gia của người học: giảng viên ghi nhận sự chuyên cần của người học thông qua việc người học tham gia các buổi học trực tuyến, thực hiện các bài tập theo yêu cầu của môn học; đánh giá mức độ chuyên cần (thông qua sự tích cực tham gia học trên mạng, trao đổi trên diễn đàn, đặt câu hỏi cho giảng viên) và làm bài kiểm tra quá trình. - Đánh giá quá trình, giữa kỳ và cuối k: thực hiện theo nội dung đã được phê duyệt trong Hồ sơ môn học. c. Người học phải hoàn thành ít nhất 80% yêu cầu môn học (được quy dinh trong Dé cuong chi tiết và giảng viên công bỗ cho người học ngay buổi học dau tiên) mới đủ điều kiện xét thi/danh gia giữa kỳ, cuối kỳ theo đúng quy chế đào tạo. d. Giảng viên cung cấp thông tin và nhận xét về kết quả bài kiểm tra quá trình để giúp người học cải thiện việc học. e. Hình thức đánh giá trực tuyến chỉ được tổ chức khi có công cụ, giải pháp thực hiện nhằm đảm bảo tính chính xác, công bằng, khách quan và được sự phê duyệt - của Hiệu trưởng. f. Hiệu trưởng quyết định việc tô chức bảo vệ, báo cáo trực tuyến luận án tiễn sĩ, luận văn thạc sĩ, khóa luận/đồ án tốt nghiệp... theo đúng quy định và hướng dẫn của Bộ Giáo dục và Đào tạo trong trường hợp thiên tai, dịch bệnh hoặc lý do bất khả kháng không thể tổ chức cho người học bảo vệ, báo cáo trực tiếp. Buổi bảo vệ, báo cáo trực tuyến phải thực hiện theo đúng quy định như buổi bảo vệ, báo cáo trực tiếp và các quy định bổ sung, thay thế liên quan (nếu có); phải được ghỉ hình, ghi âm đầy đủ và lưu trữ kèm theo hd so minh chứng đánh giá. Việc tổ chức bảo vệ, báo cáo trực tuyến theo Hướng dẫn về việc tổ chức đánh giá khóa luận/đồ án tốt nghiệp, luận văn thạc sĩ và luận án tiến sĩ theo hình thức trực tuyến của Trường. ø. Ngoài các mục nêu trên, hoạt động đánh giá kết quả học tập của người học thực hiện theo Quy định về khảo thí và do lường kết quả học tập hiện hành của Trường.",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Các hoạt động đánh giá trực tuyến phải được thực hiện theo quy trình, hướng dẫn về việc tổ chức đánh giá trực tuyến của Trường.",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "7",
+          "title": "Hoạt động giám sát và tập huấn",
+          "page_start": 6,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Giám sat Quá trình dạy và học được giám sát bởi bên thứ ba để bảo đảm rằng hoạt động giáo dục trực tuyến luôn tuân thủ các quy định của Trường và pháp luật. Trong đó: . a. Giám sát trọng tâm vào việc cung cấp học liệu điện tử cho người học, sự tương tác giữa giảng viên và người học trong quá trình dạy và học, việc quản lý lớp học của giảng viên, ra bài tập và hướng dẫn làm bài, và giải đáp thắc mắc của người học. b. Giám sát trách nhiệm và việc phối hợp, cộng tác của các cá nhân và đơn vị liên quan; giảng viên có trách nhiệm hợp tác và tạo điều kiện thuận lợi cho cán bộ giám sát khi thực nhiệm vụ. c. Đơn vị giám sát có trách nhiệm phối hợp, thông tin về kế hoạch làm việc với các cá nhân và đơn vị liên quan khi thực hiện nhiệm vụ. d. Hoạt động giám sắt, nhân sự giám sát không được gây ảnh hưởng tới quá trình dạy - học. e. Kết quả giám sát được ghi lại bằng biên bản ghi nhận (dưới dạng file mềm); và là cơ sở để tính giờ giảng dạy cho giảng viên.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Tập huấn Tập huấn là hoạt động nhằm nâng cao kiến thức, kỹ năng và kinh nghiệm cho giảng viên - viên chức trong đào tao trực tuyến và đào tạo kết hợp. Trong đó: a. Tập huấn bao gồm nhiều hình thức ở cấp Trường, cấp Khoa hoặc cấp Bộ môn. Nhà trường có kế hoạch tập huấn, thao giảng chung cho toàn trường. Bên cạnh đó, các khoa/đơn vị có thể tổ chức thực hiện việc tập huấn, thao giảng cho giảng 6 viên/viên chức mà khoa/đơn vị phụ trách nhằm kịp thời bồi dưỡng, nâng cao kỹ năng và chia sẻ kinh nghiệm trong hoạt động giáo dục trực tuyến. b. Kết thúc mỗi khóa tập huấn yêu cầu giảng viên-viên chức làm bài thu hoạch hoặc bài kiểm tra để đánh giá mức độ tiếp thu nội dung tập huấn.",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "8",
+          "title": "Đánh giá khảo sát người học",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Người học có trách nhiệm tham gia khảo sát đánh giá chất lượng tiếp thu bài giảng môn học.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy trình, cách thức thực hiện, kết quả khảo sat về môn học trực tuyến sẽ áp dụng theo quy định hiện hành về khảo sát đánh giá chất lượng tiếp thu bài giảng môn học; ngoài ra, sẽ xét thêm các tiêu chí đánh giá khác phù hợp với việc dạy-học trực tuyến và tính đặc thù môn học.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Kết quả khảo sát, đánh giá chất lượng tiếp thu bài giảng được thông báo cho đơn vị phụ trách đào tạo và giảng viên",
+              "page_start": 7,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "9",
+          "title": "Lưu trữ hồ sơ dạy học trực tuyến",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Hồ sơ dạy học trực tuyến bao gồm: Hồ sơ môn học, học liệu điện tử và các hồ sơ liên quan đến hoạt động dạy học, kiểm tra đánh giá. | 2. Hồ sơ được lưu theo quá trình dạy và học từ khi bắt đầu cho đến khi kết thúc môn học: a. Hồ sơ được lưu theo môn học trên HTQLHT, trên hệ thống tài nguyên môn học của Thư viện của Trường theo quy định hiện hành. b. Hồ sơ có yêu cầu/chỉ định ký xác nhận sẽ lưu theo quy định hiện hành của Trường.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hồ sơ đánh giá theo hình thức trực tuyến được thực hiện lưu trữ theo Quy định do lường và đánh giá kết quả người hoc và nội quy phòng thi trực tuyến hiện hành của Trường.",
+              "page_start": 7,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "10",
+          "title": "Chính sách về chỉ trả thù lao giảng dạy trực tuyến",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Thù lao giảng dạy được tính dựa trên kết quả thực hiện nhiệm vụ giảng dạy của giảng viên (kết quả giám sát, xác nhận giờ dạy) và xác nhận số tiết giảng dạy trực tuyến và trực tiếp (số tiết được tính thù lao không vượt quá số tiết theo quy định trong chương trình đào tạo); mức chi trả các tiết dạy hình thức trực tuyến được tính như mức chỉ trả các tiết dạy hình thức trực tiếp theo Quy chế chỉ tiêu nội bộ",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Các hoạt động bổ trợ như: day bù, dạy thêm, day phụ đạo dé giúp người học ôn tập là trách nhiệm của giảng viên, nhà trường không tính thù lao; những trường hợp phát sinh ngoại lệ khác, các đơn vị tham mưu căn cứ theo quy định của Nhà trường để đề xuất, trình Hiệu trưởng xem xét quyết định.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Thù lao ra đề thi, chấm bài thi và chỉ phí tổ chức thi trực tuyến được chi trả như hình thức trực tiếp theo Quy chế chỉ tiêu nội bộ. Chương Ti . HOAT DONG CONG TAC SINH VIEN",
+              "page_start": 8,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "11",
+          "title": "Công tác giáo dục",
+          "page_start": 8,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức tuần sinh hoạt công dân (SHCD) là một hoạt động thường kỳ đầu năm học của Trường. Tùy theo tình hình thực tế, hoạt động này có thé t6 chức bằng nhiều hình thức khác nhau: trực tiếp, trực tiếp hoặc kết hợp. Trong tuần SHCD, các nội dung về nội quy, quy chế, quy định được triển khai cho sinh viên thông qua HTQLHT.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối thoại với người học Tùy theo tình hình thực tế, hoạt động đối thoại với người học có thể tổ chức bằng nhiều hình thức khác nhau: trực tiếp, trực tiếp hoặc kết hợp. Hoạt động đối thoại trực tuyến cần được ghi lại nội dung đối thoại.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Chuyên đề giáo dục: Nhà trường và các đơn vị quản lý đào tạo tổ chức các chương trình chia sẻ, các chuyên đề giáo dục với người học về tư tưởng, đạo đức, kỹ năng theo nhiều hình thức khác nhau tùy theo điều kiện va tình hình thực tế để t6 chức trực tiếp, trực tuyến hoặc kết hợp, trong đó khuyến khích việc áp dụng công nghệ trong tổ chức hoạt động trực tuyến.",
+              "page_start": 8,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "12",
+          "title": "Tổ chức hoạt động ngoại khóa",
+          "page_start": 8,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các hoạt động ngoại khóa bao gốm: các hoạt động bổ trợ về chuyên môn, học thuật; hoạt động văn hóa văn nghệ, thể dục thể thao; hoạt động phong trào, hoạt động cộng đồng, công tác xã hội, công tác tình nguyện.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Cách thức thực hiện: Bên cạnh việc t6 chức các hoạt động ngoại khóa theo quy định hiện hành của Nhà trường, tùy theo điều kiện thực tế của việc triển khai hoạt động theo nhiều hình thức khác nhau (trực tiếp, trực tuyến và kết hợp). Hiệu trưởng sẽ xem xét phê duyệt các hình thức tổ chức các hoạt động ngoại khóa theo nhiều hình thức khác nhau, trong đó khuyến khích việc áp dụng công nghệ vào các hoạt động ngoại khóa trực tuyến. Các đơn vị liên quan chủ động thông tin đến người học về kế hoạch thực hiện và hình thức của họt động này, đảm bảo sự hiệu quả và đánh giá đúng sự tham gia của người học.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Kết quả hoạt động ngoại khóa được ghi nhận theo thang điểm đánh giá rèn luyện trong Quy chế công tác sinh viên hiện hành của Trường. - Chương IV QUYEN HAN VÀ TRÁCH NHIỆM",
+              "page_start": 8,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "13",
+          "title": "Quyền hạn và trách nhiệm cá nhân",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Người học a. Người học được cung cấp đầy đủ hướng dẫn học trực tuyến, kế hoạch giảng dạy, học liệu điện tử trước khi môn học bắt đầu ít nhất 03 ngày; b. Người học tự chuẩn bị máy tính hoặc các thiết bị số phù hợp có kết nối mạng Internet và thực hiện theo hướng dẫn học trực tuyến đã được cung cấp; truy cập vào buổi học trực tuyến trước thời gian bắt đầu học ít nhất 10 phút. Người học thực hiện đúng quy định về thời gian học tập, trường hợp tự ý vào lớp học sau khi buổi học bắt đầu hoặc rời khỏi lớp trước giờ kết thúc mà chưa được sự cho phép của giảng viên thì coi như vắng không phép buổi học đó. c. Người học phải có thái độ học tập nghiêm túc, không làm việc riêng trong giờ học; tham gia tích cực vào hoạt động dạy học trong giờ học trực tuyến; mở camera theo yêu cầu của giảng viên để thực hiện quá trình tương tác trực tuyến giữa giảng viên và người học; d. Người học phải thường xuyên kiểm tra email, HTQLHT để biết thông tin, quy định, yêu cầu,... và tham gia đầy đủ các buổi học, hoàn thành các nội dung được giao đúng thời ion quy định; theo dõi các hoạt động ngoại khóa trên hệ thống thông tin sinh viên qua các kênh thông tin chính thức của Trường, Khoa để tham gia các hoạt động theo thời gian thông báo. e. Người học tham gia tập huấn và sử dụng tài khoản đã được Nhà trường cấp để truy cập, khai thác tài liệu học tập từ xa từ Thư viện; có trách nhiệm bảo mật tài khoản được cấp; tuân thủ các chính sách khai thác tài liệu đúng cam kết về Quyền tác giả. f. Người học phải bảo mật tài khoản được Trường cấp, không cung cấp cho người khác sử dụng. Người học sẽ chịu hoàn toàn trách nhiệm khi để người khác sử dụng tài khoản của mình hoặc sử dụng tài khoản không đúng mục đích cho việc học; tự chịu trách nhiệm về các thông tin đưa lên hệ thống học tập trực tuyến trong suốt quá trình theo học tại Trường. g. Người học phải tuân thủ quy định về Bộ quy tắc ứng xử trên mạng xã hội và Luật An ninh mạng trong quá trình học tập trực tuyến và trao đổi trên các diễn đàn học tập của Trường. h. Tuân thủ các quy định liên quan khác về hoạt động dạy - học hiện hành của Trường.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Giảng viên a. Giảng viên được tham gia các buổi chia sẻ/tập huấn, hướng dẫn các phương pháp giảng dạy, đánh giá người học; được hướng dẫn sử dụng các công cụ công nghệ thông tin hỗ trợ cho giảng dạy trực tuyến; được cung cấp tài khoán HTQLHT, các công cụ giảng dạy trực tuyến được phê duyệt sử dụng dạy học trực tuyến tại Trường. b. Giảng viên có trách nhiệm cung cấp đầy đủ kế hoạch giảng dạy, học liệu điện tử, hướng dẫn học trực tuyến cho người học; địa chỉ phòng học trực tuyến cần được cung cấp cho người học và Phòng Thanh tra, Pháp chế và An ninh trước khi môn học bắt đầu ít nhất 03 ngày. c. Xây dựng bài giảng số (ghi hình, thu âm); thiết kế các hoạt động, bài tập phù hợp yêu cầu dạy và đánh giá; chịu trách nhiệm về chất lượng và nội dung của bài giảng. d. Giảng viên tham gia tập huấn và sử dụng tài khoản đã được Nhà trường cấp để truy cập, khai thác tài liệu học tập từ xa từ Thư viện; có trách nhiệm bảo mật tài khoản được cấp; tuân thủ các chính sách khai thác tài liệu đúng cam kết về Quyền tác giả. e. Giảng viên phụ trách môn học có nhiệm vụ gửi yêu cầu chỉ tiết nội dung tài liệu cần truy cập dạng số cho Thư viện theo hướng dẫn trước khi bắt đầu môn học ít nhất 03 tuần làm việc; phối hợp với Thư viện đánh giá kết quả khai thác tài liệu của người học. £. Giảng dạy trực tuyến đúng theo thời khóa biểu và kế hoạch giảng dạy đã cung cấp cho người học; trả lời các câu hỏi, giải đáp các thắc mắc của người học trong giờ học trực tuyến và trong vòng 48 giờ ngoài giờ. học trực tuyến kể từ thời điểm người học đưa câu hỏi trên diễn đàn (ừ ngày nghỉ theo quy định và trường hợp đặc biệt có minh chứng ré ràng thì thời gian này có thể dài hơn); hỗ trợ người học trong suốt quá trình giáo dục trực tuyến để bảo đảm người học tiếp thu kiến thức tốt và thực hiện đúng tiến độ của môn học. g. Giảng viên chịu trách nhiệm tổ chức hoạt động dạy - học theo các quy định của Trường và hd sơ môn học; quan lý người học trong giờ dạy học trực tuyến dé đảm bảo người học thực hiện nghiêm túc các quy định về dạy - học (người học phải vào học đúng giờ quy định, tập trung học tập, không làm việc riêng trong giờ học, tham gia tích cực hoạt động học tập theo yêu cầu môn học,...); mở camera trong quá trình dạy và thực hiện tương tác trực tuyến với người học; thường xuyên nhắc nhở và giáo dục người học về việc thực hiện các nội quy, quy chế của Trường. h. Giảng viên tổ chức đánh giá người học đúng nội dung Nhà trường quy định. i. Giảng viên phải tuân thủ quy định về Bộ quy tắc ứng xử trên mạng xã hội theo quyết định số 874/QD -BTTTT ngày 17/6/2021 của Bộ trưởng Bộ thông tin và truyền thông, tuân thủ Luật An ninh mạng số 24/2018/QH14 của Quốc hội trong quá trình giảng dạy và tô chức thực hiện hoạt động giáo dục trực tuyến. j. Trong quá trình thực hiện hoạt động giáo dục trực tuyến hoặc kết hợp, nếu phát hiện tình huống ảnh hưởng đến an ninh, an toàn,... giảng viên cần báo cáo kịp thời cho 10 Lãnh đạo đơn vị đào tạo và/hoặc các đơn vị liên quan để có biện pháp xử lý kịp thời, phù hợp.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trưởng bộ môn a. Thống nhất các nội dung chính để triển khai việc xây dựng bài giảng số nhất quán giữa các giảng viên cho các môn học do bộ môn phụ trách; bảo đảm đề thi đánh giá đúng với chuẩn đầu ra môn học và phù hợp với hoạt động giáo dục thực tế (trực tiếp, trực tuyến, kết hợp). b. Tổ chức cho giảng viên trong bộ môn xây dựng và đưa vào sử dụng bài giảng số (ghi hình, thu âm) làm tài liệu học tập chung cho các môn học của bộ môn; đề xuất thay đổi phương pháp dạy, hình thức đánh giá phù hợp với hoạt động giáo dục trên nền tảng số. c. Tham gia theo dõi, giám sát hoạt động giáo dục để bảo đảm chất lượng dạy - học của các môn học do bộ môn quản lý, kịp thời hỗ trợ cho giảng viên và người học.",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Lãnh đạo đơn vị đào tạo a. Khi xây dựng kế hoạch giảng dạy cho từng học kỳ, Lãnh đạo đơn vị đào tạo xác định môn học nào sẽ giảng dạy trực tuyến, hoặc kết hợp để triển khai sớm cho người học đăng ký nhóm môn học. b. Các đơn vị đào tạo lựa chọn, điều chỉnh hình thức giảng dạy và các nội dung liên quan trong đề cương chỉ tiết (hình thức đánh giá, phương pháp giảng dạy,...) dé bảo đảm rằng sự thay đổi, điều chỉnh (nếu có) không ảnh hưởng đến chuẩn đầu ra của môn học và chất lượng đánh giá, đo lường kết quả học tập của người học. c. Chịu trách nhiệm bao đảm kế hoạch đào tạo được triển khai trên theo hình thức được phê duyệt và ban hành; thường xuyên kiểm tra, phân công người kiểm tra, giám sát hoạt động giáo dục của giảng viên, viên chức đơn vị mình phụ trách. d. Tiếp nhận các thông tin ghi nhận về tình hình dạy - học ở các nhóm môn học do đơn vị mình quản lý. Đồng thời tiếp thu và cải tiến kịp thời chất lượng dạy - học theo hướng chủ động phòng ngừa rủi ro, sai sót; nhằm nâng cao hiệu quả giảng dạy trực tuyến, chất lượng học liệu điện tử. e. Tổ chức các hoạt động trong công tác sinh viên, thu hút sinh viên tham gia; theo dõi, giám sát hoạt động công tác sinh viên trên nền tảng số của khoa.",
+              "page_start": 11,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "14",
+          "title": "Trách nhiệm các đơn vị khác",
+          "page_start": 11,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các đơn vị quản lý đào tạo (Phòng Đại học, Phòng Sau đại học, Viện Hợp tác, Nghiên cứu và Đào tạo quốc tế, Ban Cao đẳng thực hành và Trường Trung cấp chuyên nghiệp Tôn Đức Thắng) - Các đơn vị quản lý đào tao phối hợp với các đơn vị trong trường triển khai và quản lý giảng dạy trực tuyến trong từng học kỳ; 11 - Phối hợp với các đơn vị đào tạo điều chỉnh kế hoạch và hình thức giao dục trực tuyến (giảng dạy trực tuyến, lịch thi trực tiếp/trực tuyến) trình Hiệu trưởng xem xét phê duyệt khi xảy ra thiên tai, dịch bệnh hoặc các trường hợp bất khả kháng.",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phòng Điện toán - Máy tính - Có trách nhiệm tham mưu cho Nhà trường về công nghệ, giải pháp và công cụ hỗ trợ cho các hoạt động giáo dục trực tuyến tại Trường. - Bảo đảm hạ tầng mạng và an toàn tuyệt đối hệ thống cơ sở đữ liệu; - Tổ chức các hoạt động tập huấn cho giảng viên về kỹ năng khai thác, sử dụng, bao đảm an toàn cho HTQLHT;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trung tâm Công nghệ thông tin ứng dụng - Phát triển các ứng dụng hỗ trợ giảng dạy trực tuyến; - Thường xuyên lấy ý kiến người dùng để thực hiện các giải pháp cải tiễn phần mềm và chất lượng hệ thống. Đồng thời đồng bộ và xây dựng hoàn thiện hệ thống đào tạo trực tuyến của Trường.",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Phòng Khảo thí và kiểm định chất lượng - Chủ trì hoạt động thanh tra đào tạo giảng dạy trực tuyến, báo cáo Ban giám hiệu hàng tuần về kết quả thanh tra đào tạo và các biện pháp khắc phục các hạn chế trong giảng dạy và học tập (nếu có); hướng dẫn, giám sát và phối hợp với Đơn vị đào tạo tổ chức hoạt động đánh giá kết quả học tập; - Xây dựng thủ tục quy trình, hướng dẫn việc tổ chức đánh giá trực tuyến nhằm đảm bảo theo đúng Quy định do lường và đánh gia kết quả người học của Trường.",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Thư viện - Tổ chức tập huấn, cung cấp tài khoản và sử dụng, khai thác hiệu quả Thư viện phù hợp cho từng đối tượng (giảng viên và người học) theo hình thức giáo dục này; - Triển khai các hoạt động hỗ trợ tài liệu học tập trên hệ thống cho giảng viên và người học theo yêu cầu và tiếp tục phát triển tài liệu SỐ; - Tiếp nhận các video bài giảng theo đề nghị của các đơn vị chuyên môn và đưa vào hệ thống tài nguyên môn học của Thư viện theo Thu tuc xây dựng, thẩm định, sử dụng video bài giảng, video tham khảo đã ban hành; - Thống kê số liệu sử dụng tài liệu môn học hoặc thống kê khi có yêu cầu của giảng viên và khoa chuyên môn; - Thông tin kịp thời cho người dạy và người học các dịch vụ hễ trợ học tập trên nền tảng số tại Thư viện.",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Phòng Tài chính - Tham mưu cho Hiệu trưởng về các chính sách về học phí và các khoản chi phí giảng dạy, chi phí tổ chức thi cho phù hợp với Quy chế chỉ tiêu nội bộ của Trường; 12 - Phối hợp với các đơn vị thực hiện thanh toán các khoản phí liên quan đến day - học trực tuyến.",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Phòng Công tác học sinh sinh viên - Xây dựng kế hoạch tổ chức các hoạt động công tác sinh viên trực tuyến cấp trường; - Ghi nhận hoạt động ngoại khóa trực tuyến theo Quy chế công tác sinh viên.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Phòng Thanh tra, pháp chế và an ninh - Giám sát, ghi nhận hoạt động dạy — học trực tuyến toàn Trường; - Kiểm tra các phản hồi của Khoa, khiếu nại của người học để báo cáo Ban giám hiệu kịp thời. Chương ` Vv XU LY VI PHAM VA DIEU KHOẢN THI HANH",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "15",
+          "title": "Xứ ly vi phạm",
+          "page_start": 13,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Những hành vi bị nghiêm cấm khi tham gia hoạt động giáo dục trực tuyến: a. Chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây phương hại an ninh quốc gia, trật tự an toàn xã hội; phá hoại khối đại đoàn kết dân tộc; tuyên truyền chiến tranh, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo. b. Tuyên truyền, kích động bạo lực, dim 6, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc. c. Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp luật quy định. d. Dua thông tin xuyên tac, vu khống, xúc phạm uy tin của tổ chức, danh dự và nhân phẩm của cá nhân; và/hoặc sử dụng từ ngữ không phù hợp môi trường giáo dục. e. Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ; truyền bá tác phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm. £ Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tô chức, cá nhân.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Các hành vi tạo, cài đặt, phát tán phần mềm độc hại, xâm nhập trái phép,..;..",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Các hành vi lưu trữ, sao chép, phát tán học liệu điện tử có trong hệ thống của Nhà trường ra bên ngoài.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Các hành vi vi phạm pháp luật khác. Các vi phạm, tùy theo mức độ, sẽ bị xử lý từ nhắc nhở, đến đình chỉ giảng dạy, tước quyền truy cập hệ thống và xử lý kỷ luật theo quy định của Nhà trường: và/hoặc đề nghị truy cứu trách nhiệm hình sự theo quy định của pháp luật. 13",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "16",
+          "title": "Hướng dẫn thi hành",
+          "page_start": 14,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy định này được phổ biến đến toàn thể đơn vị thuộc, trực thuộc Trường, giảng viên, người học biết để thực hiện.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phòng Thanh tra, pháp chế và an ninh, Phòng Khảo thí và kiểm định chất lượng kiểm tra lãnh đạo các đơn vị, giảng viên và người học thực hiện đúng quy định này.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Những vướng mắc trong quá trình thực hiện quy định này phải được phản ánh kịp thời về Phòng Đại học, Phòng Sau đại học để tổng hợp, trình Hiệu trưởng xem xét, điều chỉnh kịp thời.",
+              "page_start": 14,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "17",
+          "title": "Hiệu lực thi hành",
+          "page_start": 14,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy định này gồm có 5 Chương, 17 Điều; có hiệu lực thi hành kể từ ngày ký và thay thế Quy định tạm thời về hoạt động giáo dục trên nền tảng công nghệ số ban hành kèm theo Quyết định số 832/2020/TĐT-QĐ ngày 22/5/2020 của Trường Đại học Tôn Đức Thắng. 4",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Các don vị thuộc, trực thuộc Trường và các cá nhân liên quan chịu trách nhiệm thực hiện các nội dung theo Quy định này. gic",
+              "page_start": 14,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TONG LIÊN DOAN LAO ĐỘNG VIETNAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG Độc lập — Tự do — Hạnh phúc\nSố: c?03.3/QĐ-TĐT TP. Hồ Chí Minh, ngày 4Ô tháng 10 năm 2021 |\nQUYÉT ĐỊNH ~\nVề việc ban hành Quy định về ứng dụng công nghệ trong tổ chức và quan lý\ncác hoạt động giáo dục của Trường Đại học Tôn Đức Thắng\nHIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\nCăn cứ Quyết định số 747/QĐ-TTg ngày 11/6/2008 của Thủ tướng Chính phủ về\nviệc đổi tên Tì rường Đại học ban công Tôn Đúc Ti hang thành Trường Dai học Tôn Đức\nThắng;\nCăn cứ Quyết định số 158/QĐ-TTg ngày 29/01/2015 của Thủ tướng Chính phi\nvề việc phê duyệt Đề án thí điểm đổi mới cơ chế hoạt động của Trường Đại học Tôn\nĐúc Thắng giai đoạn 2015-2017,\nCăn cứ Nghị quyết số 02/NQ-HĐTĐHTĐT ngày 24/4/2021 của Hội đồng trường\nTrường Dai học Tôn Đức Ti hang về việc ban hành Quy chế tổ chức và hoạt động của\nTruong Đại học Tôn Đúc Ti hang;\nCăn cứ Quyết định số 2536/OD-TLD ngày 27/4/2021 của Đoàn Chủ tịch Tổng\nLiên đoàn Lao động Việt Nam về việc công nhận Quyền Hiệu trưởng Trường Đại học\nTôn Đức Thắng;\nTheo đề nghị của Phụ trách Phong Dai học.\nQUYÉT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy định về ứng dụng công nghệ\ntrong tô chức và quản lý các hoạt động giáo dục của Trường Đại học Tôn Đức Thắng.\nĐiều 2. Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quy định tạm\nthời về hoạt động giáo dục trên nền tảng công nghệ số được ban hành kèm theo Quyết\nđịnh số 832/2020/TDT-QD ngày 22/5/2020 của Trường Đại học Tôn Đức Thắng.\nĐiều 3. Các ông (bà) Trưởng đơn vị: Phòng Tổ chức hành chính, Phòng Đại hoc;\nPhòng Sau dai học, Phòng Công tác học sinh — sinh viên, Phong Tài chính, Phong\nKhảo thí và kiểm định chất lượng, Phòng Thanh tra, pháp chế và an ninh, Viện Hợp\ntác, Nghiên cứu và Đào tạo quốc tế, các Khoa cùng các đơn vị thuộc, trực thuộc\nTrường và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./ Ab\nNơi nhận:\n- Như Điều3;\n- Lưu: VT, TCHC.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "VĂN BẢN LƯU HÀNH NỘI BỘ\nTONG LIEN DOAN LAO ĐỘNG VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG Độc lập — Tự do - Hạnh phúc\nQUY ĐỊNH\nVE UNG DỤNG CÔNG NGHỆ TRONG TO CHỨC VA QUAN LÝ\nCÁC HOẠT ĐỘNG GIÁO DỤC CỦA TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\n(Kèm theo Quyết định s6:2083./OD-TDT, ngày :|2 tháng 10 năm 2021)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về ứng dụng công nghệ trong tổ chức và quản lý các\nhoạt động giáo dục gồm: những quy định chung; tô chức và quản lý đào tạo trực tuyến;\nhoạt động công tác sinh viên; quyền hạn và trách nhiệm của các cá nhân, đơn vị liên\nquan; xử lý vi phạm và tổ chức thực hiện.\n2. Quy định này áp dụng cho tất cả các đơn vị thuộc, trực thuộc Trường Đại học\nTôn Đức Thắng (gọi tắt là Trường) có chức năng và nhiệm vụ liên quan đến hoạt động\ngiáo dục từ ngắn hạn đến dài hạn, không cấp bằng và có cấp bằng; áp dụng cho tất cả\nnghiên cứu sinh, học viên, sinh viên của Trường (gọi chung là người học).\nĐiều 2. Mục tiêu\n1. Tăng cường ứng dụng công nghệ (nhất là ứng dụng công nghệ thông tin,\ncông nghé số) trong quản lý, tổ chức các hoạt động giáo dục; đa dạng hóa hình thức và\nđổi mới phương pháp giáo dục nhằm nâng cao chất lượng, hiệu quả giáo dục.\n2. Phát huy năng lực tự học, tự nghiên cứu và đáp ứng nhu cầu học tập mọi lúc,\nmọi nơi của người học; phù hợp với sự phát triển khoa học và công nghệ và yêu cầu\ncủa hoạt động giáo dục trong tình hình mới.\nĐiều 3. Giải thích từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. Ứng dụng công nghệ trong tổ chức các hoạt động giáo dục là việc sử dụng\ncác trang thiết bị điện tử, phần mềm, học liệu điện tử, hạ tang công nghệ thông tin cho\nphép tổ chức hoạt động giáo dục thông qua môi trường trực tuyến (mạng viễn thông,\ninternet).\n2. Học liệu điện tử: là tập hợp các phương tiện điện tử phục vụ hoạt động giáo\ndục bao gồm (nhưng không giới hạn trong những nội dung): đề cương chỉ tiết, slide\nbài giảng, giáo trình, tài liệu tham khảo, bài kiểm tra đánh giá, các video, hình ảnh bài\ngiảng, công cụ giảng dạy,...Học liệu điện tử có nội dung bám sát chuẩn đầu ra của\nmôn học và của chương trình giáo dục; dễ tiếp cận, dé sử dụng và đáp ứng được nhu\ncầu tự học của người học.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 3,
+      "text": "2\n3. Hệ thống quản lý học tập là hệ thống công nghệ thông tin phục vụ hoạt\nđộng giáo dục tại Trường. Việc chọn giải pháp công nghệ nào để sử dụng làm Hệ\nthống quản lý học tập của Trường do Hiệu trưởng quyết định.\n4. Đào tạo trực tuyến là hoạt động giáo dục trực tuyến dia trên nền tảng công\nnghệ thông tin; trong đó môn học được dạy - học trực tuyến hoàn toàn.\n5. Đào tạo-kết hợp là hoạt động giáo dục trực tuyến kết hợp với hoạt động giáo\ndục truyền thống; trong đó có một tỉ lệ môn học hoặc tiết học của môn học được đào\ntạo trực tuyến; các môn học hoặc số tiết của môn học còn lại sẽ dạy-học trực tiếp tại\nlớp học, phòng thí nghiệm, phòng mô phỏng, tại doanh nghiệp, ngoài hiện trường...\nChương II\nTO CHỨC VÀ A QUAN LÝ HOẠT ĐỘNG DẠY - HỌC TRỰC TUYỂN\nĐiều 4. Tổ chức hoạt động dạy — học trực tuyến\n1. Đối với chương trình đào tạo chính quy, Trường tổ chức tối đa 30% tổng khối\nlượng của chương trình đào tạo được thực hiện bằng phương pháp trực tuyến. Trong\ntrường hợp thiên tai, dịch bệnh phức tạp và các trường hợp đặc biệt khác, Hiệu trưởng\nquyết định điều chỉnh kế hoạch học trực tuyến cho phù hợp với quy định hiện hành và\ntình hình thực tiễn.\n2. Các đơn vị quản lý chuyên môn (Đơn vị đào tạo/Phòng/Viện/Trường trực\nthuộc) có thé lựa chọn đào tạo trực tuyến hoặc đào tạo kết hợp và xác nhận danh mục\ncác học phần có đào tạo trực tuyến hoặc kết hợp để thông báo cho người học.\n3. Sử dụng Hệ thống quản lý học tập (HTQLHT) kết hợp với các budi học trực\ntuyến qua công cụ dạy học trực tuyến theo thời gian thực.\n4. Trên HTQLHI, người học được cung cấp đầy đủ các thông tin (nội dung học,\nyêu cầu học trực tuyến, thời gian học, thông tin về hình thức tương tác trực tuyến giữa\nngười dạy và người học,...). Thời gian học được thiết lập theo từng tuần, đúng với thời\ngian thực tế theo kế hoạch năm học và triển khai thông tin - thông báo, nội dung giảng\ndạy cho người học.\n5. Phương thức trao déi/twong tác dạy học trực tuyến\na. Hiệu trưởng quyết định các công cụ dạy học trực tuyến theo thời gian thực\nđể sử dụng dạy học trực tuyến (gọi tắt công cụ dạy học trực tuyến). Giảng viên thực\nhiện dạy học trên công cụ dạy học trực tuyến ít nhất bằng 2/3 thời lượng giờ học của\nlớp học trực tiếp. Giảng viên nên ghi lại nội dung (record) buổi học trực tuyến; đồng\nthời gửi đường dẫn lưu nội dung buổi học trực tuyến trên HTQLHT để người học có\nthể vào xem và học lại. Đối với các video cập nhật trên hệ thống tài nguyên môn học\ntại Thư viện thì thực hiện theo Thu tuc xây đựng, thẩm định, sử dụng video bài giảng,\nvideo tham khảo.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 4,
+      "text": "3\nb. Kênh trao đôi, thảo luận học tập (diễn đàn): là các công cụ được sử dụng cho\nmục đích trao đổi, thảo luận các nội dung của môn học trong và ngoài buổi học trực\ntuyên. Trong đó:\n- Giảng viên và người học phải chịu trách nhiệm về nội dung bài viết của mình\ntrước khi đăng tải; bảo đảm răng nội dung phải phù hợp với mục đích dạy học.\n- Nội dung bài viêt can rõ ràng, ngôn từ trong sáng, thê hiện sự tôn trọng và có\nthái độ đúng mực của giảng viên.\n- Giảng viên và người học phải thực hiện đúng quyền hạn và trách nhiệm cá\nnhân theo Điều 13 quy định này; nghiêm cấm việc dùng ngôn từ phản cảm, gây mất\nđoàn kết trong dién đàn, lớp học.\nc. Giảng viên đưa ra các câu hỏi, bài tập, nội dung thảo luận để đánh giá tình\nhình tiếp thu bài giảng và tính chuyên cần của người học trong hoặc sau mỗi ca học; tổ\nchức các hoạt động dạy - học, thảo luận trực tuyến khác nhằm đảm bảo người học đạt\nđược yêu cầu của môn học.\nd. Giảng viên có thể sử dụng các công cụ hỗ trợ phù hợp khác có hệ thống tích\nhợp với tài khoản email Trường cấp dé gia tăng tương tác với người học.\ne. Giảng viên thực hiện giám sát quá trình tham gia học tập của người học:\nthông qua mức độ tham gia tương tác của người học trong các buổi học trực tuyến;\nmức độ hoàn thành bài tập và nộp bài trên hệ thống quản lý học tập; nhắc nhở và hỗ\ntrợ người học hoàn thành yêu cầu môn học.\nĐiều 5. Kế hoạch giảng dạy\n1. Kế hoạch giảng dạy được cung cấp cho người học từ đầu khóa học/môn\nhọc\na. Kế hoạch day - học: thé hién trong hd sơ môn học; được phan bỗ hợp lý cho\ntừng tuần học theo kế hoạch năm học và cung cấp cho người học trước khi môn học\nbắt đầu ít nhất 03 ngày.\nb. Kế hoạch đạy - học bao gom: muc tiéu va chuẩn đầu ra của môn học, học liệu\nđiện tử, yêu cầu đối với người học, phương pháp giảng dạy và đánh giá người học, các\nmốc thời gian cho từng nội dung của môn học.\n2. Thông tin — thông báo\na. Thông tin — thông báo bao gồm: thời gian dạy và học trực tuyến theo khung\nthời gian của thời khóa biểu do các đơn vị quản lý đào tạo công bố, công cụ hỗ trợ sẽ\nsử dụng (kèm hướng dẫn), nội dung và các yêu cầu của môn học/buổi học.\nb. Thông tin — thông báo phải được don vị quan lý dao tạo, giảng viên cung cấp\ncho người học trước khi môn học bắt đầu trên HTQLHT ít nhất 03 ngày.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 5,
+      "text": "4\nĐiều 6. Hoạt động đánh giá kết quả học tập\nHoạt động đánh giá kết quả học tập của người học phải thực hiện nghiêm túc,\ncông bằng, khách quan; tạo điều kiện để người học phát triển tối đa năng lực như đối\nvới hình thức dạy - học trực tiếp.\n1. Hình thức và phương pháp đánh giá\na. Phương pháp đánh giá khi dạy học trực tuyến thực hiện đa dạng theo nhiều\nhình thức khác nhau, nhưng phải đảm bảo đo lường chính xác kết quả học tập và mục\ntiêu, yêu cầu của môn học\nb. Hình thức và phương pháp đánh giá môn học thực hiện theo đề cương chỉ tiết\nvà hồ sơ môn học; đảm bảo đáp ứng chuẩn đầu ra môn học. Trường hợp cần thay đổi\nhình thức, phương pháp đánh giá giữa kỳ, cuối kỳ theo hình thức trực tuyến trong từng\nmôn học phải được sự đồng ý của Hiệu trưởng.\nc. Việc điều chỉnh, thay đổi hình thức đánh giá vì lý do khách quan (thiên tai,\ndịch bệnh, hoặc các lí do bat khả kháng dẫn đến việc không thể tổ chức hình thức đánh\ngiá như đề cương chỉ tiết) phải được đồng ý của Hiệu trưởng.\n2. Yéu cầu về té chức đánh giá kết quả học tập\na. Giảng viên thé hiện quá trình đánh giá trong Hồ sơ môn học (đánh giá quá\ntrình, đánh giá giữa kỳ và đánh giá kết thúc môn học). Hồ sơ môn học phải thể hiện\nchỉ tiết các phương pháp đánh giá, trọng số của các lần đánh giá, nội dung các nhiệm\nvụ đánh giá, kết nếi với chuẩn đầu ra môn học, trọng số điểm, tiêu chí đánh giá (công\ncụ đánh giá rubric hoặc hướng dẫn cham điểm), quy định thời gian nộp bài (nếu đánh\ngiá bằng tiểu luận, đồ án, báo cáo). Hồ sơ phải được Trưởng bộ môn phê duyệt.\nb. Quá trình đánh giá kết quả người học bao gồm:\n- Ghi nhận sự tham gia của người học: giảng viên ghi nhận sự chuyên cần của\nngười học thông qua việc người học tham gia các buổi học trực tuyến, thực hiện các\nbài tập theo yêu cầu của môn học; đánh giá mức độ chuyên cần (thông qua sự tích cực\ntham gia học trên mạng, trao đổi trên diễn đàn, đặt câu hỏi cho giảng viên) và làm bài\nkiểm tra quá trình.\n- Đánh giá quá trình, giữa kỳ và cuối k: thực hiện theo nội dung đã được phê\nduyệt trong Hồ sơ môn học.\nc. Người học phải hoàn thành ít nhất 80% yêu cầu môn học (được quy dinh\ntrong Dé cuong chi tiết và giảng viên công bỗ cho người học ngay buổi học dau tiên)\nmới đủ điều kiện xét thi/danh gia giữa kỳ, cuối kỳ theo đúng quy chế đào tạo.\nd. Giảng viên cung cấp thông tin và nhận xét về kết quả bài kiểm tra quá trình\nđể giúp người học cải thiện việc học.\ne. Hình thức đánh giá trực tuyến chỉ được tổ chức khi có công cụ, giải pháp\nthực hiện nhằm đảm bảo tính chính xác, công bằng, khách quan và được sự phê duyệt\n- của Hiệu trưởng.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 6,
+      "text": "f. Hiệu trưởng quyết định việc tô chức bảo vệ, báo cáo trực tuyến luận án tiễn\nsĩ, luận văn thạc sĩ, khóa luận/đồ án tốt nghiệp... theo đúng quy định và hướng dẫn\ncủa Bộ Giáo dục và Đào tạo trong trường hợp thiên tai, dịch bệnh hoặc lý do bất khả\nkháng không thể tổ chức cho người học bảo vệ, báo cáo trực tiếp. Buổi bảo vệ, báo cáo\ntrực tuyến phải thực hiện theo đúng quy định như buổi bảo vệ, báo cáo trực tiếp và các\nquy định bổ sung, thay thế liên quan (nếu có); phải được ghỉ hình, ghi âm đầy đủ và\nlưu trữ kèm theo hd so minh chứng đánh giá. Việc tổ chức bảo vệ, báo cáo trực tuyến\ntheo Hướng dẫn về việc tổ chức đánh giá khóa luận/đồ án tốt nghiệp, luận văn thạc sĩ\nvà luận án tiến sĩ theo hình thức trực tuyến của Trường.\nø. Ngoài các mục nêu trên, hoạt động đánh giá kết quả học tập của người học\nthực hiện theo Quy định về khảo thí và do lường kết quả học tập hiện hành của\nTrường.\n3. Các hoạt động đánh giá trực tuyến phải được thực hiện theo quy trình, hướng\ndẫn về việc tổ chức đánh giá trực tuyến của Trường.\nĐiều 7. Hoạt động giám sát và tập huấn\n1. Giám sat\nQuá trình dạy và học được giám sát bởi bên thứ ba để bảo đảm rằng hoạt động\ngiáo dục trực tuyến luôn tuân thủ các quy định của Trường và pháp luật. Trong đó: .\na. Giám sát trọng tâm vào việc cung cấp học liệu điện tử cho người học, sự\ntương tác giữa giảng viên và người học trong quá trình dạy và học, việc quản lý lớp\nhọc của giảng viên, ra bài tập và hướng dẫn làm bài, và giải đáp thắc mắc của người\nhọc.\nb. Giám sát trách nhiệm và việc phối hợp, cộng tác của các cá nhân và đơn vị\nliên quan; giảng viên có trách nhiệm hợp tác và tạo điều kiện thuận lợi cho cán bộ\ngiám sát khi thực nhiệm vụ.\nc. Đơn vị giám sát có trách nhiệm phối hợp, thông tin về kế hoạch làm việc với\ncác cá nhân và đơn vị liên quan khi thực hiện nhiệm vụ.\nd. Hoạt động giám sắt, nhân sự giám sát không được gây ảnh hưởng tới quá\ntrình dạy - học.\ne. Kết quả giám sát được ghi lại bằng biên bản ghi nhận (dưới dạng file mềm);\nvà là cơ sở để tính giờ giảng dạy cho giảng viên.\n2. Tập huấn\nTập huấn là hoạt động nhằm nâng cao kiến thức, kỹ năng và kinh nghiệm cho\ngiảng viên - viên chức trong đào tao trực tuyến và đào tạo kết hợp. Trong đó:\na. Tập huấn bao gồm nhiều hình thức ở cấp Trường, cấp Khoa hoặc cấp Bộ\nmôn. Nhà trường có kế hoạch tập huấn, thao giảng chung cho toàn trường. Bên cạnh\nđó, các khoa/đơn vị có thể tổ chức thực hiện việc tập huấn, thao giảng cho giảng",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 7,
+      "text": "6\nviên/viên chức mà khoa/đơn vị phụ trách nhằm kịp thời bồi dưỡng, nâng cao kỹ năng\nvà chia sẻ kinh nghiệm trong hoạt động giáo dục trực tuyến.\nb. Kết thúc mỗi khóa tập huấn yêu cầu giảng viên-viên chức làm bài thu hoạch\nhoặc bài kiểm tra để đánh giá mức độ tiếp thu nội dung tập huấn.\nĐiều 8. Đánh giá khảo sát người học\n1. Người học có trách nhiệm tham gia khảo sát đánh giá chất lượng tiếp thu bài\ngiảng môn học.\n2. Quy trình, cách thức thực hiện, kết quả khảo sat về môn học trực tuyến sẽ áp\ndụng theo quy định hiện hành về khảo sát đánh giá chất lượng tiếp thu bài giảng môn\nhọc; ngoài ra, sẽ xét thêm các tiêu chí đánh giá khác phù hợp với việc dạy-học trực\ntuyến và tính đặc thù môn học.\n3. Kết quả khảo sát, đánh giá chất lượng tiếp thu bài giảng được thông báo cho\nđơn vị phụ trách đào tạo và giảng viên\nĐiều 9. Lưu trữ hồ sơ dạy học trực tuyến\n1. Hồ sơ dạy học trực tuyến bao gồm: Hồ sơ môn học, học liệu điện tử và các\nhồ sơ liên quan đến hoạt động dạy học, kiểm tra đánh giá.\n| 2. Hồ sơ được lưu theo quá trình dạy và học từ khi bắt đầu cho đến khi kết\nthúc môn học:\na. Hồ sơ được lưu theo môn học trên HTQLHT, trên hệ thống tài nguyên môn\nhọc của Thư viện của Trường theo quy định hiện hành.\nb. Hồ sơ có yêu cầu/chỉ định ký xác nhận sẽ lưu theo quy định hiện hành của\nTrường.\n3. Hồ sơ đánh giá theo hình thức trực tuyến được thực hiện lưu trữ theo Quy\nđịnh do lường và đánh giá kết quả người hoc và nội quy phòng thi trực tuyến hiện\nhành của Trường.\nĐiều 10. Chính sách về chỉ trả thù lao giảng dạy trực tuyến\n1. Thù lao giảng dạy được tính dựa trên kết quả thực hiện nhiệm vụ giảng dạy\ncủa giảng viên (kết quả giám sát, xác nhận giờ dạy) và xác nhận số tiết giảng dạy trực\ntuyến và trực tiếp (số tiết được tính thù lao không vượt quá số tiết theo quy định trong\nchương trình đào tạo); mức chi trả các tiết dạy hình thức trực tuyến được tính như mức\nchỉ trả các tiết dạy hình thức trực tiếp theo Quy chế chỉ tiêu nội bộ\n2. Các hoạt động bổ trợ như: day bù, dạy thêm, day phụ đạo dé giúp người học\nôn tập là trách nhiệm của giảng viên, nhà trường không tính thù lao; những trường hợp\nphát sinh ngoại lệ khác, các đơn vị tham mưu căn cứ theo quy định của Nhà trường để\nđề xuất, trình Hiệu trưởng xem xét quyết định.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 8,
+      "text": "3. Thù lao ra đề thi, chấm bài thi và chỉ phí tổ chức thi trực tuyến được chi trả\nnhư hình thức trực tiếp theo Quy chế chỉ tiêu nội bộ.\nChương Ti .\nHOAT DONG CONG TAC SINH VIEN\nĐiều 11. Công tác giáo dục\n1. Tổ chức tuần sinh hoạt công dân (SHCD) là một hoạt động thường kỳ đầu\nnăm học của Trường. Tùy theo tình hình thực tế, hoạt động này có thé t6 chức bằng\nnhiều hình thức khác nhau: trực tiếp, trực tiếp hoặc kết hợp. Trong tuần SHCD, các nội\ndung về nội quy, quy chế, quy định được triển khai cho sinh viên thông qua HTQLHT.\n2. Đối thoại với người học\nTùy theo tình hình thực tế, hoạt động đối thoại với người học có thể tổ chức\nbằng nhiều hình thức khác nhau: trực tiếp, trực tiếp hoặc kết hợp. Hoạt động đối thoại\ntrực tuyến cần được ghi lại nội dung đối thoại.\n3. Chuyên đề giáo dục: Nhà trường và các đơn vị quản lý đào tạo tổ chức các\nchương trình chia sẻ, các chuyên đề giáo dục với người học về tư tưởng, đạo đức, kỹ\nnăng theo nhiều hình thức khác nhau tùy theo điều kiện va tình hình thực tế để t6 chức\ntrực tiếp, trực tuyến hoặc kết hợp, trong đó khuyến khích việc áp dụng công nghệ trong\ntổ chức hoạt động trực tuyến.\nĐiều 12. Tổ chức hoạt động ngoại khóa\n1. Các hoạt động ngoại khóa bao gốm: các hoạt động bổ trợ về chuyên môn,\nhọc thuật; hoạt động văn hóa văn nghệ, thể dục thể thao; hoạt động phong trào, hoạt\nđộng cộng đồng, công tác xã hội, công tác tình nguyện.\n2. Cách thức thực hiện: Bên cạnh việc t6 chức các hoạt động ngoại khóa theo\nquy định hiện hành của Nhà trường, tùy theo điều kiện thực tế của việc triển khai hoạt\nđộng theo nhiều hình thức khác nhau (trực tiếp, trực tuyến và kết hợp). Hiệu trưởng sẽ\nxem xét phê duyệt các hình thức tổ chức các hoạt động ngoại khóa theo nhiều hình\nthức khác nhau, trong đó khuyến khích việc áp dụng công nghệ vào các hoạt động\nngoại khóa trực tuyến. Các đơn vị liên quan chủ động thông tin đến người học về kế\nhoạch thực hiện và hình thức của họt động này, đảm bảo sự hiệu quả và đánh giá đúng\nsự tham gia của người học.\n3. Kết quả hoạt động ngoại khóa được ghi nhận theo thang điểm đánh giá rèn\nluyện trong Quy chế công tác sinh viên hiện hành của Trường.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 9,
+      "text": "- Chương IV\nQUYEN HAN VÀ TRÁCH NHIỆM\nĐiều 13. Quyền hạn và trách nhiệm cá nhân\n1. Người học\na. Người học được cung cấp đầy đủ hướng dẫn học trực tuyến, kế hoạch giảng\ndạy, học liệu điện tử trước khi môn học bắt đầu ít nhất 03 ngày;\nb. Người học tự chuẩn bị máy tính hoặc các thiết bị số phù hợp có kết nối mạng\nInternet và thực hiện theo hướng dẫn học trực tuyến đã được cung cấp; truy cập vào\nbuổi học trực tuyến trước thời gian bắt đầu học ít nhất 10 phút. Người học thực hiện\nđúng quy định về thời gian học tập, trường hợp tự ý vào lớp học sau khi buổi học bắt\nđầu hoặc rời khỏi lớp trước giờ kết thúc mà chưa được sự cho phép của giảng viên thì\ncoi như vắng không phép buổi học đó.\nc. Người học phải có thái độ học tập nghiêm túc, không làm việc riêng trong\ngiờ học; tham gia tích cực vào hoạt động dạy học trong giờ học trực tuyến; mở camera\ntheo yêu cầu của giảng viên để thực hiện quá trình tương tác trực tuyến giữa giảng\nviên và người học;\nd. Người học phải thường xuyên kiểm tra email, HTQLHT để biết thông tin,\nquy định, yêu cầu,... và tham gia đầy đủ các buổi học, hoàn thành các nội dung được\ngiao đúng thời ion quy định; theo dõi các hoạt động ngoại khóa trên hệ thống thông tin\nsinh viên qua các kênh thông tin chính thức của Trường, Khoa để tham gia các hoạt\nđộng theo thời gian thông báo.\ne. Người học tham gia tập huấn và sử dụng tài khoản đã được Nhà trường cấp\nđể truy cập, khai thác tài liệu học tập từ xa từ Thư viện; có trách nhiệm bảo mật tài\nkhoản được cấp; tuân thủ các chính sách khai thác tài liệu đúng cam kết về Quyền tác\ngiả.\nf. Người học phải bảo mật tài khoản được Trường cấp, không cung cấp cho\nngười khác sử dụng. Người học sẽ chịu hoàn toàn trách nhiệm khi để người khác sử\ndụng tài khoản của mình hoặc sử dụng tài khoản không đúng mục đích cho việc học;\ntự chịu trách nhiệm về các thông tin đưa lên hệ thống học tập trực tuyến trong suốt quá\ntrình theo học tại Trường.\ng. Người học phải tuân thủ quy định về Bộ quy tắc ứng xử trên mạng xã hội và\nLuật An ninh mạng trong quá trình học tập trực tuyến và trao đổi trên các diễn đàn học\ntập của Trường.\nh. Tuân thủ các quy định liên quan khác về hoạt động dạy - học hiện hành của\nTrường.\n2. Giảng viên\na. Giảng viên được tham gia các buổi chia sẻ/tập huấn, hướng dẫn các phương",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 10,
+      "text": "pháp giảng dạy, đánh giá người học; được hướng dẫn sử dụng các công cụ công nghệ\nthông tin hỗ trợ cho giảng dạy trực tuyến; được cung cấp tài khoán HTQLHT, các\ncông cụ giảng dạy trực tuyến được phê duyệt sử dụng dạy học trực tuyến tại Trường.\nb. Giảng viên có trách nhiệm cung cấp đầy đủ kế hoạch giảng dạy, học liệu điện\ntử, hướng dẫn học trực tuyến cho người học; địa chỉ phòng học trực tuyến cần được\ncung cấp cho người học và Phòng Thanh tra, Pháp chế và An ninh trước khi môn học\nbắt đầu ít nhất 03 ngày.\nc. Xây dựng bài giảng số (ghi hình, thu âm); thiết kế các hoạt động, bài tập phù\nhợp yêu cầu dạy và đánh giá; chịu trách nhiệm về chất lượng và nội dung của bài\ngiảng.\nd. Giảng viên tham gia tập huấn và sử dụng tài khoản đã được Nhà trường cấp để\ntruy cập, khai thác tài liệu học tập từ xa từ Thư viện; có trách nhiệm bảo mật tài khoản\nđược cấp; tuân thủ các chính sách khai thác tài liệu đúng cam kết về Quyền tác giả.\ne. Giảng viên phụ trách môn học có nhiệm vụ gửi yêu cầu chỉ tiết nội dung tài\nliệu cần truy cập dạng số cho Thư viện theo hướng dẫn trước khi bắt đầu môn học ít\nnhất 03 tuần làm việc; phối hợp với Thư viện đánh giá kết quả khai thác tài liệu của\nngười học.\n£. Giảng dạy trực tuyến đúng theo thời khóa biểu và kế hoạch giảng dạy đã cung\ncấp cho người học; trả lời các câu hỏi, giải đáp các thắc mắc của người học trong giờ\nhọc trực tuyến và trong vòng 48 giờ ngoài giờ. học trực tuyến kể từ thời điểm người\nhọc đưa câu hỏi trên diễn đàn (ừ ngày nghỉ theo quy định và trường hợp đặc biệt có\nminh chứng ré ràng thì thời gian này có thể dài hơn); hỗ trợ người học trong suốt quá\ntrình giáo dục trực tuyến để bảo đảm người học tiếp thu kiến thức tốt và thực hiện\nđúng tiến độ của môn học.\ng. Giảng viên chịu trách nhiệm tổ chức hoạt động dạy - học theo các quy định\ncủa Trường và hd sơ môn học; quan lý người học trong giờ dạy học trực tuyến dé đảm\nbảo người học thực hiện nghiêm túc các quy định về dạy - học (người học phải vào\nhọc đúng giờ quy định, tập trung học tập, không làm việc riêng trong giờ học, tham gia\ntích cực hoạt động học tập theo yêu cầu môn học,...); mở camera trong quá trình dạy\nvà thực hiện tương tác trực tuyến với người học; thường xuyên nhắc nhở và giáo dục\nngười học về việc thực hiện các nội quy, quy chế của Trường.\nh. Giảng viên tổ chức đánh giá người học đúng nội dung Nhà trường quy định.\ni. Giảng viên phải tuân thủ quy định về Bộ quy tắc ứng xử trên mạng xã hội theo\nquyết định số 874/QD -BTTTT ngày 17/6/2021 của Bộ trưởng Bộ thông tin và truyền\nthông, tuân thủ Luật An ninh mạng số 24/2018/QH14 của Quốc hội trong quá trình\ngiảng dạy và tô chức thực hiện hoạt động giáo dục trực tuyến.\nj. Trong quá trình thực hiện hoạt động giáo dục trực tuyến hoặc kết hợp, nếu phát\nhiện tình huống ảnh hưởng đến an ninh, an toàn,... giảng viên cần báo cáo kịp thời cho",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 11,
+      "text": "10\nLãnh đạo đơn vị đào tạo và/hoặc các đơn vị liên quan để có biện pháp xử lý kịp thời,\nphù hợp.\n3. Trưởng bộ môn\na. Thống nhất các nội dung chính để triển khai việc xây dựng bài giảng số nhất\nquán giữa các giảng viên cho các môn học do bộ môn phụ trách; bảo đảm đề thi đánh\ngiá đúng với chuẩn đầu ra môn học và phù hợp với hoạt động giáo dục thực tế (trực\ntiếp, trực tuyến, kết hợp).\nb. Tổ chức cho giảng viên trong bộ môn xây dựng và đưa vào sử dụng bài giảng\nsố (ghi hình, thu âm) làm tài liệu học tập chung cho các môn học của bộ môn; đề xuất\nthay đổi phương pháp dạy, hình thức đánh giá phù hợp với hoạt động giáo dục trên nền\ntảng số.\nc. Tham gia theo dõi, giám sát hoạt động giáo dục để bảo đảm chất lượng dạy -\nhọc của các môn học do bộ môn quản lý, kịp thời hỗ trợ cho giảng viên và người học.\n4. Lãnh đạo đơn vị đào tạo\na. Khi xây dựng kế hoạch giảng dạy cho từng học kỳ, Lãnh đạo đơn vị đào tạo\nxác định môn học nào sẽ giảng dạy trực tuyến, hoặc kết hợp để triển khai sớm cho\nngười học đăng ký nhóm môn học.\nb. Các đơn vị đào tạo lựa chọn, điều chỉnh hình thức giảng dạy và các nội dung\nliên quan trong đề cương chỉ tiết (hình thức đánh giá, phương pháp giảng dạy,...) dé\nbảo đảm rằng sự thay đổi, điều chỉnh (nếu có) không ảnh hưởng đến chuẩn đầu ra của\nmôn học và chất lượng đánh giá, đo lường kết quả học tập của người học.\nc. Chịu trách nhiệm bao đảm kế hoạch đào tạo được triển khai trên theo hình thức\nđược phê duyệt và ban hành; thường xuyên kiểm tra, phân công người kiểm tra, giám\nsát hoạt động giáo dục của giảng viên, viên chức đơn vị mình phụ trách.\nd. Tiếp nhận các thông tin ghi nhận về tình hình dạy - học ở các nhóm môn học\ndo đơn vị mình quản lý. Đồng thời tiếp thu và cải tiến kịp thời chất lượng dạy - học\ntheo hướng chủ động phòng ngừa rủi ro, sai sót; nhằm nâng cao hiệu quả giảng dạy\ntrực tuyến, chất lượng học liệu điện tử.\ne. Tổ chức các hoạt động trong công tác sinh viên, thu hút sinh viên tham gia;\ntheo dõi, giám sát hoạt động công tác sinh viên trên nền tảng số của khoa.\nĐiều 14. Trách nhiệm các đơn vị khác\n1. Các đơn vị quản lý đào tạo (Phòng Đại học, Phòng Sau đại học, Viện Hợp tác,\nNghiên cứu và Đào tạo quốc tế, Ban Cao đẳng thực hành và Trường Trung cấp chuyên\nnghiệp Tôn Đức Thắng)\n- Các đơn vị quản lý đào tao phối hợp với các đơn vị trong trường triển khai và\nquản lý giảng dạy trực tuyến trong từng học kỳ;",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 12,
+      "text": "11\n- Phối hợp với các đơn vị đào tạo điều chỉnh kế hoạch và hình thức giao dục trực\ntuyến (giảng dạy trực tuyến, lịch thi trực tiếp/trực tuyến) trình Hiệu trưởng xem xét\nphê duyệt khi xảy ra thiên tai, dịch bệnh hoặc các trường hợp bất khả kháng.\n2. Phòng Điện toán - Máy tính\n- Có trách nhiệm tham mưu cho Nhà trường về công nghệ, giải pháp và công cụ\nhỗ trợ cho các hoạt động giáo dục trực tuyến tại Trường.\n- Bảo đảm hạ tầng mạng và an toàn tuyệt đối hệ thống cơ sở đữ liệu;\n- Tổ chức các hoạt động tập huấn cho giảng viên về kỹ năng khai thác, sử dụng,\nbao đảm an toàn cho HTQLHT;\n3. Trung tâm Công nghệ thông tin ứng dụng\n- Phát triển các ứng dụng hỗ trợ giảng dạy trực tuyến;\n- Thường xuyên lấy ý kiến người dùng để thực hiện các giải pháp cải tiễn phần\nmềm và chất lượng hệ thống. Đồng thời đồng bộ và xây dựng hoàn thiện hệ thống đào\ntạo trực tuyến của Trường.\n4. Phòng Khảo thí và kiểm định chất lượng\n- Chủ trì hoạt động thanh tra đào tạo giảng dạy trực tuyến, báo cáo Ban giám hiệu\nhàng tuần về kết quả thanh tra đào tạo và các biện pháp khắc phục các hạn chế trong\ngiảng dạy và học tập (nếu có); hướng dẫn, giám sát và phối hợp với Đơn vị đào tạo tổ\nchức hoạt động đánh giá kết quả học tập;\n- Xây dựng thủ tục quy trình, hướng dẫn việc tổ chức đánh giá trực tuyến nhằm\nđảm bảo theo đúng Quy định do lường và đánh gia kết quả người học của Trường.\n5. Thư viện\n- Tổ chức tập huấn, cung cấp tài khoản và sử dụng, khai thác hiệu quả Thư viện\nphù hợp cho từng đối tượng (giảng viên và người học) theo hình thức giáo dục này;\n- Triển khai các hoạt động hỗ trợ tài liệu học tập trên hệ thống cho giảng viên và\nngười học theo yêu cầu và tiếp tục phát triển tài liệu SỐ;\n- Tiếp nhận các video bài giảng theo đề nghị của các đơn vị chuyên môn và đưa\nvào hệ thống tài nguyên môn học của Thư viện theo Thu tuc xây dựng, thẩm định, sử\ndụng video bài giảng, video tham khảo đã ban hành;\n- Thống kê số liệu sử dụng tài liệu môn học hoặc thống kê khi có yêu cầu của\ngiảng viên và khoa chuyên môn;\n- Thông tin kịp thời cho người dạy và người học các dịch vụ hễ trợ học tập trên\nnền tảng số tại Thư viện.\n6. Phòng Tài chính\n- Tham mưu cho Hiệu trưởng về các chính sách về học phí và các khoản chi phí\ngiảng dạy, chi phí tổ chức thi cho phù hợp với Quy chế chỉ tiêu nội bộ của Trường;",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 13,
+      "text": "12\n- Phối hợp với các đơn vị thực hiện thanh toán các khoản phí liên quan đến day -\nhọc trực tuyến.\n7. Phòng Công tác học sinh sinh viên\n- Xây dựng kế hoạch tổ chức các hoạt động công tác sinh viên trực tuyến cấp\ntrường;\n- Ghi nhận hoạt động ngoại khóa trực tuyến theo Quy chế công tác sinh viên.\n8. Phòng Thanh tra, pháp chế và an ninh\n- Giám sát, ghi nhận hoạt động dạy — học trực tuyến toàn Trường;\n- Kiểm tra các phản hồi của Khoa, khiếu nại của người học để báo cáo Ban giám\nhiệu kịp thời.\nChương ` Vv\nXU LY VI PHAM VA DIEU KHOẢN THI HANH\nĐiều 15. Xứ ly vi phạm\n1. Những hành vi bị nghiêm cấm khi tham gia hoạt động giáo dục trực tuyến:\na. Chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây phương hại an\nninh quốc gia, trật tự an toàn xã hội; phá hoại khối đại đoàn kết dân tộc; tuyên truyền\nchiến tranh, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo.\nb. Tuyên truyền, kích động bạo lực, dim 6, đồi trụy, tội ác, tệ nạn xã hội, mê tín\ndị đoan, phá hoại thuần phong, mỹ tục của dân tộc.\nc. Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những\nbí mật khác do pháp luật quy định.\nd. Dua thông tin xuyên tac, vu khống, xúc phạm uy tin của tổ chức, danh dự và\nnhân phẩm của cá nhân; và/hoặc sử dụng từ ngữ không phù hợp môi trường giáo dục.\ne. Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ; truyền bá tác phẩm báo\nchí, văn học, nghệ thuật, xuất bản phẩm bị cấm.\n£ Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật\nxâm hại đến quyền và lợi ích hợp pháp của tô chức, cá nhân.\n2. Các hành vi tạo, cài đặt, phát tán phần mềm độc hại, xâm nhập trái phép,..;..\n3. Các hành vi lưu trữ, sao chép, phát tán học liệu điện tử có trong hệ thống của\nNhà trường ra bên ngoài.\n4. Các hành vi vi phạm pháp luật khác.\nCác vi phạm, tùy theo mức độ, sẽ bị xử lý từ nhắc nhở, đến đình chỉ giảng dạy,\ntước quyền truy cập hệ thống và xử lý kỷ luật theo quy định của Nhà trường: và/hoặc\nđề nghị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 14,
+      "text": "13\nĐiều 16. Hướng dẫn thi hành\n1. Quy định này được phổ biến đến toàn thể đơn vị thuộc, trực thuộc Trường,\ngiảng viên, người học biết để thực hiện.\n2. Phòng Thanh tra, pháp chế và an ninh, Phòng Khảo thí và kiểm định chất\nlượng kiểm tra lãnh đạo các đơn vị, giảng viên và người học thực hiện đúng quy định\nnày.\n3. Những vướng mắc trong quá trình thực hiện quy định này phải được phản ánh\nkịp thời về Phòng Đại học, Phòng Sau đại học để tổng hợp, trình Hiệu trưởng xem xét,\nđiều chỉnh kịp thời.\nĐiều 17. Hiệu lực thi hành\n1. Quy định này gồm có 5 Chương, 17 Điều; có hiệu lực thi hành kể từ ngày ký\nvà thay thế Quy định tạm thời về hoạt động giáo dục trên nền tảng công nghệ số ban\nhành kèm theo Quyết định số 832/2020/TĐT-QĐ ngày 22/5/2020 của Trường Đại học\nTôn Đức Thắng.\n4\n2. Các don vị thuộc, trực thuộc Trường và các cá nhân liên quan chịu trách\nnhiệm thực hiện các nội dung theo Quy định này. gic",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "document": {
+    "document_id": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học",
+    "title": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học",
+    "source_file": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "e381a555c613c349a9070cf217c2322f67a13e18367dd6c8814df3c8af03d709"
+  },
+  "statistics": {
+    "page_count": 9,
+    "chapter_count": 1,
+    "article_count": 11
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": null,
+      "title": null,
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Ban hành kèm theo Quyết định này Quy định công nhận kết quả học tập và chuyển đổi tin chi trong giáo dục đại học của Trường Đại học Tôn Đức Thang. mm muennm.",
+          "page_start": 1,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Quyết định này có hiệu lực kể từ ngày ký và áp dụng cho sinh viên trình độ đại học, học viên trình độ thạc sĩ và nghiên cứu sinh trình độ tiến sĩ của các hình thức đào tạo tại Trường.",
+          "page_start": 2,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Các Ông (Bà) Trưởng đơn vị: Phòng Đại học, Phòng Sau đại học, Phòng Khảo thí và Kiểm định chất lượng, Phong Công tác học sinh — sinh viên, Phòng Tài chính, Phòng Thanh tra, pháp chế và an ninh, các Khoa, Phân hiệu Trường Đại học Tôn Đức Thắng tại tỉnh Khánh Hòa, các đơn vị trực thuộc Trường và sinh viên, học viên, nghiên cứu sinh có trách nhiệm thi hành quyết định này./. ;(.; Nơi nhận: - Nhu Điều 3; - Lưu: TCHC. TONG LIEN DOAN LAO ĐỘNG VIET NAM CONG HOA XA HOI CHU NGHIA VIET NAM TRUONG DAI HOC TON BUC THANG Độc lập — Tự do - Hanh phúc QUY ĐỊNH 8\\việc Công nhận kết quả học tập và chuyển đổi tín chỉ ong giáo dục đại học của Trường Dai học Tôn Đức Thang km theo Quyết định số 4†Ê5 /QĐ-TĐT ngày 07 tháng 6 năm 2024 J cua Hiệu trưởng Trường Đại học Tôn Đức Thăng) TRƯỜNG. ĐẠI HỌC TÊN",
+          "page_start": 2,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Pham vi điều chỉnh va đối tượng áp dụng",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Văn bản này quy định về việc xét công nhận kết quả học tập và chuyển đổi tin chỉ mà người hoc đã tích lũy từ một ngành dao tạo, một chương trình đào tạo (CTDT) khác, một khóa học hoặc từ một cơ sở đào tạo khác để xem xét công nhận, chuyền đổi sang tín chỉ của những học phần trong CTĐT của Trường Đại học Tôn Đức Thắng (gọi tắt là Trường).",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy định này áp dụng cho sinh viên trình độ đại học, học viên trình độ thạc sĩ và nghiên cứu sinh trình độ tiễn sĩ của các hình thức đào tạo tại Trường.",
+              "page_start": 3,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Giải thích thuật ngữ",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Công nhận kết quả học tập và chuyển đổi tín chỉ là việc xem xét kết quả học tập. khối lượng kiến thức mà người học đã tích lũy trong các CTĐT, khóa học đã thực hiện tại Trường hoặc từ một cơ sở đào tạo hợp pháp khác có giá trị tương ứng với số môn học, học phần trong CTĐT đang học tại Trường để công nhận kết quả học tập, miễn giảm môn học, học phần đã được công nhận.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Tín chỉ là đơn vị được sử dụng để tính khối lượng học tập của người học. Một tín chỉ được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, gid học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá; Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện tối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận trong đó một giờ trên lớp được tính bằng 50 phút. Căn cứ vào khối lượng học tập mà người học đã học trong các CTDT, khóa học trước đây để Trường xem xét việc công nhận kết quả và chuyển đổi tín chỉ cho phù hợp với CTĐT đang học.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Miễn môn học hoặc học phần (gọi tắt là học phần) là hình thức Trường miễn học và thi học phần tương ứng.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Giảm học phần là giảm một hoặc một số thành phần của học phần nhưng người học phải đóng học phí toàn bộ học phần. 5, Công nhận kết quả học tập và chuyển điểm học phan là hình thức công nhận kết quả học tập, chuyển điểm học phần đã tích lũy trước đây vào học phan của CTDT dang hoc. LIEN 3",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Học phần tương đương: một hay nhiều học phần được gọi là tương đương với học phần A của CTĐT khi có chuẩn đầu ra, nội dung và thời lượng học phần tương đương như học phan A.",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Hội đồng chuyên môn đối với CTĐT đại học, thạc sĩ là Hội đồng được Hiệu trưởng giao quyền cho Trưởng các đơn vị: Phòng Đại học, Phòng Sau đại học, Phòng Khảo thí và Kiểm định chất lượng, Khoa/Viện/Trung tâm, Phân hiệu,...; Hội đồng chuyên môn đối với CTĐT tiến sĩ là Hội đồng do Trưởng khoa/viện quản lý chuyên môn đề xuất, gồm ít nhất 03 người có trình độ tiến sĩ trở lên. Hội đồng chuyên môn có nhiệm vụ đối sánh chuẩn đầu ra, nội dung và khối lượng học tap, cách thức đánh gia học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình để công nhận kết quả học tập, chuyển đổi tín chỉ. Trên cơ sở đánh giá của Hội đồng chuyên môn, Trường ra thông báo công nhận, chuyển đổi tín chỉ theo các cấp độ:",
+              "page_start": 4,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Công nhận, chuyền đổi theo từng học phan;",
+                  "page_start": 4
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Công nhận, chuyên đổi theo từng nhóm học phần;",
+                  "page_start": 4
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Công nhận, chuyển đổi theo cả CTDT.",
+                  "page_start": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Khối lượng học tập được công nhận và không công nhận",
+          "page_start": 4,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Khối lượng học tập được xét công nhận và chuyển đổi tín chỉ",
+              "page_start": 4,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Khối lượng học tập được xét công nhận và chuyển đổi tín chỉ của CTĐT đại học không vượt quá 50% khối lượng học tập của CTĐT đang học (trừ trường hợp quy định tại khoản 3 Điều 5);",
+                  "page_start": 4
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "CTĐT thạc sĩ được công nhận và chuyển đổi không vượt quá 30 tín chỉ đối với người học đã học một CTĐT thạc sĩ khác hoặc đã tốt nghiệp một CTĐT chuyên sâu đặc thù; được công nhận không vượt quá 15 tín chỉ đối với người học được đăng ký học trước một số học phần của CTĐT thạc sĩ;",
+                  "page_start": 4
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "CTĐT tiến sĩ không vượt quá 50% khối lượng hoc tập của CTDT đang học.",
+                  "page_start": 4
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Học phần không được công nhận kết quả học tập, chuyển đổi tín chỉ để miễn học phan: các học phan tốt nghiệp/khóa luận tốt nghiệp/luận văn/luận án, tập sự nghề nghiệp và một số các học phần ngành/chuyên ngành khác do Hội đồng Khoa học và đào tạo của Khoa/Viện chuyên môn xác định nhằm đảm bảo yêu cầu triển khai CTDT đạt chuẩn đầu ra. Các trường hợp ngoại lệ khác do Hiệu trưởng xem xét phê duyệt theo đề xuất của Hội đồng chuyên môn.",
+              "page_start": 4,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Điều kiện xem xét công nhận kết quả hoc tập và chuyển đổi tin chi",
+          "page_start": 4,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Học phần hoặc khóa học đã học chỉ được xét công nhận kết quả, giảm trừ khối lượng học tập hoặc chuyên điểm khi có kết quả xác minh kết quả học tập (bảng điểm, chứng chỉ,...) hợp lệ.",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Học phần tích lũy trong CTĐT đã học trước đây được công nhận kết quả học tập, chuyển đổi tín chỉ phải thỏa các điều kiện sau:",
+              "page_start": 5,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Kết quả học phan đạt theo quy định của từng CTDT;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Học phần có chuẩn đầu ra, nội dung, số tín chỉ và điều kiện bảo đảm chất lượng thực hiện học phần tương đương. Số tín chỉ chuyển đổi phải bằng hoặc lớn hơn số tín chỉ trong CTĐT đang học. Trường hợp số tín chỉ nhỏ hơn số tín chỉ trong CTĐT hiện hành, Trường xem xét ghép thêm học phần khác để quyết định công nhận kết quả học tập và chuyển đối tín chỉ theo từng học phần hoặc theo từng nhóm học phan;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Nếu bảng điểm dùng dé công nhận kết quả học tập va chuyển đổi tín chỉ chỉ ghi kết quả học tập, không ghi số tín chỉ hoặc số tiết, người học phải có giấy chứng nhận của cơ sở đào tạo trước đây về số tín chỉ hoặc số tiết của từng học phần Và CÓ Xác nhận về nội dung, chuẩn đầu ra học phần đã học trước đây (nếu can);",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Trường xem xét công nhận và chuyên đổi tín chi đối với học phần đã học do cơ sở giáo dục khác trong nước đào tạo mà cơ sở giáo dục đó đã được kiểm định chất lượng theo quy định của Bộ Giáo dục và Đào tạo;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "đ",
+                  "text": "Học phần đã học trong CTĐT do cơ sở giáo dục nước ngoài đào tạo phải có văn bản công nhận văn bằng của cơ quan có thâm quyền hoặc cơ sở giáo dục nước ngoài đã được kiểm định bởi các tổ chức kiểm định quốc tế có uy tín (trừ trường hợp quy định tại điểm g, h khoản 2 Điều này);",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Người học được sử dụng kết quả học tập các học phần giảng dạy bằng tiếng Anh để xét chuyển điểm và công nhận tín chi sang các học phần giảng dạy bang tiếng Việt. Các học phần giảng dạy bằng tiếng Việt chỉ được xem xét chuyển điểm và công nhận tín chỉ sang học phan giảng dạy bằng tiếng Anh khi được Hội đồng chuyên môn đánh giá đạt yêu cầu về mặt chuyên môn và năng lực ngoại ngữ của người học đối với học phần xét chuyển điểm. ø) Người học theo học các chương trình trao đối và hợp tác trong đào tạo với các cơ sở giáo dục trong và ngoài nước được xét công nhận kết quả học tập, chuyển đổi tin chỉ theo quy định của Chương trình trao đổi học tập được Hiệu trưởng phê duyệt;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "h",
+                  "text": "Người học theo học các chương trình liên kết đào tạo với nước ngoài, các học phần học tập tại Trường liên kết được xét công nhận kết quả học tập, chuyển đổi tín chỉ theo Hợp đồng và Đề án triển khai chương trình liên kết đào tạo với nước ngoài của Trường.",
+                  "page_start": 5
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Việc công nhận kết quả môn tiếng Anh, Cơ sở tin học, Chuẩn đầu ra tiếng Anh, Chuẩn đầu ra Cơ sở tin học được thực hiện theo các Quy định đào tạo tiếng Anh, Cơ sở tin học theo quy định áp dụng cho từng khóa tuyến sinh. 4",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Người học đã hoàn thành nghĩa vụ quân sự hoặc người học khuyết tật... được xét miễn học Giáo dục Quốc phòng và An ninh (phần thực hành) theo quy định về giảng dạy môn Giáo dục Quốc phòng và An ninh hiện hành.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Thời điểm học phần tích lũy tính tới thời điểm xét công nhận, chuyển đổi được thực hiện theo quy định hiện hành trong quy chế tuyển sinh, đào tạo hiện hành của Bộ Giáo dục và Đào tạo và của Trường.",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Công nhận kết quả học tập và chuyển điểm học phần đã học tại Trường Đại học Tôn Đức Thắng",
+          "page_start": 6,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đối tượng được chuyên điểm học phan là người học đang học tại Trường Dai học Tôn Đức Thăng và có kết quả học tập, bảng điểm của Trường (người học chuyển ngành/chương trình học, tuyển sinh lại, chương trình 4+1,...) hoặc theo học chương trình trao đổi hợp tác trong và ngoài nước, chương trình liên kết đào tạo với nước ngoài của Trường thỏa điều kiện tại Điều 4.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối tượng đã tốt nghiệp trình độ khác, ngành khác tại Trường Đại học Tôn Đức Thăng học tiếp một ngành trình độ đại học được xét công nhận kết quả học tập theo quy định tại khoản 1 Điều 6.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hoc phần được chuyển điểm là học phan người học đã tích lũy trước đây tai Trường Đại học Tôn Đức Thắng có cùng mã môn với học phan dang học trong CTĐT hoặc được xét chuyển điểm học phần theo danh mục học phần tương đương/thay thế đã được ban hành. Trường hop học phần đề nghị công nhận kết qua học tập và chuyển điểm không thuộc danh mục tương đương/thay thế đã ban hành, Hội đồng chuyên môn xem xét việc công nhận kết quả học tập, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chat lượng thực hiện chương trình để công nhận, chuyển đổi theo từng học phan hoặc công nhận, chuyển đổi theo từng nhóm học phan.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Đối với người học trình độ đại học chuyển ngành, chuyển CTĐT tại Trường Đại học Tôn Đức Thắng được xét công nhận và chuyển điểm các học phan đã tích lũy của ngành/chương trình học trước khi chuyển theo quy định tại khoản 1 và khoản 2 Điều này và không bị giới hạn số tín chỉ được công nhận theo quy định tại khoản 1",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "",
+          "page_start": 6,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Việc công nhận kết quả học tập và chuyển đổi tín chỉ đã tích lũy đối với người học thạc sĩ, tiến sĩ thuộc trường hợp chuyên chương trình dao tạo phải bao đảm quy định tại Điều 3, Điều 4 Quy định này.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Điểm chuyển được tính theo thang điểm 10. Trường hợp bảng điểm dùng để xét ghi điểm 10 thi sử dụng giá trị điểm này là điểm công nhận, nếu bảng điểm ghi điểm theo thang điểm khác thì điểm được công nhận chuyên đổi thực hiện theo đề xuất công nhận điểm của Hội đồng chuyên môn được Hiệu trưởng phê duyệt.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Các học phần chuyển điểm được tính vào điểm trung bình tích lũy trong CTDT.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Quy trình thực hiện:",
+              "page_start": 7,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Quy trình thực hiện đối với trình độ đại học Người học nộp đơn đề nghị chuyển điểm, công nhận kết quả điểm học phần kèm theo bảng điểm (bản chính hoặc bản sao công chứng) theo thông báo của Phòng Đại học (trước ít nhất 2 tuần bắt đầu học kỳ chính), đơn được chia ra 2 trường hợp: - Học phần chuyển điểm có cùng mã môn trong CTĐT hoặc có trong danh mục môn tương đương/thay thế đã ban hành, người học làm đơn đề nghị chuyển điểm. Phòng Đại học căn cứ vào bảng điểm và CTĐT, danh mục môn tương đương để ra thông báo chuyển điểm cho người học. Phòng Khảo thí và Kiểm định chất lượng cập nhật điểm vào hệ thống quan lý đào tao; - Học phần đề nghị công nhận kết quả điểm, chuyển đối tín chỉ không thuộc trường hợp trên, Hội đồng chuyên môn xét công nhận kết quả và chuyển điểm theo quy định tại Điều 3, Điều 4 và trình Hiệu trưởng xem xét phê duyệt kết quả xét công nhận điểm, chuyển điểm cho người học. Phòng Đại học căn cứ kết quả xét được Hiệu trưởng phê duyệt để ra thông báo chuyển điểm hoặc cập nhật tương đương. Phòng Khảo thí và Kiểm định chất lượng cập nhật điểm vào hệ thống quản lý đào tạo.",
+                  "page_start": 7
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Quy trình thực hiện đối với trình độ thạc sĩ và tiến sĩ - Người học có nguyện vọng công nhận và chuyên đổi tín chỉ thực hiện nộp hồ sơ đề nghị công nhận và chuyển đổi tín chỉ ngay sau khi nhập học theo thông báo của Phong Sau đại học; - Hội đồng chuyên môn xem xét công nhận kết quả học tập và chuyển đổi tín chi theo quy định này và các quy định khác liên quan. Căn cứ kết quả xét của Hội đồng chuyên môn, Phòng Sau đại học trình Hiệu trưởng ra Quyết định công nhận kết quả học tập và chuyển đổi tín chỉ.",
+                  "page_start": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Xét công nhận kết quả học tập, chuyển đổi tin chỉ và miễn trừ học phần đã tích lũy tại cơ sở giáo dục khác.",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đối với người học đại học tại Trường thuộc đối tượng đã tốt nghiệp trình độ khác hoặc ngành khác.",
+              "page_start": 7,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Người học được xét công nhận kết quả học tập, chuyển đổi tín chỉ để xét miễn trừ học phần trong CTĐT căn cứ vào kết quả học tập và tích lũy từ trung cấp, cao đăng, đại học ở một cơ sở giáo dục đào tạo khác. Hội đồng chuyên môn thực hiện việc đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình để xét công nhận và miễn trừ học phần theo quy định tại Điều 3, Điều 4. Hiệu trưởng quyết định công nhận kết quả học tập, miễn trừ môn học cho người học. 6",
+                  "page_start": 7
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Không được công nhận kết quả và miễn trừ khối lượng học tập các học phần thuộc khối kiến thức ngành, chuyên ngành mà Hội đồng Khoa học đào tạo Khoa/Viện chuyên môn xác định tại khoản 2 Điều 3; chỉ được công nhận kết quả và chuyển đổi tín chỉ các học phần thuộc các khối kiến thức theo thứ tự ưu tiên: Kiến thức giáo dục đại cương, kiến thức co sở ngành, các học phần tự chọn, kiến thức ngành;",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Các học phần được xét công nhận kết quả và miễn trừ được nhập điểm “M” vào hệ thống quản lý đào tạo. Điểm M sẽ được ghi điểm trong phần điểm bảo lưu (nằm ngoài bảng điểm các học kỳ tại Trường, và không tính vào điểm trung bình tích lũy). Khối lượng học tập thực tẾ của người học được xác định trên cơ sở công nhận, hoặc chuyển đổi tín chi đã tích lũy và miễn trừ học phan trong CTĐT;",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Việc xét công nhận kết quả và miễn trừ học phần được thực hiện theo các quy định hiện hành khác của Bộ Giáo dục và Đào tạo (nếu có liên quan);",
+                  "page_start": 8
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối với người học đại học tại Trường không thuộc đối tượng quy định tại khoản 1 Điều này. Trường xét công nhận kết quả học tập, chuyển đổi tín chỉ, chuyển điểm đối với các môn Giáo dục Quốc phòng va An ninh, Giáo dục thé chất, các môn thuộc khối kiến thức giáo dục đại cương. Một số trường hợp đặc biệt, Hội đồng chuyên môn đề xuất để Hiệu trưởng phê duyệt xét công nhận kết quả học tập, chuyển điểm đối với môn thuộc kiến thức cơ sở ngành/chuyên ngành;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Đôi với người học thạc sĩ, tiên sĩ đã tích lũy học phân ở cơ sở giáo dục khác",
+              "page_start": 8,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Người học được xem xét công nhận kết quả học tập, chuyển đổi tín chỉ các học phần trong CTDT căn cứ vào kết quả học tập và tích lũy từ thạc sĩ, tiến sĩ ở một cơ sở giáo dục đào tạo khác. Việc công nhận kết quả học tập và chuyển đổi tín chỉ đã tích lũy đối với học viên thuộc các trường hợp chuyển cơ sở đào tạo, chuyển chương trình dao tạo phải bảo đảm quy định tại Điều 3, Điều 4 Quy định này.",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Hội đồng chuyên môn thực hiện việc đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình để xem xét công nhận kết quả học tập, chuyển đổi tín chỉ các học phần theo quy định tại Điều 3, Điều 4 Quy định này; trình Hiệu trưởng ra Quyết định công nhận kết quả học tập và chuyền đổi tín chỉ cho người học.",
+                  "page_start": 8
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quy trình xét công nhận và chuyên đổi tín chỉ đối với trình độ đại học/sau đại học được thực hiện theo các bước sau: Bước 1: Người học có nguyện vọng công nhận và chuyên đổi tín chỉ nộp đầy đủ hồ sơ đề nghị công nhận và chuyển đổi tín chỉ ngay khi nhập học theo thông báo của Phòng Đại học/Sau đại học; Bước 2: Sau khi tiếp nhận hồ sơ, Phòng Đại học/Phòng Sau đại học sẽ tiến hành rà soát, tong hợp hồ sơ thực hiện xác minh bảng điểm/chứng chỉ. 10001600/0134))14/00040)200/6)Ả46 4/0/41 0A V. i + Trường hợp kết quả xác minh bang điểm/chứng chi hợp lệ, Phòng Dai học/Phòng Sau đại học thực hiện tiếp bước 3; + Trường hợp kết quả xác minh bảng điểm/chứng chỉ không hợp lệ, Phòng Đại học/Phòng Sau đại học chuyển về Khoa quản lý sinh viên và Phòng Công tác học sinh, sinh viên để xử lý theo quy định Bước 3: Sau khi có kết quả hậu kiểm, Phòng Đại học/Phòng Sau đại học tổng hợp đơn và trình Hội đồng chuyên môn, Hội đồng chuyên môn xét công nhận kết quả học tập, chuyền đổi tín chỉ và miễn trừ môn học cho người học và trình hiệu trưởng ký Quyết định công nhận kết quả học tập và chuyển đổi tín chỉ cho người học theo quy định tại khoản 1, khoản 2, khoản 3 Điều này. Bước 4: Phòng Đại học/Sau đại học thông báo và công khai kết quả chính thức đến người học. Bước 5: Phòng Khảo thí và Kiểm định chất lượng cập nhật điểm vào hệ thống quản lý đào tạo.",
+              "page_start": 8,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "7",
+          "title": "Điều khoản thi hành",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy định này gồm 7 Điều, có hiệu lực ké từ ngày ký.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phòng Đại học, Phòng Sau đại học, Phân hiệu Trường Đại học Tôn Đức Thắng tại tính Khánh Hòa, Phòng Khảo thí và Kiểm định chất lượng, Phòng Thanh tra, Pháp chế và An ninh, và các Khoa/Viện/Trung tâm có trách nhiệm phổ biến nội dung quy định này đến toàn thể người học và phối hợp tổ chức thực hiện.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trong quá trình thực hiện, nếu cần sửa đổi, bé sung cho phù hợp với tình hình thực tế, Phòng Đại học, Phòng Sau Đại học tổng hợp góp ý từ các đơn vị và trình Hiệu trưởng xem xét quyết định ./. 4u",
+              "page_start": 9,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ị\nTONG LIEN DOAN LAO DONG VIỆT NAM CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hạnh phúc\nSố: J†/Ø /QĐ-TĐT TP. Hồ Chi Minh, ngày 0ƒtháng 6 năm 2024\nQUYÉT ĐỊNH\nVề việc ban hành Quy định công nhận kết quả học tập và chuyển đồi tín chỉ\ntrong giáo duc dai học của Trường Dai học Tôn Đức Thang\nHIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC TON ĐỨC THANG\nCăn cứ Quyết định số 747/QĐ-TTg ngày 11/6/2008 của Thủ tướng Chính phủ về việc\nđổi tên Trường Đại học bán công Tôn Đức Thắng thành Trường Đại học Tôn Đức Thắng;\nCăn cứ Quy chế tổ chức và hoạt động cua Trường Dai học Tôn Đúc Ti hang được ban\nhành kèm theo Nghị quyết số 02/NO-HPTDHTPT ngày 24/4/2021 của Hội đồng trường\nTrường Đại học Tôn Đúc Thắng;\nCăn cứ Quyết định số 5623/OD-TLP ngày 18/11/2022 của Đoàn Chủ tịch Tổng Liên\nđoàn Lao động Việt Nam về việc công nhận Hiệu trưởng Trường Đại học Tôn Đúc Thắng\nnhiệm kỳ 2021-2026;\nCăn cứ Thông tu số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo\ndục và Đào tạo ban hành quy chế đào tạo trình độ đại học;\nCăn cứ Thông tu số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo\nduc và Dao tạo ban hành quy chế tuyển sinh và đào tạo trình độ thạc sĩ;\nCăn cứ Thông tu số 18/2021/TT-BGDĐT ngày 16/8/2021 của Bộ trưởng Bộ Giáo\ndục và Đào tạo ban hành quy chế tuyển sinh và đào tạo trình độ tiễn sĩ,\nCăn cứ Quyết định số 1830/QĐ-TĐT ngày 08/9/2021 của Hiệu trưởng Trường Đại\nhọc Tôn Đức T hang ban hanh Quy chế tổ chức quản lý đào tạo trình độ đại học;\nCăn cứ Quyết định số 889/QĐÐ-TĐT ngày 28/02/2024 của Hiệu trưởng Trường Đại\nhọc Tôn Đức Ti hang ban hanh Quy chế tồ chức quản lý đào tạo trình độ đại học vừa làm\nvừa học;\nCăn cứ Quyết định số 2323/QĐ-TĐT ngày 11/11/2021 của Hiệu trưởng Trường Đại\nhọc Tôn Đức Thắng ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ, Quyết định số\n1097/OD-TDT ngày 29/4/2022 của Hiệu trưởng Trường Đại học Tôn Đức Thắng về việc\nđiều chỉnh, bổ sung Quy chế tuyển sinh và đào tạo trình độ thạc sĩ ban hành theo Quyết\nđịnh số 2323/QĐ-TĐT ngày 11/11/2021;\nCăn cứ Quyết định số 2324/OD-TDT ngày 11/11/2021 của Hiệu trưởng Trường Dai\nhọc Tôn Đức Thắng ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ,\nTheo đề nghị của Quyên Trưởng phòng Sau đại học và Phụ trách Phòng Đại học.\nQUYET ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy định công nhận kết quả học tập và\nchuyển đổi tin chi trong giáo dục đại học của Trường Đại học Tôn Đức Thang.\nmm muennm.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và áp dụng cho sinh viên trình độ\nđại học, học viên trình độ thạc sĩ và nghiên cứu sinh trình độ tiến sĩ của các hình thức đào\ntạo tại Trường.\nĐiều 3. Các Ông (Bà) Trưởng đơn vị: Phòng Đại học, Phòng Sau đại học, Phòng\nKhảo thí và Kiểm định chất lượng, Phong Công tác học sinh — sinh viên, Phòng Tài chính,\nPhòng Thanh tra, pháp chế và an ninh, các Khoa, Phân hiệu Trường Đại học Tôn Đức\nThắng tại tỉnh Khánh Hòa, các đơn vị trực thuộc Trường và sinh viên, học viên, nghiên cứu\nsinh có trách nhiệm thi hành quyết định này./. ;(.;\nNơi nhận:\n- Nhu Điều 3;\n- Lưu: TCHC.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 3,
+      "text": "TONG LIEN DOAN LAO ĐỘNG VIET NAM CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG DAI HOC TON BUC THANG Độc lập — Tự do - Hanh phúc\nQUY ĐỊNH\n8\\việc Công nhận kết quả học tập và chuyển đổi tín chỉ\nong giáo dục đại học của Trường Dai học Tôn Đức Thang\nkm theo Quyết định số 4†Ê5 /QĐ-TĐT ngày 07 tháng 6 năm 2024\nJ cua Hiệu trưởng Trường Đại học Tôn Đức Thăng)\nTRƯỜNG.\nĐẠI HỌC\nTÊN\nĐiều 1. Pham vi điều chỉnh va đối tượng áp dụng\n1. Văn bản này quy định về việc xét công nhận kết quả học tập và chuyển đổi tin\nchỉ mà người hoc đã tích lũy từ một ngành dao tạo, một chương trình đào tạo (CTDT)\nkhác, một khóa học hoặc từ một cơ sở đào tạo khác để xem xét công nhận, chuyền đổi\nsang tín chỉ của những học phần trong CTĐT của Trường Đại học Tôn Đức Thắng\n(gọi tắt là Trường).\n2. Quy định này áp dụng cho sinh viên trình độ đại học, học viên trình độ thạc sĩ\nvà nghiên cứu sinh trình độ tiễn sĩ của các hình thức đào tạo tại Trường.\nĐiều 2. Giải thích thuật ngữ\n1. Công nhận kết quả học tập và chuyển đổi tín chỉ là việc xem xét kết quả học\ntập. khối lượng kiến thức mà người học đã tích lũy trong các CTĐT, khóa học đã thực\nhiện tại Trường hoặc từ một cơ sở đào tạo hợp pháp khác có giá trị tương ứng với số\nmôn học, học phần trong CTĐT đang học tại Trường để công nhận kết quả học tập,\nmiễn giảm môn học, học phần đã được công nhận.\n2. Tín chỉ là đơn vị được sử dụng để tính khối lượng học tập của người học. Một\ntín chỉ được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả\nthời gian dự giờ giảng, gid học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự\nkiểm tra, đánh giá; Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện\ntối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận trong đó một giờ\ntrên lớp được tính bằng 50 phút. Căn cứ vào khối lượng học tập mà người học đã học\ntrong các CTDT, khóa học trước đây để Trường xem xét việc công nhận kết quả và\nchuyển đổi tín chỉ cho phù hợp với CTĐT đang học.\n3. Miễn môn học hoặc học phần (gọi tắt là học phần) là hình thức Trường miễn\nhọc và thi học phần tương ứng.\n4. Giảm học phần là giảm một hoặc một số thành phần của học phần nhưng\nngười học phải đóng học phí toàn bộ học phần.\n5, Công nhận kết quả học tập và chuyển điểm học phan là hình thức công nhận\nkết quả học tập, chuyển điểm học phần đã tích lũy trước đây vào học phan của CTDT\ndang hoc.\nLIEN",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 4,
+      "text": "3\n6. Học phần tương đương: một hay nhiều học phần được gọi là tương đương với\nhọc phần A của CTĐT khi có chuẩn đầu ra, nội dung và thời lượng học phần tương\nđương như học phan A.\n7. Hội đồng chuyên môn đối với CTĐT đại học, thạc sĩ là Hội đồng được Hiệu\ntrưởng giao quyền cho Trưởng các đơn vị: Phòng Đại học, Phòng Sau đại học, Phòng\nKhảo thí và Kiểm định chất lượng, Khoa/Viện/Trung tâm, Phân hiệu,...; Hội đồng\nchuyên môn đối với CTĐT tiến sĩ là Hội đồng do Trưởng khoa/viện quản lý chuyên\nmôn đề xuất, gồm ít nhất 03 người có trình độ tiến sĩ trở lên. Hội đồng chuyên môn có\nnhiệm vụ đối sánh chuẩn đầu ra, nội dung và khối lượng học tap, cách thức đánh gia\nhọc phần và các điều kiện bảo đảm chất lượng thực hiện chương trình để công nhận\nkết quả học tập, chuyển đổi tín chỉ. Trên cơ sở đánh giá của Hội đồng chuyên môn,\nTrường ra thông báo công nhận, chuyển đổi tín chỉ theo các cấp độ:\na) Công nhận, chuyền đổi theo từng học phan;\nb) Công nhận, chuyên đổi theo từng nhóm học phần;\nc) Công nhận, chuyển đổi theo cả CTDT.\nĐiều 3. Khối lượng học tập được công nhận và không công nhận\n1. Khối lượng học tập được xét công nhận và chuyển đổi tín chỉ\na) Khối lượng học tập được xét công nhận và chuyển đổi tín chỉ của CTĐT đại\nhọc không vượt quá 50% khối lượng học tập của CTĐT đang học (trừ trường hợp quy\nđịnh tại khoản 3 Điều 5);\nb) CTĐT thạc sĩ được công nhận và chuyển đổi không vượt quá 30 tín chỉ đối với\nngười học đã học một CTĐT thạc sĩ khác hoặc đã tốt nghiệp một CTĐT chuyên sâu\nđặc thù; được công nhận không vượt quá 15 tín chỉ đối với người học được đăng ký\nhọc trước một số học phần của CTĐT thạc sĩ;\nc) CTĐT tiến sĩ không vượt quá 50% khối lượng hoc tập của CTDT đang học.\n2. Học phần không được công nhận kết quả học tập, chuyển đổi tín chỉ để miễn\nhọc phan: các học phan tốt nghiệp/khóa luận tốt nghiệp/luận văn/luận án, tập sự nghề\nnghiệp và một số các học phần ngành/chuyên ngành khác do Hội đồng Khoa học và\nđào tạo của Khoa/Viện chuyên môn xác định nhằm đảm bảo yêu cầu triển khai CTDT\nđạt chuẩn đầu ra. Các trường hợp ngoại lệ khác do Hiệu trưởng xem xét phê duyệt theo\nđề xuất của Hội đồng chuyên môn.\nĐiều 4. Điều kiện xem xét công nhận kết quả hoc tập và chuyển đổi tin chi\n1. Học phần hoặc khóa học đã học chỉ được xét công nhận kết quả, giảm trừ khối\nlượng học tập hoặc chuyên điểm khi có kết quả xác minh kết quả học tập (bảng điểm,\nchứng chỉ,...) hợp lệ.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 5,
+      "text": "2. Học phần tích lũy trong CTĐT đã học trước đây được công nhận kết quả học\ntập, chuyển đổi tín chỉ phải thỏa các điều kiện sau:\na) Kết quả học phan đạt theo quy định của từng CTDT;\nb) Học phần có chuẩn đầu ra, nội dung, số tín chỉ và điều kiện bảo đảm chất\nlượng thực hiện học phần tương đương. Số tín chỉ chuyển đổi phải bằng hoặc lớn hơn\nsố tín chỉ trong CTĐT đang học. Trường hợp số tín chỉ nhỏ hơn số tín chỉ trong CTĐT\nhiện hành, Trường xem xét ghép thêm học phần khác để quyết định công nhận kết quả\nhọc tập và chuyển đối tín chỉ theo từng học phần hoặc theo từng nhóm học phan;\nc) Nếu bảng điểm dùng dé công nhận kết quả học tập va chuyển đổi tín chỉ chỉ\nghi kết quả học tập, không ghi số tín chỉ hoặc số tiết, người học phải có giấy chứng\nnhận của cơ sở đào tạo trước đây về số tín chỉ hoặc số tiết của từng học phần Và CÓ Xác\nnhận về nội dung, chuẩn đầu ra học phần đã học trước đây (nếu can);\nd) Trường xem xét công nhận và chuyên đổi tín chi đối với học phần đã học do\ncơ sở giáo dục khác trong nước đào tạo mà cơ sở giáo dục đó đã được kiểm định chất\nlượng theo quy định của Bộ Giáo dục và Đào tạo;\nđ) Học phần đã học trong CTĐT do cơ sở giáo dục nước ngoài đào tạo phải có\nvăn bản công nhận văn bằng của cơ quan có thâm quyền hoặc cơ sở giáo dục nước\nngoài đã được kiểm định bởi các tổ chức kiểm định quốc tế có uy tín (trừ trường hợp\nquy định tại điểm g, h khoản 2 Điều này);\ne) Người học được sử dụng kết quả học tập các học phần giảng dạy bằng tiếng\nAnh để xét chuyển điểm và công nhận tín chi sang các học phần giảng dạy bang tiếng\nViệt. Các học phần giảng dạy bằng tiếng Việt chỉ được xem xét chuyển điểm và công\nnhận tín chỉ sang học phan giảng dạy bằng tiếng Anh khi được Hội đồng chuyên môn\nđánh giá đạt yêu cầu về mặt chuyên môn và năng lực ngoại ngữ của người học đối với\nhọc phần xét chuyển điểm.\nø) Người học theo học các chương trình trao đối và hợp tác trong đào tạo với các\ncơ sở giáo dục trong và ngoài nước được xét công nhận kết quả học tập, chuyển đổi tin\nchỉ theo quy định của Chương trình trao đổi học tập được Hiệu trưởng phê duyệt;\nh) Người học theo học các chương trình liên kết đào tạo với nước ngoài, các học\nphần học tập tại Trường liên kết được xét công nhận kết quả học tập, chuyển đổi tín\nchỉ theo Hợp đồng và Đề án triển khai chương trình liên kết đào tạo với nước ngoài\ncủa Trường.\n3. Việc công nhận kết quả môn tiếng Anh, Cơ sở tin học, Chuẩn đầu ra tiếng\nAnh, Chuẩn đầu ra Cơ sở tin học được thực hiện theo các Quy định đào tạo tiếng Anh,\nCơ sở tin học theo quy định áp dụng cho từng khóa tuyến sinh.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 6,
+      "text": "4\n4. Người học đã hoàn thành nghĩa vụ quân sự hoặc người học khuyết tật... được\nxét miễn học Giáo dục Quốc phòng và An ninh (phần thực hành) theo quy định về\ngiảng dạy môn Giáo dục Quốc phòng và An ninh hiện hành.\n5. Thời điểm học phần tích lũy tính tới thời điểm xét công nhận, chuyển đổi được\nthực hiện theo quy định hiện hành trong quy chế tuyển sinh, đào tạo hiện hành của Bộ\nGiáo dục và Đào tạo và của Trường.\nĐiều 5. Công nhận kết quả học tập và chuyển điểm học phần đã học tại\nTrường Đại học Tôn Đức Thắng\n1. Đối tượng được chuyên điểm học phan là người học đang học tại Trường Dai\nhọc Tôn Đức Thăng và có kết quả học tập, bảng điểm của Trường (người học chuyển\nngành/chương trình học, tuyển sinh lại, chương trình 4+1,...) hoặc theo học chương\ntrình trao đổi hợp tác trong và ngoài nước, chương trình liên kết đào tạo với nước\nngoài của Trường thỏa điều kiện tại Điều 4.\n2. Đối tượng đã tốt nghiệp trình độ khác, ngành khác tại Trường Đại học Tôn\nĐức Thăng học tiếp một ngành trình độ đại học được xét công nhận kết quả học tập\ntheo quy định tại khoản 1 Điều 6.\n3. Hoc phần được chuyển điểm là học phan người học đã tích lũy trước đây tai\nTrường Đại học Tôn Đức Thắng có cùng mã môn với học phan dang học trong CTĐT\nhoặc được xét chuyển điểm học phần theo danh mục học phần tương đương/thay thế\nđã được ban hành. Trường hop học phần đề nghị công nhận kết qua học tập và chuyển\nđiểm không thuộc danh mục tương đương/thay thế đã ban hành, Hội đồng chuyên môn\nxem xét việc công nhận kết quả học tập, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn\nđầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện\nbảo đảm chat lượng thực hiện chương trình để công nhận, chuyển đổi theo từng học\nphan hoặc công nhận, chuyển đổi theo từng nhóm học phan.\n4. Đối với người học trình độ đại học chuyển ngành, chuyển CTĐT tại Trường\nĐại học Tôn Đức Thắng được xét công nhận và chuyển điểm các học phan đã tích lũy\ncủa ngành/chương trình học trước khi chuyển theo quy định tại khoản 1 và khoản 2\nĐiều này và không bị giới hạn số tín chỉ được công nhận theo quy định tại khoản 1\nĐiều 3.\n5. Việc công nhận kết quả học tập và chuyển đổi tín chỉ đã tích lũy đối với người\nhọc thạc sĩ, tiến sĩ thuộc trường hợp chuyên chương trình dao tạo phải bao đảm quy\nđịnh tại Điều 3, Điều 4 Quy định này.\n6. Điểm chuyển được tính theo thang điểm 10. Trường hợp bảng điểm dùng để\nxét ghi điểm 10 thi sử dụng giá trị điểm này là điểm công nhận, nếu bảng điểm ghi\nđiểm theo thang điểm khác thì điểm được công nhận chuyên đổi thực hiện theo đề xuất\ncông nhận điểm của Hội đồng chuyên môn được Hiệu trưởng phê duyệt.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 7,
+      "text": "7. Các học phần chuyển điểm được tính vào điểm trung bình tích lũy trong\nCTDT.\n8. Quy trình thực hiện:\na) Quy trình thực hiện đối với trình độ đại học\nNgười học nộp đơn đề nghị chuyển điểm, công nhận kết quả điểm học phần kèm\ntheo bảng điểm (bản chính hoặc bản sao công chứng) theo thông báo của Phòng Đại\nhọc (trước ít nhất 2 tuần bắt đầu học kỳ chính), đơn được chia ra 2 trường hợp:\n- Học phần chuyển điểm có cùng mã môn trong CTĐT hoặc có trong danh mục\nmôn tương đương/thay thế đã ban hành, người học làm đơn đề nghị chuyển điểm.\nPhòng Đại học căn cứ vào bảng điểm và CTĐT, danh mục môn tương đương để ra\nthông báo chuyển điểm cho người học. Phòng Khảo thí và Kiểm định chất lượng cập\nnhật điểm vào hệ thống quan lý đào tao;\n- Học phần đề nghị công nhận kết quả điểm, chuyển đối tín chỉ không thuộc\ntrường hợp trên, Hội đồng chuyên môn xét công nhận kết quả và chuyển điểm theo\nquy định tại Điều 3, Điều 4 và trình Hiệu trưởng xem xét phê duyệt kết quả xét công\nnhận điểm, chuyển điểm cho người học. Phòng Đại học căn cứ kết quả xét được Hiệu\ntrưởng phê duyệt để ra thông báo chuyển điểm hoặc cập nhật tương đương. Phòng\nKhảo thí và Kiểm định chất lượng cập nhật điểm vào hệ thống quản lý đào tạo.\nb) Quy trình thực hiện đối với trình độ thạc sĩ và tiến sĩ\n- Người học có nguyện vọng công nhận và chuyên đổi tín chỉ thực hiện nộp hồ sơ đề\nnghị công nhận và chuyển đổi tín chỉ ngay sau khi nhập học theo thông báo của Phong Sau\nđại học;\n- Hội đồng chuyên môn xem xét công nhận kết quả học tập và chuyển đổi tín chi\ntheo quy định này và các quy định khác liên quan. Căn cứ kết quả xét của Hội đồng\nchuyên môn, Phòng Sau đại học trình Hiệu trưởng ra Quyết định công nhận kết quả\nhọc tập và chuyển đổi tín chỉ.\nĐiều 6. Xét công nhận kết quả học tập, chuyển đổi tin chỉ và miễn trừ học\nphần đã tích lũy tại cơ sở giáo dục khác.\n1. Đối với người học đại học tại Trường thuộc đối tượng đã tốt nghiệp trình độ\nkhác hoặc ngành khác.\na) Người học được xét công nhận kết quả học tập, chuyển đổi tín chỉ để xét miễn\ntrừ học phần trong CTĐT căn cứ vào kết quả học tập và tích lũy từ trung cấp, cao\nđăng, đại học ở một cơ sở giáo dục đào tạo khác. Hội đồng chuyên môn thực hiện việc\nđối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và\ncác điều kiện bảo đảm chất lượng thực hiện chương trình để xét công nhận và miễn trừ\nhọc phần theo quy định tại Điều 3, Điều 4. Hiệu trưởng quyết định công nhận kết quả\nhọc tập, miễn trừ môn học cho người học.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 8,
+      "text": "6\nb) Không được công nhận kết quả và miễn trừ khối lượng học tập các học phần\nthuộc khối kiến thức ngành, chuyên ngành mà Hội đồng Khoa học đào tạo Khoa/Viện\nchuyên môn xác định tại khoản 2 Điều 3; chỉ được công nhận kết quả và chuyển đổi\ntín chỉ các học phần thuộc các khối kiến thức theo thứ tự ưu tiên: Kiến thức giáo dục\nđại cương, kiến thức co sở ngành, các học phần tự chọn, kiến thức ngành;\nc) Các học phần được xét công nhận kết quả và miễn trừ được nhập điểm “M”\nvào hệ thống quản lý đào tạo. Điểm M sẽ được ghi điểm trong phần điểm bảo lưu\n(nằm ngoài bảng điểm các học kỳ tại Trường, và không tính vào điểm trung bình tích\nlũy). Khối lượng học tập thực tẾ của người học được xác định trên cơ sở công nhận,\nhoặc chuyển đổi tín chi đã tích lũy và miễn trừ học phan trong CTĐT;\nd) Việc xét công nhận kết quả và miễn trừ học phần được thực hiện theo các quy\nđịnh hiện hành khác của Bộ Giáo dục và Đào tạo (nếu có liên quan);\n2. Đối với người học đại học tại Trường không thuộc đối tượng quy định tại\nkhoản 1 Điều này.\nTrường xét công nhận kết quả học tập, chuyển đổi tín chỉ, chuyển điểm đối với\ncác môn Giáo dục Quốc phòng va An ninh, Giáo dục thé chất, các môn thuộc khối\nkiến thức giáo dục đại cương. Một số trường hợp đặc biệt, Hội đồng chuyên môn đề\nxuất để Hiệu trưởng phê duyệt xét công nhận kết quả học tập, chuyển điểm đối với\nmôn thuộc kiến thức cơ sở ngành/chuyên ngành;\n3. Đôi với người học thạc sĩ, tiên sĩ đã tích lũy học phân ở cơ sở giáo dục khác\na) Người học được xem xét công nhận kết quả học tập, chuyển đổi tín chỉ các học\nphần trong CTDT căn cứ vào kết quả học tập và tích lũy từ thạc sĩ, tiến sĩ ở một cơ sở\ngiáo dục đào tạo khác. Việc công nhận kết quả học tập và chuyển đổi tín chỉ đã tích\nlũy đối với học viên thuộc các trường hợp chuyển cơ sở đào tạo, chuyển chương trình\ndao tạo phải bảo đảm quy định tại Điều 3, Điều 4 Quy định này.\nb) Hội đồng chuyên môn thực hiện việc đối sánh chuẩn đầu ra, nội dung và khối\nlượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực\nhiện chương trình để xem xét công nhận kết quả học tập, chuyển đổi tín chỉ các học\nphần theo quy định tại Điều 3, Điều 4 Quy định này; trình Hiệu trưởng ra Quyết định\ncông nhận kết quả học tập và chuyền đổi tín chỉ cho người học.\n4. Quy trình xét công nhận và chuyên đổi tín chỉ đối với trình độ đại học/sau đại\nhọc được thực hiện theo các bước sau:\nBước 1: Người học có nguyện vọng công nhận và chuyên đổi tín chỉ nộp đầy đủ\nhồ sơ đề nghị công nhận và chuyển đổi tín chỉ ngay khi nhập học theo thông báo của\nPhòng Đại học/Sau đại học;\nBước 2: Sau khi tiếp nhận hồ sơ, Phòng Đại học/Phòng Sau đại học sẽ tiến hành\nrà soát, tong hợp hồ sơ thực hiện xác minh bảng điểm/chứng chỉ.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 9,
+      "text": "10001600/0134))14/00040)200/6)Ả46 4/0/41 0A V.\ni\n+ Trường hợp kết quả xác minh bang điểm/chứng chi hợp lệ, Phòng Dai\nhọc/Phòng Sau đại học thực hiện tiếp bước 3;\n+ Trường hợp kết quả xác minh bảng điểm/chứng chỉ không hợp lệ, Phòng Đại\nhọc/Phòng Sau đại học chuyển về Khoa quản lý sinh viên và Phòng Công tác học sinh,\nsinh viên để xử lý theo quy định\nBước 3: Sau khi có kết quả hậu kiểm, Phòng Đại học/Phòng Sau đại học tổng\nhợp đơn và trình Hội đồng chuyên môn, Hội đồng chuyên môn xét công nhận kết quả\nhọc tập, chuyền đổi tín chỉ và miễn trừ môn học cho người học và trình hiệu trưởng ký\nQuyết định công nhận kết quả học tập và chuyển đổi tín chỉ cho người học theo quy\nđịnh tại khoản 1, khoản 2, khoản 3 Điều này.\nBước 4: Phòng Đại học/Sau đại học thông báo và công khai kết quả chính thức\nđến người học.\nBước 5: Phòng Khảo thí và Kiểm định chất lượng cập nhật điểm vào hệ thống\nquản lý đào tạo.\nĐiều 7. Điều khoản thi hành\n1. Quy định này gồm 7 Điều, có hiệu lực ké từ ngày ký.\n2. Phòng Đại học, Phòng Sau đại học, Phân hiệu Trường Đại học Tôn Đức Thắng\ntại tính Khánh Hòa, Phòng Khảo thí và Kiểm định chất lượng, Phòng Thanh tra, Pháp\nchế và An ninh, và các Khoa/Viện/Trung tâm có trách nhiệm phổ biến nội dung quy\nđịnh này đến toàn thể người học và phối hợp tổ chức thực hiện.\n3. Trong quá trình thực hiện, nếu cần sửa đổi, bé sung cho phù hợp với tình hình\nthực tế, Phòng Đại học, Phòng Sau Đại học tổng hợp góp ý từ các đơn vị và trình Hiệu\ntrưởng xem xét quyết định ./. 4u",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    }
+  ]
+}

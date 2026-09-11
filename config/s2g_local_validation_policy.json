@@ -1,0 +1,11 @@
+{
+  "schema_version": "s2g-local-validation-policy-v1",
+  "status": "ACTIVE",
+  "policy_version": "1.0.0",
+  "maximum_identical_reattempts": 1,
+  "silent_output_repair": "PROHIBITED",
+  "applies_to_stages": [
+    "s2g_judge",
+    "s2g_sentence_selector"
+  ]
+}

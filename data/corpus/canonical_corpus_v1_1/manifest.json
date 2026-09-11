@@ -1,0 +1,624 @@
+{
+  "alignment_diagnostics": {
+    "BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 42,
+      "structure_candidates": 0,
+      "typed_absorption_events": 5,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên": {
+      "aligned_candidates": 12,
+      "fallback_raw_units": 14,
+      "structure_candidates": 13,
+      "typed_absorption_events": 1,
+      "unaligned_candidate_pages": {
+        "2": 1
+      },
+      "unaligned_candidates": 1
+    },
+    "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 480,
+      "structure_candidates": 0,
+      "typed_absorption_events": 9,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 323,
+      "structure_candidates": 0,
+      "typed_absorption_events": 13,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 314,
+      "structure_candidates": 0,
+      "typed_absorption_events": 18,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 27,
+      "structure_candidates": 0,
+      "typed_absorption_events": 3,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 5,
+      "structure_candidates": 0,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 48,
+      "structure_candidates": 0,
+      "typed_absorption_events": 2,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước": {
+      "aligned_candidates": 26,
+      "fallback_raw_units": 21,
+      "structure_candidates": 26,
+      "typed_absorption_events": 1,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Nội quy phòng thi hình thức thi trực tuyến (chính thức)": {
+      "aligned_candidates": 42,
+      "fallback_raw_units": 16,
+      "structure_candidates": 43,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {
+        "3": 1
+      },
+      "unaligned_candidates": 1
+    },
+    "PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 40,
+      "structure_candidates": 0,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 85,
+      "structure_candidates": 0,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "QUY CHẾ CÔNG TÁC SINH VIÊN": {
+      "aligned_candidates": 217,
+      "fallback_raw_units": 83,
+      "structure_candidates": 219,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {
+        "6": 1,
+        "16": 1
+      },
+      "unaligned_candidates": 2
+    },
+    "QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ": {
+      "aligned_candidates": 104,
+      "fallback_raw_units": 52,
+      "structure_candidates": 105,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {
+        "4": 1
+      },
+      "unaligned_candidates": 1
+    },
+    "QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY": {
+      "aligned_candidates": 56,
+      "fallback_raw_units": 40,
+      "structure_candidates": 56,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau": {
+      "aligned_candidates": 187,
+      "fallback_raw_units": 93,
+      "structure_candidates": 188,
+      "typed_absorption_events": 2,
+      "unaligned_candidate_pages": {
+        "12": 1
+      },
+      "unaligned_candidates": 1
+    },
+    "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học": {
+      "aligned_candidates": 52,
+      "fallback_raw_units": 28,
+      "structure_candidates": 54,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {
+        "4": 1,
+        "7": 1
+      },
+      "unaligned_candidates": 2
+    },
+    "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023": {
+      "aligned_candidates": 11,
+      "fallback_raw_units": 10,
+      "structure_candidates": 11,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên": {
+      "aligned_candidates": 27,
+      "fallback_raw_units": 16,
+      "structure_candidates": 27,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục": {
+      "aligned_candidates": 59,
+      "fallback_raw_units": 42,
+      "structure_candidates": 59,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023": {
+      "aligned_candidates": 23,
+      "fallback_raw_units": 38,
+      "structure_candidates": 23,
+      "typed_absorption_events": 1,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau": {
+      "aligned_candidates": 4,
+      "fallback_raw_units": 6,
+      "structure_candidates": 4,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 763,
+      "structure_candidates": 0,
+      "typed_absorption_events": 20,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%…": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 2,
+      "structure_candidates": 0,
+      "typed_absorption_events": 0,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "Thông tin các Phòng-Ban-Trung tâm": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 31,
+      "structure_candidates": 0,
+      "typed_absorption_events": 3,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 7,
+      "structure_candidates": 0,
+      "typed_absorption_events": 1,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    },
+    "ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN": {
+      "aligned_candidates": 0,
+      "fallback_raw_units": 4,
+      "structure_candidates": 0,
+      "typed_absorption_events": 1,
+      "unaligned_candidate_pages": {},
+      "unaligned_candidates": 0
+    }
+  },
+  "artifacts": {
+    "chunks.jsonl": "fd2358332668de3dca8c099ff6a3dd0cf1d23b47c378f7c92835df4a08c34c02",
+    "coverage.json": "eac36dfe84ccff3713ddc6ffa6cf4789579afecc8a881c5f815a24ea761a8b7f",
+    "validation.json": "dbb82f0b5fa913ae45a216781427ccdccb2a97c31f41d3982c6944df71797f9e"
+  },
+  "chunk_count": 3482,
+  "chunk_size_characters": {
+    "max": 1649,
+    "median": 86,
+    "p95": 703
+  },
+  "chunk_size_words": {
+    "max": 350,
+    "median": 20,
+    "p95": 155
+  },
+  "chunks_by_extraction_category": {
+    "embedded_text_only": 1942,
+    "ocr_only": 1540
+  },
+  "chunks_by_retrieval_role": {
+    "content": 1091,
+    "context_only": 361,
+    "review": 2030
+  },
+  "chunks_by_structure_source": {
+    "fallback": 1112,
+    "heuristic_structure": 1536,
+    "processed_structure": 834
+  },
+  "chunks_by_unit_type": {
+    "article_body": 30,
+    "article_body_part": 6,
+    "article_heading": 131,
+    "artifact_block": 295,
+    "chapter_block": 23,
+    "clause": 532,
+    "clause_heading": 1,
+    "clause_part": 19,
+    "clause_preamble": 45,
+    "fallback_block": 667,
+    "fallback_block_part": 5,
+    "heading_block": 148,
+    "list_item": 52,
+    "list_item_part": 2,
+    "numbered_block": 140,
+    "numbered_block_part": 3,
+    "point": 202,
+    "point_heading": 1,
+    "section_block": 42,
+    "table_header": 143,
+    "table_header_part": 4,
+    "table_row": 974,
+    "table_row_part": 17
+  },
+  "config": "config/canonical_corpus_v1_1.json",
+  "config_sha256": "f4527d7f916cda7d75440c5b8b6e743471aae53a1a5b05aed0200936ef75f794",
+  "corpus_version": "canonical_corpus_v1_1",
+  "coverage": {
+    "accounted_ratio": 1.0,
+    "chunked_non_whitespace_characters": 483970,
+    "explicitly_excluded_non_whitespace_characters": 0,
+    "overlapping_non_whitespace_characters": 0,
+    "raw_non_whitespace_characters": 483970,
+    "unaccounted_non_whitespace_characters": 0
+  },
+  "deterministic_rerun": true,
+  "document_count": 27,
+  "document_status_policy": "propagate_without_inference",
+  "immutable_parent_artifact_hashes": {
+    "data/corpus/canonical_corpus_v1/canonical_corpus_v1_build_report.md": "5efb7f946e439968ab47f864b0dbae3e78144c623a47ed8d005dfba564d9448d",
+    "data/corpus/canonical_corpus_v1/chunks.jsonl": "102fa6d07d35d7deacf706fcf7298efd11ed17b7442f5130454647f21f4a589d",
+    "data/corpus/canonical_corpus_v1/corpus_v1_human_qa.xlsx": "fdb1130296e71e46ddec5e9cc848e5aad715554d8df0f3e10d65b37442a72453",
+    "data/corpus/canonical_corpus_v1/coverage.json": "4e11668b286d5ed4eac8d507820568ffb23e9c57e80dbd79f263e0d93a8433aa",
+    "data/corpus/canonical_corpus_v1/manifest.json": "8a7b074db65351be205aeb205ea945de5f3390818b1a53ceb5a14f5ddbf36d07",
+    "data/corpus/canonical_corpus_v1/qa_sample_v1.jsonl": "2b4803ac2a900c652c2ef03dacfe18cdaf4576aaf29370b200f42482c1380526",
+    "data/corpus/canonical_corpus_v1/regression_results_v1.json": "1fd9db2c4c37fc06f822fafab1431fa1a90e2931a29d399c06ba089843c1757e",
+    "data/corpus/canonical_corpus_v1/v0_v1_comparison.json": "58d4da6e3063fd790b2aba4907867d87b0786caa3049187f8a7346ea7c05df33",
+    "data/corpus/canonical_corpus_v1/validation.json": "52a7679d3974dfde8f2072f5cc2202acf3fd66493a34112a3363fd0c644549c3"
+  },
+  "immutable_v0_artifact_hashes": {
+    "data/corpus/canonical_corpus_v0/chunks.jsonl": "903ad514fe7c943510afbc66cd3074106ca18a72cb4b3b8b48ad733a64f96c24",
+    "data/corpus/canonical_corpus_v0/coverage.json": "07bce27a7f7bbcd65cafa2cafbb9bcf7e3774ba8e325ca39e5e3e2b0c9e6adfc",
+    "data/corpus/canonical_corpus_v0/manifest.json": "07957542cfeae04472ea6b0f808a6de054614c8602b4c5a4e0322d43f6a89716",
+    "data/corpus/canonical_corpus_v0/qa_readiness/lifecycle_review.json": "bac635f5ffffb590032ead5770f67a5e41167c4d5f4581d6e4eaa9895289f54d",
+    "data/corpus/canonical_corpus_v0/qa_readiness/manifest.json": "18669a7368c7a1c68f6252c39b2192a6f568811eddde5ee4f36564068a4c8817",
+    "data/corpus/canonical_corpus_v0/qa_readiness/qa_analysis.json": "293ebfff5d54e7f8af526feccede3818fd7486cd240452bdba0730204ddca22c",
+    "data/corpus/canonical_corpus_v0/qa_readiness/qa_sample.jsonl": "7ecb7bb09f6755ab7cef7e94dc43b9205a1cdd16881739b4893015272b77afb2",
+    "data/corpus/canonical_corpus_v0/qa_readiness/regression_spec_v1.json": "401cb36e10eb30a75d4a7241140396087ae068f4b6f5b4b971d72863f4cf8320",
+    "data/corpus/canonical_corpus_v0/qa_readiness/report.md": "cba1cd9007ec3952c6233492828679749ebc567d9a1bee2a8b075fb8447eb57b",
+    "data/corpus/canonical_corpus_v0/validation.json": "690008222a440368b1fd6900723380ee02bc32b04d5f45e4dc6934dd6f770498"
+  },
+  "input_integrity": {
+    "document_count": 27,
+    "errors": [],
+    "lifecycle_status_mutation_count": 0,
+    "processed_json_or_metadata_mismatch_count": 0,
+    "source_pdf_hash_mismatch_count": 0,
+    "status": "PASS"
+  },
+  "inputs": [
+    {
+      "document_id": "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên",
+      "pages": 3,
+      "processed_json": "data/processed/documents/Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên.json",
+      "processed_json_sha256": "cfdf95c4df30168a99768541d98facbfec77195578770f00e56ec1eaaed657e2",
+      "source_file": "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên.pdf",
+      "source_pdf_sha256": "9250d42f41fb585cbb778b5e2e4a7ee8a7868466e39eab1fdd99c6504024e936",
+      "status": null
+    },
+    {
+      "document_id": "BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC",
+      "pages": 6,
+      "processed_json": "data/processed/documents/BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC.json",
+      "processed_json_sha256": "c7d777369bf61350767a0cf4181bc710302ba3dfa06821cdbbd50f4d98e0e85b",
+      "source_file": "BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC.pdf",
+      "source_pdf_sha256": "50922c4b7f400e0d318ed8d36051378743cfab0b2fcdbf4a124c439cd1608326",
+      "status": null
+    },
+    {
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU",
+      "pages": 29,
+      "processed_json": "data/processed/documents/HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU.json",
+      "processed_json_sha256": "9729923a7b25a900d91a69beea01ff4d8f1b7ac187be0f8a006fc42a8ee8b831",
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU.pdf",
+      "source_pdf_sha256": "71751eb4fa8c0d013c44b52ad11b51fc8f131a6452ca6c183aee1afc830a420a",
+      "status": null
+    },
+    {
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU",
+      "pages": 39,
+      "processed_json": "data/processed/documents/HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU.json",
+      "processed_json_sha256": "76eb375f119519bd0817c0ed3f8ef14977877e8141e5e35a225cb99b7a12093f",
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU.pdf",
+      "source_pdf_sha256": "495026b3bab37b94abe2855222bf42faea0018cf80f034e772c8885626d7973b",
+      "status": null
+    },
+    {
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC",
+      "pages": 39,
+      "processed_json": "data/processed/documents/HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC.json",
+      "processed_json_sha256": "8d6d08e90ef8f41f0673d92307dec3ca96e7505360a9ac8cdeeacba7128cacf9",
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC.pdf",
+      "source_pdf_sha256": "72996278ee1072f7a3f225a87abe9577b8722f25f45059111f269d84d2cff9ba",
+      "status": null
+    },
+    {
+      "document_id": "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng",
+      "pages": 5,
+      "processed_json": "data/processed/documents/Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng.json",
+      "processed_json_sha256": "caf04463b367b9e9468e616ba77b5bc9bb13d993f3594d8ecb7ec595f2d6e7cd",
+      "source_file": "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng.pdf",
+      "source_pdf_sha256": "f20f0ef8eb61fda971d6c11cd45264d309655e1a906ffbcb7e237e41a916ce8d",
+      "status": null
+    },
+    {
+      "document_id": "NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC",
+      "pages": 1,
+      "processed_json": "data/processed/documents/NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC.json",
+      "processed_json_sha256": "2c050ef9171d6f944eeb33a4de535a71a12917ff1f144481c835941fcee6b05d",
+      "source_file": "NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC.pdf",
+      "source_pdf_sha256": "3f78c8ae30182570a4df550446a110541b9c1fba71053f368dcd34f6dff3e092",
+      "status": null
+    },
+    {
+      "document_id": "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC",
+      "pages": 6,
+      "processed_json": "data/processed/documents/NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC.json",
+      "processed_json_sha256": "ed06fd83b555a4835db189d251a3fd0fa4312f577daf44a417b11ceaa36f5476",
+      "source_file": "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC.pdf",
+      "source_pdf_sha256": "7917442dc147f9324b2e032f3f3ff8f19f6d7e20f9f6246e91fe2f921f0e6233",
+      "status": null
+    },
+    {
+      "document_id": "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước",
+      "pages": 5,
+      "processed_json": "data/processed/documents/Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước.json",
+      "processed_json_sha256": "dff247a64294714a0d6eafb278249f9d2b2b1ad1c4656d5cc9fbbe39f6379307",
+      "source_file": "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước.pdf",
+      "source_pdf_sha256": "ab8668fa5c97e7443ec37981b491aedafc06a4407a1d7a919ebdd1acb4636939",
+      "status": null
+    },
+    {
+      "document_id": "Nội quy phòng thi hình thức thi trực tuyến (chính thức)",
+      "pages": 5,
+      "processed_json": "data/processed/documents/Nội quy phòng thi hình thức thi trực tuyến (chính thức).json",
+      "processed_json_sha256": "ef4f31d8c51db8b5fac00e183fb1fd07dea5fa6c68f6bced30d6c023168c62eb",
+      "source_file": "Nội quy phòng thi hình thức thi trực tuyến (chính thức).pdf",
+      "source_pdf_sha256": "c502c54c946e862d999faa13c4dd307099c32e6a8ebd43b3b36be559ad3002fc",
+      "status": null
+    },
+    {
+      "document_id": "PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ",
+      "pages": 5,
+      "processed_json": "data/processed/documents/PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.json",
+      "processed_json_sha256": "9934583b5fa989168b5edfb63a272e87fb97a5fa299cd3a071bc4293c556e5b1",
+      "source_file": "PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.pdf",
+      "source_pdf_sha256": "b2e732177ccaf1d61e0a6615be2cb8add40ef2381f23b2e4a9d10db156b736a2",
+      "status": null
+    },
+    {
+      "document_id": "PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN",
+      "pages": 9,
+      "processed_json": "data/processed/documents/PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN.json",
+      "processed_json_sha256": "38a4ced666911cb6f76bdd845c882542547c5d9df22906e93575e20d47970732",
+      "source_file": "PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN.pdf",
+      "source_pdf_sha256": "dc0461342d55ea79c51275d6ade52a2e1908bd7d593619b31ddd2007ddfe153d",
+      "status": null
+    },
+    {
+      "document_id": "QUY CHẾ CÔNG TÁC SINH VIÊN",
+      "pages": 20,
+      "processed_json": "data/processed/documents/QUY CHẾ CÔNG TÁC SINH VIÊN.json",
+      "processed_json_sha256": "b2f9766d3a3970cd25151b9c7af9b2ae3b4e4a530f6727221ef2b7bf891cb31a",
+      "source_file": "QUY CHẾ CÔNG TÁC SINH VIÊN.pdf",
+      "source_pdf_sha256": "01c9529d424aed37ad1eb674c7b97ef93f65f05081f01c24863eca24a8ceec1f",
+      "status": null
+    },
+    {
+      "document_id": "QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ",
+      "pages": 8,
+      "processed_json": "data/processed/documents/QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.json",
+      "processed_json_sha256": "ebb323d1fcc05c117a523a4e53347d4dae294a725f661a642d07c92641458fb3",
+      "source_file": "QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.pdf",
+      "source_pdf_sha256": "6f99fd3a61d355e38a2bd3b43079cbd59ffe7574830df4e73fe9c157bd7fa85f",
+      "status": null
+    },
+    {
+      "document_id": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau",
+      "pages": 25,
+      "processed_json": "data/processed/documents/Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau.json",
+      "processed_json_sha256": "09bcc0f6c1ae43abb6f8e0521984ae75f0cf6788a43c7dc42f419574f023e610",
+      "source_file": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau.pdf",
+      "source_pdf_sha256": "457e13e9798d6a4af7162176fbc973bbc5eb054c35fd8eb1090f6017f97837f9",
+      "status": null
+    },
+    {
+      "document_id": "QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY",
+      "pages": 10,
+      "processed_json": "data/processed/documents/QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY.json",
+      "processed_json_sha256": "ad0155478ab3f474608a5cdb314bfa4c388916605fe4f2b793588c35e011a6a6",
+      "source_file": "QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY.pdf",
+      "source_pdf_sha256": "fb4a92da75d1e1cb29459e8a88ba48a08585a25933f148a452f090c68c772689",
+      "status": null
+    },
+    {
+      "document_id": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học",
+      "pages": 9,
+      "processed_json": "data/processed/documents/Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học.json",
+      "processed_json_sha256": "4140125b27db375d7da823ea256e59c233a588b67344ec207b09d5f3fe4bac18",
+      "source_file": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học.pdf",
+      "source_pdf_sha256": "e381a555c613c349a9070cf217c2322f67a13e18367dd6c8814df3c8af03d709",
+      "status": null
+    },
+    {
+      "document_id": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023",
+      "pages": 4,
+      "processed_json": "data/processed/documents/Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023.json",
+      "processed_json_sha256": "236b67b1df786b44507b6479e3854fbd35be3e019054ee3fc6248d1b7e1ae869",
+      "source_file": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023.pdf",
+      "source_pdf_sha256": "bf2483e2f33f403b06883248fc79b261b1cc4daa38dd506784aaa0b69e3735e4",
+      "status": null
+    },
+    {
+      "document_id": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên",
+      "pages": 2,
+      "processed_json": "data/processed/documents/Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên.json",
+      "processed_json_sha256": "06e239b94df8ebb12ba73c91fd4ce5f13a9d48ab69f0013f3fe3ec49a94e6dcf",
+      "source_file": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên.pdf",
+      "source_pdf_sha256": "c2ef511bad341dd524b893a1d0c2a01dae3ae6ff5724d923c06cc8decb453ab1",
+      "status": null
+    },
+    {
+      "document_id": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",
+      "pages": 7,
+      "processed_json": "data/processed/documents/Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023.json",
+      "processed_json_sha256": "0fd09dea68bcea48213704f21e09cf6462d0a5a3645ebdbac6288064fa4a4a0a",
+      "source_file": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023.pdf",
+      "source_pdf_sha256": "f0d5cdc987b95550af1dcb15b06ae1f772b2f0e524e3809bc83a0aad4342b965",
+      "status": null
+    },
+    {
+      "document_id": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục",
+      "pages": 14,
+      "processed_json": "data/processed/documents/Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục.json",
+      "processed_json_sha256": "279b3980ce1cdf58ae92cf84f0177a418db042c4c5f552416ea43f2defe32939",
+      "source_file": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục.pdf",
+      "source_pdf_sha256": "23ef9a769cdc15fad9c3c52ddd8ce6c9c0212233aab79cfc4f312ca48571900d",
+      "status": null
+    },
+    {
+      "document_id": "Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau",
+      "pages": 1,
+      "processed_json": "data/processed/documents/Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau.json",
+      "processed_json_sha256": "122853791b1f0378783e5045c39d33dd805510c93315df5f35174235a32788b9",
+      "source_file": "Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau.pdf",
+      "source_pdf_sha256": "870cef4a78d4ffd3eb2a97a2b04d74079af95190348aad09372a26ba2a42d681",
+      "status": null
+    },
+    {
+      "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+      "pages": 76,
+      "processed_json": "data/processed/documents/THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026.json",
+      "processed_json_sha256": "08689ca2b9ef7b7515c7dcd9eae9477382c1ec1fe7a3a71e23b01d29a364d177",
+      "source_file": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026.pdf",
+      "source_pdf_sha256": "1897f88d00523ae230f624742985490e8d58fc13c3a1f8ec6b5c96cc1437b169",
+      "status": null
+    },
+    {
+      "document_id": "THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%…",
+      "pages": 1,
+      "processed_json": "data/processed/documents/THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%….json",
+      "processed_json_sha256": "0e99742077c59633cbf38e0a395ba17c36c775d8b162287a3126ab336fc9af7d",
+      "source_file": "THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%….pdf",
+      "source_pdf_sha256": "b6aa106d9ca56170bb4e1af1a859d3b0cf305ce3b62df864ad4e56f188e097ef",
+      "status": null
+    },
+    {
+      "document_id": "Thông tin các Phòng-Ban-Trung tâm",
+      "pages": 6,
+      "processed_json": "data/processed/documents/Thông tin các Phòng-Ban-Trung tâm.json",
+      "processed_json_sha256": "41f438c668e2079ce8bca210e6d0adf324d24bd34302151e6aae372052ae3e2d",
+      "source_file": "Thông tin các Phòng-Ban-Trung tâm.pdf",
+      "source_pdf_sha256": "7d7c8e0cb9bd62a5e647b2aa2ff0a4632fba6c49b66d30d78ef57bf08fa60495",
+      "status": null
+    },
+    {
+      "document_id": "ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN",
+      "pages": 2,
+      "processed_json": "data/processed/documents/ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN.json",
+      "processed_json_sha256": "f9d595b398aa1ffb7bd2664296e628592007a9d062be338a0a2b784acc77fb54",
+      "source_file": "ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN.pdf",
+      "source_pdf_sha256": "614a7c8cd8ef5ace8a2cb9ad2db339fbb0b71e0d595121edf1d7b08746a4cc82",
+      "status": null
+    },
+    {
+      "document_id": "ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU",
+      "pages": 2,
+      "processed_json": "data/processed/documents/ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU.json",
+      "processed_json_sha256": "65dcf6409236e5b6e3154a1f53d5b01d83e697b877e08677f9103e3414009ec7",
+      "source_file": "ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU.pdf",
+      "source_pdf_sha256": "a89f7b3c767d587e247c1f2932eeb480cfc28bc3285e2d6c5f10ca9c5c23ba4e",
+      "status": null
+    }
+  ],
+  "page_count": 339,
+  "parent_corpus_version": "canonical_corpus_v1",
+  "patch_scope": [
+    "explicit_next_unit_and_appendix_hard_stop",
+    "minimum_interpretable_table_relation",
+    "bidirectional_substantive_evidence_role_gate"
+  ],
+  "quality_flag_counts": {
+    "administrative_header_context_only_v1_1": 11,
+    "administrative_preamble": 13,
+    "article_body_from_title_field": 36,
+    "artifact_candidate": 303,
+    "context_only_candidate": 361,
+    "heading_only": 24,
+    "heuristic_structure": 1538,
+    "interpretable_table_row_grouped_v1_1": 50,
+    "ocr_derived_chunk": 1540,
+    "ocr_table_alignment_ambiguous": 1064,
+    "oversize_split": 56,
+    "processed_appendix_hard_stop_v1_1": 2,
+    "processed_boundary_corrected": 2,
+    "processed_page_artifact_detached": 41,
+    "residual_fallback_block": 2648,
+    "review_candidate": 2030,
+    "source_context_absorbed": 913,
+    "structure_alignment_low_confidence": 36,
+    "substantive_evidence_promoted_v1_1": 92,
+    "table_alignment_ambiguous": 706,
+    "table_header_context_only_v1_1": 3,
+    "table_like_text": 1807,
+    "table_relation_insufficient_v1_1": 1513,
+    "title_fragment_context_only_v1_1": 14
+  },
+  "schema_version": "canonical_chunk_v1_1",
+  "source_hash_check": "PASS",
+  "source_of_truth": "pages[].text",
+  "typed_absorption_counts": {
+    "explicit_label_to_following_unit": 811,
+    "page_continuation": 19,
+    "sentence_closing_punctuation": 611,
+    "table_row_continuation": 74
+  },
+  "v0_immutability_check": "PASS",
+  "v1_immutability_check": "PASS",
+  "validation_status": "PASS"
+}

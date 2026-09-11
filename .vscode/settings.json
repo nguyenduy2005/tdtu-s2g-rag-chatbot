@@ -1,0 +1,18 @@
+{
+  "python.defaultInterpreterPath": "/opt/miniconda3/envs/ml-env/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ],
+  "python.analysis.exclude": [
+    "**/__pycache__",
+    ".pytest_cache",
+    "data",
+    "outputs"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "-p",
+    "no:cacheprovider",
+    "-q"
+  ]
+}

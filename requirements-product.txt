@@ -1,0 +1,6 @@
+-r requirements-openai.txt
+streamlit==1.57.0
+rank-bm25==0.2.2
+sentence-transformers==6.0.0
+numpy==2.0.1
+Pillow==12.2.0

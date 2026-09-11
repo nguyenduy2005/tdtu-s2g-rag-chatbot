@@ -1,0 +1,1759 @@
+{
+  "document": {
+    "document_id": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau",
+    "title": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau",
+    "source_file": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "457e13e9798d6a4af7162176fbc973bbc5eb054c35fd8eb1090f6017f97837f9"
+  },
+  "statistics": {
+    "page_count": 25,
+    "chapter_count": 5,
+    "article_count": 37
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": "I",
+      "title": "NHỮNG QUY ĐỊNH CHUNG",
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Phạm vi và đối tượng áp dụng",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy chế này quy định tổ chức và quản lý đào tạo trình độ đại học hệ chính quy theo hệ thống tín chỉ tại Trường Đại học Tôn Đức Thắng, bao gồm: Chương trình đào tạo, tổ chức đào tạo, đánh giá kết quả học tập, xét và công nhận tốt nghiệp và những quy định khác.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy chế này áp dụng đối với sinh viên chương trình đào tạo tiêu chuẩn, chương trình đào tạo chất lượng cao, chương trình đào tạo giảng dạy bằng tiếng Anh hệ chính quy trình độ đại học tại Trường Đại học Tôn Đức Thắng (sau đây gọi tắt là Trường) theo hình thức tích lũy tín chỉ.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Chương trình đào tạo",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chương trình đào tạo (CTĐT) được xây dựng theo đơn vị tín chỉ, cấu trúc từ các môn học hoặc học phần (gọi chung là môn học), trong đó phải có đủ các môn học bắt buộc và đáp ứng chuẩn chương trình đào tạo theo quy định hiện hành của Bộ Giáo dục và Đào tạo (GD&ĐT). Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ, chương trình đào tạo phải thể hiện rõ khối lượng học tập chung và riêng theo từng ngành.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Nội dung, chuẩn đầu ra của CTĐT áp dụng chung đối với các hình thức và đối tượng người học khác nhau. Đối với người đã tốt nghiệp trình độ khác hoặc ngành khác, khối lượng học tập thực tế được xác định trên cơ sở công nhận, hoặc chuyển đổi tín chỉ đã tích lũy và miễn trừ môn học trong chương trình đào tạo trước.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Chương trình được xây dựng đảm bảo cơ cấu nội dung các môn học, thời gian đào tạo, tỷ lệ phân bổ thời lượng giữa các môn học khoa học cơ bản, các môn kỹ năng, các môn cơ sở và chuyên ngành, giữa lý thuyết và thực hành, thực tập nhằm giúp sinh viên nắm vững các kiến thức giáo dục đại cương và các kiến thức, kỹ năng cơ sở của ngành và liên ngành bảo đảm người học tích lũy được kiến thức, đạt được năng lực cần thiết theo chuẩn đầu ra trình độ đại học chính quy.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "CTĐT cung cấp kế hoạch học tập chuẩn toàn khoá để định hướng cho sinh viên. Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải phù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành CTĐT. 2",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "CTĐT đại học tiêu chuẩn là chương trình đào tạo được xây dựng theo chuẩn CTĐT và các quy định hiện hành của Bộ GD&ĐT; đáp ứng chuẩn đầu ra và mục tiêu đào tạo của trình độ đào tạo tương ứng theo khung trình độ quốc gia Việt Nam; được xây dựng theo tiêu chuẩn và tham khảo các chương trình của đại học uy tín trên thế giới; có mức trần học phí theo quy định hiện hành của Chính phủ.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "CTĐT đại học chất lượng cao được xây dựng trên chương trình tiêu chuẩn; đồng thời có các chuẩn đầu ra cao hơn chương trình tiêu chuẩn về kỹ năng tiếng Anh, kỹ năng mềm, kỹ năng chuyên môn, các chứng chỉ nghề quốc gia /quốc tế.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "CTĐT đại học giảng dạy bằng tiếng Anh được xây dựng trên chương trình tiêu chuẩn hoặc chương trình chất lượng cao; trong đó việc dạy - học các môn học trong CTĐT bằng ngôn ngữ tiếng Anh (trừ các môn về Lý luận chính trị, Giáo dục quốc phòng, Luật hoặc các môn học đặc thù); sinh viên phải đạt điều kiện đầu vào tiếng Anh theo quy định của Trường để được xét học chương trình này.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "CTĐT phải được công khai đối với người học trước khi tuyển sinh và khi bắt đầu khóa học; những thay đổi, điều chỉnh liên quan đến CTĐT được thực hiện theo quy định hiện hành và công bố trước khi áp dụng, không gây tác động bất lợi cho sinh viên.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Phương thức tổ chức đào tạo và hình thức đào tạo",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Trường tổ chức đào tạo theo phương thức đào tạo tín chỉ với hình thức đào tạo chính quy được quy định tại khoản 2 và khoản 3 Điều này.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đào tạo theo tín chỉ",
+              "page_start": 2,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Là phương thức tổ chức đào tạo theo từng lớp môn học, cho phép sinh viên tích lũy tín chỉ của từng môn học và thực hiện CTĐT theo kế hoạch học tập của cá nhân, phù hợp với kế hoạch giảng dạy của Trường;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Sinh viên không đạt một môn học bắt buộc sẽ phải học lại môn học đó hoặc học một môn tương đương theo quy định trong CTĐT, hoặc học một môn thay thế nếu môn học đó không còn được giảng dạy;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Sinh viên không đạt một môn học tự chọn sẽ phải học lại môn học đó hoặc có thể chọn học một môn học tự chọn khác theo quy định trong CTĐT.",
+                  "page_start": 2
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hình thức đào tạo chính quy a. Các hoạt động giảng dạy được thực hiện tại Trường, những hoạt động thực hành, thực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài Trường; b. Thời gian tổ chức hoạt động giảng dạy chính quy được sắp xếp trong khoảng từ 06 giờ đến 20 giờ các ngày trong tuần từ thứ 2 đến thứ 7. Tùy theo tình hình thực tế của Trường, Hiệu trưởng quy định cụ thể: thời gian hoạt động giảng dạy; thời gian tổ chức những hoạt động đặc thù của CTĐT; thời gian tổ chức các khóa học, môn học, lịch thi trong các trường hợp ngoại lệ (chủ nhật, ca tối) để sinh viên có thể linh hoạt đăng ký học, thi. 3 c. Phòng Đại học sắp xếp thời khóa biểu cho các nhóm lớp môn học theo số lượng sinh viên, số nhóm môn học cần tổ chức và điều kiện cơ sở vật chất của Trường. d. Tối đa 30% tổng khối lượng của CTĐT được thực hiện bằng lớp học trực tuyến. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác, Trường thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo. Tổ chức các lớp học phương thức trực tuyến khi đáp ứng Quy định đào tạo trực tuyến của Trường và có các giải pháp bảo đảm chất lượng giảng dạy trực tuyến.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Tín chỉ, Môn học trong Chương trình đào tạo",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được tính tương đương 50 giờ học tập, bao gồm: thời gian dự giờ giảng (15 giờ/tiết lý thuyết hoặc 30 giờ/tiết thực hành, thí nghiệm, thảo luận trên lớp); 30 giờ/tiết học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và 5 giờ/tiết tham dự kiểm tra, đánh giá quá trình, giữa kỳ, cuối kỳ. Trong đó 01 giờ/tiết trên lớp được tính là 50 phút.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Số tín chỉ, số giờ/tiết của mỗi môn học được xác định phù hợp với mục tiêu, chuẩn đầu ra của môn học được thể hiện trong CTĐT theo từng ngành.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Môn học là đơn vị cấu thành của CTĐT, gồm tập hợp những kiến thức về một lĩnh vực chuyên môn và được tổ chức giảng dạy trọn vẹn trong một học kỳ. Trường hợp ngoại lệ đối với các môn học đặc biệt do Hiệu trưởng quy định về hình thức và thời gian tổ chức giảng dạy. Hoạt động giảng dạy của môn học bao gồm một hay kết hợp một số trong các hình thức sau: - Giảng dạy lý thuyết được tổ chức thành các lớp môn học; - Giảng dạy, hướng dẫn thực hành, bài tập được tổ chức theo lớp hay theo từng nhóm; - Giảng dạy thí nghiệm, thực hành tại phòng thí nghiệm, xưởng hoặc các cơ sở bên ngoài; - Hướng dẫn thực tập, tập sự nghề nghiệp tại các cơ sở bên ngoài; - Hướng dẫn đồ án, tiểu luận và chuyên đề theo từng đề tài; - Giảng dạy trực tuyến; - Các hình thức giảng dạy khác được hiệu trưởng phê duyệt.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Mỗi môn học được ký hiệu bằng một mã số riêng, có số tín chỉ xác định. Một số môn học có các môn tiên quyết, môn học trước hay môn học song hành (xem định nghĩa tại khoản 6 Điều này).",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Mỗi môn học đều có đề cương chi tiết thể hiện các nội dung: thông tin chung của môn học (số tín chỉ, số giờ lý thuyết/thực hành, điều kiện môn tiên quyết, môn học trước, môn học song hành); mục tiêu môn học; chuẩn đầu ra môn học; tóm tắt nội dung môn học; yêu cầu đối với người học; tài liệu học tập; hình thức đánh giá môn học; nội dung chi tiết môn học,… Đề cương chi tiết môn học được biên soạn và cập nhật theo quy định của Trường, được công khai cho người học. 4",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Phân loại môn học a. Môn học bắt buộc Môn học bắt buộc là các môn học trong CTĐT có mục tiêu cung cấp những nội dung chính yếu của ngành và chuyên ngành đào tạo hoặc hướng chuyên môn mà sinh viên bắt buộc phải hoàn tất để đạt yêu cầu được xét tốt nghiệp theo ngành, chuyên ngành đào tạo hoặc hướng chuyên môn (mà sinh viên lựa chọn hoặc được phân vào). b. Môn học và nhóm môn học tự chọn Đây là các môn học trong CTĐT có mục tiêu cung cấp những nội dung đào tạo cần thiết cho định hướng nghề nghiệp mà sinh viên có thể lựa chọn đăng ký học. Môn học tự chọn được xếp theo từng nhóm. Để đủ điều kiện tốt nghiệp, sinh viên phải tích lũy đủ số tín chỉ hoặc số môn học tối thiểu quy định cho nhóm môn học tự chọn tương ứng. Đối với một môn học tự chọn nếu không đạt, sinh viên có quyền chọn đăng ký học lại chính môn học đó hoặc lựa chọn môn học tự chọn khác cùng nhóm để đảm bảo tích lũy đủ số tín chỉ. Sinh viên không nhất thiết phải học lại môn học tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của nhóm. Sinh viên có thể nộp đơn đề nghị không tính điểm Trung bình chung tích lũy khi xét tốt nghiệp đối với môn học tự chọn mà sinh viên tích lũy vượt tín chỉ so với yêu cầu của CTĐT. c. Môn học thay thế, môn học tương đương Môn học tương đương được hiểu là một hay một nhóm các môn học thuộc CTĐT một khóa - ngành khác đang tổ chức đào tạo tại Trường được phép tích lũy để thay cho một môn hay một nhóm môn học trong CTĐT của ngành đào tạo. Khái niệm môn học thay thế được sử dụng khi một môn học có trong CTĐT nhưng nay không còn tổ chức giảng dạy nữa và được thay thế bằng một môn học khác đang tổ chức giảng dạy. Các môn học hay nhóm các môn học thay thế hoặc tương đương do khoa quản lý chuyên môn đề xuất và là các phần bổ sung cho CTĐT trong quá trình vận hành. Môn học thay thế hoặc tương đương được áp dụng cho tất cả các khóa, các ngành hoặc chỉ được áp dụng hạn chế cho một số khóa - ngành. d. Môn học tiên quyết Môn học A là môn học tiên quyết của môn học B, khi điều kiện bắt buộc để đăng ký học môn học B là sinh viên đã đăng ký học và đạt môn học A (theo thang điểm đánh giá trong Chương III của quy chế này). e. Môn học trước Môn học A là môn học trước của môn học B, khi điều kiện bắt buộc để đăng ký học môn học B là sinh viên đã đăng ký và được xác nhận học xong môn học A (có thể chưa đạt, trừ trường hợp sinh viên rút môn học hoặc không đủ điều kiện dự thi cuối kỳ môn học quy định tại khoản 1 và khoản 4 Điều 25 Quy chế này). Sinh viên được phép đăng ký học môn học B vào học kỳ tiếp sau học kỳ đã học môn học A. 5 f. Môn học song hành Môn học A là môn học song hành của một môn học B, khi điều kiện bắt buộc để đăng ký học môn học B là sinh viên đã đăng ký học môn học A. Sinh viên được phép đăng ký học môn học B vào cùng học kỳ đã đăng ký của môn học A hoặc vào các học kỳ tiếp sau.",
+              "page_start": 4,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "II",
+      "title": "TỔ CHỨC ĐÀO TẠO",
+      "page_start": 5,
+      "articles": [
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Thời gian đào tạo",
+          "page_start": 5,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Thời gian đào tạo theo kế hoạch học tập chuẩn toàn khóa được quy định trong CTĐT, phải phù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành CTĐT. Chương trình đào tạo trình độ đại học, chương trình đào tạo chuyên sâu đặc thù trình độ bậc 7 được thực hiện từ 04 đến 05 năm học tùy theo ngành nghề đào tạo đối với người có bằng tốt nghiệp trung học phổ thông (hoặc tương đương);",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Thời gian tối đa hoàn thành chương trình bao gồm: thời gian theo kế hoạch học tập chuẩn toàn khóa được quy định tại khoản 1 của Điều này, cộng với 6 học kỳ đối với các khoá học 4 năm, cộng 7 học kỳ đối với khóa học 4,5 năm; và 8 học kỳ đối với khóa học 5 năm. Một số trường hợp khác, Hiệu trưởng xem xét cho gia hạn thời hạn hoàn thành chương trình nhưng tối đa không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá (trừ trường hợp chưa đủ điều kiện tốt nghiệp do chưa đạt chứng chỉ Giáo dục quốc phòng - an ninh, giáo dục thể chất được xét gia hạn thêm 01 năm).",
+              "page_start": 5,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Kế hoạch giảng dạy và học tập",
+          "page_start": 5,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Kế hoạch giảng dạy và học tập chi tiết hóa việc tổ chức thực hiện các chương trình đào tạo theo năm học, học kỳ, phù hợp với hình thức đào tạo và phương thức tổ chức đào tạo. Căn cứ vào khối lượng và nội dung kiến thức tối thiểu quy định cho các chương trình, Trường xây dựng kế hoạch giảng dạy và học tập, phân bổ số môn học cho từng năm học, từng học kỳ.",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Một năm học có hai học kỳ chính, mỗi học kỳ chính có 15 tuần thực học và từ 02 đến 04 tuần thi (trừ các trường hợp bất khả kháng như thiên tai, dịch bệnh…). Ngoài hai học kỳ chính, Trường tổ chức thêm các học kỳ phụ: học kỳ hè và học kỳ dự thính để sinh viên có điều kiện được học lại, học vượt. Mỗi học kỳ phụ có ít nhất 06 tuần thực học và 01 tuần thi (trừ các trường hợp bất khả kháng như thiên tai, dịch bệnh,…)",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trường xây dựng kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt động đào tạo trong năm học cho tất cả hình thức, chương trình đào tạo, được công bố kịp thời tới các bên liên quan trước khi bắt đầu năm học.",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Kế hoạch học kỳ bao gồm kế hoạch mở lớp, hình thức dạy và học (trực tiếp hoặc trực tuyến), lịch học, lịch thi của các môn học được tổ chức trong học kỳ cho các khoá học, chương trình đào tạo và hình thức đào tạo. Kế hoạch học kỳ được xây dựng và công bố kịp 6 thời trước mỗi học kỳ với đầy đủ thông tin cần thiết, bảo đảm thuận tiện cho sinh viên xây dựng kế hoạch học tập và đăng ký môn học.",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khoá học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp bình thường được bố trí đều trong các tuần của học kỳ. Trong trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với một môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày. Các trường hợp ngoại lệ khác, Hiệu trưởng xem xét và quyết định.",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "7",
+          "title": "Đăng ký nhập học",
+          "page_start": 6,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Khi đăng ký nhập học hệ chính quy theo hệ thống tín chỉ tại Trường, sinh viên phải nộp đầy đủ giấy tờ, tài liệu theo quy định của Quy chế tuyển sinh đại học hiện hành của Trường.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sau khi xem xét thấy đủ điều kiện nhập học, Phòng Đại học trình Hiệu trưởng ký quyết định công nhận người đến học là sinh viên chính thức của Trường.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Mọi thủ tục đăng ký nhập học phải được hoàn thành trong thời hạn được quy định tại Quy chế tuyển sinh đại học hiện hành của Trường.",
+              "page_start": 6,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên nhập học được Trường cung cấp đầy đủ các thông tin về mục tiêu, nội dung và kế hoạch học tập của các chương trình đào tạo, quy chế tổ chức và quản lý đào tạo, các quy định khác của Trường (nếu có), nghĩa vụ và quyền lợi của sinh viên.",
+              "page_start": 6,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "8",
+          "title": "Lớp sinh viên và Giảng viên cố vấn (GVCV) Lớp sinh viên bao gồm những sinh viên cùng ngành, cùng chương trình, cùng khóa học và duy trì ổn định trong cả khóa học, để quản lý về việc thực hiện các nhiệm vụ học tập, hoạt động ngoại khóa của sinh viên. Mỗi lớp có một GVCV phụ trách và có ban cán sự lớp (lớp trưởng, tổ trưởng) để phối hợp quản lý hoạt động học tập, rèn luyện và sinh hoạt của sinh viên. Phòng Đại học sắp xếp lớp sinh viên sau khi sinh viên nhập học đầu năm thứ nhất. Lớp cũng có thể được thành lập lại sau khi sinh viên chọn chuyên ngành. Lớp sinh viên được chia thành các tổ để quản lý sinh viên theo quy định. Tổ chức hoạt động của lớp sinh viên, vai trò và trách nhiệm của GVCV được quy định rõ trong Quy chế Công tác sinh viên của Trường Đại học Tôn Đức Thắng.",
+          "page_start": 6,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "9",
+          "title": "Nhóm (lớp) môn học và điều kiện mở nhóm. Nhóm môn học là lớp của các sinh viên cùng đăng ký một môn học, có cùng thời khoá biểu của môn học trong cùng một học kỳ. Mỗi nhóm lớp môn học có một mã số riêng, số lượng sinh viên của một nhóm môn học được giới hạn theo yêu cầu của môn học và điều kiện phòng học/phòng thực hành/phòng thí nghiệm của Trường. Số lượng tối thiểu để xem xét mở lớp môn học trong học kỳ tùy theo từng chuyên ngành. 7 Các môn học đồ án, các môn thí nghiệm, thực tập được mở theo khả năng sắp xếp đảm nhận của đơn vị chuyên môn và các phòng thí nghiệm/thực hành.",
+          "page_start": 6,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "10",
+          "title": "Tổ chức giảng dạy và học tập",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức giảng dạy và học tập tại Trường thực hiện theo quy định tại Điều 3 quy chế này và các quy định liên quan khác của Trường; đảm bảo phát huy năng lực chuyên môn và trách nhiệm nghề nghiệp của đội ngũ giảng viên, phù hợp với quy định về chế độ làm việc của giảng viên tại Trường; phát huy vai trò chủ động đồng thời đề cao trách nhiệm của sinh viên, tạo điều kiện và động lực để sinh viên nỗ lực học tập, giữ vững kỷ cương học đường, nâng cao chất lượng và hiệu quả đào tạo; có cơ chế thanh tra, giám sát nội bộ và có hệ thống cải tiến chất lượng dựa trên thu thập, đánh giá ý kiến phản hồi của người học.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Trường quy định chi tiết việc tổ chức giảng dạy và học tập, các quy định về trách nhiệm và quyền hạn của giảng viên, trách nhiệm của các đơn vị chuyên môn, các đơn vị quản lý, hỗ trợ liên quan, trách nhiệm và quyền hạn của sinh viên trong quy định về hoạt động dạy – học, quy định về quản lý giảng dạy và các quy định liên quan khác.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Việc phân công giảng viên cho các lớp học, giảng viên giảng dạy, giảng viên hướng dẫn sinh viên làm thí nghiệm, thực hành, thực tập, đồ án, khoá luận và thực hiện các hoạt động học tập khác được quy định trong Quy định mời giảng và quản lý giảng viên, Quy định nhiệm vụ công tác giảng viên cơ hữu, Quy định về các chức danh viên chức giảng dạy của Trường Đại học Tôn Đức Thắng.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Việc lấy ý kiến phản hồi của sinh viên về các điều kiện bảo đảm chất lượng, hiệu quả học tập đối với tất cả các lớp học của Trường được thực hiện 02 lần mỗi học kỳ theo thủ tục thực hiện công tác khảo sát cấp trường.",
+              "page_start": 7,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "11",
+          "title": "Đăng ký Kế hoạch học tập",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đầu khóa học Trường cung cấp cho sinh viên CTĐT ngành học, quy định về công tác quản lý và đào tạo; bố trí GVCV cho từng lớp sinh viên. Trước mỗi học kỳ, Trường thông báo cho sinh viên danh sách các môn dự kiến sẽ được giảng dạy trong học kỳ đó. GVCV chịu trách nhiệm quản lý sinh viên, tư vấn xây dựng kế hoạch học tập (KHHT) và thực hiện quá trình học tập theo đúng quy định của Trường.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên căn cứ vào điều kiện cá nhân và CTĐT để xây dựng KHHT bằng cách liệt kê các môn học cần phải học trong từng học kỳ của khoá học (bao gồm các môn học mới, một số môn học chưa đạt và các môn học đã đạt cần cải thiện điểm quy định tại Điều 15 quy chế này). KHHT là cơ sở để sinh viên có thể đăng ký môn học trong mỗi học kỳ và là cơ sở để Trường mở lớp, xếp thời khóa biểu môn học cho sinh viên. Sinh viên phải thực hiện đăng ký môn học dựa trên KHHT đã đăng ký trước khi học kỳ mới bắt đầu (sinh viên mới trúng tuyển không phải đăng ký môn học cho học kỳ đầu tiên của khóa học).",
+              "page_start": 7,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "12",
+          "title": "Khối lượng học tập tối thiểu, tối đa đăng ký trong học kỳ",
+          "page_start": 7,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Khối lượng học tối thiểu mà sinh viên phải đăng ký trong mỗi học kỳ được thực hiện theo quy định sau: 8",
+              "page_start": 7,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Số tín chỉ tối thiểu cho mỗi học kỳ chính là 10 tín chỉ (trừ học kỳ cuối khóa học và sinh viên không đạt trình độ tiếng Anh quy định tại điểm b khoản 1 Điều này). Không quy định khối lượng học tập tối thiểu đối với sinh viên ở các học kỳ phụ (học kỳ hè, học kỳ dự thính)",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Các sinh viên không đạt trình độ tiếng Anh được quy định trong Quy định đào tạo tiếng Anh của Trường sẽ bị hạn chế số tín chỉ đăng ký hoặc phải ngừng học các môn học khác ngoại trừ môn tiếng Anh.",
+                  "page_start": 8
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Khối lượng học tối đa mà sinh viên có thể đăng ký trong mỗi học kỳ được thực hiện theo quy định sau:",
+              "page_start": 8,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Sinh viên được phép đăng ký nhiều môn học hơn so với số lượng môn học theo tiến độ chương trình đào tạo nhưng vẫn đảm bảo không vượt quá 3/2 khối lượng trung bình một học kỳ theo kế hoạch học tập chuẩn; và thực hiện theo đúng quy định, quy trình đăng ký môn học của Trường.",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Trong học kỳ hè, sinh viên chỉ được đăng ký khối lượng học tập không vượt quá 18 tín chỉ.",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trong học kỳ dự thính, sinh viên chỉ được đăng ký khối lượng học tập không vượt quá 09 tín chỉ.",
+                  "page_start": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "13",
+          "title": "Đăng ký môn học",
+          "page_start": 8,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Việc đăng ký các môn học trong mỗi học kỳ phải bảo đảm điều kiện ràng buộc của từng môn học (điều kiện môn tiên quyết, môn học trước, môn học song hành, số tín chỉ tích lũy,...) và trình tự học tập theo mỗi CTĐT. Sinh viên sẽ bị hủy kết quả đăng ký các môn học khi không thỏa điều kiện ràng buộc môn học.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối với các môn Tập sự nghề nghiệp, Đồ án tốt nghiệp/Khóa luận tốt nghiệp hoặc môn học thuộc nhóm tự chọn cuối khóa, sinh viên chỉ được đăng ký nếu bảo đảm điều kiện ràng buộc của môn học. Trường xét và quyết định cho phép một số sinh viên có đủ năng lực và điều kiện thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp thay thế cho các môn tự chọn cuối khóa trong CTĐT. Điều kiện, số lượng sinh viên và danh sách sinh viên được xét thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp do Khoa chuyên môn xét. Các sinh viên trong danh sách được thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp có quyền đề xuất không thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp và phải đăng ký môn tự chọn cuối khóa để hoàn thành chương trình học.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Quy trình đăng ký môn học được thực hiện như sau: - Bước 1: Sinh viên xây dựng KHHT của mỗi học kỳ bằng cách liệt kê các môn học cần phải học trong học kỳ đó dựa trên CTĐT, danh sách các môn học dự kiến được giảng dạy và tham khảo ý kiến của GVCV. - Bước 2: Sinh viên dựa vào KHHT và thời khóa biểu trong học kỳ do Trường công bố để đăng ký môn học theo kế hoạch đăng kí môn học của Trường. Trong khoảng thời gian đăng ký môn học dành cho sinh viên (được sắp xếp theo khóa tuyển sinh, theo khoa), và sinh 9 viên có thể điều chỉnh việc đăng ký môn học. Sau thời gian trên, kết quả đăng ký môn học của sinh viên sẽ được cố định, sinh viên không được điều chỉnh môn học. - Bước 3: Trường xử lý kết quả sinh viên đã đăng ký môn học và công bố cho sinh viên kiểm tra, điều chỉnh nếu cần. (Sinh viên chỉ được phép điều chỉnh khi có lý do chính đáng như bị hủy nhóm môn học đăng ký lại nhóm môn học mới). - Bước 4: Sinh viên cập nhật kết quả đăng ký môn học và đóng học phí theo đúng thời gian quy định.",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên phải đăng ký đúng những môn học đã đăng ký trong KHHT. Chỉ những trường hợp trùng thời khoá biểu, vi phạm điều kiện ràng buộc môn học trước, môn học tiên quyết, sinh viên mới được xét huỷ bớt môn học đã đăng ký trong KHHT.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Việc rút môn học được thực hiện như sau: - Chậm nhất là tuần lễ thứ 7 của học kỳ chính, tuần lễ thứ 2 của học kỳ hè, nếu thấy khó khăn có thể dẫn đến kết quả học tập kém, sinh viên có thể xin phép rút môn học đã đăng ký nhưng không được hoàn trả lại học phí. Sinh viên không được phép rút các môn học đã kết thúc giảng dạy theo thời khóa biểu và có kết quả đánh giá môn học do giảng viên phụ trách (dành cho các môn thí nghiệm, thực hành, kỹ năng, đồ án,...). - Trong các học kỳ chính, số môn học còn lại sau khi rút bớt không được dưới số tín chỉ tối thiểu được quy định tại khoản 1 Điều 12 của Quy chế này. - Muốn được rút môn học, sinh viên nộp đơn trực tuyến trên Cổng thông tin sinh viên. Những môn học xin rút bớt được nhận điểm rút môn học (R) trong bảng điểm học kỳ.",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Sinh viên đã đăng ký môn học thành công nhưng không đi học hoặc không dự thi kết thúc môn học sẽ bị ghi nhận điểm theo quy định tại Điều 25 của Quy chế này.",
+              "page_start": 9,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "14",
+          "title": "Hủy, mở thêm nhóm lớp môn học",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Hủy nhóm lớp môn học: Những nhóm môn học có số lượng sinh viên đăng ký ít hơn số lượng tối thiểu để xem xét mở nhóm môn học theo quy định sẽ bị hủy. Trong khoảng thời gian đăng ký môn học, những sinh viên đã đăng ký các môn học bị hủy do không đủ điều kiện mở nhóm được phép đăng ký nhóm khác cùng môn học hoặc đăng ký môn học khác thay thế (nếu môn bị hủy chỉ mở một nhóm).",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Mở thêm nhóm lớp môn học: Trong thời gian quy định đăng ký môn học của học kỳ, nếu số lượng sinh viên có nguyện vọng đăng ký học nhiều hơn số lượng tối thiểu để xem xét mở nhóm môn học và được Khoa/Bộ môn phụ trách môn học đó chấp thuận, Trường sẽ mở thêm nhóm môn học để sinh viên đăng ký bổ sung.",
+              "page_start": 9,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "15",
+          "title": "Đăng ký học lại",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các môn học có điểm trung bình môn học không đạt sẽ không được tích lũy. Nếu là môn học bắt buộc sinh viên phải đăng ký học lại những môn học này; nếu là môn học tự chọn, sinh viên có thể đăng ký học lại hoặc chọn môn học tự chọn khác. Điểm cao nhất trong các lần học lại là kết quả chính thức của môn học. Trong trường hợp sinh viên đã tích lũy đủ số tín chỉ của nhóm tự chọn, nếu có môn học không đạt thuộc cùng nhóm tự chọn, sinh viên 10 có quyền nộp đơn đề nghị loại bỏ những môn học có kết quả không đạt để không tham gia vào tính điểm trung bình chung tích lũy. (Nộp đơn ở học kỳ 8 đối với khóa học 4 năm, học kỳ 9 đối với khóa 4.5 năm, học kỳ 10 đối với khóa học 5 năm).",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối với các môn học đã tích lũy, sinh viên có thể đăng ký học lại để cải thiện kết quả. Điểm cao nhất trong các lần học sẽ là kết quả chính thức của môn học đó. Điểm cải thiện không được tính trong quá trình xét học bổng khuyến khích học tập, xét khen thưởng học tập, xét khen thưởng cho sinh viên tốt nghiệp giỏi/xuất sắc theo Quy chế Công tác sinh viên của Trường.",
+              "page_start": 10,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "16",
+          "title": "Nghỉ học tạm thời, thôi học",
+          "page_start": 10,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau:",
+              "page_start": 10,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Được điều động vào lực lượng vũ trang;",
+                  "page_start": 10
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế;",
+                  "page_start": 10
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;",
+                  "page_start": 10
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Vì lý do cá nhân khác nhưng sinh viên phải học tối thiểu 01 học kỳ ở Trường, không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, phải đạt điểm trung bình chung tích lũy không dưới 5,00. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải được tính vào thời gian học chính thức quy định tại khoản 2 Điều 5 của Quy định này.",
+                  "page_start": 10
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Các trường hợp đặc biệt khác do Hiệu trưởng quyết định.",
+                  "page_start": 10
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên nộp đơn Nghỉ học tạm thời cho Trường ít nhất 02 tuần trước khi học kỳ bắt đầu (theo kế hoạch thời gian năm học của Trường), sinh viên được xem xét hủy các môn học và không phải đóng học phí trong học kỳ. Trường hợp sinh viên nộp đơn Nghỉ học tạm thời sau thời gian trên, sinh viên phải thực hiện nghĩa vụ học phí theo Quy định về việc quản lý nguồn thu từ hoạt động giáo dục của trường và làm đơn rút môn học. Trong trường hợp này, sinh viên không được hoàn trả học phí.",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên nghỉ học tạm thời phải nộp đơn xin nhập học theo thời gian nhập học ghi trong quyết định nghỉ học tạm thời. Sau theo thời gian nhập học ghi trong quyết định nghỉ học tạm thời, sinh viên không nộp đơn nhập học thì xem như sinh viên tự ý bỏ học. Trường sẽ xử lý học vụ sinh viên quy định tại khoản 2 Điều 17 quy chế này.",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Vì lý do cá nhân, sinh viên được quyền nộp đơn xin thôi học trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên xin thôi học phải thực hiện nghĩa vụ học phí môn học còn nợ theo Quy định về việc quản lý nguồn thu từ hoạt động giáo dục của Trường. Sinh viên xin thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác. Việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh 11 viên xin thôi học đăng ký tuyển sinh lại tại Trường được xem xét căn cứ vào chuẩn đầu ra môn học và CTĐT hiện hành.",
+              "page_start": 10,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "17",
+          "title": "Cảnh báo kết quả học tập, buộc thôi học",
+          "page_start": 11,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Cảnh báo kết quả học tập được thực hiện theo từng học kỳ chính, sinh viên bị cảnh báo khi thuộc một trong các trường hợp:",
+              "page_start": 11,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Đối với sinh viên còn trong thời hạn khóa học: Có tổng số tín chỉ đạt trong học kỳ ít hơn 50% khối lượng tín chỉ tối thiểu (trừ học kỳ cuối khóa học và sinh viên không đạt trình độ tiếng Anh quy định tại điểm b khoản 1 Điều 12 Quy chế này); điểm trung bình chung học kỳ đạt dưới 2,00 đối với học kỳ đầu của khóa học; đạt dưới 2,50 đối với các học kỳ tiếp theo hoặc đạt dưới 3,00 đối với 2 học kỳ liên tiếp; không đăng ký môn học trong học kỳ (trừ trường hợp đã hoàn thành CTĐT); không đăng ký học tiếng Anh hoặc không đạt môn học tiếng Anh đối với sinh viên chưa đạt tiếng Anh theo quy định bị ngưng học các môn học khác ngoại trừ tiếng Anh;",
+                  "page_start": 11
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Đối với sinh viên trễ tiến độ: Sinh viên không đăng ký môn học, không đi học và không tham gia hoạt động của Trường trong học kỳ (trừ trường hợp xin nghỉ học tạm thời hoặc đã hoàn thành các môn học trong CTĐT nhưng chưa đến đợt xét tốt nghiệp).",
+                  "page_start": 11
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu thuộc vào một trong các trường hợp:",
+              "page_start": 11,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Bị cảnh báo kết quả học tập hai lần liên tiếp vì rơi vào các trường hợp quy định tại khoản 1 Điều này;",
+                  "page_start": 11
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Vượt quá thời gian tối đa được phép học tại Trường quy định tại khoản 2 Điều 5 của Quy định này;",
+                  "page_start": 11
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Bị kỷ luật ở mức xoá tên khỏi danh sách sinh viên của Trường.",
+                  "page_start": 11
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Hết thời hạn nghỉ học tạm thời không nhập học lại theo quy định.",
+                  "page_start": 11
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên bị buộc thôi học theo quy định ở khoản 2 Điều này có thể làm đơn cứu xét trình Hiệu trưởng xem xét; hoặc sinh viên có thể làm đơn chuyển xuống các chương trình đào tạo ở trình độ thấp hơn hoặc chương trình vừa học vừa làm tương ứng (nếu Trường có đào tạo), và được bảo lưu một phần kết quả học tập ở chương trình cũ khi học ở các chương trình mới này. Hiệu trưởng sẽ xem xét quyết định cho bảo lưu kết quả học tập đối với từng trường hợp cụ thể. Chậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, Trường sẽ ra thông báo gửi về gia đình nơi sinh viên có hộ khẩu thường trú.",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Cảnh báo kết quả học tập, buộc thôi học được thực hiện theo Quy trình xử lý học vụ hiện hành của Trường.",
+              "page_start": 11,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "18",
+          "title": "Chuyển ngành, chuyển nơi học, chuyển Trường, chuyển hình thức học",
+          "page_start": 11,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên được xem xét chuyển sang học một chương trình, một ngành đào tạo khác, hoặc một phân hiệu khác của Trường, hoặc từ phân hiệu về trụ sở chính khi có đủ các điều kiện sau: 12",
+              "page_start": 11,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 2 Điều 5 của Quy chế này;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo, của trụ sở chính (hoặc phân hiệu) trong cùng khóa tuyển sinh;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trường có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Được sự đồng ý của các đơn vị chuyên môn phụ trách chương trình, ngành đào tạo, người phụ trách phân hiệu (nơi chuyển đi và chuyến đến) và của Hiệu trưởng.",
+                  "page_start": 12
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên được xem xét chuyển Trường khi có đủ các điều kiện sau:",
+              "page_start": 12,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 2 Điều 5 của Quy chế này;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng khóa tuyển sinh tại nơi chuyển đến;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Nơi chuyển đến có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo;",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Được sự đồng ý của hiệu trưởng Trường xin chuyển đi và Trường xin chuyển đến.",
+                  "page_start": 12
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên được xem xét chuyển từ đào tạo theo hình thức chính quy sang các hình thức, chương trình đào tạo khác của Trường và ngược lại nếu còn đủ thời gian học tập theo quy định đối với hình thức, chương trình chuyển đến và đảm bảo điều kiện tuyển sinh đầu vào của chương trình chuyển đến.",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Thủ tục tiếp nhận sinh viên chuyển trường:",
+              "page_start": 12,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Sinh viên bên ngoài xin chuyển đến Trường phải làm đơn xin chuyển trường gửi Hiệu trưởng ít nhất 01 tháng trước khi bắt đầu học kỳ mới, trong đơn phải ghi rõ lý do xin chuyển đến trường và nộp kèm các minh chứng về điểm trúng tuyển đầu vào ở trường cũ, ngành đang học và bảng kết quả học tập chương trình cũ, và minh chứng khác (nếu có).",
+                  "page_start": 12
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Hiệu trưởng xem xét quyết định tiếp nhận hoặc không tiếp nhận; quyết định việc học tập tiếp tục của sinh viên, công nhận các môn học mà sinh viên chuyển đến được chuyển đổi kết quả và số môn học phải học bổ sung, trên cơ sở so sánh chương trình ở trường sinh viên xin chuyển đi và của Trường.",
+                  "page_start": 12
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Sinh viên có thể làm đơn xin chuyển trường khác theo các quy định tại khoản 2 Điều này để Hiệu trưởng quyết định. 13",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Sinh viên làm đơn xin chuyển sang học một chương trình, một ngành đào tạo khác của Trường theo các quy định ở khoản 1 Điều này trước khi bắt đầu học kỳ ít nhất 08 tuần theo kế hoạch thời gian năm học.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Hiệu trưởng xem xét quyết định việc cho phép chuyển ngành, chuyển chương trình, chuyển nơi học, chuyển trường hoặc tiếp nhận sinh viên chuyển trường đối với các trường hợp ngoại lệ khác.",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "19",
+          "title": "Trao đổi sinh viên và hợp tác trong đào tạo",
+          "page_start": 13,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các đơn vị quản lý chuyên môn trực thuộc Trường xây dựng các chương trình trao đổi sinh viên với các cơ sở đào tạo nước ngoài và đề xuất Hiệu trưởng phê duyệt căn cứ vào nội dung, mục tiêu đào tạo và số tín chỉ các môn học trong CTĐT. Sinh viên của Trường có thể đăng ký thực hiện học một số môn học trao đổi tại cơ sở đào tạo nước ngoài với số tín chỉ tích lũy không vượt quá 25% tổng khối lượng của CTĐT.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy định về điều kiện trao đổi sinh viên, hợp tác đào tạo, việc công nhận kết quả học tập và chuyển đổi tín chỉ cho sinh viên khi thực hiện chương trình đào tạo trao đổi sinh viên được Hiệu trưởng phê duyệt cụ thể theo từng trường hợp và thông báo rõ ràng, công khai cho tất cả sinh viên liên quan.",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "20",
+          "title": "Học cùng lúc hai chương trình",
+          "page_start": 13,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên có thể đăng ký học thêm các môn học của một chương trình khác, ngành khác để bổ sung kiến thức, kỹ năng. Sinh viên chỉ được hưởng các quyền lợi chính thức và được xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học chương trình thứ hai theo quy định tại khoản 2 Điều này.",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Điều kiện để học cùng lúc hai chương trình: - Ngành đào tạo chính ở chương trình thứ hai phải khác ngành đào tạo chính ở chương trình thứ nhất; riêng một số ngành đặc thù (về sức khỏe, mỹ thuật công nghiệp, kiến trúc, luật,...), sinh viên phải đáp ứng các yêu cầu đầu vào của chương trình thứ hai do Khoa chuyên môn xét. - Sinh viên được đăng ký học chương trình thứ hai khi đã kết thúc năm thứ nhất của chương trình thứ nhất và có số tín chỉ tích lũy lớn hơn số tín chỉ trung bình của một năm học theo chương trình đào tạo chuẩn; - Tại thời điểm đăng ký, sinh viên phải đáp ứng 01 trong 02 điều kiện sau: (1) Học lực tính theo điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm tuyển sinh; (2) Học lực tính theo điểm trung bình tích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh. - Sinh viên không thuộc diện có điểm đánh giá rèn luyện yếu ở chương trình thứ nhất; - Sinh viên chỉ được xét học cùng lúc hai chương trình 01 (một) lần trong suốt khóa học. 14",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Thủ tục đăng ký học thêm chương trình thứ hai: - Sinh viên đăng ký học chương trình thứ hai bằng cách nộp đơn trực tuyến trên Cổng thông tin sinh viên theo thông báo của Phòng Đại học. Đơn của sinh viên được Phòng Đại học tổng hợp để trình Hiệu trưởng quyết định. - Nếu được chấp nhận, sinh viên căn cứ vào CTĐT thứ hai để đăng ký môn học theo kế hoạch chung của Trường.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên học hai chương trình chỉ được hưởng các chế độ quyền lợi đối với chương trình thứ nhất.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Trong quá trình sinh viên học cùng lúc hai chương trình, nếu điểm trung bình tích luỹ của chương trình thứ nhất đạt dưới điểm trung bình hoặc thuộc diện cảnh báo kết quả học tập thì phải dừng học chương trình thứ hai ở học kỳ tiếp theo; sinh viên sẽ bị loại khỏi danh sách đã đăng ký học chương trình thứ hai.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 2 Điều 5 của Quy chế này. Khi học chương trình thứ hai, sinh viên được công nhận kết quả của những môn học có nội dung và khối lượng kiến thức tương đương có trong chương trình thứ nhất.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai, nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng kí học chương trình thứ hai từ 02 năm trở lên cho đến thời điểm xét tốt nghiệp chương trình thứ hai.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Quy trình và thủ tục đăng ký học ngành hai được thực hiện theo Điều này và quy trình đăng ký học ngành 2 của Trường.",
+              "page_start": 14,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "III",
+      "title": "ĐÁNH GIÁ KẾT QUẢ HỌC TẬP",
+      "page_start": 14,
+      "articles": [
+        {
+          "type": "article",
+          "article": "21",
+          "title": "Đánh giá môn học",
+          "page_start": 14,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đối với các môn học chỉ có lý thuyết hoặc có cả lý thuyết và thực hành: Tùy theo tính chất của môn học, điểm tổng hợp đánh giá môn học (sau đây gọi tắt là điểm môn học) được tính căn cứ vào các điểm đánh giá thành phần, bao gồm: điểm quá trình (điểm kiểm tra trên lớp, điểm đánh giá nhận thức và thái độ tham gia hoạt động trên lớp, điểm đánh giá phần thực hành, điểm chuyên cần, điểm đánh giá bài tập về nhà, điểm đánh giá qua bài tập elearning, điểm báo cáo, thuyết trình...); điểm đánh giá giữa kỳ; điểm đánh giá kết thúc môn học, trong đó điểm thi kết thúc môn học là bắt buộc cho mọi trường hợp và có trọng số không dưới 50%. Đối với các môn học có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá. Các trường hợp ngoại lệ khác do Hiệu trưởng quyết định.",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối với các môn học thực hành, đồ án, kiến tập, thực tập, học phần nghề nghiệp: Sinh viên phải tham dự đầy đủ các hoạt động theo yêu cầu của môn học được thể hiện trong 15 đề cương chi tiết. Điểm đánh giá môn học bao gồm: điểm thực hành, điểm chuyên cần, điểm thực tập do doanh nghiệp đánh giá, điểm báo cáo/tiểu luận, điểm thi kết thúc môn,...",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Việc lựa chọn các hình thức đánh giá thành phần và trọng số của các điểm đánh giá thành phần, cũng như cách tính điểm tổng hợp đánh giá môn học do Khoa quản lý môn học quy định cụ thể trong đề cương chi tiết của môn học.",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số điểm môn học. Trong trường hợp do thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác không thể tổ chức đánh giá trực tiếp, Hiệu trưởng quyết định hình thức đánh giá trực tuyến cho phù hợp tình hình thực tế nhưng đảm bảo đánh giá môn học theo đúng chuẩn đầu ra, mục tiêu môn học. Việc tổ chức bảo vệ và đánh giá đồ án, khóa luận trực tuyến được thực hiện theo quy định tổ chức đánh giá khóa luận/đồ án theo hình thức trực tuyến của Trường và đáp ứng các yêu cầu sau: việc đánh giá được thực hiện thông qua một hội đồng chuyên môn gồm ít nhất 3 thành viên; hình thức bảo vệ và đánh giá trực tuyến được sự đồng thuận của các thành viên hội đồng và sinh viên; diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đầy đủ và lưu trữ.",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Đối với các môn học không còn mở trong CTĐT, không có môn học tương đương/thay thế tại khoản 6 Điều 4 Quy chế này và sinh viên đã học nhưng chưa đạt, Hiệu trưởng xem xét tổ chức các lớp ôn tập và đánh giá các môn học này; điểm đánh giá tối đa của môn học chỉ ở mức điểm đạt (5,0 điểm).",
+              "page_start": 15,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "22",
+          "title": "Tổ chức đánh giá môn học",
+          "page_start": 15,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Trong mỗi học kỳ, Trường tổ chức thi tập trung 2 kỳ thi chính (thi giữa kỳ và thi cuối kỳ), 01 kỳ thi phụ dành cho sinh viên hoãn thi giữa kỳ (học kỳ chính và học kỳ dự thính) và 01 kỳ thi phụ dành cho sinh viên hoãn thi cuối kỳ của học kỳ dự thính có lý do chính đáng (trừ môn tiếng Anh và cơ sở tin học sinh viên tự đăng ký thi lại). Hiệu trưởng quy định cụ thể thời gian thi cho các kỳ thi.",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Thời gian ôn thi mỗi môn học đã được tính trong thời gian học, tự học của môn học.",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Việc tổ chức đánh giá quá trình học tập, trải nghiệm của sinh viên, bao gồm cả các hoạt động thí nghiệm, thực hành, làm bài tập, trình bày báo cáo như một thành phần của môn học; tổ chức thi, kiểm tra các môn học được quy định cụ thể trong Quy định về khảo thí và đo lường kết quả học tập của Trường.",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Việc tổ chức đánh giá các môn đồ án, khóa luận, thực hành, thực tập và các môn học đặc thù khác được Trường quy định trong các Quy định tập sự nghề nghiệp, Quy định về tổ chức khóa luận/đồ án/các môn học tự chọn cuối khóa của Trường.",
+              "page_start": 15,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "23",
+          "title": "Ra đề thi, hình thức thi, chấm thi và số lần được dự thi kết thúc môn học",
+          "page_start": 15,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đề thi kết thúc môn học phải đáp ứng yêu cầu môn học đã quy định trong CTĐT. 16",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Công tác ra đề thi, công tác chấm thi tự luận (giữa kỳ, cuối kỳ), chấm thi trắc nghiệm, chấm phúc khảo bài thi, công tác lưu trữ bài thi, công bố điểm thi được quy định cụ thể trong Quy định về khảo thí và đo lường kết quả học tập của Trường.",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hình thức thi kết thúc môn học được quy định trong đề cương chi tiết môn học và phù hợp với các hình thức đánh giá theo danh mục quy định của Trường.",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Thời hạn tối đa công bố điểm cho sinh viên là 15 ngày kể từ ngày thi (không tính ngày nghỉ, ngày lễ), trường hợp ngoại lệ công bố trễ hơn thời gian quy định do Hiệu trưởng quyết định.",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Các điểm thi kết thúc môn học và điểm đánh giá môn học phải ghi vào bảng điểm theo mẫu thống nhất của Trường, hoặc được lưu trực tiếp trên cơ sở dữ liệu của Trường đối với bài thi trắc nghiệm trên máy tính.",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Mỗi sinh viên được dự thi một lần (thi giữa kỳ, cuối kỳ) cho môn học đăng ký trong học kỳ. Sinh viên vắng thi không phép coi như đã dự thi một lần và nhận điểm V ở bài thi đó (xem khoản 6 Điều 25). Trường hợp sinh viên vắng thi có lý do chính đáng làm đơn xin hoãn thi để được ghi nhận điểm H (Xem khoản 2 Điều 25).",
+              "page_start": 16,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "24",
+          "title": "Thang điểm đánh giá",
+          "page_start": 16,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Điểm đánh giá thành phần và điểm thi kết thúc môn học được ghi nhận theo thang điểm 10, làm tròn đến 01 chữ số thập phân. Điểm môn học là tổng các điểm thành phần, tính theo trọng số quy định, được ghi nhận theo thang điểm 10, làm tròn đến 01 chữ số thập phân. Thang điểm chính thức hệ 10 cùng cách xếp loại kết quả học tập được quy định theo Bảng 1: Bảng 1. Thang điểm đánh giá Xếp loại Thang điểm hệ 10 Thang điểm hệ 4 (tham khảo) Điểm chữ Điểm số Đạt (Tích lũy) Xuất sắc từ 9,0 đến 10,0 A+ 4 Giỏi từ 8,0 đến cận 9,0 A 3.5 Khá từ 7,0 đến cận 8,0 B 3.0 Trung bình khá từ 6,0 đến cận 7,0 C+ 2.5 Trung bình từ 5,0 đến cận 6,0 C 2.0 Không đạt Yếu từ 4,0 đến cận 5,0 D+ 1.5 Kém từ 3,0 đến cận 4,0 D 1.0 từ 0,0 đến cận 3,0 F 0",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Một số trường hợp đặc biệt sử dụng các điểm chữ để ghi nhận theo các tình huống học vụ quy định tại Bảng 2. 17 Bảng 2. Các điểm đặc biệt Tên các điểm đặc biệt Điểm chữ Ghi chú về tính điểm và tích lũy Không đủ điều kiện dự thi F Tính như điểm 0 (Xem khoản 1 Điều 25) Vắng thi không phép V Tính như điểm 0 Vắng thi có phép H Tính chưa tích lũy Không tính vào ĐTBHK, ĐTBTL (Xem khoản 2 Điều 25) Điểm miễn M Điểm đạt môn học Tính vào tín chỉ tích lũy. Không tính vào ĐTBHK, ĐTBTL (Xem khoản 3 Điều 25) Rút môn học R Tính chưa tích lũy. Không tính vào ĐTBHK, ĐTBTL (Xem khoản 4 Điều 25) Điểm chưa hoàn tất P, K Tính chưa tích lũy. Không tính vào ĐTBHK, ĐTBTL. (xem khoản 5 Điều 25)",
+              "page_start": 16,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "25",
+          "title": "Các điểm đặc biệt trong bảng điểm",
+          "page_start": 17,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "\"Không đủ điều kiện dự thi\" hay “Điểm F” là hình thức xử lý các sinh viên vì một trong các lý do sau:",
+              "page_start": 17,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Không thực hiện đầy đủ các phần bắt buộc của môn học và các yêu cầu theo quy định của môn học đặc thù (Cơ sở tin học, Tiếng Anh, Giáo dục thể chất, Giáo dục quốc phòng, Thực hành/Thí nghiệm, phần bài tập lớn, báo cáo, học phần nghề nghiệp...)",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Vi phạm nghiêm trọng kỷ luật học tập, nội quy học đường, gian dối trong học tập.",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Không đảm bảo tối thiểu 80% yêu cầu bắt buộc học tập trên lớp và ở nhà được quy định cho từng môn học",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Không hoàn thành nghĩa vụ học phí theo quy định. Trong buổi học đầu tiên của môn học, cán bộ giảng dạy công bố cho sinh viên quy định về các phần bắt buộc theo điểm (a) và (c) tại khoản 1 Điều này. Danh sách sinh viên không đủ điều kiện dự thi giữa kỳ, cuối kỳ do giảng viên đề nghị và Khoa/Trung tâm duyệt công bố danh sách này. Danh sách sinh viên không đủ điều kiện dự thi được Phòng Đại học ghi nhận điểm F vào bảng ghi điểm chính thức của các điểm thành phần tương ứng môn học.",
+                  "page_start": 17
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Điểm \"Vắng thi có phép\" (gọi là “Điểm H”)",
+              "page_start": 17,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "“Điểm H” được Phòng Đại học xét và ghi nhận cho sinh viên trong kỳ thi tập trung 18 khi có lý do chính đáng phải vắng trong buổi thi, có đơn xin “Điểm H” và đủ các điều kiện sau: - Sinh viên đã đăng ký, được xếp thời khóa biểu và hoàn thành các phần bắt buộc của môn học như: đi học đầy đủ, dự các lần kiểm tra quá trình, hoàn tất các phần thí nghiệm, thực hành,…; - Đã nộp đủ học phí của học kỳ tương ứng; - Sinh viên có tên trong danh sách đủ điều kiện tham dự kỳ thi.",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Thủ tục xin ghi nhận điểm H: Đối với sinh viên có lý do chính đáng vắng trong buổi kiểm tra giữa kỳ, thi cuối kỳ, thi chứng chỉ,…: - Do trùng lịch học, lịch thi sinh viên phải nộp đơn Hoãn thi trong thời gian quy định được công bố cùng lịch thi; được cử đi thi các kỳ thi ngoài trường, tham dự các chuyên đề ngắn hạn, các hoạt động đoàn thể xã hội,… thì sinh viên phải nộp đơn Hoãn thi ngay khi sự việc phát sinh kèm theo các xác nhận cần thiết, không trễ hơn ngày xin được vắng thi. - Trường hợp ốm đau hoặc tai nạn phải nhập viện, sinh viên nộp đơn Hoãn thi kèm giấy xác nhận nhập viện (hoặc ra viện) của bệnh viện trong vòng 5 ngày tính từ ngày vắng thi (chỉ tính ngày làm việc). Trường sẽ kiểm tra các hồ sơ minh chứng này khi cần thiết. - Nhà có tang (ông bà, cha mẹ, anh chị em ruột): sinh viên nộp đơn Hoãn thi trong vòng 5 ngày tính từ ngày vắng thi kèm theo minh chứng là giấy chứng tử và giấy xác nhận thân nhân.",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Dự thi lại để thay điểm H: - Sinh viên có điểm H là điểm kiểm tra tập trung giữa kỳ: Trường sẽ xếp kỳ thi phụ cho trường hợp này trong cùng học kỳ. - Sinh viên có điểm H là điểm kiểm tra cuối kỳ học kỳ dự thính: Trường sẽ xếp kỳ thi phụ cho trường hợp này trong cùng học kỳ (trừ môn tiếng Anh và cơ sở tin học sinh viên tự đăng ký thi lại). - Sinh viên có điểm H là điểm thi cuối kỳ: Trong thời hạn 01 năm học kế tiếp, sinh viên có quyết định điểm H phải theo dõi lịch học, lịch thi (tất cả các học kỳ kể cả trong học kỳ dự thính) để đăng ký xóa điểm H khi Trường có tổ chức đánh giá phần tương ứng của môn học. Trường hợp môn học không mở trong năm học này, sinh viên nộp đơn đề nghị đăng ký dự thi khi điểm H còn thời hạn, Trường sẽ tổ chức thi lại môn học hoặc môn tương đương cho sinh viên. - Sau thời hạn 1 năm, nếu sinh viên chưa có điểm đánh giá môn học thay cho điểm H, điểm H được chuyển thành điểm 0 và sinh viên phải đăng ký học lại môn học nếu điểm môn học không đạt.",
+                  "page_start": 18
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Một môn học A được ghi nhận “điểm miễn” (gọi là “điểm M”) cho các trường hợp sau:",
+              "page_start": 18,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Trường hợp 1: Sinh viên đã hoàn thành môn học tương đương tại Trường, nộp đơn đề nghị xét công nhận kết quả học tập, nếu sinh viên được xét công nhận điểm miễn sẽ được ghi điểm M hoặc ghi nhận điểm theo kết quả môn tương đương đã đạt được. 19",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Trường hợp 2: Sinh viên đã hoàn thành chương trình học tại Trường đại học khác, sinh viên thuộc diện chuyển trường hoặc chuyển từ nước ngoài về sẽ được xem xét chuyển điểm các môn học theo quy định tại Điều 27 quy chế này. Điểm môn học được công nhận miễn sẽ được ghi điểm M hoặc ghi nhận điểm theo kết quả môn tương đương đã đạt được.",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trường hợp 3: Khi sinh viên đã hoàn tất một số môn học đặc thù (như Tiếng Anh, Cơ sở tin học, Kỹ năng,…) hoặc môn có điểm môn học là kết quả thi chứng chỉ đầu ra và đạt yêu cầu chứng chỉ theo quy định của Trường. Môn học được xét công nhận điểm (điểm M hoặc điểm tương đương) ở trường hợp 1, 2 sẽ được ghi điểm trong phần điểm bảo lưu (nằm ngoài bảng điểm các học kỳ sinh viên học tại Trường, được công nhận tín chỉ tích lũy và tính vào điểm trung bình tích lũy). Điểm M không được tính vào ĐTBHK và ĐTBTL. Số tín chỉ của môn học có điểm M được tính vào tổng số tín chỉ tích lũy.",
+                  "page_start": 19
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Điểm “Rút môn học” (gọi là “Điểm R”) được Phòng đại học xét và quyết định cấp cho một sinh viên theo các điều kiện sau: - Có kết quả đăng ký môn học thành công trong học kỳ; - Đã nộp đủ học phí của học kỳ tương ứng; - Sinh viên có đơn đề nghị không tham gia đánh giá một hoặc một số môn học trong thời khóa biểu nhận điểm R. Sinh viên không được phép rút các môn học theo quy định tại Điều 13 Quy chế này. Thời hạn nộp đơn xin nhận điểm R là 7 tuần đầu của học kỳ chính, 2 tuần đầu của học kỳ hè, trừ các trường hợp có lý do bất khả kháng có nộp chứng cứ kèm theo. Các cột điểm (nếu có) của môn học đã được cấp quyết định điểm R không tính vào kết quả học tập của sinh viên.",
+              "page_start": 19,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Điểm chưa hoàn tất (“điểm K”) dùng để ghi nhận kết quả học tập chưa hoàn tất của một số môn học đặc thù (như Cơ sở tin học, Tiếng Anh, môn kỹ năng,…). Sinh viên được ghi nhận điểm K sẽ không thuộc diện xét học bổng năm học trong năm học xét học bổng. Điểm K không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy của sinh viên. Điểm chưa hoàn tất (“điểm P”) dùng để ghi nhận đã đạt kết quả đánh giá môn học ở mã môn học tiếng Anh cuối nhưng chưa đạt được điều kiện chuẩn đầu ra. Điểm P được tính khi xét điều kiện tiên quyết các môn học trước (trừ học kỳ cuối của chương trình đào tạo). Điểm P không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy của sinh viên nhưng sinh viên vẫn được tham gia xét học bổng năm học (trừ năm cuối).",
+              "page_start": 19,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "“Điểm vắng thi không phép” (gọi là “điểm V”) dùng để ghi nhận trường hợp sinh viên đủ điều kiện dự thi và có tên trong danh sách thi nhưng vắng thi không có lý do chính đáng.",
+              "page_start": 19,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Ngoài việc ghi nhận điểm 0 (không) theo kết quả thi, Điểm 0 (không) còn được ghi nhận trong các trường hợp sau: 20 - Đối với kỳ thi chứng chỉ quốc tế đầu ra các môn Cơ sở tin học: Sinh viên không đăng ký dự thi và không làm đơn ghi nhận điểm K; Sinh viên đăng ký dự thi nhưng không đóng lệ phí thi và không hoàn tất thủ tục dự thi; - Sinh viên đã được ghi nhận điểm H cho các môn học nhưng không thi lại trong thời hạn 1 năm.",
+              "page_start": 19,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "26",
+          "title": "Đánh giá kết quả học tập",
+          "page_start": 20,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Kết quả học tập của sinh viên được đánh giá sau từng học kỳ, dựa trên kết quả các môn học nằm trong yêu cầu của CTĐT mà sinh viên đã học và có điểm theo các tiêu chí sau đây:",
+              "page_start": 20,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Tổng số tín chỉ của những môn học mà sinh viên không đạt trong một học kỳ, trong một năm học, hoặc nợ đọng từ đầu khoá học;",
+                  "page_start": 20
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Tổng số tín chỉ của những môn học mà sinh viên đã đạt từ đầu khóa học (số tín chỉ tích lũy), tính cả các môn học được miễn học, được công nhận tín chỉ;",
+                  "page_start": 20
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Điểm trung bình của những môn học mà sinh viên đã học trong một học kỳ (điểm trung bình học kỳ, ĐTBHK), trong một năm học (điểm trung bình năm học, ĐTBNH) hoặc tính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ (điểm trung bình tích lũy, ĐTBTL), tính theo điểm chính thức của môn học và trọng số là số tín chỉ của môn học đó.",
+                  "page_start": 20
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Kết quả học tập trong học kỳ phụ (hè) được tính vào kết quả học tập trong học kỳ chính (học kỳ 2). Kết quả học tập trong học kỳ dự thính được ghi nhận vào điểm bảo lưu (nằm ngoài bảng điểm các học kỳ sinh viên học tại Trường, được công nhận tín chỉ tích lũy và tính vào điểm trung bình tích lũy).",
+              "page_start": 20,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên được xếp loại học lực căn cứ vào điểm trung bình học kỳ, điểm trung bình tích lũy, theo quy định xếp loại ở Bảng 3. Trường hợp xếp loại học lực nhằm mục đích khen thưởng được thực hiện theo các quy định khen thưởng của Trường. Bảng 3. Xếp loại học lực STT Xếp loại học lực Thang điểm hệ 10 (điểm ĐTBHK, ĐTBNH, ĐTBTL) 1 Xuất sắc Từ 9,00 đến 10,00 2 Giỏi Từ 8,00 đến cận 9,00 3 Khá Từ 7,00 đến cận 8,00 4 Trung bình khá Từ 6,00 đến cận 7,00 5 Trung bình Từ 5,00 đến cận 6,00 6 Yếu Từ 4,00 đến cận 5,00 7 Kém Dưới 4,00 21",
+              "page_start": 20,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học (gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi tắt là",
+              "page_start": 21,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "M",
+                  "text": ", cụ thể như sau:",
+                  "page_start": 21
+                },
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Trình độ năm thứ nhất: N < M;",
+                  "page_start": 21
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Trình độ năm thứ hai: M ≤ N < 2M;",
+                  "page_start": 21
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trình độ năm thứ ba: 2M ≤ N < 3M;",
+                  "page_start": 21
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Trình độ năm thứ tư: 3M ≤ N < 4M;",
+                  "page_start": 21
+                },
+                {
+                  "type": "point",
+                  "point": "đ",
+                  "text": "Trình độ năm thứ năm: 4M ≤ N < 5M.",
+                  "page_start": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "27",
+          "title": "Cách tính điểm trung bình học kỳ và tích lũy",
+          "page_start": 21,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Số tín chỉ tích lũy (STCTL) là tổng số tín chỉ của các môn học (theo CTĐT) sinh viên đã đạt từ đầu khóa học, kể cả các môn học được bảo lưu, được công nhận tín chỉ. STCTL được tính 01 lần cho mỗi mã số môn học có điểm đạt.",
+              "page_start": 21,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Điểm trung bình học kỳ (ĐTBHK) là điểm trung bình của tất cả các môn học (theo CTĐT) mà sinh viên đã học trong một học kỳ, tính theo điểm chính thức của môn học và trọng số là số tín chỉ của môn học đó.",
+              "page_start": 21,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Điểm trung bình tích lũy (ĐTBTL) là điểm trung bình của tất cả các môn học (theo CTĐT) mà sinh viên đã học kể từ khi nhập học cho đến thời điểm tính bao gồm cả các môn học được bảo lưu và được công nhận điểm, tính theo điểm chính thức của môn học và trọng số là số tín chỉ của môn học đó.",
+              "page_start": 21,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Điểm trung bình học kỳ và điểm trung bình tích lũy được tính theo công thức sau và được làm tròn đến 2 chữ số thập phân. Trong đó: A là điểm trung bình học kỳ hoặc điểm trung bình tích lũy ai là điểm chính thức của môn học thứ i ni là số tín chỉ của môn học thứ i n là tổng số môn học. Các môn có điểm chữ theo bảng 2 không tính vào ĐTBHK, ĐTBTL (trừ đối với các môn có điểm F, điểm V tính như điểm 0 vẫn tính vào ĐTBHK, ĐTBTL). Các môn học được công nhận điểm bảo lưu không tính vào ĐTBHK, chỉ tính ĐTBTL.",
+              "page_start": 21,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "28",
+          "title": "Công nhận kết quả học tập và chuyển đổi tín chỉ",
+          "page_start": 21,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Kết quả học tập của sinh viên đã tích lũy từ một trình độ đào tạo khác, một ngành đào tạo hoặc một chương trình đào tạo khác, một khóa học khác hoặc từ một cơ sở đào tạo   = =  = n i i n i i i n n a A 1 1 22 khác được Trường xem xét công nhận, chuyển đổi sang tín chỉ của những môn học trong chương trình đào tạo theo học.",
+              "page_start": 21,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Trường thông báo quy định việc công nhận kết quả học tập và chuyển đổi tín chỉ trên Cổng thông tin sinh viên. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng học tập tối thiểu của chương trình đào tạo.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Phòng Đại học, Phòng Khảo thí và Kiểm định chất lượng phối hợp với các đơn vị quản lý chuyên môn xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá môn học và các điều kiện bảo đảm chất lượng thực hiện chương trình để công nhận, chuyển đổi theo từng môn học hoặc công nhận, chuyển đổi theo từng nhóm môn học.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên nộp đơn đề nghị công nhận kết quả học tập và chuyển đổi tín chỉ đầu mỗi học kỳ.",
+              "page_start": 22,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "29",
+          "title": "Phúc khảo, khiếu nại điểm và xem lại bài thi",
+          "page_start": 22,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Để phúc khảo bài thi, sinh viên nộp đơn phúc khảo trực tuyến trên Cổng thông tin sinh viên. Quy trình phúc khảo và khiếu nại điểm được thực hiện theo quy định về Khảo thí và đo lường kết quả học tập và Thủ tục phúc khảo bài thi của Trường.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sau khi có kết quả phúc khảo bài thi, nếu có nhu cầu xem lại bài thi, sinh viên nộp đơn xin xem lại bài thi trực tuyến trên Cổng thông tin sinh viên.",
+              "page_start": 22,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "30",
+          "title": "Thông báo điểm và xác nhận kết quả học tập",
+          "page_start": 22,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sau khi có kết quả chính thức về điểm thi, Phòng Khảo thí và Kiểm định chất lượng chuyển điểm vào Cơ sở dữ liệu điểm và công bố điểm trên Cổng thông tin sinh viên. Từ ngày thi đến ngày công bố điểm thi trên hệ thống của Trường tối đa là 15 ngày (không tính ngày nghỉ, ngày lễ, tết).",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Bản gốc bảng ghi điểm được lưu tại Phòng Khảo thí và Kiểm định chất lượng. Ngay khi có đầy đủ kết quả đánh giá các môn học trong học kỳ, sinh viên có thể xem được bảng điểm đánh giá tất cả các môn đã đăng ký học trên Cổng thông tin sinh viên. Bảng tổng hợp này còn có thông tin về điểm trung bình học tập, số tín chỉ tích lũy để sinh viên kiểm tra, theo dõi tiến độ học tập của bản thân.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên có trách nhiệm xem và đối chiếu điểm của mình trên Cổng thông tin sinh viên, nộp đơn phúc khảo nếu có nhu cầu, hoặc kiến nghị khác về kết quả điểm trong thời gian thông báo phúc khảo điểm của Phòng Khảo thí và Kiểm định chất lượng.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Trong quá trình học, sinh viên có quyền đề nghị Phòng Đại học cấp bảng điểm chính thức của một hay nhiều học kỳ đã học. Bảng điểm này ghi kết quả học tập (đạt hoặc không đạt) của tất cả các môn học mà sinh viên có đăng ký trong học kỳ.",
+              "page_start": 22,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Sinh viên tốt nghiệp được cấp bảng điểm tốt nghiệp là kết quả toàn bộ các môn học đã đạt trong khóa học của sinh viên tại Trường. 23",
+              "page_start": 22,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "IV",
+      "title": "XÉT VÀ CÔNG NHẬN TỐT NGHIỆP",
+      "page_start": 23,
+      "articles": [
+        {
+          "type": "article",
+          "article": "31",
+          "title": "Xét và công nhận tốt nghiệp",
+          "page_start": 23,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên hoàn tất các môn học trong CTĐT ngành/chuyên ngành và thỏa các điều kiện quy định tại khoản 2 Điều này sẽ được Trường xét công nhận tốt nghiệp.",
+              "page_start": 23,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên được công nhận và cấp bằng tốt nghiệp hệ chính quy theo ngành đào tạo chính nếu hội đủ các điều kiện sau đây: - Được công nhận là sinh viên hệ chính quy tập trung của Trường theo đúng ngành cấp bằng; - Cho đến thời điểm xét tốt nghiệp không bị kỷ luật ở mức đình chỉ học tập hoặc không bị truy cứu trách nhiệm hình sự; - Có các chứng chỉ giáo dục quốc phòng và chứng chỉ giáo dục thể chất; - Hoàn tất toàn bộ CTĐT của ngành/chuyên ngành, tích lũy đủ số tín chỉ (hoặc môn học) theo CTĐT cho khóa ngành đào tạo và có ĐTBTL không dưới 5,00; - Đạt các yêu cầu về chuẩn đầu ra của CTĐT; - Đạt các yêu cầu về Điểm rèn luyện toàn khóa được quy định trong Quy chế Công tác sinh viên hiện hành; - Đăng ký dự xét tốt nghiệp trên Cổng thông tin sinh viên. - Hoàn thành nghĩa vụ học phí và các nghĩa vụ khác với Trường.",
+              "page_start": 23,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hội đồng xét tốt nghiệp do Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách đào tạo làm chủ tịch, Trưởng phòng Đại học làm thư ký, Trưởng khoa chuyên môn, Trưởng phòng Công tác học sinh - sinh viên, Trưởng phòng Thanh tra, pháp chế và an ninh làm Ủy viên. Hội đồng xét tốt nghiệp Trường họp để tiến hành xem xét và thông qua danh sách những sinh viên đủ điều kiện tốt nghiệp. Dựa trên đề nghị của Hội đồng xét tốt nghiệp, Hiệu trưởng ra quyết định công nhận tốt nghiệp.",
+              "page_start": 23,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên tốt nghiệp được nhận bằng tốt nghiệp đại học, văn bằng trình độ tương đương theo đúng tên ngành đã được đào tạo cấp bằng tốt nghiệp trong thời hạn 30 ngày từ khi có quyết định công nhận tốt nghiệp. Ngoài ra, sinh viên tốt nghiệp được nhận Phụ lục văn bằng, bảng điểm tốt nghiệp ghi chi tiết tất cả kết quả học tập của sinh viên đã tích lũy qua từng học kỳ tại Trường, các thông tin về chuyên ngành, hạng xếp loại tốt nghiệp, chuẩn đầu ra, kết quả rèn luyện và thành tích đặc biệt khác (nếu có).",
+              "page_start": 23,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Việc xếp loại thứ hạng tốt nghiệp được tính theo Điểm trung bình tích lũy toàn khóa quy định tại Điều 27 theo Bảng 4. Bảng 4. Xếp loại tốt nghiệp STT Xếp loại tốt nghiệp Điểm trung bình tích lũy toàn khóa 1 Xuất sắc Từ 9,00 đến 10,00 2 Giỏi Từ 8,00 đến cận 9,00 3 Khá Từ 7,00 đến cận 8,00 4 Trung bình khá Từ 6,00 đến cận 7,00 5 Trung bình Từ 5,00 đến cận 6,00 24",
+              "page_start": 23,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Thứ hạng tốt nghiệp của những sinh viên có kết quả học tập toàn khóa đối với loại giỏi và xuất sắc, thứ hạng tốt nghiệp sẽ bị giảm đi một mức nếu thuộc một trong các trường hợp sau:",
+              "page_start": 24,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Khối lượng của các môn học phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình;",
+                  "page_start": 24
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học. Hiệu trưởng căn cứ vào kết quả rèn luyện, quyết định kỷ luật của sinh viên để xem xét và quyết định việc giảm đi một mức xếp loại tốt nghiệp.",
+                  "page_start": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "32",
+          "title": "Thu hồi văn bằng chứng chỉ đã cấp",
+          "page_start": 24,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các văn bằng hay chứng chỉ sẽ bị thu hồi trong các trường hợp sau : - Bị phát hiện có chứng cớ gian lận trong dự tuyển đầu vào, trong học tập, khảo thí; - Bị phát hiện có chứng cớ vi phạm Quy định về văn bằng, chứng chỉ của Trường.",
+              "page_start": 24,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Hiệu trưởng sẽ ra quyết định hủy bỏ việc công nhận tốt nghiệp, hủy bỏ công nhận hoàn thành khóa học và thu hồi văn bằng, chứng chỉ, chứng nhận mà Trường đã cấp; trong trường hợp cần thiết, việc thu hồi văn bằng, chứng chỉ, chứng nhận được thông báo rộng rãi trên các phương tiện thông tin đại chúng và chuyển hồ sơ cho cơ quan pháp luật thụ lý.",
+              "page_start": 24,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "33",
+          "title": "Về những trường hợp chưa được công nhận tốt nghiệp Những sinh viên không đủ điều kiện cấp bằng tốt nghiệp được bảo lưu các môn học có kết quả từ 5,0 trở lên. Sinh viên không tốt nghiệp được cấp chứng nhận các môn học đã tích lũy trong chương trình đào tạo của Trường.",
+          "page_start": 24,
+          "clauses": []
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "V",
+      "title": "CÁC ĐIỀU KHOẢN KHÁC",
+      "page_start": 24,
+      "articles": [
+        {
+          "type": "article",
+          "article": "34",
+          "title": "Xử lý kỷ luật đối với sinh viên vi phạm",
+          "page_start": 24,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên nếu vi phạm một trong các điều kiện sau đây sẽ không đủ điều kiện tham dự đánh giá quá trình, đánh giá giữa kỳ và kết thúc môn học: - Bị ghi nhận nợ học phí của học kỳ hiện tại, sinh viên sẽ không đủ điều kiện dự thi tất cả các môn học trong học kỳ đó và bị ghi điểm F. - Vi phạm nghiêm trọng kỷ luật học tập, nội quy học đường, gian dối trong học tập. Hình thức xử lý sẽ căn cứ theo quyết định kỷ luật của Trường. - Nằm trong danh sách không đảm bảo tối thiểu 80% yêu cầu môn học đã được quy định.",
+              "page_start": 24,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Trong khi dự kiểm tra thường xuyên, thực hiện tiểu luận, báo cáo, thi giữa kỳ, thi kết thúc môn học, thực hiện đồ án/khóa luận…, nếu vi phạm quy chế, sinh viên sẽ bị xử lý kỷ luật theo quy định của Quy chế Công tác sinh viên hiện hành của Trường.",
+              "page_start": 24,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên vi phạm các Quy định, Quy tắc ứng xử khác của Trường bị xử lý kỷ luật theo quy định của Quy chế Công tác sinh viên hiện hành của Trường.",
+              "page_start": 24,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Nếu sinh viên vi phạm quy chế tuyển sinh sẽ bị xử lý kỷ luật theo các quy định của Quy chế tuyển sinh đại học hệ chính quy của Trường và của Bộ Giáo dục & Đào tạo. 25",
+              "page_start": 24,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "35",
+          "title": "Học phí",
+          "page_start": 25,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Phòng Tài chính của Trường có trách nhiệm tính và thông báo học phí theo quy định, thời gian nộp và hướng dẫn cách thức nộp học phí cho sinh viên theo học kỳ hoặc theo đợt đăng ký môn học.",
+              "page_start": 25,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên thực hiện nghĩa vụ học phí theo Quy định về việc quản lý nguồn thu từ hoạt động giáo dục của Trường. Sinh viên có nghĩa vụ nộp học phí trong thời gian Trường thông báo để đảm bảo các quyền lợi học và thi. Sinh viên không hoàn thành nghĩa vụ học phí đúng thời gian quy định (và không được xét gia hạn học phí) sẽ không đủ điều kiện tham gia nhóm học, không đủ điều kiện dự thi tất cả các môn học và không được công nhận điểm môn học. Phần học phí này được ghi nợ và sinh viên có nghĩa vụ hoàn thành học phí này ở các lần đóng tiếp theo.",
+              "page_start": 25,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "36",
+          "title": "Khen thưởng Hàng năm, tùy khả năng và nguồn tài trợ, Trường sẽ có chính sách học bổng khuyến khích học tập hoặc khen thưởng sinh viên có thành tích cao trong học tập, rèn luyện, tham gia hoạt động ngoại khóa và hoạt động phong trào.",
+          "page_start": 25,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "37",
+          "title": "Hiệu lực thi hành",
+          "page_start": 25,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy chế này được áp dụng cho các khóa đào tạo đại học chính quy tuyển sinh từ năm 2021 trở về sau. Đối với chương trình đại học chất lượng cao, ngoài việc tuân thủ theo Quy chế này còn tuân thủ theo quy định đào tạo chất lượng cao của Trường.",
+              "page_start": 25,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy chế này được thông báo công khai trên Cổng thông tin sinh viên cho tất cả sinh viên đại học hệ chính quy của Trường.",
+              "page_start": 25,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Phòng Khảo thí và Kiểm định chất lượng, Phòng Thanh tra, pháp chế và an ninh có trách nhiệm giám sát và kiểm tra việc thực hiện quy định này trong toàn trường. Tất cả các trường hợp làm khác quy định chưa được sự phê duyệt của Hiệu trưởng phải được xử lý kỷ luật theo quy định của Trường.",
+              "page_start": 25,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Trong quá trình thực hiện, nếu cần sử đổi, bổ sung cho phù hợp với tình hình thực tế, các đơn vị gửi ý kiến về Phòng Đại học để tổng hợp, trình Hiệu trưởng xem xét, quyết định./. Q. HIỆU TRƯỞNG (Đã ký) TS. Trần Trọng Đạo",
+              "page_start": 25,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM\nTRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nQUY CHẾ TỔ CHỨC VÀ QUẢN LÝ ĐÀO TẠO\nTRÌNH ĐỘ ĐẠI HỌC\n(Ban hành kèm Quyết định số:1830 /QĐ-TĐT, ngày 08 tháng 9 năm 2021\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nChương I. NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi và đối tượng áp dụng\n1. Quy chế này quy định tổ chức và quản lý đào tạo trình độ đại học hệ chính quy theo\nhệ thống tín chỉ tại Trường Đại học Tôn Đức Thắng, bao gồm: Chương trình đào tạo, tổ chức\nđào tạo, đánh giá kết quả học tập, xét và công nhận tốt nghiệp và những quy định khác.\n2. Quy chế này áp dụng đối với sinh viên chương trình đào tạo tiêu chuẩn, chương trình\nđào tạo chất lượng cao, chương trình đào tạo giảng dạy bằng tiếng Anh hệ chính quy trình\nđộ đại học tại Trường Đại học Tôn Đức Thắng (sau đây gọi tắt là Trường) theo hình thức\ntích lũy tín chỉ.\nĐiều 2. Chương trình đào tạo\n1. Chương trình đào tạo (CTĐT) được xây dựng theo đơn vị tín chỉ, cấu trúc từ các\nmôn học hoặc học phần (gọi chung là môn học), trong đó phải có đủ các môn học bắt buộc\nvà đáp ứng chuẩn chương trình đào tạo theo quy định hiện hành của Bộ Giáo dục và Đào\ntạo (GD&ĐT). Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ, chương\ntrình đào tạo phải thể hiện rõ khối lượng học tập chung và riêng theo từng ngành.\n2. Nội dung, chuẩn đầu ra của CTĐT áp dụng chung đối với các hình thức và đối tượng\nngười học khác nhau. Đối với người đã tốt nghiệp trình độ khác hoặc ngành khác, khối lượng\nhọc tập thực tế được xác định trên cơ sở công nhận, hoặc chuyển đổi tín chỉ đã tích lũy và\nmiễn trừ môn học trong chương trình đào tạo trước.\n3. Chương trình được xây dựng đảm bảo cơ cấu nội dung các môn học, thời gian đào\ntạo, tỷ lệ phân bổ thời lượng giữa các môn học khoa học cơ bản, các môn kỹ năng, các môn\ncơ sở và chuyên ngành, giữa lý thuyết và thực hành, thực tập nhằm giúp sinh viên nắm vững\ncác kiến thức giáo dục đại cương và các kiến thức, kỹ năng cơ sở của ngành và liên ngành\nbảo đảm người học tích lũy được kiến thức, đạt được năng lực cần thiết theo chuẩn đầu ra\ntrình độ đại học chính quy.\n4. CTĐT cung cấp kế hoạch học tập chuẩn toàn khoá để định hướng cho sinh viên.\nThời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải\nphù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời\nđảm bảo đa số sinh viên hoàn thành CTĐT.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\n5. CTĐT đại học tiêu chuẩn là chương trình đào tạo được xây dựng theo chuẩn CTĐT\nvà các quy định hiện hành của Bộ GD&ĐT; đáp ứng chuẩn đầu ra và mục tiêu đào tạo của\ntrình độ đào tạo tương ứng theo khung trình độ quốc gia Việt Nam; được xây dựng theo tiêu\nchuẩn và tham khảo các chương trình của đại học uy tín trên thế giới; có mức trần học phí\ntheo quy định hiện hành của Chính phủ.\n6. CTĐT đại học chất lượng cao được xây dựng trên chương trình tiêu chuẩn; đồng\nthời có các chuẩn đầu ra cao hơn chương trình tiêu chuẩn về kỹ năng tiếng Anh, kỹ năng\nmềm, kỹ năng chuyên môn, các chứng chỉ nghề quốc gia /quốc tế.\n7. CTĐT đại học giảng dạy bằng tiếng Anh được xây dựng trên chương trình tiêu chuẩn\nhoặc chương trình chất lượng cao; trong đó việc dạy - học các môn học trong CTĐT bằng\nngôn ngữ tiếng Anh (trừ các môn về Lý luận chính trị, Giáo dục quốc phòng, Luật hoặc các\nmôn học đặc thù); sinh viên phải đạt điều kiện đầu vào tiếng Anh theo quy định của Trường\nđể được xét học chương trình này.\n8. CTĐT phải được công khai đối với người học trước khi tuyển sinh và khi bắt đầu\nkhóa học; những thay đổi, điều chỉnh liên quan đến CTĐT được thực hiện theo quy định\nhiện hành và công bố trước khi áp dụng, không gây tác động bất lợi cho sinh viên.\nĐiều 3. Phương thức tổ chức đào tạo và hình thức đào tạo\n1. Trường tổ chức đào tạo theo phương thức đào tạo tín chỉ với hình thức đào tạo chính\nquy được quy định tại khoản 2 và khoản 3 Điều này.\n2. Đào tạo theo tín chỉ\na) Là phương thức tổ chức đào tạo theo từng lớp môn học, cho phép sinh viên tích lũy\ntín chỉ của từng môn học và thực hiện CTĐT theo kế hoạch học tập của cá nhân, phù hợp\nvới kế hoạch giảng dạy của Trường;\nb) Sinh viên không đạt một môn học bắt buộc sẽ phải học lại môn học đó hoặc học một\nmôn tương đương theo quy định trong CTĐT, hoặc học một môn thay thế nếu môn học đó\nkhông còn được giảng dạy;\nc) Sinh viên không đạt một môn học tự chọn sẽ phải học lại môn học đó hoặc có thể\nchọn học một môn học tự chọn khác theo quy định trong CTĐT.\n3. Hình thức đào tạo chính quy\na. Các hoạt động giảng dạy được thực hiện tại Trường, những hoạt động thực hành,\nthực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài Trường;\nb. Thời gian tổ chức hoạt động giảng dạy chính quy được sắp xếp trong khoảng từ 06\ngiờ đến 20 giờ các ngày trong tuần từ thứ 2 đến thứ 7. Tùy theo tình hình thực tế của Trường,\nHiệu trưởng quy định cụ thể: thời gian hoạt động giảng dạy; thời gian tổ chức những hoạt\nđộng đặc thù của CTĐT; thời gian tổ chức các khóa học, môn học, lịch thi trong các trường\nhợp ngoại lệ (chủ nhật, ca tối) để sinh viên có thể linh hoạt đăng ký học, thi.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\nc. Phòng Đại học sắp xếp thời khóa biểu cho các nhóm lớp môn học theo số lượng sinh\nviên, số nhóm môn học cần tổ chức và điều kiện cơ sở vật chất của Trường.\nd. Tối đa 30% tổng khối lượng của CTĐT được thực hiện bằng lớp học trực tuyến.\nTrong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác,\nTrường thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo. Tổ chức các lớp học phương\nthức trực tuyến khi đáp ứng Quy định đào tạo trực tuyến của Trường và có các giải pháp bảo\nđảm chất lượng giảng dạy trực tuyến.\nĐiều 4. Tín chỉ, Môn học trong Chương trình đào tạo\n1. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được tính\ntương đương 50 giờ học tập, bao gồm: thời gian dự giờ giảng (15 giờ/tiết lý thuyết hoặc 30\ngiờ/tiết thực hành, thí nghiệm, thảo luận trên lớp); 30 giờ/tiết học có hướng dẫn, tự học,\nnghiên cứu, trải nghiệm và 5 giờ/tiết tham dự kiểm tra, đánh giá quá trình, giữa kỳ, cuối kỳ.\nTrong đó 01 giờ/tiết trên lớp được tính là 50 phút.\n2. Số tín chỉ, số giờ/tiết của mỗi môn học được xác định phù hợp với mục tiêu, chuẩn\nđầu ra của môn học được thể hiện trong CTĐT theo từng ngành.\n3. Môn học là đơn vị cấu thành của CTĐT, gồm tập hợp những kiến thức về một lĩnh\nvực chuyên môn và được tổ chức giảng dạy trọn vẹn trong một học kỳ. Trường hợp ngoại lệ\nđối với các môn học đặc biệt do Hiệu trưởng quy định về hình thức và thời gian tổ chức\ngiảng dạy. Hoạt động giảng dạy của môn học bao gồm một hay kết hợp một số trong các\nhình thức sau:\n- Giảng dạy lý thuyết được tổ chức thành các lớp môn học;\n- Giảng dạy, hướng dẫn thực hành, bài tập được tổ chức theo lớp hay theo từng nhóm;\n- Giảng dạy thí nghiệm, thực hành tại phòng thí nghiệm, xưởng hoặc các cơ sở bên\nngoài;\n- Hướng dẫn thực tập, tập sự nghề nghiệp tại các cơ sở bên ngoài;\n- Hướng dẫn đồ án, tiểu luận và chuyên đề theo từng đề tài;\n- Giảng dạy trực tuyến;\n- Các hình thức giảng dạy khác được hiệu trưởng phê duyệt.\n4. Mỗi môn học được ký hiệu bằng một mã số riêng, có số tín chỉ xác định. Một số\nmôn học có các môn tiên quyết, môn học trước hay môn học song hành (xem định nghĩa tại\nkhoản 6 Điều này).\n5. Mỗi môn học đều có đề cương chi tiết thể hiện các nội dung: thông tin chung của\nmôn học (số tín chỉ, số giờ lý thuyết/thực hành, điều kiện môn tiên quyết, môn học trước,\nmôn học song hành); mục tiêu môn học; chuẩn đầu ra môn học; tóm tắt nội dung môn học;\nyêu cầu đối với người học; tài liệu học tập; hình thức đánh giá môn học; nội dung chi tiết\nmôn học,… Đề cương chi tiết môn học được biên soạn và cập nhật theo quy định của Trường,\nđược công khai cho người học.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 4,
+      "text": "4\n6. Phân loại môn học\na. Môn học bắt buộc\nMôn học bắt buộc là các môn học trong CTĐT có mục tiêu cung cấp những nội dung\nchính yếu của ngành và chuyên ngành đào tạo hoặc hướng chuyên môn mà sinh viên bắt\nbuộc phải hoàn tất để đạt yêu cầu được xét tốt nghiệp theo ngành, chuyên ngành đào tạo\nhoặc hướng chuyên môn (mà sinh viên lựa chọn hoặc được phân vào).\nb. Môn học và nhóm môn học tự chọn\nĐây là các môn học trong CTĐT có mục tiêu cung cấp những nội dung đào tạo cần\nthiết cho định hướng nghề nghiệp mà sinh viên có thể lựa chọn đăng ký học. Môn học tự\nchọn được xếp theo từng nhóm. Để đủ điều kiện tốt nghiệp, sinh viên phải tích lũy đủ số tín\nchỉ hoặc số môn học tối thiểu quy định cho nhóm môn học tự chọn tương ứng. Đối với một\nmôn học tự chọn nếu không đạt, sinh viên có quyền chọn đăng ký học lại chính môn học đó\nhoặc lựa chọn môn học tự chọn khác cùng nhóm để đảm bảo tích lũy đủ số tín chỉ. Sinh viên\nkhông nhất thiết phải học lại môn học tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của\nnhóm. Sinh viên có thể nộp đơn đề nghị không tính điểm Trung bình chung tích lũy khi xét\ntốt nghiệp đối với môn học tự chọn mà sinh viên tích lũy vượt tín chỉ so với yêu cầu của\nCTĐT.\nc. Môn học thay thế, môn học tương đương\nMôn học tương đương được hiểu là một hay một nhóm các môn học thuộc CTĐT một\nkhóa - ngành khác đang tổ chức đào tạo tại Trường được phép tích lũy để thay cho một môn\nhay một nhóm môn học trong CTĐT của ngành đào tạo.\nKhái niệm môn học thay thế được sử dụng khi một môn học có trong CTĐT nhưng nay\nkhông còn tổ chức giảng dạy nữa và được thay thế bằng một môn học khác đang tổ chức\ngiảng dạy. Các môn học hay nhóm các môn học thay thế hoặc tương đương do khoa quản lý\nchuyên môn đề xuất và là các phần bổ sung cho CTĐT trong quá trình vận hành. Môn học\nthay thế hoặc tương đương được áp dụng cho tất cả các khóa, các ngành hoặc chỉ được áp\ndụng hạn chế cho một số khóa - ngành.\nd. Môn học tiên quyết\nMôn học A là môn học tiên quyết của môn học B, khi điều kiện bắt buộc để đăng ký\nhọc môn học B là sinh viên đã đăng ký học và đạt môn học A (theo thang điểm đánh giá\ntrong Chương III của quy chế này).\ne. Môn học trước\nMôn học A là môn học trước của môn học B, khi điều kiện bắt buộc để đăng ký học\nmôn học B là sinh viên đã đăng ký và được xác nhận học xong môn học A (có thể chưa đạt,\ntrừ trường hợp sinh viên rút môn học hoặc không đủ điều kiện dự thi cuối kỳ môn học quy\nđịnh tại khoản 1 và khoản 4 Điều 25 Quy chế này). Sinh viên được phép đăng ký học môn\nhọc B vào học kỳ tiếp sau học kỳ đã học môn học A.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 5,
+      "text": "5\nf. Môn học song hành\nMôn học A là môn học song hành của một môn học B, khi điều kiện bắt buộc để đăng\nký học môn học B là sinh viên đã đăng ký học môn học A. Sinh viên được phép đăng ký học\nmôn học B vào cùng học kỳ đã đăng ký của môn học A hoặc vào các học kỳ tiếp sau.\nChương II. TỔ CHỨC ĐÀO TẠO\nĐiều 5. Thời gian đào tạo\n1. Thời gian đào tạo theo kế hoạch học tập chuẩn toàn khóa được quy định trong CTĐT,\nphải phù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng\nthời đảm bảo đa số sinh viên hoàn thành CTĐT. Chương trình đào tạo trình độ đại học,\nchương trình đào tạo chuyên sâu đặc thù trình độ bậc 7 được thực hiện từ 04 đến 05 năm\nhọc tùy theo ngành nghề đào tạo đối với người có bằng tốt nghiệp trung học phổ thông (hoặc\ntương đương);\n2. Thời gian tối đa hoàn thành chương trình bao gồm: thời gian theo kế hoạch học tập\nchuẩn toàn khóa được quy định tại khoản 1 của Điều này, cộng với 6 học kỳ đối với các khoá\nhọc 4 năm, cộng 7 học kỳ đối với khóa học 4,5 năm; và 8 học kỳ đối với khóa học 5 năm.\nMột số trường hợp khác, Hiệu trưởng xem xét cho gia hạn thời hạn hoàn thành chương trình\nnhưng tối đa không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá (trừ\ntrường hợp chưa đủ điều kiện tốt nghiệp do chưa đạt chứng chỉ Giáo dục quốc phòng - an\nninh, giáo dục thể chất được xét gia hạn thêm 01 năm).\nĐiều 6. Kế hoạch giảng dạy và học tập\n1. Kế hoạch giảng dạy và học tập chi tiết hóa việc tổ chức thực hiện các chương trình\nđào tạo theo năm học, học kỳ, phù hợp với hình thức đào tạo và phương thức tổ chức đào\ntạo. Căn cứ vào khối lượng và nội dung kiến thức tối thiểu quy định cho các chương trình,\nTrường xây dựng kế hoạch giảng dạy và học tập, phân bổ số môn học cho từng năm học, từng\nhọc kỳ.\n2. Một năm học có hai học kỳ chính, mỗi học kỳ chính có 15 tuần thực học và từ 02\nđến 04 tuần thi (trừ các trường hợp bất khả kháng như thiên tai, dịch bệnh…). Ngoài hai học\nkỳ chính, Trường tổ chức thêm các học kỳ phụ: học kỳ hè và học kỳ dự thính để sinh viên\ncó điều kiện được học lại, học vượt. Mỗi học kỳ phụ có ít nhất 06 tuần thực học và 01 tuần\nthi (trừ các trường hợp bất khả kháng như thiên tai, dịch bệnh,…)\n3. Trường xây dựng kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt\nđộng đào tạo trong năm học cho tất cả hình thức, chương trình đào tạo, được công bố kịp\nthời tới các bên liên quan trước khi bắt đầu năm học.\n4. Kế hoạch học kỳ bao gồm kế hoạch mở lớp, hình thức dạy và học (trực tiếp hoặc\ntrực tuyến), lịch học, lịch thi của các môn học được tổ chức trong học kỳ cho các khoá học,\nchương trình đào tạo và hình thức đào tạo. Kế hoạch học kỳ được xây dựng và công bố kịp",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 6,
+      "text": "6\nthời trước mỗi học kỳ với đầy đủ thông tin cần thiết, bảo đảm thuận tiện cho sinh viên xây\ndựng kế hoạch học tập và đăng ký môn học.\n5. Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc\ncác khoá học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp bình thường\nđược bố trí đều trong các tuần của học kỳ. Trong trường hợp cần thiết phải xếp lịch học tập\ntrung thời gian, số giờ giảng đối với một môn học bất kỳ không vượt quá 15 giờ/tuần và 4\ngiờ/ngày. Các trường hợp ngoại lệ khác, Hiệu trưởng xem xét và quyết định.\nĐiều 7. Đăng ký nhập học\n1. Khi đăng ký nhập học hệ chính quy theo hệ thống tín chỉ tại Trường, sinh viên phải\nnộp đầy đủ giấy tờ, tài liệu theo quy định của Quy chế tuyển sinh đại học hiện hành của\nTrường.\n2. Sau khi xem xét thấy đủ điều kiện nhập học, Phòng Đại học trình Hiệu trưởng ký\nquyết định công nhận người đến học là sinh viên chính thức của Trường.\n3. Mọi thủ tục đăng ký nhập học phải được hoàn thành trong thời hạn được quy định\ntại Quy chế tuyển sinh đại học hiện hành của Trường.\n4. Sinh viên nhập học được Trường cung cấp đầy đủ các thông tin về mục tiêu, nội\ndung và kế hoạch học tập của các chương trình đào tạo, quy chế tổ chức và quản lý đào tạo,\ncác quy định khác của Trường (nếu có), nghĩa vụ và quyền lợi của sinh viên.\nĐiều 8. Lớp sinh viên và Giảng viên cố vấn (GVCV)\nLớp sinh viên bao gồm những sinh viên cùng ngành, cùng chương trình, cùng khóa học\nvà duy trì ổn định trong cả khóa học, để quản lý về việc thực hiện các nhiệm vụ học tập, hoạt\nđộng ngoại khóa của sinh viên. Mỗi lớp có một GVCV phụ trách và có ban cán sự lớp (lớp\ntrưởng, tổ trưởng) để phối hợp quản lý hoạt động học tập, rèn luyện và sinh hoạt của sinh\nviên.\nPhòng Đại học sắp xếp lớp sinh viên sau khi sinh viên nhập học đầu năm thứ nhất. Lớp\ncũng có thể được thành lập lại sau khi sinh viên chọn chuyên ngành. Lớp sinh viên được chia\nthành các tổ để quản lý sinh viên theo quy định.\nTổ chức hoạt động của lớp sinh viên, vai trò và trách nhiệm của GVCV được quy định\nrõ trong Quy chế Công tác sinh viên của Trường Đại học Tôn Đức Thắng.\nĐiều 9. Nhóm (lớp) môn học và điều kiện mở nhóm.\nNhóm môn học là lớp của các sinh viên cùng đăng ký một môn học, có cùng thời khoá\nbiểu của môn học trong cùng một học kỳ. Mỗi nhóm lớp môn học có một mã số riêng, số\nlượng sinh viên của một nhóm môn học được giới hạn theo yêu cầu của môn học và điều\nkiện phòng học/phòng thực hành/phòng thí nghiệm của Trường. Số lượng tối thiểu để xem\nxét mở lớp môn học trong học kỳ tùy theo từng chuyên ngành.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 7,
+      "text": "7\nCác môn học đồ án, các môn thí nghiệm, thực tập được mở theo khả năng sắp xếp đảm\nnhận của đơn vị chuyên môn và các phòng thí nghiệm/thực hành.\nĐiều 10. Tổ chức giảng dạy và học tập\n1. Tổ chức giảng dạy và học tập tại Trường thực hiện theo quy định tại Điều 3 quy chế\nnày và các quy định liên quan khác của Trường; đảm bảo phát huy năng lực chuyên môn và\ntrách nhiệm nghề nghiệp của đội ngũ giảng viên, phù hợp với quy định về chế độ làm việc\ncủa giảng viên tại Trường; phát huy vai trò chủ động đồng thời đề cao trách nhiệm của sinh\nviên, tạo điều kiện và động lực để sinh viên nỗ lực học tập, giữ vững kỷ cương học đường,\nnâng cao chất lượng và hiệu quả đào tạo; có cơ chế thanh tra, giám sát nội bộ và có hệ thống\ncải tiến chất lượng dựa trên thu thập, đánh giá ý kiến phản hồi của người học.\n2. Trường quy định chi tiết việc tổ chức giảng dạy và học tập, các quy định về trách\nnhiệm và quyền hạn của giảng viên, trách nhiệm của các đơn vị chuyên môn, các đơn vị\nquản lý, hỗ trợ liên quan, trách nhiệm và quyền hạn của sinh viên trong quy định về hoạt\nđộng dạy – học, quy định về quản lý giảng dạy và các quy định liên quan khác.\n3. Việc phân công giảng viên cho các lớp học, giảng viên giảng dạy, giảng viên hướng\ndẫn sinh viên làm thí nghiệm, thực hành, thực tập, đồ án, khoá luận và thực hiện các hoạt\nđộng học tập khác được quy định trong Quy định mời giảng và quản lý giảng viên, Quy định\nnhiệm vụ công tác giảng viên cơ hữu, Quy định về các chức danh viên chức giảng dạy của\nTrường Đại học Tôn Đức Thắng.\n4. Việc lấy ý kiến phản hồi của sinh viên về các điều kiện bảo đảm chất lượng, hiệu\nquả học tập đối với tất cả các lớp học của Trường được thực hiện 02 lần mỗi học kỳ theo thủ\ntục thực hiện công tác khảo sát cấp trường.\nĐiều 11. Đăng ký Kế hoạch học tập\n1. Đầu khóa học Trường cung cấp cho sinh viên CTĐT ngành học, quy định về công\ntác quản lý và đào tạo; bố trí GVCV cho từng lớp sinh viên. Trước mỗi học kỳ, Trường thông\nbáo cho sinh viên danh sách các môn dự kiến sẽ được giảng dạy trong học kỳ đó. GVCV\nchịu trách nhiệm quản lý sinh viên, tư vấn xây dựng kế hoạch học tập (KHHT) và thực hiện\nquá trình học tập theo đúng quy định của Trường.\n2. Sinh viên căn cứ vào điều kiện cá nhân và CTĐT để xây dựng KHHT bằng cách\nliệt kê các môn học cần phải học trong từng học kỳ của khoá học (bao gồm các môn học\nmới, một số môn học chưa đạt và các môn học đã đạt cần cải thiện điểm quy định tại Điều\n15 quy chế này). KHHT là cơ sở để sinh viên có thể đăng ký môn học trong mỗi học kỳ và\nlà cơ sở để Trường mở lớp, xếp thời khóa biểu môn học cho sinh viên. Sinh viên phải thực\nhiện đăng ký môn học dựa trên KHHT đã đăng ký trước khi học kỳ mới bắt đầu (sinh viên\nmới trúng tuyển không phải đăng ký môn học cho học kỳ đầu tiên của khóa học).\nĐiều 12. Khối lượng học tập tối thiểu, tối đa đăng ký trong học kỳ\n1. Khối lượng học tối thiểu mà sinh viên phải đăng ký trong mỗi học kỳ được thực hiện\ntheo quy định sau:",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 8,
+      "text": "8\na) Số tín chỉ tối thiểu cho mỗi học kỳ chính là 10 tín chỉ (trừ học kỳ cuối khóa học và\nsinh viên không đạt trình độ tiếng Anh quy định tại điểm b khoản 1 Điều này). Không quy\nđịnh khối lượng học tập tối thiểu đối với sinh viên ở các học kỳ phụ (học kỳ hè, học kỳ dự\nthính)\nb) Các sinh viên không đạt trình độ tiếng Anh được quy định trong Quy định đào tạo\ntiếng Anh của Trường sẽ bị hạn chế số tín chỉ đăng ký hoặc phải ngừng học các môn học\nkhác ngoại trừ môn tiếng Anh.\n2. Khối lượng học tối đa mà sinh viên có thể đăng ký trong mỗi học kỳ được thực hiện\ntheo quy định sau:\na) Sinh viên được phép đăng ký nhiều môn học hơn so với số lượng môn học theo tiến\nđộ chương trình đào tạo nhưng vẫn đảm bảo không vượt quá 3/2 khối lượng trung bình một\nhọc kỳ theo kế hoạch học tập chuẩn; và thực hiện theo đúng quy định, quy trình đăng ký\nmôn học của Trường.\nb) Trong học kỳ hè, sinh viên chỉ được đăng ký khối lượng học tập không vượt quá 18\ntín chỉ.\nc) Trong học kỳ dự thính, sinh viên chỉ được đăng ký khối lượng học tập không vượt\nquá 09 tín chỉ.\nĐiều 13. Đăng ký môn học\n1. Việc đăng ký các môn học trong mỗi học kỳ phải bảo đảm điều kiện ràng buộc của\ntừng môn học (điều kiện môn tiên quyết, môn học trước, môn học song hành, số tín chỉ tích\nlũy,...) và trình tự học tập theo mỗi CTĐT. Sinh viên sẽ bị hủy kết quả đăng ký các môn học\nkhi không thỏa điều kiện ràng buộc môn học.\n2. Đối với các môn Tập sự nghề nghiệp, Đồ án tốt nghiệp/Khóa luận tốt nghiệp hoặc\nmôn học thuộc nhóm tự chọn cuối khóa, sinh viên chỉ được đăng ký nếu bảo đảm điều kiện\nràng buộc của môn học. Trường xét và quyết định cho phép một số sinh viên có đủ năng lực\nvà điều kiện thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp thay thế cho các môn tự chọn\ncuối khóa trong CTĐT. Điều kiện, số lượng sinh viên và danh sách sinh viên được xét thực\nhiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp do Khoa chuyên môn xét. Các sinh viên trong\ndanh sách được thực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp có quyền đề xuất không\nthực hiện Đồ án tốt nghiệp/Khóa luận tốt nghiệp và phải đăng ký môn tự chọn cuối khóa để\nhoàn thành chương trình học.\n3. Quy trình đăng ký môn học được thực hiện như sau:\n- Bước 1: Sinh viên xây dựng KHHT của mỗi học kỳ bằng cách liệt kê các môn học\ncần phải học trong học kỳ đó dựa trên CTĐT, danh sách các môn học dự kiến được giảng\ndạy và tham khảo ý kiến của GVCV.\n- Bước 2: Sinh viên dựa vào KHHT và thời khóa biểu trong học kỳ do Trường công bố\nđể đăng ký môn học theo kế hoạch đăng kí môn học của Trường. Trong khoảng thời gian\nđăng ký môn học dành cho sinh viên (được sắp xếp theo khóa tuyển sinh, theo khoa), và sinh",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 9,
+      "text": "9\nviên có thể điều chỉnh việc đăng ký môn học. Sau thời gian trên, kết quả đăng ký môn học\ncủa sinh viên sẽ được cố định, sinh viên không được điều chỉnh môn học.\n- Bước 3: Trường xử lý kết quả sinh viên đã đăng ký môn học và công bố cho sinh viên\nkiểm tra, điều chỉnh nếu cần. (Sinh viên chỉ được phép điều chỉnh khi có lý do chính đáng\nnhư bị hủy nhóm môn học đăng ký lại nhóm môn học mới).\n- Bước 4: Sinh viên cập nhật kết quả đăng ký môn học và đóng học phí theo đúng thời\ngian quy định.\n4. Sinh viên phải đăng ký đúng những môn học đã đăng ký trong KHHT. Chỉ những\ntrường hợp trùng thời khoá biểu, vi phạm điều kiện ràng buộc môn học trước, môn học tiên\nquyết, sinh viên mới được xét huỷ bớt môn học đã đăng ký trong KHHT.\n5. Việc rút môn học được thực hiện như sau:\n- Chậm nhất là tuần lễ thứ 7 của học kỳ chính, tuần lễ thứ 2 của học kỳ hè, nếu thấy\nkhó khăn có thể dẫn đến kết quả học tập kém, sinh viên có thể xin phép rút môn học đã đăng\nký nhưng không được hoàn trả lại học phí. Sinh viên không được phép rút các môn học đã\nkết thúc giảng dạy theo thời khóa biểu và có kết quả đánh giá môn học do giảng viên phụ\ntrách (dành cho các môn thí nghiệm, thực hành, kỹ năng, đồ án,...).\n- Trong các học kỳ chính, số môn học còn lại sau khi rút bớt không được dưới số tín\nchỉ tối thiểu được quy định tại khoản 1 Điều 12 của Quy chế này.\n- Muốn được rút môn học, sinh viên nộp đơn trực tuyến trên Cổng thông tin sinh viên.\nNhững môn học xin rút bớt được nhận điểm rút môn học (R) trong bảng điểm học kỳ.\n7. Sinh viên đã đăng ký môn học thành công nhưng không đi học hoặc không dự thi\nkết thúc môn học sẽ bị ghi nhận điểm theo quy định tại Điều 25 của Quy chế này.\nĐiều 14. Hủy, mở thêm nhóm lớp môn học\n1. Hủy nhóm lớp môn học: Những nhóm môn học có số lượng sinh viên đăng ký ít hơn\nsố lượng tối thiểu để xem xét mở nhóm môn học theo quy định sẽ bị hủy. Trong khoảng thời\ngian đăng ký môn học, những sinh viên đã đăng ký các môn học bị hủy do không đủ điều\nkiện mở nhóm được phép đăng ký nhóm khác cùng môn học hoặc đăng ký môn học khác\nthay thế (nếu môn bị hủy chỉ mở một nhóm).\n2. Mở thêm nhóm lớp môn học: Trong thời gian quy định đăng ký môn học của học\nkỳ, nếu số lượng sinh viên có nguyện vọng đăng ký học nhiều hơn số lượng tối thiểu để xem\nxét mở nhóm môn học và được Khoa/Bộ môn phụ trách môn học đó chấp thuận, Trường sẽ\nmở thêm nhóm môn học để sinh viên đăng ký bổ sung.\nĐiều 15. Đăng ký học lại\n1. Các môn học có điểm trung bình môn học không đạt sẽ không được tích lũy. Nếu là\nmôn học bắt buộc sinh viên phải đăng ký học lại những môn học này; nếu là môn học tự\nchọn, sinh viên có thể đăng ký học lại hoặc chọn môn học tự chọn khác. Điểm cao nhất trong\ncác lần học lại là kết quả chính thức của môn học. Trong trường hợp sinh viên đã tích lũy đủ\nsố tín chỉ của nhóm tự chọn, nếu có môn học không đạt thuộc cùng nhóm tự chọn, sinh viên",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 10,
+      "text": "10\ncó quyền nộp đơn đề nghị loại bỏ những môn học có kết quả không đạt để không tham gia\nvào tính điểm trung bình chung tích lũy. (Nộp đơn ở học kỳ 8 đối với khóa học 4 năm, học\nkỳ 9 đối với khóa 4.5 năm, học kỳ 10 đối với khóa học 5 năm).\n2. Đối với các môn học đã tích lũy, sinh viên có thể đăng ký học lại để cải thiện kết\nquả. Điểm cao nhất trong các lần học sẽ là kết quả chính thức của môn học đó. Điểm cải\nthiện không được tính trong quá trình xét học bổng khuyến khích học tập, xét khen thưởng\nhọc tập, xét khen thưởng cho sinh viên tốt nghiệp giỏi/xuất sắc theo Quy chế Công tác sinh\nviên của Trường.\nĐiều 16. Nghỉ học tạm thời, thôi học\n1. Sinh viên được xin nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp\nsau:\na) Được điều động vào lực lượng vũ trang;\nb) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải\nđấu quốc tế;\nc) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám\nbệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;\nd) Vì lý do cá nhân khác nhưng sinh viên phải học tối thiểu 01 học kỳ ở Trường, không\nthuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, phải đạt điểm trung\nbình chung tích lũy không dưới 5,00. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải\nđược tính vào thời gian học chính thức quy định tại khoản 2 Điều 5 của Quy định này.\ne) Các trường hợp đặc biệt khác do Hiệu trưởng quyết định.\n2. Sinh viên nộp đơn Nghỉ học tạm thời cho Trường ít nhất 02 tuần trước khi học kỳ\nbắt đầu (theo kế hoạch thời gian năm học của Trường), sinh viên được xem xét hủy các môn\nhọc và không phải đóng học phí trong học kỳ. Trường hợp sinh viên nộp đơn Nghỉ học tạm\nthời sau thời gian trên, sinh viên phải thực hiện nghĩa vụ học phí theo Quy định về việc quản\nlý nguồn thu từ hoạt động giáo dục của trường và làm đơn rút môn học. Trong trường hợp\nnày, sinh viên không được hoàn trả học phí.\n3. Sinh viên nghỉ học tạm thời phải nộp đơn xin nhập học theo thời gian nhập học ghi\ntrong quyết định nghỉ học tạm thời. Sau theo thời gian nhập học ghi trong quyết định nghỉ\nhọc tạm thời, sinh viên không nộp đơn nhập học thì xem như sinh viên tự ý bỏ học. Trường\nsẽ xử lý học vụ sinh viên quy định tại khoản 2 Điều 17 quy chế này.\n4. Vì lý do cá nhân, sinh viên được quyền nộp đơn xin thôi học trừ trường hợp bị xem\nxét buộc thôi học hoặc xem xét kỷ luật. Sinh viên xin thôi học phải thực hiện nghĩa vụ học\nphí môn học còn nợ theo Quy định về việc quản lý nguồn thu từ hoạt động giáo dục của\nTrường. Sinh viên xin thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào\nnhư những thí sinh khác. Việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 11,
+      "text": "11\nviên xin thôi học đăng ký tuyển sinh lại tại Trường được xem xét căn cứ vào chuẩn đầu ra\nmôn học và CTĐT hiện hành.\nĐiều 17. Cảnh báo kết quả học tập, buộc thôi học\n1. Cảnh báo kết quả học tập được thực hiện theo từng học kỳ chính, sinh viên bị cảnh\nbáo khi thuộc một trong các trường hợp:\na) Đối với sinh viên còn trong thời hạn khóa học: Có tổng số tín chỉ đạt trong học kỳ\nít hơn 50% khối lượng tín chỉ tối thiểu (trừ học kỳ cuối khóa học và sinh viên không đạt trình\nđộ tiếng Anh quy định tại điểm b khoản 1 Điều 12 Quy chế này); điểm trung bình chung\nhọc kỳ đạt dưới 2,00 đối với học kỳ đầu của khóa học; đạt dưới 2,50 đối với các học kỳ\ntiếp theo hoặc đạt dưới 3,00 đối với 2 học kỳ liên tiếp; không đăng ký môn học trong học\nkỳ (trừ trường hợp đã hoàn thành CTĐT); không đăng ký học tiếng Anh hoặc không đạt\nmôn học tiếng Anh đối với sinh viên chưa đạt tiếng Anh theo quy định bị ngưng học các\nmôn học khác ngoại trừ tiếng Anh;\nb) Đối với sinh viên trễ tiến độ: Sinh viên không đăng ký môn học, không đi học và\nkhông tham gia hoạt động của Trường trong học kỳ (trừ trường hợp xin nghỉ học tạm thời\nhoặc đã hoàn thành các môn học trong CTĐT nhưng chưa đến đợt xét tốt nghiệp).\n2. Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu thuộc vào một trong các trường hợp:\na) Bị cảnh báo kết quả học tập hai lần liên tiếp vì rơi vào các trường hợp quy định tại\nkhoản 1 Điều này;\nb) Vượt quá thời gian tối đa được phép học tại Trường quy định tại khoản 2 Điều 5 của\nQuy định này;\nc) Bị kỷ luật ở mức xoá tên khỏi danh sách sinh viên của Trường.\nd) Hết thời hạn nghỉ học tạm thời không nhập học lại theo quy định.\n3. Sinh viên bị buộc thôi học theo quy định ở khoản 2 Điều này có thể làm đơn cứu xét\ntrình Hiệu trưởng xem xét; hoặc sinh viên có thể làm đơn chuyển xuống các chương trình\nđào tạo ở trình độ thấp hơn hoặc chương trình vừa học vừa làm tương ứng (nếu Trường có\nđào tạo), và được bảo lưu một phần kết quả học tập ở chương trình cũ khi học ở các chương\ntrình mới này. Hiệu trưởng sẽ xem xét quyết định cho bảo lưu kết quả học tập đối với từng\ntrường hợp cụ thể.\nChậm nhất là một tháng sau khi sinh viên có quyết định buộc thôi học, Trường sẽ ra\nthông báo gửi về gia đình nơi sinh viên có hộ khẩu thường trú.\n4. Cảnh báo kết quả học tập, buộc thôi học được thực hiện theo Quy trình xử lý học\nvụ hiện hành của Trường.\nĐiều 18. Chuyển ngành, chuyển nơi học, chuyển Trường, chuyển hình thức học\n1. Sinh viên được xem xét chuyển sang học một chương trình, một ngành đào tạo khác,\nhoặc một phân hiệu khác của Trường, hoặc từ phân hiệu về trụ sở chính khi có đủ các điều\nkiện sau:",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 12,
+      "text": "12\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc\ndiện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 2 Điều 5\ncủa Quy chế này;\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo, của trụ sở chính\n(hoặc phân hiệu) trong cùng khóa tuyển sinh;\nc) Trường có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối\nvới chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo;\nd) Được sự đồng ý của các đơn vị chuyên môn phụ trách chương trình, ngành đào tạo,\nngười phụ trách phân hiệu (nơi chuyển đi và chuyến đến) và của Hiệu trưởng.\n2. Sinh viên được xem xét chuyển Trường khi có đủ các điều kiện sau:\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc\ndiện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 2 Điều 5\ncủa Quy chế này;\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng khóa tuyển\nsinh tại nơi chuyển đến;\nc) Nơi chuyển đến có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực\nđào tạo đối với chương trình, ngành đào tạo đó theo quy định hiện hành của Bộ Giáo dục và\nĐào tạo;\nd) Được sự đồng ý của hiệu trưởng Trường xin chuyển đi và Trường xin chuyển đến.\n3. Sinh viên được xem xét chuyển từ đào tạo theo hình thức chính quy sang các hình\nthức, chương trình đào tạo khác của Trường và ngược lại nếu còn đủ thời gian học tập theo\nquy định đối với hình thức, chương trình chuyển đến và đảm bảo điều kiện tuyển sinh đầu\nvào của chương trình chuyển đến.\n4. Thủ tục tiếp nhận sinh viên chuyển trường:\na) Sinh viên bên ngoài xin chuyển đến Trường phải làm đơn xin chuyển trường gửi\nHiệu trưởng ít nhất 01 tháng trước khi bắt đầu học kỳ mới, trong đơn phải ghi rõ lý do xin\nchuyển đến trường và nộp kèm các minh chứng về điểm trúng tuyển đầu vào ở trường cũ,\nngành đang học và bảng kết quả học tập chương trình cũ, và minh chứng khác (nếu có).\nb) Hiệu trưởng xem xét quyết định tiếp nhận hoặc không tiếp nhận; quyết định việc\nhọc tập tiếp tục của sinh viên, công nhận các môn học mà sinh viên chuyển đến được chuyển\nđổi kết quả và số môn học phải học bổ sung, trên cơ sở so sánh chương trình ở trường sinh\nviên xin chuyển đi và của Trường.\n5. Sinh viên có thể làm đơn xin chuyển trường khác theo các quy định tại khoản 2 Điều\nnày để Hiệu trưởng quyết định.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 13,
+      "text": "13\n6. Sinh viên làm đơn xin chuyển sang học một chương trình, một ngành đào tạo khác\ncủa Trường theo các quy định ở khoản 1 Điều này trước khi bắt đầu học kỳ ít nhất 08 tuần\ntheo kế hoạch thời gian năm học.\n7. Hiệu trưởng xem xét quyết định việc cho phép chuyển ngành, chuyển chương trình,\nchuyển nơi học, chuyển trường hoặc tiếp nhận sinh viên chuyển trường đối với các trường\nhợp ngoại lệ khác.\nĐiều 19. Trao đổi sinh viên và hợp tác trong đào tạo\n1. Các đơn vị quản lý chuyên môn trực thuộc Trường xây dựng các chương trình trao\nđổi sinh viên với các cơ sở đào tạo nước ngoài và đề xuất Hiệu trưởng phê duyệt căn cứ vào\nnội dung, mục tiêu đào tạo và số tín chỉ các môn học trong CTĐT. Sinh viên của Trường có\nthể đăng ký thực hiện học một số môn học trao đổi tại cơ sở đào tạo nước ngoài với số tín\nchỉ tích lũy không vượt quá 25% tổng khối lượng của CTĐT.\n2. Quy định về điều kiện trao đổi sinh viên, hợp tác đào tạo, việc công nhận kết quả\nhọc tập và chuyển đổi tín chỉ cho sinh viên khi thực hiện chương trình đào tạo trao đổi sinh\nviên được Hiệu trưởng phê duyệt cụ thể theo từng trường hợp và thông báo rõ ràng, công\nkhai cho tất cả sinh viên liên quan.\nĐiều 20. Học cùng lúc hai chương trình\n1. Sinh viên có thể đăng ký học thêm các môn học của một chương trình khác, ngành\nkhác để bổ sung kiến thức, kỹ năng. Sinh viên chỉ được hưởng các quyền lợi chính thức và\nđược xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học\nchương trình thứ hai theo quy định tại khoản 2 Điều này.\n2. Điều kiện để học cùng lúc hai chương trình:\n- Ngành đào tạo chính ở chương trình thứ hai phải khác ngành đào tạo chính ở chương\ntrình thứ nhất; riêng một số ngành đặc thù (về sức khỏe, mỹ thuật công nghiệp, kiến trúc,\nluật,...), sinh viên phải đáp ứng các yêu cầu đầu vào của chương trình thứ hai do Khoa chuyên\nmôn xét.\n- Sinh viên được đăng ký học chương trình thứ hai khi đã kết thúc năm thứ nhất của\nchương trình thứ nhất và có số tín chỉ tích lũy lớn hơn số tín chỉ trung bình của một năm học\ntheo chương trình đào tạo chuẩn;\n- Tại thời điểm đăng ký, sinh viên phải đáp ứng 01 trong 02 điều kiện sau: (1) Học lực\ntính theo điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất\nlượng của chương trình thứ hai trong năm tuyển sinh; (2) Học lực tính theo điểm trung bình\ntích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong\nnăm tuyển sinh.\n- Sinh viên không thuộc diện có điểm đánh giá rèn luyện yếu ở chương trình thứ nhất;\n- Sinh viên chỉ được xét học cùng lúc hai chương trình 01 (một) lần trong suốt khóa học.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 14,
+      "text": "14\n3. Thủ tục đăng ký học thêm chương trình thứ hai:\n- Sinh viên đăng ký học chương trình thứ hai bằng cách nộp đơn trực tuyến trên Cổng\nthông tin sinh viên theo thông báo của Phòng Đại học. Đơn của sinh viên được Phòng Đại\nhọc tổng hợp để trình Hiệu trưởng quyết định.\n- Nếu được chấp nhận, sinh viên căn cứ vào CTĐT thứ hai để đăng ký môn học theo\nkế hoạch chung của Trường.\n4. Sinh viên học hai chương trình chỉ được hưởng các chế độ quyền lợi đối với chương\ntrình thứ nhất.\n5. Trong quá trình sinh viên học cùng lúc hai chương trình, nếu điểm trung bình tích\nluỹ của chương trình thứ nhất đạt dưới điểm trung bình hoặc thuộc diện cảnh báo kết quả\nhọc tập thì phải dừng học chương trình thứ hai ở học kỳ tiếp theo; sinh viên sẽ bị loại khỏi\ndanh sách đã đăng ký học chương trình thứ hai.\n6. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là\nthời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 2 Điều 5 của Quy\nchế này. Khi học chương trình thứ hai, sinh viên được công nhận kết quả của những môn\nhọc có nội dung và khối lượng kiến thức tương đương có trong chương trình thứ nhất.\n7. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai, nếu có đủ điều kiện tốt nghiệp\nở chương trình thứ nhất và đã đăng kí học chương trình thứ hai từ 02 năm trở lên cho đến\nthời điểm xét tốt nghiệp chương trình thứ hai.\n8. Quy trình và thủ tục đăng ký học ngành hai được thực hiện theo Điều này và quy\ntrình đăng ký học ngành 2 của Trường.\nChương III. ĐÁNH GIÁ KẾT QUẢ HỌC TẬP\nĐiều 21. Đánh giá môn học\n1. Đối với các môn học chỉ có lý thuyết hoặc có cả lý thuyết và thực hành: Tùy theo\ntính chất của môn học, điểm tổng hợp đánh giá môn học (sau đây gọi tắt là điểm môn học)\nđược tính căn cứ vào các điểm đánh giá thành phần, bao gồm: điểm quá trình (điểm kiểm\ntra trên lớp, điểm đánh giá nhận thức và thái độ tham gia hoạt động trên lớp, điểm đánh giá\nphần thực hành, điểm chuyên cần, điểm đánh giá bài tập về nhà, điểm đánh giá qua bài tập\nelearning, điểm báo cáo, thuyết trình...); điểm đánh giá giữa kỳ; điểm đánh giá kết thúc môn\nhọc, trong đó điểm thi kết thúc môn học là bắt buộc cho mọi trường hợp và có trọng số\nkhông dưới 50%. Đối với các môn học có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một\nđiểm đánh giá. Các trường hợp ngoại lệ khác do Hiệu trưởng quyết định.\n2. Đối với các môn học thực hành, đồ án, kiến tập, thực tập, học phần nghề nghiệp:\nSinh viên phải tham dự đầy đủ các hoạt động theo yêu cầu của môn học được thể hiện trong",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 15,
+      "text": "15\nđề cương chi tiết. Điểm đánh giá môn học bao gồm: điểm thực hành, điểm chuyên cần, điểm\nthực tập do doanh nghiệp đánh giá, điểm báo cáo/tiểu luận, điểm thi kết thúc môn,...\n3. Việc lựa chọn các hình thức đánh giá thành phần và trọng số của các điểm đánh giá\nthành phần, cũng như cách tính điểm tổng hợp đánh giá môn học do Khoa quản lý môn học\nquy định cụ thể trong đề cương chi tiết của môn học.\n4. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và\nkhách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số điểm môn\nhọc. Trong trường hợp do thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng\nkhác không thể tổ chức đánh giá trực tiếp, Hiệu trưởng quyết định hình thức đánh giá trực\ntuyến cho phù hợp tình hình thực tế nhưng đảm bảo đánh giá môn học theo đúng chuẩn đầu\nra, mục tiêu môn học. Việc tổ chức bảo vệ và đánh giá đồ án, khóa luận trực tuyến được thực\nhiện theo quy định tổ chức đánh giá khóa luận/đồ án theo hình thức trực tuyến của Trường\nvà đáp ứng các yêu cầu sau: việc đánh giá được thực hiện thông qua một hội đồng chuyên\nmôn gồm ít nhất 3 thành viên; hình thức bảo vệ và đánh giá trực tuyến được sự đồng thuận\ncủa các thành viên hội đồng và sinh viên; diễn biến của buổi bảo vệ trực tuyến được ghi\nhình, ghi âm đầy đủ và lưu trữ.\n5. Đối với các môn học không còn mở trong CTĐT, không có môn học tương\nđương/thay thế tại khoản 6 Điều 4 Quy chế này và sinh viên đã học nhưng chưa đạt, Hiệu\ntrưởng xem xét tổ chức các lớp ôn tập và đánh giá các môn học này; điểm đánh giá tối đa\ncủa môn học chỉ ở mức điểm đạt (5,0 điểm).\nĐiều 22. Tổ chức đánh giá môn học\n1. Trong mỗi học kỳ, Trường tổ chức thi tập trung 2 kỳ thi chính (thi giữa kỳ và thi\ncuối kỳ), 01 kỳ thi phụ dành cho sinh viên hoãn thi giữa kỳ (học kỳ chính và học kỳ dự thính)\nvà 01 kỳ thi phụ dành cho sinh viên hoãn thi cuối kỳ của học kỳ dự thính có lý do chính đáng\n(trừ môn tiếng Anh và cơ sở tin học sinh viên tự đăng ký thi lại). Hiệu trưởng quy định cụ\nthể thời gian thi cho các kỳ thi.\n2. Thời gian ôn thi mỗi môn học đã được tính trong thời gian học, tự học của môn học.\n3. Việc tổ chức đánh giá quá trình học tập, trải nghiệm của sinh viên, bao gồm cả các\nhoạt động thí nghiệm, thực hành, làm bài tập, trình bày báo cáo như một thành phần của môn\nhọc; tổ chức thi, kiểm tra các môn học được quy định cụ thể trong Quy định về khảo thí và\nđo lường kết quả học tập của Trường.\n4. Việc tổ chức đánh giá các môn đồ án, khóa luận, thực hành, thực tập và các môn học\nđặc thù khác được Trường quy định trong các Quy định tập sự nghề nghiệp, Quy định về tổ\nchức khóa luận/đồ án/các môn học tự chọn cuối khóa của Trường.\nĐiều 23. Ra đề thi, hình thức thi, chấm thi và số lần được dự thi kết thúc môn\nhọc\n1. Đề thi kết thúc môn học phải đáp ứng yêu cầu môn học đã quy định trong CTĐT.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 16,
+      "text": "16\n2. Công tác ra đề thi, công tác chấm thi tự luận (giữa kỳ, cuối kỳ), chấm thi trắc nghiệm,\nchấm phúc khảo bài thi, công tác lưu trữ bài thi, công bố điểm thi được quy định cụ thể trong\nQuy định về khảo thí và đo lường kết quả học tập của Trường.\n3. Hình thức thi kết thúc môn học được quy định trong đề cương chi tiết môn học và\nphù hợp với các hình thức đánh giá theo danh mục quy định của Trường.\n4. Thời hạn tối đa công bố điểm cho sinh viên là 15 ngày kể từ ngày thi (không tính\nngày nghỉ, ngày lễ), trường hợp ngoại lệ công bố trễ hơn thời gian quy định do Hiệu trưởng\nquyết định.\n5. Các điểm thi kết thúc môn học và điểm đánh giá môn học phải ghi vào bảng điểm\ntheo mẫu thống nhất của Trường, hoặc được lưu trực tiếp trên cơ sở dữ liệu của Trường đối\nvới bài thi trắc nghiệm trên máy tính.\n6. Mỗi sinh viên được dự thi một lần (thi giữa kỳ, cuối kỳ) cho môn học đăng ký trong\nhọc kỳ. Sinh viên vắng thi không phép coi như đã dự thi một lần và nhận điểm V ở bài thi đó\n(xem khoản 6 Điều 25). Trường hợp sinh viên vắng thi có lý do chính đáng làm đơn xin hoãn\nthi để được ghi nhận điểm H (Xem khoản 2 Điều 25).\nĐiều 24. Thang điểm đánh giá\n1. Điểm đánh giá thành phần và điểm thi kết thúc môn học được ghi nhận theo thang\nđiểm 10, làm tròn đến 01 chữ số thập phân. Điểm môn học là tổng các điểm thành phần, tính\ntheo trọng số quy định, được ghi nhận theo thang điểm 10, làm tròn đến 01 chữ số thập phân.\nThang điểm chính thức hệ 10 cùng cách xếp loại kết quả học tập được quy định theo Bảng\n1:\nBảng 1. Thang điểm đánh giá\nXếp loại\nThang điểm hệ 10\nThang điểm hệ 4\n(tham khảo)\nĐiểm chữ\nĐiểm số\nĐạt\n(Tích lũy)\nXuất sắc\ntừ\n9,0\nđến\n10,0\nA+\n4\nGiỏi\ntừ\n8,0\nđến cận\n9,0\nA\n3.5\nKhá\ntừ\n7,0\nđến cận\n8,0\nB\n3.0\nTrung bình khá\ntừ\n6,0\nđến cận\n7,0\nC+\n2.5\nTrung bình\ntừ\n5,0\nđến cận\n6,0\nC\n2.0\nKhông đạt\nYếu\ntừ\n4,0\nđến cận\n5,0\nD+\n1.5\nKém\ntừ\n3,0\nđến cận\n4,0\nD\n1.0\ntừ\n0,0\nđến cận\n3,0\nF\n0\n2. Một số trường hợp đặc biệt sử dụng các điểm chữ để ghi nhận theo các tình huống\nhọc vụ quy định tại Bảng 2.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 17,
+      "text": "17\nBảng 2. Các điểm đặc biệt\nTên các điểm đặc biệt\nĐiểm chữ\nGhi chú về tính điểm và tích lũy\nKhông đủ điều kiện dự thi\nF\nTính như điểm 0\n(Xem khoản 1 Điều 25)\nVắng thi không phép\nV\nTính như điểm 0\nVắng thi có phép\nH\nTính chưa tích lũy\nKhông tính vào ĐTBHK, ĐTBTL\n(Xem khoản 2 Điều 25)\nĐiểm miễn\nM\nĐiểm đạt môn học\nTính vào tín chỉ tích lũy.\nKhông tính vào ĐTBHK, ĐTBTL\n(Xem khoản 3 Điều 25)\nRút môn học\nR\nTính chưa tích lũy.\nKhông tính vào ĐTBHK, ĐTBTL\n(Xem khoản 4 Điều 25)\nĐiểm chưa hoàn tất\nP, K\nTính chưa tích lũy.\nKhông tính vào ĐTBHK, ĐTBTL.\n(xem khoản 5 Điều 25)\nĐiều 25. Các điểm đặc biệt trong bảng điểm\n1. \"Không đủ điều kiện dự thi\" hay “Điểm F” là hình thức xử lý các sinh viên vì một\ntrong các lý do sau:\na) Không thực hiện đầy đủ các phần bắt buộc của môn học và các yêu cầu theo quy\nđịnh của môn học đặc thù (Cơ sở tin học, Tiếng Anh, Giáo dục thể chất, Giáo dục quốc\nphòng, Thực hành/Thí nghiệm, phần bài tập lớn, báo cáo, học phần nghề nghiệp...)\nb) Vi phạm nghiêm trọng kỷ luật học tập, nội quy học đường, gian dối trong học tập.\nc) Không đảm bảo tối thiểu 80% yêu cầu bắt buộc học tập trên lớp và ở nhà được quy\nđịnh cho từng môn học\nd) Không hoàn thành nghĩa vụ học phí theo quy định.\nTrong buổi học đầu tiên của môn học, cán bộ giảng dạy công bố cho sinh viên quy định\nvề các phần bắt buộc theo điểm (a) và (c) tại khoản 1 Điều này. Danh sách sinh viên không\nđủ điều kiện dự thi giữa kỳ, cuối kỳ do giảng viên đề nghị và Khoa/Trung tâm duyệt công\nbố danh sách này. Danh sách sinh viên không đủ điều kiện dự thi được Phòng Đại học ghi\nnhận điểm F vào bảng ghi điểm chính thức của các điểm thành phần tương ứng môn học.\n2. Điểm \"Vắng thi có phép\" (gọi là “Điểm H”)\na) “Điểm H” được Phòng Đại học xét và ghi nhận cho sinh viên trong kỳ thi tập trung",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 18,
+      "text": "18\nkhi có lý do chính đáng phải vắng trong buổi thi, có đơn xin “Điểm H” và đủ các điều kiện\nsau:\n- Sinh viên đã đăng ký, được xếp thời khóa biểu và hoàn thành các phần bắt buộc của\nmôn học như: đi học đầy đủ, dự các lần kiểm tra quá trình, hoàn tất các phần thí nghiệm, thực\nhành,…;\n- Đã nộp đủ học phí của học kỳ tương ứng;\n- Sinh viên có tên trong danh sách đủ điều kiện tham dự kỳ thi.\nb) Thủ tục xin ghi nhận điểm H: Đối với sinh viên có lý do chính đáng vắng trong buổi\nkiểm tra giữa kỳ, thi cuối kỳ, thi chứng chỉ,…:\n- Do trùng lịch học, lịch thi sinh viên phải nộp đơn Hoãn thi trong thời gian quy định\nđược công bố cùng lịch thi; được cử đi thi các kỳ thi ngoài trường, tham dự các chuyên đề\nngắn hạn, các hoạt động đoàn thể xã hội,… thì sinh viên phải nộp đơn Hoãn thi ngay khi sự\nviệc phát sinh kèm theo các xác nhận cần thiết, không trễ hơn ngày xin được vắng thi.\n- Trường hợp ốm đau hoặc tai nạn phải nhập viện, sinh viên nộp đơn Hoãn thi kèm giấy\nxác nhận nhập viện (hoặc ra viện) của bệnh viện trong vòng 5 ngày tính từ ngày vắng thi (chỉ\ntính ngày làm việc). Trường sẽ kiểm tra các hồ sơ minh chứng này khi cần thiết.\n- Nhà có tang (ông bà, cha mẹ, anh chị em ruột): sinh viên nộp đơn Hoãn thi trong vòng\n5 ngày tính từ ngày vắng thi kèm theo minh chứng là giấy chứng tử và giấy xác nhận thân\nnhân.\nc) Dự thi lại để thay điểm H:\n- Sinh viên có điểm H là điểm kiểm tra tập trung giữa kỳ: Trường sẽ xếp kỳ thi phụ cho\ntrường hợp này trong cùng học kỳ.\n- Sinh viên có điểm H là điểm kiểm tra cuối kỳ học kỳ dự thính: Trường sẽ xếp kỳ thi\nphụ cho trường hợp này trong cùng học kỳ (trừ môn tiếng Anh và cơ sở tin học sinh viên tự\nđăng ký thi lại).\n- Sinh viên có điểm H là điểm thi cuối kỳ: Trong thời hạn 01 năm học kế tiếp, sinh viên\ncó quyết định điểm H phải theo dõi lịch học, lịch thi (tất cả các học kỳ kể cả trong học kỳ dự\nthính) để đăng ký xóa điểm H khi Trường có tổ chức đánh giá phần tương ứng của môn học.\nTrường hợp môn học không mở trong năm học này, sinh viên nộp đơn đề nghị đăng ký dự\nthi khi điểm H còn thời hạn, Trường sẽ tổ chức thi lại môn học hoặc môn tương đương cho\nsinh viên.\n- Sau thời hạn 1 năm, nếu sinh viên chưa có điểm đánh giá môn học thay cho điểm H,\nđiểm H được chuyển thành điểm 0 và sinh viên phải đăng ký học lại môn học nếu điểm\nmôn học không đạt.\n3. Một môn học A được ghi nhận “điểm miễn” (gọi là “điểm M”) cho các trường hợp\nsau:\na) Trường hợp 1: Sinh viên đã hoàn thành môn học tương đương tại Trường, nộp đơn\nđề nghị xét công nhận kết quả học tập, nếu sinh viên được xét công nhận điểm miễn sẽ được\nghi điểm M hoặc ghi nhận điểm theo kết quả môn tương đương đã đạt được.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 19,
+      "text": "19\nb) Trường hợp 2: Sinh viên đã hoàn thành chương trình học tại Trường đại học khác,\nsinh viên thuộc diện chuyển trường hoặc chuyển từ nước ngoài về sẽ được xem xét chuyển\nđiểm các môn học theo quy định tại Điều 27 quy chế này. Điểm môn học được công nhận\nmiễn sẽ được ghi điểm M hoặc ghi nhận điểm theo kết quả môn tương đương đã đạt được.\nc) Trường hợp 3: Khi sinh viên đã hoàn tất một số môn học đặc thù (như Tiếng Anh,\nCơ sở tin học, Kỹ năng,…) hoặc môn có điểm môn học là kết quả thi chứng chỉ đầu ra và đạt\nyêu cầu chứng chỉ theo quy định của Trường.\nMôn học được xét công nhận điểm (điểm M hoặc điểm tương đương) ở trường hợp 1,\n2 sẽ được ghi điểm trong phần điểm bảo lưu (nằm ngoài bảng điểm các học kỳ sinh viên học\ntại Trường, được công nhận tín chỉ tích lũy và tính vào điểm trung bình tích lũy). Điểm M\nkhông được tính vào ĐTBHK và ĐTBTL. Số tín chỉ của môn học có điểm M được tính vào\ntổng số tín chỉ tích lũy.\n4. Điểm “Rút môn học” (gọi là “Điểm R”) được Phòng đại học xét và quyết định cấp cho\nmột sinh viên theo các điều kiện sau:\n- Có kết quả đăng ký môn học thành công trong học kỳ;\n- Đã nộp đủ học phí của học kỳ tương ứng;\n- Sinh viên có đơn đề nghị không tham gia đánh giá một hoặc một số môn học trong thời\nkhóa biểu nhận điểm R. Sinh viên không được phép rút các môn học theo quy định tại Điều 13\nQuy chế này.\nThời hạn nộp đơn xin nhận điểm R là 7 tuần đầu của học kỳ chính, 2 tuần đầu của học\nkỳ hè, trừ các trường hợp có lý do bất khả kháng có nộp chứng cứ kèm theo. Các cột điểm\n(nếu có) của môn học đã được cấp quyết định điểm R không tính vào kết quả học tập của\nsinh viên.\n5. Điểm chưa hoàn tất (“điểm K”) dùng để ghi nhận kết quả học tập chưa hoàn tất của\nmột số môn học đặc thù (như Cơ sở tin học, Tiếng Anh, môn kỹ năng,…). Sinh viên được\nghi nhận điểm K sẽ không thuộc diện xét học bổng năm học trong năm học xét học bổng.\nĐiểm K không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy\ncủa sinh viên.\nĐiểm chưa hoàn tất (“điểm P”) dùng để ghi nhận đã đạt kết quả đánh giá môn học ở mã\nmôn học tiếng Anh cuối nhưng chưa đạt được điều kiện chuẩn đầu ra. Điểm P được tính khi\nxét điều kiện tiên quyết các môn học trước (trừ học kỳ cuối của chương trình đào tạo). Điểm\nP không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy của sinh\nviên nhưng sinh viên vẫn được tham gia xét học bổng năm học (trừ năm cuối).\n6. “Điểm vắng thi không phép” (gọi là “điểm V”) dùng để ghi nhận trường hợp sinh\nviên đủ điều kiện dự thi và có tên trong danh sách thi nhưng vắng thi không có lý do chính\nđáng.\n7. Ngoài việc ghi nhận điểm 0 (không) theo kết quả thi, Điểm 0 (không) còn được ghi nhận\ntrong các trường hợp sau:",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 20,
+      "text": "20\n- Đối với kỳ thi chứng chỉ quốc tế đầu ra các môn Cơ sở tin học: Sinh viên không đăng ký\ndự thi và không làm đơn ghi nhận điểm K; Sinh viên đăng ký dự thi nhưng không đóng lệ phí\nthi và không hoàn tất thủ tục dự thi;\n- Sinh viên đã được ghi nhận điểm H cho các môn học nhưng không thi lại trong thời hạn\n1 năm.\nĐiều 26. Đánh giá kết quả học tập\n1. Kết quả học tập của sinh viên được đánh giá sau từng học kỳ, dựa trên kết quả các\nmôn học nằm trong yêu cầu của CTĐT mà sinh viên đã học và có điểm theo các tiêu chí sau\nđây:\na) Tổng số tín chỉ của những môn học mà sinh viên không đạt trong một học kỳ, trong\nmột năm học, hoặc nợ đọng từ đầu khoá học;\nb) Tổng số tín chỉ của những môn học mà sinh viên đã đạt từ đầu khóa học (số tín chỉ\ntích lũy), tính cả các môn học được miễn học, được công nhận tín chỉ;\nc) Điểm trung bình của những môn học mà sinh viên đã học trong một học kỳ (điểm\ntrung bình học kỳ, ĐTBHK), trong một năm học (điểm trung bình năm học, ĐTBNH) hoặc\ntính từ đầu khóa học cho tới thời điểm được xem xét vào lúc kết thúc mỗi học kỳ (điểm trung\nbình tích lũy, ĐTBTL), tính theo điểm chính thức của môn học và trọng số là số tín chỉ của\nmôn học đó.\n2. Kết quả học tập trong học kỳ phụ (hè) được tính vào kết quả học tập trong học kỳ chính\n(học kỳ 2). Kết quả học tập trong học kỳ dự thính được ghi nhận vào điểm bảo lưu (nằm ngoài\nbảng điểm các học kỳ sinh viên học tại Trường, được công nhận tín chỉ tích lũy và tính vào\nđiểm trung bình tích lũy).\n3. Sinh viên được xếp loại học lực căn cứ vào điểm trung bình học kỳ, điểm trung bình\ntích lũy, theo quy định xếp loại ở Bảng 3. Trường hợp xếp loại học lực nhằm mục đích khen\nthưởng được thực hiện theo các quy định khen thưởng của Trường.\nBảng 3. Xếp loại học lực\nSTT Xếp loại học lực\nThang điểm hệ 10\n(điểm ĐTBHK, ĐTBNH, ĐTBTL)\n1\nXuất sắc\nTừ 9,00 đến 10,00\n2\nGiỏi\nTừ 8,00 đến cận 9,00\n3\nKhá\nTừ 7,00 đến cận 8,00\n4\nTrung bình khá\nTừ 6,00 đến cận 7,00\n5\nTrung bình\nTừ 5,00 đến cận 6,00\n6\nYếu\nTừ 4,00 đến cận 5,00\n7\nKém\nDưới 4,00",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 21,
+      "text": "21\n4. Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học\n(gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi tắt là\nM), cụ thể như sau:\na) Trình độ năm thứ nhất: N < M;\nb) Trình độ năm thứ hai: M ≤ N < 2M;\nc) Trình độ năm thứ ba: 2M ≤ N < 3M;\nd) Trình độ năm thứ tư: 3M ≤ N < 4M;\nđ) Trình độ năm thứ năm: 4M ≤ N < 5M.\nĐiều 27. Cách tính điểm trung bình học kỳ và tích lũy\n1. Số tín chỉ tích lũy (STCTL) là tổng số tín chỉ của các môn học (theo CTĐT) sinh\nviên đã đạt từ đầu khóa học, kể cả các môn học được bảo lưu, được công nhận tín chỉ. STCTL\nđược tính 01 lần cho mỗi mã số môn học có điểm đạt.\n2. Điểm trung bình học kỳ (ĐTBHK) là điểm trung bình của tất cả các môn học (theo\nCTĐT) mà sinh viên đã học trong một học kỳ, tính theo điểm chính thức của môn học và\ntrọng số là số tín chỉ của môn học đó.\n3. Điểm trung bình tích lũy (ĐTBTL) là điểm trung bình của tất cả các môn học (theo\nCTĐT) mà sinh viên đã học kể từ khi nhập học cho đến thời điểm tính bao gồm cả các môn\nhọc được bảo lưu và được công nhận điểm, tính theo điểm chính thức của môn học và trọng\nsố là số tín chỉ của môn học đó.\n4. Điểm trung bình học kỳ và điểm trung bình tích lũy được tính theo công thức sau và\nđược làm tròn đến 2 chữ số thập phân.\nTrong đó:\nA là điểm trung bình học kỳ hoặc điểm trung bình tích lũy\nai là điểm chính thức của môn học thứ i\nni là số tín chỉ của môn học thứ i\nn là tổng số môn học.\nCác môn có điểm chữ theo bảng 2 không tính vào ĐTBHK, ĐTBTL (trừ đối với các\nmôn có điểm F, điểm V tính như điểm 0 vẫn tính vào ĐTBHK, ĐTBTL). Các môn học được\ncông nhận điểm bảo lưu không tính vào ĐTBHK, chỉ tính ĐTBTL.\nĐiều 28. Công nhận kết quả học tập và chuyển đổi tín chỉ\n1. Kết quả học tập của sinh viên đã tích lũy từ một trình độ đào tạo khác, một ngành\nđào tạo hoặc một chương trình đào tạo khác, một khóa học khác hoặc từ một cơ sở đào tạo\n\n\n=\n=\n\n=\nn\ni\ni\nn\ni\ni\ni\nn\nn\na\nA\n1\n1",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 22,
+      "text": "22\nkhác được Trường xem xét công nhận, chuyển đổi sang tín chỉ của những môn học trong\nchương trình đào tạo theo học.\n2. Trường thông báo quy định việc công nhận kết quả học tập và chuyển đổi tín chỉ trên\nCổng thông tin sinh viên. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá\n50% khối lượng học tập tối thiểu của chương trình đào tạo.\n3. Phòng Đại học, Phòng Khảo thí và Kiểm định chất lượng phối hợp với các đơn vị\nquản lý chuyên môn xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra,\nnội dung và khối lượng học tập, cách thức đánh giá môn học và các điều kiện bảo đảm chất\nlượng thực hiện chương trình để công nhận, chuyển đổi theo từng môn học hoặc công nhận,\nchuyển đổi theo từng nhóm môn học.\n4. Sinh viên nộp đơn đề nghị công nhận kết quả học tập và chuyển đổi tín chỉ đầu mỗi\nhọc kỳ.\nĐiều 29. Phúc khảo, khiếu nại điểm và xem lại bài thi\n1. Để phúc khảo bài thi, sinh viên nộp đơn phúc khảo trực tuyến trên Cổng thông tin\nsinh viên. Quy trình phúc khảo và khiếu nại điểm được thực hiện theo quy định về Khảo thí\nvà đo lường kết quả học tập và Thủ tục phúc khảo bài thi của Trường.\n2. Sau khi có kết quả phúc khảo bài thi, nếu có nhu cầu xem lại bài thi, sinh viên nộp\nđơn xin xem lại bài thi trực tuyến trên Cổng thông tin sinh viên.\nĐiều 30. Thông báo điểm và xác nhận kết quả học tập\n1. Sau khi có kết quả chính thức về điểm thi, Phòng Khảo thí và Kiểm định chất lượng\nchuyển điểm vào Cơ sở dữ liệu điểm và công bố điểm trên Cổng thông tin sinh viên. Từ ngày\nthi đến ngày công bố điểm thi trên hệ thống của Trường tối đa là 15 ngày (không tính ngày\nnghỉ, ngày lễ, tết).\n2. Bản gốc bảng ghi điểm được lưu tại Phòng Khảo thí và Kiểm định chất lượng. Ngay\nkhi có đầy đủ kết quả đánh giá các môn học trong học kỳ, sinh viên có thể xem được bảng\nđiểm đánh giá tất cả các môn đã đăng ký học trên Cổng thông tin sinh viên. Bảng tổng hợp\nnày còn có thông tin về điểm trung bình học tập, số tín chỉ tích lũy để sinh viên kiểm tra, theo\ndõi tiến độ học tập của bản thân.\n3. Sinh viên có trách nhiệm xem và đối chiếu điểm của mình trên Cổng thông tin sinh\nviên, nộp đơn phúc khảo nếu có nhu cầu, hoặc kiến nghị khác về kết quả điểm trong thời gian\nthông báo phúc khảo điểm của Phòng Khảo thí và Kiểm định chất lượng.\n4. Trong quá trình học, sinh viên có quyền đề nghị Phòng Đại học cấp bảng điểm chính\nthức của một hay nhiều học kỳ đã học. Bảng điểm này ghi kết quả học tập (đạt hoặc không\nđạt) của tất cả các môn học mà sinh viên có đăng ký trong học kỳ.\n5. Sinh viên tốt nghiệp được cấp bảng điểm tốt nghiệp là kết quả toàn bộ các môn học\nđã đạt trong khóa học của sinh viên tại Trường.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 23,
+      "text": "23\nChương IV. XÉT VÀ CÔNG NHẬN TỐT NGHIỆP\nĐiều 31. Xét và công nhận tốt nghiệp\n1. Sinh viên hoàn tất các môn học trong CTĐT ngành/chuyên ngành và thỏa các điều\nkiện quy định tại khoản 2 Điều này sẽ được Trường xét công nhận tốt nghiệp.\n2. Sinh viên được công nhận và cấp bằng tốt nghiệp hệ chính quy theo ngành đào tạo\nchính nếu hội đủ các điều kiện sau đây:\n- Được công nhận là sinh viên hệ chính quy tập trung của Trường theo đúng ngành cấp\nbằng;\n- Cho đến thời điểm xét tốt nghiệp không bị kỷ luật ở mức đình chỉ học tập hoặc không\nbị truy cứu trách nhiệm hình sự;\n- Có các chứng chỉ giáo dục quốc phòng và chứng chỉ giáo dục thể chất;\n- Hoàn tất toàn bộ CTĐT của ngành/chuyên ngành, tích lũy đủ số tín chỉ (hoặc môn\nhọc) theo CTĐT cho khóa ngành đào tạo và có ĐTBTL không dưới 5,00;\n- Đạt các yêu cầu về chuẩn đầu ra của CTĐT;\n- Đạt các yêu cầu về Điểm rèn luyện toàn khóa được quy định trong Quy chế Công tác sinh\nviên hiện hành;\n- Đăng ký dự xét tốt nghiệp trên Cổng thông tin sinh viên.\n- Hoàn thành nghĩa vụ học phí và các nghĩa vụ khác với Trường.\n3. Hội đồng xét tốt nghiệp do Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách đào tạo làm\nchủ tịch, Trưởng phòng Đại học làm thư ký, Trưởng khoa chuyên môn, Trưởng phòng Công\ntác học sinh - sinh viên, Trưởng phòng Thanh tra, pháp chế và an ninh làm Ủy viên. Hội đồng\nxét tốt nghiệp Trường họp để tiến hành xem xét và thông qua danh sách những sinh viên đủ\nđiều kiện tốt nghiệp. Dựa trên đề nghị của Hội đồng xét tốt nghiệp, Hiệu trưởng ra quyết định\ncông nhận tốt nghiệp.\n4. Sinh viên tốt nghiệp được nhận bằng tốt nghiệp đại học, văn bằng trình độ tương\nđương theo đúng tên ngành đã được đào tạo cấp bằng tốt nghiệp trong thời hạn 30 ngày từ\nkhi có quyết định công nhận tốt nghiệp. Ngoài ra, sinh viên tốt nghiệp được nhận Phụ lục\nvăn bằng, bảng điểm tốt nghiệp ghi chi tiết tất cả kết quả học tập của sinh viên đã tích lũy\nqua từng học kỳ tại Trường, các thông tin về chuyên ngành, hạng xếp loại tốt nghiệp, chuẩn\nđầu ra, kết quả rèn luyện và thành tích đặc biệt khác (nếu có).\n5. Việc xếp loại thứ hạng tốt nghiệp được tính theo Điểm trung bình tích lũy toàn khóa\nquy định tại Điều 27 theo Bảng 4.\nBảng 4. Xếp loại tốt nghiệp\nSTT\nXếp loại tốt nghiệp\nĐiểm trung bình tích lũy\ntoàn khóa\n1\nXuất sắc\nTừ 9,00 đến 10,00\n2\nGiỏi\nTừ 8,00 đến cận 9,00\n3\nKhá\nTừ 7,00 đến cận 8,00\n4\nTrung bình khá\nTừ 6,00 đến cận 7,00\n5\nTrung bình\nTừ 5,00 đến cận 6,00",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 24,
+      "text": "24\n6. Thứ hạng tốt nghiệp của những sinh viên có kết quả học tập toàn khóa đối với loại\ngiỏi và xuất sắc, thứ hạng tốt nghiệp sẽ bị giảm đi một mức nếu thuộc một trong các trường\nhợp sau:\na) Khối lượng của các môn học phải học lại vượt quá 5% so với tổng số tín chỉ quy định\ncho toàn chương trình;\nb) Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học. Hiệu trưởng căn\ncứ vào kết quả rèn luyện, quyết định kỷ luật của sinh viên để xem xét và quyết định việc giảm\nđi một mức xếp loại tốt nghiệp.\nĐiều 32. Thu hồi văn bằng chứng chỉ đã cấp\n1. Các văn bằng hay chứng chỉ sẽ bị thu hồi trong các trường hợp sau :\n- Bị phát hiện có chứng cớ gian lận trong dự tuyển đầu vào, trong học tập, khảo thí;\n- Bị phát hiện có chứng cớ vi phạm Quy định về văn bằng, chứng chỉ của Trường.\n2. Hiệu trưởng sẽ ra quyết định hủy bỏ việc công nhận tốt nghiệp, hủy bỏ công nhận\nhoàn thành khóa học và thu hồi văn bằng, chứng chỉ, chứng nhận mà Trường đã cấp; trong\ntrường hợp cần thiết, việc thu hồi văn bằng, chứng chỉ, chứng nhận được thông báo rộng rãi\ntrên các phương tiện thông tin đại chúng và chuyển hồ sơ cho cơ quan pháp luật thụ lý.\nĐiều 33. Về những trường hợp chưa được công nhận tốt nghiệp\nNhững sinh viên không đủ điều kiện cấp bằng tốt nghiệp được bảo lưu các môn học\ncó kết quả từ 5,0 trở lên. Sinh viên không tốt nghiệp được cấp chứng nhận các môn học đã\ntích lũy trong chương trình đào tạo của Trường.\nChương V. CÁC ĐIỀU KHOẢN KHÁC\nĐiều 34. Xử lý kỷ luật đối với sinh viên vi phạm\n1. Sinh viên nếu vi phạm một trong các điều kiện sau đây sẽ không đủ điều kiện tham\ndự đánh giá quá trình, đánh giá giữa kỳ và kết thúc môn học:\n- Bị ghi nhận nợ học phí của học kỳ hiện tại, sinh viên sẽ không đủ điều kiện dự thi tất\ncả các môn học trong học kỳ đó và bị ghi điểm F.\n- Vi phạm nghiêm trọng kỷ luật học tập, nội quy học đường, gian dối trong học tập.\nHình thức xử lý sẽ căn cứ theo quyết định kỷ luật của Trường.\n- Nằm trong danh sách không đảm bảo tối thiểu 80% yêu cầu môn học đã được quy định.\n2. Trong khi dự kiểm tra thường xuyên, thực hiện tiểu luận, báo cáo, thi giữa kỳ, thi kết\nthúc môn học, thực hiện đồ án/khóa luận…, nếu vi phạm quy chế, sinh viên sẽ bị xử lý kỷ\nluật theo quy định của Quy chế Công tác sinh viên hiện hành của Trường.\n3. Sinh viên vi phạm các Quy định, Quy tắc ứng xử khác của Trường bị xử lý kỷ luật\ntheo quy định của Quy chế Công tác sinh viên hiện hành của Trường.\n4. Nếu sinh viên vi phạm quy chế tuyển sinh sẽ bị xử lý kỷ luật theo các quy định của\nQuy chế tuyển sinh đại học hệ chính quy của Trường và của Bộ Giáo dục & Đào tạo.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 25,
+      "text": "25\nĐiều 35. Học phí\n1. Phòng Tài chính của Trường có trách nhiệm tính và thông báo học phí theo quy định,\nthời gian nộp và hướng dẫn cách thức nộp học phí cho sinh viên theo học kỳ hoặc theo đợt\nđăng ký môn học.\n2. Sinh viên thực hiện nghĩa vụ học phí theo Quy định về việc quản lý nguồn thu từ hoạt\nđộng giáo dục của Trường. Sinh viên có nghĩa vụ nộp học phí trong thời gian Trường thông\nbáo để đảm bảo các quyền lợi học và thi. Sinh viên không hoàn thành nghĩa vụ học phí đúng\nthời gian quy định (và không được xét gia hạn học phí) sẽ không đủ điều kiện tham gia nhóm\nhọc, không đủ điều kiện dự thi tất cả các môn học và không được công nhận điểm môn học.\nPhần học phí này được ghi nợ và sinh viên có nghĩa vụ hoàn thành học phí này ở các lần\nđóng tiếp theo.\nĐiều 36. Khen thưởng\nHàng năm, tùy khả năng và nguồn tài trợ, Trường sẽ có chính sách học bổng khuyến\nkhích học tập hoặc khen thưởng sinh viên có thành tích cao trong học tập, rèn luyện, tham\ngia hoạt động ngoại khóa và hoạt động phong trào.\nĐiều 37. Hiệu lực thi hành\n1. Quy chế này được áp dụng cho các khóa đào tạo đại học chính quy tuyển sinh từ năm\n2021 trở về sau. Đối với chương trình đại học chất lượng cao, ngoài việc tuân thủ theo Quy\nchế này còn tuân thủ theo quy định đào tạo chất lượng cao của Trường.\n2. Quy chế này được thông báo công khai trên Cổng thông tin sinh viên cho tất cả sinh\nviên đại học hệ chính quy của Trường.\n3. Phòng Khảo thí và Kiểm định chất lượng, Phòng Thanh tra, pháp chế và an ninh có\ntrách nhiệm giám sát và kiểm tra việc thực hiện quy định này trong toàn trường. Tất cả các\ntrường hợp làm khác quy định chưa được sự phê duyệt của Hiệu trưởng phải được xử lý kỷ\nluật theo quy định của Trường.\n4. Trong quá trình thực hiện, nếu cần sử đổi, bổ sung cho phù hợp với tình hình thực tế,\ncác đơn vị gửi ý kiến về Phòng Đại học để tổng hợp, trình Hiệu trưởng xem xét, quyết định./.\nQ. HIỆU TRƯỞNG\n(Đã ký)\nTS. Trần Trọng Đạo",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    }
+  ]
+}

@@ -1,0 +1,1903 @@
+{
+  "document": {
+    "document_id": "QUY CHẾ CÔNG TÁC SINH VIÊN",
+    "title": "QUY CHẾ CÔNG TÁC SINH VIÊN",
+    "source_file": "QUY CHẾ CÔNG TÁC SINH VIÊN.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "01c9529d424aed37ad1eb674c7b97ef93f65f05081f01c24863eca24a8ceec1f"
+  },
+  "statistics": {
+    "page_count": 20,
+    "chapter_count": 6,
+    "article_count": 29
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": "I",
+      "title": "",
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Phạm vi và đối tượng áp dụng",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy chế này quy định về công tác sinh viên bao gồm: quyền và nhiệm vụ của sinh viên; học bổng, khen thưởng, hỗ trợ và kỷ luật sinh viên; nội dung công tác sinh viên; hệ thống tổ chức và điều khoản thi hành;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quy chế này là căn cứ pháp lý để điều tiết các hoạt động công tác sinh viên tại Trường Đại học Tôn Đức Thắng;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Khoa trong Quy chế này bao gồm các Khoa, các phân hiệu/cơ sở trực thuộc Trường;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quy chế này áp dụng đối với sinh viên được định nghĩa tại Khoản 1 Điều 2 của Quy chế này.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Sinh viên",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sinh viên được quy định tại Quy chế này là người học được đào tạo trình độ đại học (chương trình đào tạo tiêu chuẩn, chương trình đào tạo tiên tiến, chương trình liên kết đào tạo quốc tế, chương trình đào tạo đại học bằng tiếng Anh...) tại Trường Đại học Tôn Đức Thắng (TDTU);",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong Trường Đại học Tôn Đức Thắng, được đảm bảo điều kiện thực hiện đầy đủ quyền và nhiệm vụ trong quá trình học tập, nghiên cứu và rèn luyện tại Trường.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Yêu cầu của công tác sinh viên",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Công tác sinh viên là một trong các công tác trọng tâm của Trường nhằm đảm bảo việc truyền thông, quản lý và hỗ trợ sinh viên thực hiện đầy đủ quyền và nhiệm vụ trong quá trình học tập, nghiên cứu và rèn luyện tại Trường nhằm đảm bảo các mục tiêu giáo dục đại học;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Công tác sinh viên là nhiệm vụ của toàn Trường và cần phải thực hiện đồng bộ nhằm phát huy văn hóa đại học riêng có của Trường;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Công tác sinh viên thực hiện đúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước và nội quy, quy định của Nhà trường;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Công tác sinh viên bảo đảm tính khách quan, công bằng, công khai, minh bạch, dân chủ trong các công việc có liên quan đến sinh viên. 2",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "II",
+      "title": "",
+      "page_start": 2,
+      "articles": [
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Quyền của sinh viên",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Được nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các điều kiện trúng tuyển theo quy định hiện hành;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Được hưởng các chế độ chính sách theo quy định của Nhà nước, Nhà trường: miễn, giảm học phí theo quy định hiện hành, hỗ trợ chi phí học tập theo quyết định hiện hành, xét cấp học bổng, khen thưởng và hỗ trợ người học…;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Được tôn trọng và đối xử bình đẳng, được cung cấp đầy đủ thông tin, được tạo điều kiện trong học tập, nghiên cứu, rèn luyện, bao gồm:",
+              "page_start": 2,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Nhà trường cấp một tài khoản thông qua hệ thống thông tin sinh viên để phục vụ trao đổi thông tin trong quá trình học tập, nghiên cứu và rèn luyện;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ các hoạt động học tập, thí nghiệm, nghiên cứu khoa học, văn hóa, văn nghệ, thể dục thể thao;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn thanh niên, Hội sinh viên Việt Nam, Hội liên hiệp Thanh niên Việt Nam; tham gia công tác nghiên cứu khoa học, tham gia các đội sinh viên tự quản, các câu lạc bộ, đội, nhóm; tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao…;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Được xét tiếp nhận vào Ký túc xá theo quy định của Nhà trường và Quy chế tổ chức hoạt động Ký túc xá;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Nghỉ học tạm thời, học trễ tiến độ, vượt tiến độ; học ngành chính, ngành phụ; chuyển trường; nghỉ hè, nghỉ tết, nghỉ lễ theo quy định;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "f",
+                  "text": "Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh viên ở nước ngoài; học chuyển tiếp ở các trình độ đào tạo cao hơn theo quy định của Nhà trường;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "g",
+                  "text": "Khám sức khỏe; chăm sóc sức khỏe tại Phòng Y tế của Trường;",
+                  "page_start": 2
+                },
+                {
+                  "type": "point",
+                  "point": "h",
+                  "text": "Trực tiếp hoặc thông qua đại diện hợp pháp của mình kiến nghị với Nhà trường các giải pháp góp phần xây dựng Nhà trường; được đề đạt nguyện vọng và các vấn đề có liên quan đến quyền, lợi ích chính đáng của sinh viên;",
+                  "page_start": 2
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên đủ điều kiện công nhận tốt nghiệp được Nhà trường cấp bằng tốt nghiệp, bảng điểm tốt nghiệp toàn khóa/phụ lục văn bằng; các giấy tờ có liên quan;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Sinh viên đã tốt nghiệp được tạo điều kiện tham gia Hội cựu sinh viên của Trường, được thông tin về các chế độ ưu đãi ở các bậc học cao hơn dành cho cựu sinh viên; được giới thiệu các doanh nghiệp mình đang công tác hoặc doanh nghiệp do mình điều hành đóng góp ý kiến, phản hồi về chương trình đào tạo giúp cho Nhà trường ngày càng nâng cao chất lượng đào tạo, đáp ứng nhu cầu phát triển của xã hội. 3",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Nhiệm vụ của sinh viên",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, Điều lệ trường đại học và các quy chế, nội quy, quy định của Nhà trường;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Cư xử với mọi người lễ phép, lịch sự, phù hợp với môi trường giáo dục; tôn trọng giảng viên, cán bộ và nhân viên (gọi tắt là giảng viên - viên chức) của Nhà trường; đoàn kết, giúp đỡ lẫn nhau trong quá trình học tập, nghiên cứu và rèn luyện; thực hiện tốt nếp sống văn minh;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sử dụng đúng mục đích, đúng quy định đối với các trang thiết bị trong giảng đường, phòng học, thư viện, sảnh tự học, ký túc xá...; có trách nhiệm bảo quản toàn bộ trang thiết bị học tập, sinh hoạt tại Trường để các thế hệ sinh viên sau có thể sử dụng tốt; không viết, vẽ, khắc chữ lên tường, cửa, bàn ghế; giữ gìn vệ sinh trong khuôn viên Trường, nơi công cộng…; rác thải phải bỏ vào thùng rác đúng quy định; ra khỏi giảng đường, phòng học, nhà vệ sinh, ký túc xá,… tự giác tắt đèn, quạt và các trang thiết bị có sử dụng nguồn điện; luôn luôn phải nhớ và ý thức việc tiết kiệm;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tác phong nghiêm túc khi đến Trường: đeo thẻ sinh viên; trang phục lịch sự, gọn gàng và phù hợp với môi trường giáo dục; mang giày hoặc dép có quai hậu; thực hiện trang phục truyền thống: nữ áo dài truyền thống của Trường; nam áo sơ mi trắng, quần âu sẫm màu, bỏ áo vào quần ngày thứ Hai, thứ Năm hàng tuần và các ngày lễ hội của Trường khi có yêu cầu; không để tóc, sử dụng trang sức quá khác biệt với số đông. Những trường hợp đặc thù sẽ thực hiện theo văn bản được Hiệu trưởng phê duyệt;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tuyệt đối không làm việc riêng trong giờ học: ngủ, chơi game, nghe nhạc, đọc báo, đọc truyện, nói chuyện, chơi cờ caro, thêu tranh…; sử dụng điện thoại, sử dụng máy vi tính không phục vụ cho việc học tập; mất trật tự trong giờ học;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Thực hiện nhiệm vụ học tập, nghiên cứu và rèn luyện theo quy định của Nhà trường;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Nộp đầy đủ hồ sơ; nhập thông tin sinh viên, nhân thân chính xác; kịp thời thông báo cho Phòng Công tác học sinh - sinh viên khi có sự thay đổi;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Đóng học phí, các khoản phí khác, tham gia bảo hiểm y tế, tham gia khám sức khỏe theo quy định. Trường hợp đặc thù thực hiện theo các quy định hiện hành;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Thực hiện đúng các cam kết đã ký, xác nhận việc tìm hiểu thông tin “Những điều cần biết khi học tại Trường”,…;",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "10",
+              "text": "Tham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các hoạt động khác của sinh viên, giảng viên - viên chức; kịp thời báo cáo với Khoa, Phòng Công tác học sinh - sinh viên khi phát hiện những hành vi tiêu cực, gian lận trong học tập, thi cử, vi phạm nội quy, quy chế khác của sinh viên, giảng viên - viên chức trong Trường; hoặc những hành vi vi phạm pháp luật; 4",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "11",
+              "text": "Thực hiện đầy đủ các trách nhiệm của sinh viên nội trú theo Quy chế tổ chức và hoạt động Ký túc xá; các trách nhiệm của sinh viên ngoại trú theo Quy chế ngoại trú;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "12",
+              "text": "Nghiêm chỉnh chấp hành Luật nghĩa vụ quân sự; chấp hành lệnh điều động tham gia khóa đào tạo sĩ quan dự bị trong quá trình học tập ở Trường (nếu có lệnh điều động);",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "13",
+              "text": "Sinh viên phải kiểm tra hệ thống thông tin sinh viên (thông báo, email…) hàng ngày để kịp thời nắm bắt các thông tin cần thiết. Sinh viên phải bảo mật tài khoản của mình, không cung cấp cho người khác sử dụng. Sinh viên sẽ chịu hoàn toàn trách nhiệm khi để người khác sử dụng tài khoản của mình hoặc sử dụng tài khoản không đúng mục đích cho việc học;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "14",
+              "text": "Riêng đối với những sinh viên được hưởng học bổng, chi phí đào tạo do Nhà trường cấp thì phải thực hiện đúng cam kết với Nhà trường.",
+              "page_start": 4,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Các hành vi sinh viên không được làm Các hành vi sinh viên không được làm được quy định cụ thể tại Phụ lục “Những điều sinh viên không được làm; nội dung vi phạm và hình thức xử lý sinh viên” đính kèm theo Quy chế này, bao gồm nhưng không hạn chế ở các hành vi sau đây:",
+          "page_start": 4,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức hoặc tham gia các hoạt động vi phạm pháp luật;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Hành vi ứng xử không đúng mực; vô lễ đối với giảng viên - viên chức;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ quản lý, viên chức, nhân viên, người học của Nhà trường và người khác;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Có hành vi gian lận trong tuyển sinh, học tập, bảo vệ đồ án tốt nghiệp, khóa luận tốt nghiệp hoặc gian lận trong việc làm hồ sơ để được cấp văn bằng, chứng chỉ; nhờ hoặc thuê người khác làm hộ đồ án tốt nghiệp, khóa luận tốt nghiệp;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Vi phạm quy định “liêm chính học thuật”, sử dụng kết quả của người khác hoặc sao chép, trích dẫn không đúng quy định trong đồ án tốt nghiệp, khóa luận tốt nghiệp và bị hội đồng thẩm định kết luận nếu cắt bỏ những phần sử dụng, sao chép, trích dẫn đó thì đồ án tốt nghiệp, khóa luận tốt nghiệp không đạt yêu cầu;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Hành vi vi phạm nguyên tắc ứng xử văn minh Trường học;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Sử dụng các phương tiện truyền thông (bao gồm và không giới hạn các phương tiện như báo chí, mạng internet, mạng xã hội…) để đưa thông tin không đúng sự thật (không có minh chứng) hoặc những thông tin có minh chứng nhưng sử dụng từ ngữ không chuẩn mực gây ảnh hưởng đến uy tín Nhà trường, giảng viên - viên chức;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Tặng quà, tiền, phẩm vật cho giảng viên - viên chức của Trường dưới mọi hình thức;",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Hút thuốc, sử dụng rượu, bia, thức uống có cồn trong trường học; say xỉn trong Trường; 5",
+              "page_start": 4,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "10",
+              "text": "Tổ chức hoặc tham gia tụ tập đông người, biểu tình, khiếu kiện trái pháp luật; tham gia tệ nạn xã hội, gây rối an ninh, trật tự an toàn trong Trường hoặc ngoài xã hội;",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "11",
+              "text": "Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường khi chưa được Nhà trường cho phép;",
+              "page_start": 5,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "12",
+              "text": "Các hành vi vi phạm khác theo quy định của pháp luật và Nhà trường.",
+              "page_start": 5,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "III",
+      "title": "",
+      "page_start": 5,
+      "articles": [
+        {
+          "type": "article",
+          "article": "7",
+          "title": "Học bổng, khen thưởng và hỗ trợ sinh viên được thực hiện theo Quy định xét cấp học bổng hiện hành của Trường. Hàng năm, Nhà trường ban hành hướng dẫn chi tiết đính kèm.",
+          "page_start": 5,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "8",
+          "title": "Kỷ luật sinh viên",
+          "page_start": 5,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các hình thức xử lý sinh viên vi phạm",
+              "page_start": 5,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Sinh viên vi phạm nội quy, quy chế thì tùy tính chất, mức độ, hậu quả của hành vi vi phạm có thể được nhắc nhở, phê bình, nghiêm khắc phê bình hoặc phải chịu một trong các hình thức kỷ luật: khiển trách, cảnh cáo, cảnh cáo lần 2, đình chỉ học tập có thời hạn, buộc thôi học. Ngoài ra, sinh viên còn có thể bị hủy kết quả học tập, dừng việc cấp văn bằng/hoặc thu hồi, hủy bỏ văn bằng đã cấp;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Nội dung vi phạm và hình thức xử lý sinh viên được quy định tại Phụ lục đính kèm Quy chế này;",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Nội dung vi phạm và hình thức xử lý đối với các trường hợp vi phạm sẽ được lưu vào cơ sở dữ liệu sinh viên. Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, Khoa thông báo về gia đình để phối hợp giáo dục.",
+                  "page_start": 5
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Nguyên tắc xử lý sinh viên vi phạm",
+              "page_start": 5,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Trong cùng một thời điểm, sinh viên có nhiều hành vi vi phạm thì tùy theo tính chất, mức độ vi phạm, Hội đồng kỷ luật sinh viên cấp Khoa đề xuất hình thức xử lý và trình Hội đồng kỷ luật sinh viên cấp Trường xem xét, quyết định về hình thứ c và mứ c kỷ luâ ̣t.",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Đối với những nội dung vi phạm phát sinh trong thực tế ngoài Phụ lục “Những điều sinh viên không được làm; Nội dung vi phạm và hình thức xử lý sinh viên” thì tùy theo tính chất, mức độ vi phạm, Hội đồng kỷ luật sinh viên cấp Khoa đề xuất hình thức xử lý và trình Hội đồng kỷ luật sinh viên cấp Trường xem xét, quyết định về hình thứ c và mứ c kỷ luâ ̣t.",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trong thời gian thi hành Quyết định kỷ luật, nếu sinh viên còn vi phạm bất kỳ nội quy, quy định nào của Nhà trường sẽ bị hình thức xử lý ở mức cao hơn. 6",
+                  "page_start": 5
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Trong trường hợp sinh viên đã bị xử lý nhưng vẫn tiếp tục lặp lại lỗi vi phạm sẽ bị hình thức xử lý ở mức cao hơn.",
+                  "page_start": 6
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Hội đồng kỷ luật sinh viên",
+              "page_start": 6,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Hội đồng kỷ luật sinh viên cấp Khoa Hội đồng kỷ luật sinh viên cấp Khoa có ít nhất 3 thành viên, bao gồm: Chủ tịch hội đồng là Trưởng khoa/Giám đốc Phân hiệu; ủy viên hoặc các ủy viên (là giảng viên chủ nhiệm/giảng viên cố vấn, là Lớp trưởng lớp có sinh viên vi phạm; trường hợp sinh viên trễ tiến độ đào tạo thì Chủ tịch hội đồng phân công thêm thành viên tham gia họp đủ theo số lượng quy định); thư ký hội đồng (là viên chức công tác sinh viên); Hội đồng có trách nhiệm xem xét nội dung sự việc, thảo luận và biểu quyết đề nghị hình thức xử lý đối với sinh viên vi phạm; Hội đồng kỷ luật cấp Khoa làm việc theo nguyên tắc tập thể và kết luận của hội đồng phải được sự đồng ý của trên 50% thành viên hội đồng; Hội đồng cấp Khoa do Khoa thành lập và tổ chức họp khi có sinh viên vi phạm pháp luật, nội quy, quy chế của Nhà trường.",
+                  "page_start": 6
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Hội đồng kỷ luật sinh viên cấp Trường Hội đồng kỷ luật sinh viên cấp Trường có nhiều thành viên. Số lượng thành viên do Hiệu trưởng quyết định theo từng vụ việc nhưng không ít hơn 3 người; Thành phần hội đồng kỷ luật sinh viên cấp Trường gồm Chủ tịch hội đồng là Hiệu trưởng hoặc Phó Hiệu trưởng được phân công; thường trực hội đồng là lãnh đạo Phòng Công tác học sinh - sinh viên; các ủy viên: Trưởng các Khoa, viên chức CTSV các Khoa, Phòng Thanh tra, Pháp chế và An ninh, Đoàn thanh niên, đơn vị có liên quan. Thư ký là đại diện của Phòng Công tác học sinh - sinh viên; Hội đồng có trách nhiệm xem xét nội dung sự việc, thảo luận và biểu quyết hình thức xử lý đối với sinh viên vi phạm; Hội đồng làm việc theo nguyên tắc tập thể. Kết luận của hội đồng phải được sự đồng ý của trên 50% thành viên hội đồng.",
+                  "page_start": 6
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Trình tự, thủ tục và hồ sơ xét xử lý sinh viên vi phạm",
+              "page_start": 6,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Trình tự, thủ tục xét xử lý sinh viên vi phạm Bước 1: Phòng Công tác học sinh - sinh viên tiếp nhận hồ sơ từ các đơn vị về việc sinh viên vi phạm; Bước 2: Phòng Công tác học sinh - sinh viên tổng hợp và gửi dữ liệu sinh viên vi phạm về các Khoa liên quan; Bước 3: Khoa trao đổi, làm việc với sinh viên, giáo dục về nội dung vi phạm, hình thức xử lý; Bước 4: Sinh viên có hành vi vi phạm phải làm bản kiểm điểm và tự nhận hình thức xử lý (trong trường hợp sinh viên không thực hiện bản kiểm điểm và không tự 7 nhận hình thức xử lý, hội đồng dựa vào các hồ sơ minh chứng và biên bản họp của Khoa để xem xét và quyết định hình thức xử lý); Bước 5: Hội đồng kỷ luật sinh viên cấp Khoa họp và đề xuất hình thức xử lý; Bước 6: Phòng Công tác học sinh - sinh viên cùng với Phòng Thanh tra, Pháp chế và An ninh kiểm tra hồ sơ, yêu cầu làm rõ (nếu có), chuẩn bị hồ sơ trình hội đồng kỷ luật sinh viên cấp Trường họp, xem xét; Bước 7: Hội đồng kỷ luật sinh viên cấp Trường họp, kiến nghị hình thức xử lý, kỷ luật và kiến nghị Hiệu trưởng ra thông báo xử lý hoặc quyết định kỷ luật sinh viên có hành vi vi phạm; Bước 8: Khoa liên quan thông báo đến sinh viên có hành vi vi phạm biết hình thức xử lý; Bước 9: Các Khoa tổ chức sinh hoạt và giáo dục cho sinh viên toàn Khoa mình biết các nội dung vi phạm và hình thức xử lý để giúp cho sinh viên hiểu biết nhiều hơn và chấp hành tốt nội quy, quy chế của Trường.",
+                  "page_start": 6
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Hồ sơ xử lý sinh viên vi phạm Hồ sơ về nội dung vi phạm của sinh viên; Bản kiểm điểm của sinh viên (trường hợp nếu sinh viên không thực hiện bản kiểm điểm thì có các hồ sơ minh chứng của Khoa đính kèm); Biên bản họp xét của hội đồng kỷ luật sinh viên cấp Khoa; Bảng tổng hợp danh sách sinh viên vi phạm nội quy, quy định; Biên bản họp xét của hội đồng kỷ luật sinh viên cấp Trường; Thông báo xử lý hoặc quyết định kỷ luật sinh viên có hành vi vi phạm; Các tài liệu có liên quan khác (nếu có).",
+                  "page_start": 7
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Hiệu lực của quyết định kỷ luật: quyết định kỷ luật sinh viên có hiệu lực kể từ ngày ký quyết định, trừ trường hợp có khiếu nại về kỷ luật theo quy định tại Khoản 6 Điều này. Phòng Công tác học sinh - sinh viên cập nhật các quyết định kỷ luật vào hệ thống theo quy định.",
+              "page_start": 7,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Chấm dứt hiệu lực của quyết định kỷ luật",
+              "page_start": 7,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Khiển trách: sau 03 (ba) tháng kể từ ngày ký quyết định kỷ luật, nếu sinh viên không tái phạm thì hiệu lực của quyết định kỷ luật được chấm dứt;",
+                  "page_start": 7
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Cảnh cáo hoặc cảnh cáo lần 2: sau 06 (sáu) tháng kể từ ngày ký quyết định kỷ luật, nếu sinh viên không tái phạm thì hiệu lực của quyết định kỷ luật được chấm dứt;",
+                  "page_start": 7
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Đình chỉ học tập có thời hạn: khi hết thời hạn đình chỉ, sinh viên liên hệ Khoa, Phòng Đại học để làm thủ tục nhập học lại;",
+                  "page_start": 7
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Đối với những trường hợp bị phạt tù nhưng được hưởng án treo thì khi hết thời hạn chấp hành án, sinh viên phải xuất trình chứng nhận của cơ quan có thẩm 8 quyền về việc đã chấp hành tốt hình phạt để Nhà trường xem xét, tiếp nhận vào học tiếp.",
+                  "page_start": 7
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Quyền khiếu nại về kỷ luật",
+              "page_start": 8,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Sinh viên nếu không đồng ý với quyết định kỷ luật hoặc thông báo xử lý thì có quyền khiếu nại. Sinh viên khiếu nại nộp đơn khiếu nại kèm theo các chứng cứ và giải trình tại Phòng Thanh tra, Pháp chế và An ninh của Trường. Thời gian khiếu nại là 15 ngày kể từ ngày ký quyết định kỷ luật. Trong trường hợp có khiếu nại, quyết định xử lý kỷ luật tạm thời không có hiệu lực cho đến khi giải quyết xong khiếu nại;",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Trong thời hạn 07 ngày làm việc kể từ ngày nhận đơn khiếu nại, Phòng Thanh tra, Pháp chế và An ninh thẩm định nội dung khiếu nại và làm báo cáo trình Hiệu trưởng về nội dung khiếu nại;",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Trong thời hạn 30 ngày kể từ ngày nhận được báo cáo của Phòng Thanh tra, Pháp chế và An ninh, Hiệu trưởng ra quyết định giải quyết khiếu nại theo quy định của pháp luật và Nhà trường;",
+                  "page_start": 8
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Trong trường hợp không đồng ý với kết quả giải quyết khiếu nại, sinh viên bị kỷ luật có quyền khiếu nại đến các cấp có thẩm quyền theo pháp luật về khiếu nại, tố cáo.",
+                  "page_start": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "IV",
+      "title": "",
+      "page_start": 8,
+      "articles": [
+        {
+          "type": "article",
+          "article": "9",
+          "title": "Công tác giáo dục, tuyên truyền",
+          "page_start": 8,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Giáo dục, tuyên truyền sinh viên thực hiện đúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục và Đào tạo và nội quy, quy định của Nhà trường;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Giáo dục sinh viên theo Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các nội quy, quy định của Trường;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức đối thoại sinh viên cấp Trường tối thiểu một lần/học kỳ; cấp Khoa tối thiểu hai lần/học kỳ để xử lý mọi thắc mắc và giáo dục sinh viên;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tổ chức Tuần sinh hoạt công dân đầu năm, đầu khóa học;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tổ chức chào cờ đầu tuần phù hợp với điều kiện thực tế;",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Tổ chức kiểm tra việc chấp hành nội quy, quy định của sinh viên toàn Trường.",
+              "page_start": 8,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "10",
+          "title": "Công tác tổ chức, quản lý sinh viên",
+          "page_start": 8,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức tiếp nhận thí sinh trúng tuyển, nhập học; xếp lớp theo ngành cho sinh viên; làm thẻ sinh viên; chỉ định, bầu/cử Lớp trưởng, Tổ trưởng tự quản; 9",
+              "page_start": 8,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên quan đến sinh viên;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Kiểm tra hồ sơ minh chứng ưu tiên đối tượng, khu vực tuyển sinh;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quản lý sinh viên nội trú, theo dõi sinh viên ngoại trú theo quy định;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Xây dựng và tổ chức thực hiện kế hoạch công tác sinh viên phù hợp với điều kiện thực tế;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Tổ chức các hoạt động chuyên môn, học thuật, văn hóa, văn nghệ, thể dục thể thao, cộng đồng, tình nguyện, phong trào; các chuyên đề kỹ năng sống, kỹ năng nghề nghiệp, việc làm cho sinh viên;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Tổ chức các buổi Lễ của Nhà trường như: Lễ khai giảng, Lễ tốt nghiệp, Lễ kỷ niệm Ngày thành lập Trường, Ngày Nhà giáo Việt Nam…;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Tổ chức thực hiện việc ghi nhận, đánh giá kết quả rèn luyện cho sinh viên;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Cấp giấy xác nhận, in giấy chứng nhận sinh viên, xác nhận các giấy tờ liên quan đến sinh viên trong phạm vi thẩm quyền;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "10",
+              "text": "Kiểm tra thông tin, tình trạng sinh viên theo nhiệm vụ được phân công;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "11",
+              "text": "Báo cáo công tác sinh viên khi có yêu cầu.",
+              "page_start": 9,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "11",
+          "title": "Quản lý cơ sở dữ liệu",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Ứng dụng công nghệ thông tin trong công tác quản lý cơ sở dữ liệu; cập nhật, quản lý, lưu trữ hồ sơ sinh viên trong cơ sở dữ liệu thống nhất, phù hợp và đồng bộ với phần mềm quản lý của Nhà trường; bảo đảm yêu cầu truy xuất nhanh, chính xác, kịp thời thông tin về nhân thân sinh viên, quá trình học tập, rèn luyện và các thông tin khác của các bộ phận chức năng trong Nhà trường;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Cập nhật các quyết định khen thưởng, kỷ luật vào cơ sở dữ liệu của Trường;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Cập nhật kết quả sinh viên tham gia các hoạt động rèn luyện vào cơ sở dữ liệu của Trường.",
+              "page_start": 9,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "12",
+          "title": "Miễn, giảm học phí; học bổng, khen thưởng, hỗ trợ sinh viên; kỷ luật sinh viên",
+          "page_start": 9,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức thực hiện việc miễn, giảm học phí; hỗ trợ chi phí học tập cho sinh viên theo quy định của Nhà nước;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Xây dựng, trình duyệt hướng dẫn học bổng, khen thưởng, hỗ trợ sinh viên hàng năm phù hợp với tình hình thực tế;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức thực hiện việc xét học bổng, khen thưởng, hỗ trợ sinh viên theo quy định của Trường;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tìm kiếm các nguồn hỗ trợ học bổng cho sinh viên;",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Xem xét và giải quyết gia hạn học phí cho sinh viên; 10",
+              "page_start": 9,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Thực hiện thủ tục kỷ luật sinh viên theo quy định của Trường. Theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Lưu hồ sơ miễn, giảm học phí; học bổng, khen thưởng, hỗ trợ sinh viên; kỷ luật sinh viên.",
+              "page_start": 10,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "13",
+          "title": "Tư vấn và dịch vụ sinh viên",
+          "page_start": 10,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tư vấn học tập, tâm lý, sinh hoạt chuyên đề, dịch vụ hỗ trợ các đối tượng sinh viên đặc biệt;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Tổ chức thực hiện công tác y tế trường học; tổ chức khám sức khỏe cho sinh viên trong điều kiện cho phép; chăm sóc sức khỏe học đường cho sinh viên;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức cho sinh viên tham gia bảo hiểm y tế, bảo hiểm tai nạn vào đầu mỗi năm học theo quy định;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tạo điều kiện cơ sở vật chất cho sinh viên học tập, rèn luyện, bao gồm các hoạt động: chuyên môn, học thuật, văn hóa, văn nghệ, thể dục thể thao, cộng đồng, tình nguyện, phong trào; có căn tin, nước uống trong khuôn viên Trường đảm bảo vệ sinh an toàn thực phẩm.",
+              "page_start": 10,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "14",
+          "title": "Công tác bảo đảm an ninh, trật tự Trường học",
+          "page_start": 10,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Ban hành nội quy, quy định, xây dựng và tổ chức thực hiện kế hoạch kiểm tra, giám sát việc thực hiện của sinh viên;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Quản lý hệ thống giám thị, bảo vệ và bảo đảm hệ thống này thường xuyên giáo dục sinh viên chấp hành nội quy, quy chế;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo về công tác bảo đảm an ninh, trật tự, an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong sinh viên;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tiếp nhận và giải quyết các đơn khiếu nại của sinh viên, phụ huynh theo quy định;",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Bảo đảm an ninh, trật tự trường học. Phối hợp với công an địa phương thực hiện các biện pháp bảo đảm an ninh, trật tự trường học.",
+              "page_start": 10,
+              "points": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "V",
+      "title": "",
+      "page_start": 10,
+      "articles": [
+        {
+          "type": "article",
+          "article": "15",
+          "title": "Hệ thống tổ chức quản lý và phân cấp trách nhiệm trong công tác sinh viên",
+          "page_start": 10,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Hệ thống tổ chức, quản lý sinh viên tại Trường được quy định gồm: Hiệu trưởng (hoặc Phó hiệu trưởng được phân công); Phòng Công tác học sinh - sinh viên; Đoàn thanh niên - Hội sinh viên; Phòng Đại học; Phòng Thanh tra, Pháp chế và An ninh; Phòng Khảo thí và Kiểm định chất lượng; Ký túc xá; Viện Hợp tác, Nghiên cứu và Đào tạo quốc tế; Trung tâm Hợp tác doanh nghiệp và Cựu sinh viên; Khoa quản lý; Viên chức CTSV; Giảng viên giảng dạy; GVCN/GVCV; Lớp trưởng; Tổ trưởng; 11",
+              "page_start": 10,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Hiệu trưởng (hoặc Phó Hiệu trưởng được phân công) chỉ đạo công tác sinh viên toàn Trường.",
+              "page_start": 11,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "16",
+          "title": "Phòng Công tác học sinh - sinh viên",
+          "page_start": 11,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tham mưu cho Ban Giám hiệu quyết định về công tác sinh viên của Trường;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Chịu trách nhiệm chính trong việc tổ chức thực hiện Quy chế công tác sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức tiếp nhận thí sinh trúng tuyển, nhập học; tổ chức tuần sinh hoạt công dân đầu năm học, đầu khóa học cho sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quản lý, lưu trữ hồ sơ sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Quản lý hệ thống viên chức CTSV Khoa và bảo đảm sự phối hợp tốt giữa hệ thống này với hệ thống viên chức giáo vụ trong tổ chức thực hiện công tác sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Xây dựng kế hoạch công tác sinh viên cấp Trường và góp ý, phản biện kế hoạch công tác sinh viên cấp Khoa từng năm học;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Cập nhật kết quả tham gia hoạt động, rèn luyện của sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Tham mưu, theo dõi và cập nhật kết quả xử lý sinh viên vi phạm theo Quy chế;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Tổ chức thực hiện chính sách của Nhà nước liên quan đến sinh viên; học bổng, khen thưởng và hỗ trợ sinh viên theo quy định của Trường;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "10",
+              "text": "Thực hiện các báo cáo về công tác sinh viên cho cấp trên theo yêu cầu;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "11",
+              "text": "Chức năng, nhiệm vụ, quyền hạn trong công tác quản lý sinh viên được quy định tại Quy chế tổ chức và hoạt động Phòng Công tác học sinh - sinh viên.",
+              "page_start": 11,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "17",
+          "title": "Đoàn thanh niên - Hội sinh viên",
+          "page_start": 11,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Phối hợp với Phòng Công tác học sinh - sinh viên xây dựng kế hoạch để giáo dục đoàn viên, thanh niên, hội viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các nội dung liên quan đến việc giáo dục sinh viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Giáo dục tư tưởng chính trị để đoàn viên, thanh niên, hội viên nắm vững và thực hiện đúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Giáo dục tư tưởng, truyền thống cho đoàn viên, thanh niên, hội viên; kịp thời nắm bắt tư tưởng, hành vi của đoàn viên, thanh niên, hội viên để định hướng, giáo dục;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tổ chức các hoạt động tình nguyện, hoạt động công tác xã hội, hoạt động vì cộng đồng, phong trào cho đoàn viên, thanh niên, hội viên;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp vào Đảng;",
+              "page_start": 11,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Phối hợp với các đơn vị trong Trường truyền thông phong trào nghiên cứu khoa học trong đoàn viên, thanh niên, hội viên. 12",
+              "page_start": 11,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "18",
+          "title": "Phòng Đại học",
+          "page_start": 12,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Phối hợp tổ chức tiếp nhận sinh viên trúng tuyển vào Trường theo ngành đăng ký;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Xếp lớp theo ngành cho sinh viên để phục vụ công tác quản lý;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trình duyệt, cập nhật các quyết định ảnh hưởng đến biên chế lớp như: quyết định nhập học, quyết định xử lý học vụ, quyết định cho sinh viên nghỉ học tạm thời, bảo lưu, quyết định cho sinh viên thôi học, quyết định chuyển ngành, chuyển lớp, chuyển khóa, chuyển bậc đào tạo, quyết định tốt nghiệp vào cơ sở dữ liệu sinh viên...;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Thực hiện các công việc liên quan đến công tác quản lý học vụ theo đúng kế hoạch thời gian năm học đã ban hành nhằm phối hợp với Phòng Công tác học sinh - sinh viên thực hiện các hoạt động liên quan đến công tác sinh viên (như xét cấp học bổng, khen thưởng, xử lý học vụ...);",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Phối hợp Phòng Tài chính; Phòng Công tác học sinh - sinh viên trong việc yêu cầu sinh viên thực hiện nghĩa vụ học phí;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Làm thư ký hội đồng xét tốt nghiệp; làm quyết định tốt nghiệp cho người học chương trình liên kết đào tạo quốc tế;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Tư vấn học tập, tâm lý, sinh hoạt chuyên đề hỗ trợ các đối tượng sinh viên đặc biệt;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Phối hợp với các đơn vị trong Trường tổ chức Lễ khai giảng, Lễ tốt nghiệp…; tổ chức phát bằng cho người học chương trình liên kết đào tạo quốc tế chương trình song bằng, có cấp bằng của Nhà trường;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Quản lý hệ thống viên chức giáo vụ, GVCN/GVCV và bảo đảm sự phối hợp tốt giữa hệ thống này với hệ thống viên chức CTSV.",
+              "page_start": 12,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "19",
+          "title": "Viện Hợp tác, Nghiên cứu và Đào tạo quốc tế",
+          "page_start": 12,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Phối hợp với Phòng Đại học để đưa sinh viên đi học chuyển tiếp giai đoạn 2;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Nhận bằng tốt nghiệp từ đối tác (theo thỏa thuận riêng với từng đại học);",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Phối hợp các đơn vị chức năng của Nhà trường để hỗ trợ tư vấn, giải đáp các thắc mắc, yêu cầu và khiếu nại chính đáng của sinh viên quốc tế về các vấn đề liên quan đến học vụ.",
+              "page_start": 12,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "20",
+          "title": "Phòng Khảo thí và Kiểm định chất lượng Quản lý, tổ chức cấp phát văn bằng, chứng chỉ cho sinh viên; quản lý điểm đảm bảo dữ liệu điểm của sinh viên chính xác, an toàn; tổ chức đánh giá kết quả học tập, thi cử.",
+          "page_start": 12,
+          "clauses": []
+        },
+        {
+          "type": "article",
+          "article": "21",
+          "title": "Phòng Thanh tra, Pháp chế và An ninh",
+          "page_start": 12,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Cùng với Phòng Công tác học sinh - sinh viên giáo dục sinh viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử của sinh viên, văn 13 hóa lễ phép, đặc điểm nhận diện sinh viên và các nội dung liên quan đến việc giáo dục sinh viên;",
+              "page_start": 12,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Cùng với Phòng Công tác học sinh - sinh viên theo dõi, nắm bắt tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên quan đến sinh viên;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Cùng với Phòng Công tác học sinh - sinh viên kiểm tra hồ sơ minh chứng các đối tượng được hưởng ưu tiên trong tuyển sinh, hồ sơ minh chứng các đối tượng xét vào nội trú ký túc xá; hồ sơ minh chứng đối tượng được xét cấp học bổng;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quản lý hệ thống giám thị, bảo vệ và bảo đảm hệ thống này thường xuyên giáo dục sinh viên chấp hành nội quy, quy chế;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo về công tác bảo đảm an ninh, trật tự, an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong sinh viên;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Tiếp nhận và giải quyết các đơn khiếu nại của sinh viên, phụ huynh theo quy định;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Tổ chức thực hiện công tác bảo đảm an ninh, trật tự Trường học. Phối hợp với công an địa phương thực hiện các biện pháp bảo đảm an ninh, trật tự trường học.",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "22",
+          "title": "Ký túc xá",
+          "page_start": 13,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tổ chức tiếp nhận đơn xin ở nội trú của sinh viên, kiểm tra, tổng hợp và trình Ban Giám hiệu phê duyệt;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Theo dõi, nắm bắt tư tưởng, hành vi của sinh viên nội trú để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên nội trú tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên quan đến sinh viên nội trú;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Chịu trách nhiệm chính trong công tác quản lý, giáo dục đạo đức cho sinh viên nội trú;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Phối hợp với địa phương, tổ chức quản lý tạm trú cho sinh viên theo đúng quy định của chính quyền địa phương;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tổ chức hoạt động tình nguyện, hoạt động cộng đồng… cho sinh viên nội trú;",
+              "page_start": 13,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Lập hồ sơ học bổng, khen thưởng, kỷ luật; đề xuất xử lý các trường hợp vi phạm nội quy, quy chế ký túc xá hoặc vi phạm pháp luật trong sinh viên nội trú theo quy định. 14",
+              "page_start": 13,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "23",
+          "title": "Trung tâm Hợp tác doanh nghiệp và Cựu sinh viên",
+          "page_start": 14,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chịu trách nhiệm xây dựng kế hoạch và triển khai thực hiện hoạt động hỗ trợ sinh viên: việc làm toàn thời gian, bán thời gian, nhà trọ; hỗ trợ chỗ thực tập, kiến tập, tham quan thực tế cho sinh viên;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Chịu trách nhiệm liên hệ với các doanh nghiệp, tổ chức xã hội, cá nhân để tạo nguồn hỗ trợ học bổng cho sinh viên;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức các buổi chuyên đề, hội thảo về kỹ năng nghề nghiệp nhằm giúp sinh viên khi tốt nghiệp có đủ năng lực và phẩm chất để đáp ứng yêu cầu đơn vị tuyển dụng và xã hội;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Xây dựng, kết nối và phát triển tổ chức cựu sinh viên tại Trường đảm bảo hiệu quả.",
+              "page_start": 14,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "24",
+          "title": "Khoa quản lý",
+          "page_start": 14,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chịu trách nhiệm chính trong công tác sinh viên của đơn vị mình quản lý;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Giáo dục sinh viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử của sinh viên, văn hóa lễ phép, đặc điểm nhận diện sinh viên… Tổ chức theo dõi, giám sát việc thực hiện của sinh viên Khoa quản lý; tổ chức đối thoại giữa sinh viên và lãnh đạo Khoa tối thiểu hai lần/học kỳ; xử lý mọi thắc mắc và giáo dục đạo đức cho sinh viên;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục và báo cáo ngay cho Phòng Công tác học sinh - sinh viên, Phòng Thanh tra, Pháp chế và An ninh khi có vấn đề bất thường trong sinh viên; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên quan đến sinh viên;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Tư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp với mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, hướng dẫn sinh viên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật…) nhằm nâng cao khả năng, học tập hiệu quả;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Xây dựng kế hoạch giáo dục đạo đức, kế hoạch công tác sinh viên hàng năm phù hợp với đặc thù ngành nghề và nhu cầu của sinh viên Khoa; tổ chức thực hiện việc ghi nhận, đánh giá kết quả rèn luyện sinh viên Khoa đảm bảo đúng thủ tục, khách quan, công bằng và chính xác;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Đảm bảo sự phối hợp tốt giữa các bộ phận viên chức giáo vụ, viên chức CTSV, GVCN/GVCV, giảng viên giảng dạy, Lớp trưởng, Tổ trưởng, Cán bộ Đoàn - Hội trong việc tổ chức thực hiện công tác sinh viên tại Khoa;",
+              "page_start": 14,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Thực hiện báo cáo công tác sinh viên của Khoa khi có yêu cầu. 15",
+              "page_start": 14,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "25",
+          "title": "Viên chức Công tác sinh viên",
+          "page_start": 15,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Giáo dục sinh viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử của sinh viên, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các nội dung liên quan đến việc giáo dục sinh viên;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Xây dựng kế hoạch công tác sinh viên hàng năm của Khoa mình; định hướng các hoạt động và chịu trách nhiệm trước Khoa và Trường về các hoạt động công tác sinh viên của đơn vị. Giám sát, phối hợp tổ chức các câu lạc bộ, đội, nhóm trong Khoa;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tổ chức các hoạt động văn hóa văn nghệ, thể dục thể thao… phù hợp với nhu cầu của sinh viên Khoa;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Theo dõi và tổng hợp kết quả đánh giá rèn luyện của sinh viên theo đúng thủ tục;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Theo dõi, tổng hợp tình hình sinh hoạt chủ nhiệm để báo cáo Khoa, Phòng Công tác học sinh - sinh viên;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "Thực hiện hoạt động quản lý sinh viên toàn Khoa; đảm bảo nguyên tắc hoạt động nào có sinh viên của Khoa tham gia thì phải có quản lý và giám sát của viên chức CTSV Khoa bằng nhiều hình thức;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Phối hợp với GVCN/GVCV thực hiện quy trình bầu/cử, công nhận, miễn nhiệm Lớp trưởng, Tổ trưởng. Quản lý hệ thống Lớp trưởng, Tổ trưởng; đánh giá Lớp trưởng, Tổ trưởng từng học kỳ; giao ban mỗi tháng/lần với Tổ trưởng, Lớp trưởng; chịu trách nhiệm phản ảnh đầy đủ, kịp thời tất cả những vấn đề tiềm ẩn trong sinh viên; chịu trách nhiệm về việc nắm bắt tình hình dư luận sinh viên và báo cáo kịp thời cho Khoa quản lý, Phòng Công tác học sinh - sinh viên và các đơn vị liên quan;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Nắm bắt tình hình sinh viên trong Khoa: Theo dõi tình hình học tập, rèn luyện, tư tưởng, hành vi của sinh viên thông qua Lớp trưởng, Tổ trưởng, Ban chấp hành Chi đoàn - Chi hội sinh viên, qua các kênh truyền thông khác...; đề xuất các giải pháp đối với sinh viên yếu, kém; sinh viên có hoàn cảnh khó khăn; sinh viên vi phạm…; Nắm bắt về tình hình chuyên cần, tình hình sinh viên nghỉ học không lý do, sinh viên vắng sinh hoạt chủ nhiệm và đề xuất hình thức xử lý;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Kiểm tra nền nếp sinh viên, trực chào cờ (theo lịch phân công);",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "10",
+              "text": "Thực hiện công tác giám sát, hỗ trợ Đoàn - Hội; tổ chức đánh giá năng lực cán bộ Đoàn - Hội của đơn vị từng học kỳ; tham mưu ban chủ nhiệm Khoa về công tác tổ chức, nhân sự của Đoàn khoa, Liên chi hội, Chi đoàn, Chi hội; tham gia công tác kiểm tra đánh giá cuối năm công tác Đoàn - Hội tại Khoa; giám sát công tác tổ chức đại hội/hội nghị Đoàn - Hội cấp Khoa;",
+              "page_start": 15,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "11",
+              "text": "Nêu gương đạo đức, tác phong, lối sống... cho sinh viên. 16",
+              "page_start": 15,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "26",
+          "title": "Giảng viên giảng dạy",
+          "page_start": 16,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Nắm vững quy định của Trường/Khoa về lộ trình đào tạo, yêu cầu của ngành học, chương trình học và cung cấp đầy đủ thông tin cho sinh viên hiểu để thực hiện;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Am hiểu các đối tượng sinh viên khác nhau (sinh viên Xuất sắc, Giỏi, Khá, Trung bình khá, Trung bình, Yếu, Kém, sinh viên học lại, sinh viên cá biệt, sinh viên có hoàn cảnh đặc biệt…) trong từng nhóm môn học do mình phụ trách và có phương pháp giảng dạy thích hợp; hướng dẫn, quản lý và hỗ trợ sinh viên thực hiện nhiệm vụ tự học thông qua sử dụng Thư viện;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Thực hiện tốt các nội dung được Khoa phân công giáo dục đạo đức cho sinh viên; nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục và báo cáo ngay cho Khoa;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Chịu trách nhiệm quản lý sinh viên trong giờ học;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Nêu gương đạo đức, tác phong, lối sống... cho sinh viên.",
+              "page_start": 16,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "27",
+          "title": "Giảng viên chủ nhiệm/Giảng viên cố vấn",
+          "page_start": 16,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Giáo dục đạo đức cho sinh viên và các nội dung liên quan đến sinh viên trong Quy chế công tác sinh viên; nhắc nhở và đề xuất xử lý những sinh viên vi phạm nội quy, quy định;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Thực hiện tốt các nội dung được Khoa phân công giáo dục đạo đức cho sinh viên; nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục và báo cáo ngay cho Khoa;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Tư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp với mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, nội dung rèn luyện, định hướng nghề nghiệp, hướng dẫn sinh viên tiếp cận các nguồn lực nhằm nâng cao khả năng học tập hiệu quả;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh hoạt định kỳ với lớp của mình. Trong các buổi sinh hoạt, gặp gỡ sinh viên GVCN/GVCV phải thông báo đầy đủ, chính xác các yêu cầu, thông báo mới của Nhà trường về học vụ, đào tạo, nội quy, quy chế; phải bảo đảm rằng mọi sinh viên đều nắm bắt kịp thời để thực hiện đúng; động viên sinh viên tích cực tham gia các phong trào, các hoạt động rèn luyện…; nắm bắt tình hình học tập, tâm tư, nguyện vọng của từng sinh viên trong lớp để định hướng, uốn nắn, không để sai sót. Lồng ghép nội dung giáo dục đạo đức vào bài học, sinh hoạt chủ nhiệm, gặp gỡ sinh viên;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Tổ chức thực hiện chức năng phân Tổ, Tổ trưởng, Lớp trưởng; liên hệ với Lớp trưởng, Tổ trưởng định kỳ ít nhất 1 lần/tháng (có thể qua email, tiếp xúc trực tiếp, điện thoại...); nắm bắt tình hình do Lớp trưởng, Tổ trưởng báo cáo để kịp thời hỗ trợ, cho ý kiến giải quyết, giải thích, làm rõ...; hoặc có những hướng dẫn, chấn chỉnh tình trạng hiểu sai thông tin. Phối hợp viên chức CTSV Khoa đánh giá hoạt động của từng Tổ, từng thành viên vào cuối học kỳ; đồng thời góp ý điều chỉnh các nội dung chưa 17 thực hiện tốt trong học kỳ; đề xuất những giải pháp cần thiết để củng cố lực lượng Lớp trưởng, Tổ trưởng luôn mạnh và hiệu quả; xây dựng được đội ngũ sinh viên nòng cốt;",
+              "page_start": 16,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "GVCN/GVCV có ý kiến và đề xuất cấp học bổng, khen thưởng, kỷ luật sinh viên;",
+              "page_start": 17,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Nêu gương đạo đức, tác phong, lối sống... cho sinh viên.",
+              "page_start": 17,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "28",
+          "title": "Lớp trưởng, Tổ trưởng",
+          "page_start": 17,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy trình bầu/cử, công nhận, miễn nhiệm Lớp trưởng, Tổ trưởng",
+              "page_start": 17,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Lớp trưởng, Tổ trưởng do Khoa chỉ định hoặc bầu/cử và Khoa gửi đề nghị danh sách công nhận về Phòng Công tác học sinh - sinh viên vào tuần thứ tư, học kỳ một của từng năm học;",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Tổ sinh viên tự quản từ 07-10 sinh viên/Tổ. Việc phân Tổ ưu tiên sắp xếp các sinh viên có thời khóa biểu gần giống nhau trong học kỳ vào cùng một Tổ;",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Nhiệm kỳ của Lớp trưởng, Tổ trưởng là một năm học. Nếu trường hợp Lớp trưởng, Tổ trưởng không quản lý và điều hành Lớp, Tổ tốt (hoặc có sự thay đổi) thì Khoa rà soát, gửi đề xuất nhân sự mới về Phòng Công tác học sinh - sinh viên chậm nhất vào tuần thứ chín của học kỳ để Phòng kiểm tra và tổng hợp trình Ban Giám hiệu ra quyết định;",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Việc bầu lại Lớp trưởng/Tổ trưởng có thể thực hiện: Căn cứ vào danh sách Lớp, Tổ, GVCN/GVCV và viên chức CTSV tổ chức họp Lớp, Tổ để các thành viên của Lớp, Tổ đề cử nhân sự có khả năng làm Lớp trưởng, Tổ trưởng và tiến hành bầu chọn; Nếu thành viên của Lớp, Tổ không có chính kiến; hoặc nếu việc đề cử nhân sự bất kỳ của thành viên trong Lớp, Tổ có cơ sở là không thuyết phục, GVCN/GVCV và viên chức CTSV có thể căn cứ vào kết quả học tập, rèn luyện của học kỳ gần nhất và khả năng của từng sinh viên để chỉ định Lớp trưởng, Tổ trưởng;",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Điều kiện để được bình bầu làm Lớp trưởng, Tổ trưởng: Điểm trung bình học tập học kỳ gần nhất đạt từ 6.0 trở lên; Kết quả đánh giá rèn luyện học kỳ gần nhất đạt từ 65 điểm trở lên; Không vi phạm nội quy, quy chế của Nhà trường trong năm học gần nhất; Những trường hợp ngoại lệ khác, Khoa đề xuất;",
+                  "page_start": 17
+                },
+                {
+                  "type": "point",
+                  "point": "f",
+                  "text": "Lớp trưởng, Tổ trưởng có thể bị miễn nhiệm khi bị một trong các trường hợp sau: Kết quả đánh giá từng học kỳ không hoàn thành nhiệm vụ; Không chuyên cần trong học tập, không gương mẫu, thiếu tinh thần trách nhiệm hoặc vắng sinh hoạt Lớp, vắng họp giao ban Lớp trưởng, Tổ trưởng 02 lần/học kỳ; Không đạt điều kiện làm Lớp trưởng, Tổ trưởng.",
+                  "page_start": 17
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Cơ chế phối hợp Lớp trưởng/Tổ trưởng 18 Cơ chế phối hợp theo chiều dọc này không ngăn cản việc sinh viên có thể có những phản ảnh trực tiếp đến GVCN/GVCV, viên chức CTSV; hoặc/và trực tiếp với Khoa, Phòng, Nhà trường một khi lần lượt từ Tổ trưởng, đến Lớp trưởng, GVCN/GVCV, viên chức CTSV, Phòng Công tác học sinh - sinh viên và các đơn vị liên quan (Đoàn trường, Hội sinh viên Trường) không giải quyết thỏa đáng, thuyết phục các thắc mắc của sinh viên; hoặc thiếu trách nhiệm trong trả lời, giải đáp, thông tin. Tuy nhiên, nếu sinh viên chưa phản ảnh các vấn đề của mình với Tổ trưởng mà đã phản ảnh vượt cấp, sinh viên chịu hoàn toàn trách nhiệm theo quy định của Trường.",
+              "page_start": 17,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Nhiệm vụ của Lớp trưởng, Tổ trưởng Nhiệm vụ Lớp trưởng",
+              "page_start": 18,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Gương mẫu trong học tập, rèn luyện;",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Liên lạc với Tổ trưởng ít nhất 01 lần/tháng để biết tình hình từng sinh viên trong Lớp, hàng tháng tổng hợp báo cáo gửi GVCN/GVCV, viên chức CTSV, Phòng Công tác học sinh - sinh viên;",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Nhận kế hoạch, thông báo từ Trường, Khoa bằng nhiều cách khác nhau triển khai đến Tổ trưởng, sinh viên;",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Đôn đốc, nhắc nhở các thành viên Lớp thực hiện tốt: đi học chuyên cần, học nhóm/học tổ, tự học; chấp hành nghiêm túc nội quy, quy chế Nhà trường, tham gia đầy đủ Tuần sinh hoạt công dân, chào cờ hàng tuần; tích cực tham gia các hoạt động tình nguyện, cộng đồng, văn hóa văn nghệ, thể dục thể thao… của Trường, Khoa;",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Nhận các thông tin phản hồi, các thắc mắc của Tổ trưởng, của sinh viên báo cáo GVCN/GVCV, viên chức CTSV trong vòng tối đa 24 giờ kể từ khi nghe được phản ảnh; KHOA, PHÒNG GVCN/GVCV, Viên chức CTSV LỚP TRƯỞNG TRƯỜNG Tổ trưởng n Tổ trưởng 3 Tổ trưởng 2 Tổ trưởng 1 Sinh viên Sinh viên Sinh viên Sinh viên 19",
+                  "page_start": 18
+                },
+                {
+                  "type": "point",
+                  "point": "f",
+                  "text": "Liên hệ GVCN/GVCV để báo cáo tình hình Lớp, công tác của các Tổ trưởng; cũng như ý kiến, phản ảnh của sinh viên. Nhiệm vụ của Tổ trưởng",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Gương mẫu trong học tập, rèn luyện;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Biết rõ tình hình từng sinh viên trong Tổ: nắm thông tin về gia cảnh, tình hình học hành, chuyên cần, thái độ học, tâm lý; kỷ luật, nền nếp; tình hình tham gia các hoạt động của từng sinh viên trong Tổ. Tổng hợp thông tin của Tổ gửi Lớp trưởng 01 lần/tháng;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Chủ động, chịu trách nhiệm trực tiếp trong việc phổ biến kịp thời, đầy đủ và chính xác thông tin của Nhà trường, Khoa, Phòng chức năng, Đoàn thể, của Lớp đến mọi thành viên trong Tổ nhằm bảo đảm rằng sinh viên trong Tổ nhận được thông tin chính xác;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Nhắc nhở thường xuyên các thành viên của Tổ thực hiện tốt: đi học chuyên cần, học nhóm/học tổ, tự học; chấp hành nghiêm túc nội quy, quy chế Nhà trường, tham gia đầy đủ Tuần sinh hoạt công dân, chào cờ hàng tuần; tích cực tham gia các hoạt động tình nguyện, cộng đồng, văn hóa văn nghệ, thể dục thể thao… của Trường, Khoa;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "e",
+                  "text": "Tổ chức, phân công học nhóm, học tổ, đặc biệt lưu ý đến môn học mà thành viên trong Tổ có điểm yếu, kém nhiều (đề xuất với GVCN/GVCV, Khoa tổ chức ôn tập trước kỳ thi cho các thành viên trong Tổ).",
+                  "page_start": 19
+                }
+              ]
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Quyền lợi của Lớp trưởng, Tổ trưởng",
+              "page_start": 19,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Thay mặt Lớp, Tổ đề đạt các nguyện vọng chính đáng của sinh viên đến Nhà trường, Khoa thông qua GVCN/GVCV, viên chức CTSV Khoa và các Phòng chức năng;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Được ghi nhận kết quả tham gia hoạt động lớp, đoàn thể;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Được đào tạo, huấn luyện kỹ năng: làm việc nhóm, kỹ năng lãnh đạo, kỹ năng ra quyết định, kỹ năng lập kế hoạch, kỹ năng quản lý thời gian hiệu quả, kỹ năng xử lý văn bản…;",
+                  "page_start": 19
+                },
+                {
+                  "type": "point",
+                  "point": "d",
+                  "text": "Lớp trưởng, Tổ trưởng hoàn thành tốt nhiệm vụ trở lên sẽ được Khoa, Phòng Công tác học sinh - sinh viên giới thiệu vào các chương trình thực tập, internship tại các Phòng, Ban, Khoa, Trung tâm của Trường.",
+                  "page_start": 19
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "VI",
+      "title": "",
+      "page_start": 19,
+      "articles": [
+        {
+          "type": "article",
+          "article": "29",
+          "title": "Hiệu lực thi hành",
+          "page_start": 19,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy chế này có 06 Chương, 29 Điều, 20 Trang có hiệu lực thi hành kể từ năm học 2025 - 2026 và thay thế Quyết định số 2505/QĐ-TĐT ngày 07/9/2022 của Hiệu trưởng Trường Đại học Tôn Đức Thắng về việc ban hành Quy chế công tác sinh viên; 20",
+              "page_start": 19,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên, các đơn vị thuộc/trực thuộc, các cá nhân có liên quan có trách nhiệm thi hành Quy chế này. Trường hợp các văn bản, quy định dẫn chiếu trong Quy chế này có sự thay đổi thì thực hiện theo quy định mới ban hành;",
+              "page_start": 20,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Trong quá trình thực hiện, khi thực tế phát sinh yêu cầu mới hoặc nếu có vấn đề mới về quy định của Trường; Phòng Công tác học sinh - sinh viên kịp thời tham mưu cho Hiệu trưởng xem xét quyết định; bảo đảm Quy chế luôn phù hợp với thực tế và yêu cầu phát triển của Nhà trường./.",
+              "page_start": 20,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "QUY CHẾ CÔNG TÁC SINH VIÊN\nCHƯƠNG I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi và đối tượng áp dụng\n1. Quy chế này quy định về công tác sinh viên bao gồm: quyền và nhiệm vụ của\nsinh viên; học bổng, khen thưởng, hỗ trợ và kỷ luật sinh viên; nội dung công tác sinh\nviên; hệ thống tổ chức và điều khoản thi hành;\n2. Quy chế này là căn cứ pháp lý để điều tiết các hoạt động công tác sinh viên\ntại Trường Đại học Tôn Đức Thắng;\n3. Khoa trong Quy chế này bao gồm các Khoa, các phân hiệu/cơ sở trực thuộc\nTrường;\n4. Quy chế này áp dụng đối với sinh viên được định nghĩa tại Khoản 1 Điều 2\ncủa Quy chế này.\nĐiều 2. Sinh viên\n1. Sinh viên được quy định tại Quy chế này là người học được đào tạo trình độ\nđại học (chương trình đào tạo tiêu chuẩn, chương trình đào tạo tiên tiến, chương trình\nliên kết đào tạo quốc tế, chương trình đào tạo đại học bằng tiếng Anh...) tại Trường\nĐại học Tôn Đức Thắng (TDTU);\n2. Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong Trường\nĐại học Tôn Đức Thắng, được đảm bảo điều kiện thực hiện đầy đủ quyền và nhiệm vụ\ntrong quá trình học tập, nghiên cứu và rèn luyện tại Trường.\nĐiều 3. Yêu cầu của công tác sinh viên\n1. Công tác sinh viên là một trong các công tác trọng tâm của Trường nhằm\nđảm bảo việc truyền thông, quản lý và hỗ trợ sinh viên thực hiện đầy đủ quyền và\nnhiệm vụ trong quá trình học tập, nghiên cứu và rèn luyện tại Trường nhằm đảm bảo\ncác mục tiêu giáo dục đại học;\n2. Công tác sinh viên là nhiệm vụ của toàn Trường và cần phải thực hiện đồng\nbộ nhằm phát huy văn hóa đại học riêng có của Trường;\n3. Công tác sinh viên thực hiện đúng chủ trương, đường lối của Đảng, chính\nsách, pháp luật của Nhà nước và nội quy, quy định của Nhà trường;\n4. Công tác sinh viên bảo đảm tính khách quan, công bằng, công khai, minh\nbạch, dân chủ trong các công việc có liên quan đến sinh viên.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\nCHƯƠNG II\nQUYỀN VÀ NHIỆM VỤ CỦA SINH VIÊN\nĐiều 4. Quyền của sinh viên\n1. Được nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các điều\nkiện trúng tuyển theo quy định hiện hành;\n2. Được hưởng các chế độ chính sách theo quy định của Nhà nước, Nhà trường:\nmiễn, giảm học phí theo quy định hiện hành, hỗ trợ chi phí học tập theo quyết định\nhiện hành, xét cấp học bổng, khen thưởng và hỗ trợ người học…;\n3. Được tôn trọng và đối xử bình đẳng, được cung cấp đầy đủ thông tin, được\ntạo điều kiện trong học tập, nghiên cứu, rèn luyện, bao gồm:\na) Nhà trường cấp một tài khoản thông qua hệ thống thông tin sinh viên để phục\nvụ trao đổi thông tin trong quá trình học tập, nghiên cứu và rèn luyện;\nb) Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ các hoạt\nđộng học tập, thí nghiệm, nghiên cứu khoa học, văn hóa, văn nghệ, thể dục thể thao;\nc) Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn thanh\nniên, Hội sinh viên Việt Nam, Hội liên hiệp Thanh niên Việt Nam; tham gia công tác\nnghiên cứu khoa học, tham gia các đội sinh viên tự quản, các câu lạc bộ, đội, nhóm;\ntham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao…;\nd) Được xét tiếp nhận vào Ký túc xá theo quy định của Nhà trường và Quy chế\ntổ chức hoạt động Ký túc xá;\ne) Nghỉ học tạm thời, học trễ tiến độ, vượt tiến độ; học ngành chính, ngành phụ;\nchuyển trường; nghỉ hè, nghỉ tết, nghỉ lễ theo quy định;\nf) Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh viên\nở nước ngoài; học chuyển tiếp ở các trình độ đào tạo cao hơn theo quy định của\nNhà trường;\ng) Khám sức khỏe; chăm sóc sức khỏe tại Phòng Y tế của Trường;\nh) Trực tiếp hoặc thông qua đại diện hợp pháp của mình kiến nghị với\nNhà trường các giải pháp góp phần xây dựng Nhà trường; được đề đạt nguyện vọng và\ncác vấn đề có liên quan đến quyền, lợi ích chính đáng của sinh viên;\n4. Sinh viên đủ điều kiện công nhận tốt nghiệp được Nhà trường cấp bằng tốt\nnghiệp, bảng điểm tốt nghiệp toàn khóa/phụ lục văn bằng; các giấy tờ có liên quan;\n5. Sinh viên đã tốt nghiệp được tạo điều kiện tham gia Hội cựu sinh viên của\nTrường, được thông tin về các chế độ ưu đãi ở các bậc học cao hơn dành cho cựu sinh\nviên; được giới thiệu các doanh nghiệp mình đang công tác hoặc doanh nghiệp do\nmình điều hành đóng góp ý kiến, phản hồi về chương trình đào tạo giúp cho Nhà\ntrường ngày càng nâng cao chất lượng đào tạo, đáp ứng nhu cầu phát triển của xã hội.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\nĐiều 5. Nhiệm vụ của sinh viên\n1. Chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà\nnước, Điều lệ trường đại học và các quy chế, nội quy, quy định của Nhà trường;\n2. Cư xử với mọi người lễ phép, lịch sự, phù hợp với môi trường giáo dục; tôn\ntrọng giảng viên, cán bộ và nhân viên (gọi tắt là giảng viên - viên chức) của Nhà\ntrường; đoàn kết, giúp đỡ lẫn nhau trong quá trình học tập, nghiên cứu và rèn luyện;\nthực hiện tốt nếp sống văn minh;\n3. Sử dụng đúng mục đích, đúng quy định đối với các trang thiết bị trong giảng\nđường, phòng học, thư viện, sảnh tự học, ký túc xá...; có trách nhiệm bảo quản toàn bộ\ntrang thiết bị học tập, sinh hoạt tại Trường để các thế hệ sinh viên sau có thể sử dụng\ntốt; không viết, vẽ, khắc chữ lên tường, cửa, bàn ghế; giữ gìn vệ sinh trong khuôn viên\nTrường, nơi công cộng…; rác thải phải bỏ vào thùng rác đúng quy định; ra khỏi giảng\nđường, phòng học, nhà vệ sinh, ký túc xá,… tự giác tắt đèn, quạt và các trang thiết bị\ncó sử dụng nguồn điện; luôn luôn phải nhớ và ý thức việc tiết kiệm;\n4. Tác phong nghiêm túc khi đến Trường: đeo thẻ sinh viên; trang phục lịch sự,\ngọn gàng và phù hợp với môi trường giáo dục; mang giày hoặc dép có quai hậu; thực\nhiện trang phục truyền thống: nữ áo dài truyền thống của Trường; nam áo sơ mi trắng,\nquần âu sẫm màu, bỏ áo vào quần ngày thứ Hai, thứ Năm hàng tuần và các ngày lễ hội\ncủa Trường khi có yêu cầu; không để tóc, sử dụng trang sức quá khác biệt với số đông.\nNhững trường hợp đặc thù sẽ thực hiện theo văn bản được Hiệu trưởng phê duyệt;\n5. Tuyệt đối không làm việc riêng trong giờ học: ngủ, chơi game, nghe nhạc,\nđọc báo, đọc truyện, nói chuyện, chơi cờ caro, thêu tranh…; sử dụng điện thoại, sử\ndụng máy vi tính không phục vụ cho việc học tập; mất trật tự trong giờ học;\n6. Thực hiện nhiệm vụ học tập, nghiên cứu và rèn luyện theo quy định của\nNhà trường;\n7. Nộp đầy đủ hồ sơ; nhập thông tin sinh viên, nhân thân chính xác; kịp thời\nthông báo cho Phòng Công tác học sinh - sinh viên khi có sự thay đổi;\n8. Đóng học phí, các khoản phí khác, tham gia bảo hiểm y tế, tham gia khám\nsức khỏe theo quy định. Trường hợp đặc thù thực hiện theo các quy định hiện hành;\n9. Thực hiện đúng các cam kết đã ký, xác nhận việc tìm hiểu thông tin “Những\nđiều cần biết khi học tại Trường”,…;\n10. Tham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các hoạt\nđộng khác của sinh viên, giảng viên - viên chức; kịp thời báo cáo với Khoa, Phòng\nCông tác học sinh - sinh viên khi phát hiện những hành vi tiêu cực, gian lận trong học\ntập, thi cử, vi phạm nội quy, quy chế khác của sinh viên, giảng viên - viên chức trong\nTrường; hoặc những hành vi vi phạm pháp luật;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 4,
+      "text": "4\n11. Thực hiện đầy đủ các trách nhiệm của sinh viên nội trú theo Quy chế tổ\nchức và hoạt động Ký túc xá; các trách nhiệm của sinh viên ngoại trú theo Quy chế\nngoại trú;\n12. Nghiêm chỉnh chấp hành Luật nghĩa vụ quân sự; chấp hành lệnh điều động\ntham gia khóa đào tạo sĩ quan dự bị trong quá trình học tập ở Trường (nếu có lệnh\nđiều động);\n13. Sinh viên phải kiểm tra hệ thống thông tin sinh viên (thông báo, email…)\nhàng ngày để kịp thời nắm bắt các thông tin cần thiết. Sinh viên phải bảo mật tài\nkhoản của mình, không cung cấp cho người khác sử dụng. Sinh viên sẽ chịu hoàn toàn\ntrách nhiệm khi để người khác sử dụng tài khoản của mình hoặc sử dụng tài khoản\nkhông đúng mục đích cho việc học;\n14. Riêng đối với những sinh viên được hưởng học bổng, chi phí đào tạo do\nNhà trường cấp thì phải thực hiện đúng cam kết với Nhà trường.\nĐiều 6. Các hành vi sinh viên không được làm\nCác hành vi sinh viên không được làm được quy định cụ thể tại Phụ lục “Những\nđiều sinh viên không được làm; nội dung vi phạm và hình thức xử lý sinh viên” đính\nkèm theo Quy chế này, bao gồm nhưng không hạn chế ở các hành vi sau đây:\n1. Tổ chức hoặc tham gia các hoạt động vi phạm pháp luật;\n2. Hành vi ứng xử không đúng mực; vô lễ đối với giảng viên - viên chức;\n3. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ quản lý,\nviên chức, nhân viên, người học của Nhà trường và người khác;\n4. Có hành vi gian lận trong tuyển sinh, học tập, bảo vệ đồ án tốt nghiệp, khóa\nluận tốt nghiệp hoặc gian lận trong việc làm hồ sơ để được cấp văn bằng, chứng chỉ;\nnhờ hoặc thuê người khác làm hộ đồ án tốt nghiệp, khóa luận tốt nghiệp;\n5. Vi phạm quy định “liêm chính học thuật”, sử dụng kết quả của người khác\nhoặc sao chép, trích dẫn không đúng quy định trong đồ án tốt nghiệp, khóa luận tốt\nnghiệp và bị hội đồng thẩm định kết luận nếu cắt bỏ những phần sử dụng, sao chép,\ntrích dẫn đó thì đồ án tốt nghiệp, khóa luận tốt nghiệp không đạt yêu cầu;\n6. Hành vi vi phạm nguyên tắc ứng xử văn minh Trường học;\n7. Sử dụng các phương tiện truyền thông (bao gồm và không giới hạn các\nphương tiện như báo chí, mạng internet, mạng xã hội…) để đưa thông tin không đúng\nsự thật (không có minh chứng) hoặc những thông tin có minh chứng nhưng sử dụng từ\nngữ không chuẩn mực gây ảnh hưởng đến uy tín Nhà trường, giảng viên - viên chức;\n8. Tặng quà, tiền, phẩm vật cho giảng viên - viên chức của Trường dưới mọi\nhình thức;\n9. Hút thuốc, sử dụng rượu, bia, thức uống có cồn trong trường học; say xỉn\ntrong Trường;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 5,
+      "text": "5\n10. Tổ chức hoặc tham gia tụ tập đông người, biểu tình, khiếu kiện trái pháp\nluật; tham gia tệ nạn xã hội, gây rối an ninh, trật tự an toàn trong Trường hoặc ngoài\nxã hội;\n11. Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật;\ntổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường khi chưa được Nhà\ntrường cho phép;\n12. Các hành vi vi phạm khác theo quy định của pháp luật và Nhà trường.\nCHƯƠNG III\nHỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ VÀ KỶ LUẬT SINH VIÊN\nĐiều 7. Học bổng, khen thưởng và hỗ trợ sinh viên được thực hiện theo Quy\nđịnh xét cấp học bổng hiện hành của Trường. Hàng năm, Nhà trường ban hành\nhướng dẫn chi tiết đính kèm.\nĐiều 8. Kỷ luật sinh viên\n1. Các hình thức xử lý sinh viên vi phạm\na) Sinh viên vi phạm nội quy, quy chế thì tùy tính chất, mức độ, hậu quả của\nhành vi vi phạm có thể được nhắc nhở, phê bình, nghiêm khắc phê bình hoặc phải chịu\nmột trong các hình thức kỷ luật: khiển trách, cảnh cáo, cảnh cáo lần 2, đình chỉ học tập\ncó thời hạn, buộc thôi học. Ngoài ra, sinh viên còn có thể bị hủy kết quả học tập, dừng\nviệc cấp văn bằng/hoặc thu hồi, hủy bỏ văn bằng đã cấp;\nb) Nội dung vi phạm và hình thức xử lý sinh viên được quy định tại Phụ lục\nđính kèm Quy chế này;\nc) Nội dung vi phạm và hình thức xử lý đối với các trường hợp vi phạm sẽ được\nlưu vào cơ sở dữ liệu sinh viên. Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập\ncó thời hạn hoặc buộc thôi học, Khoa thông báo về gia đình để phối hợp giáo dục.\n2. Nguyên tắc xử lý sinh viên vi phạm\na) Trong cùng một thời điểm, sinh viên có nhiều hành vi vi phạm thì tùy theo\ntính chất, mức độ vi phạm, Hội đồng kỷ luật sinh viên cấp Khoa đề xuất hình thức xử\nlý và trình Hội đồng kỷ luật sinh viên cấp Trường xem xét, quyết định về hình thứ c và\nmứ c kỷ luâ ̣t.\nb) Đối với những nội dung vi phạm phát sinh trong thực tế ngoài Phụ lục\n“Những điều sinh viên không được làm; Nội dung vi phạm và hình thức xử lý sinh\nviên” thì tùy theo tính chất, mức độ vi phạm, Hội đồng kỷ luật sinh viên cấp Khoa đề\nxuất hình thức xử lý và trình Hội đồng kỷ luật sinh viên cấp Trường xem xét, quyết\nđịnh về hình thứ c và mứ c kỷ luâ ̣t.\nc) Trong thời gian thi hành Quyết định kỷ luật, nếu sinh viên còn vi phạm bất\nkỳ nội quy, quy định nào của Nhà trường sẽ bị hình thức xử lý ở mức cao hơn.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 6,
+      "text": "6\nd) Trong trường hợp sinh viên đã bị xử lý nhưng vẫn tiếp tục lặp lại lỗi vi phạm\nsẽ bị hình thức xử lý ở mức cao hơn.\n3. Hội đồng kỷ luật sinh viên\na) Hội đồng kỷ luật sinh viên cấp Khoa\nHội đồng kỷ luật sinh viên cấp Khoa có ít nhất 3 thành viên, bao gồm: Chủ tịch\nhội đồng là Trưởng khoa/Giám đốc Phân hiệu; ủy viên hoặc các ủy viên (là giảng viên\nchủ nhiệm/giảng viên cố vấn, là Lớp trưởng lớp có sinh viên vi phạm; trường hợp sinh\nviên trễ tiến độ đào tạo thì Chủ tịch hội đồng phân công thêm thành viên tham gia họp\nđủ theo số lượng quy định); thư ký hội đồng (là viên chức công tác sinh viên);\nHội đồng có trách nhiệm xem xét nội dung sự việc, thảo luận và biểu quyết đề\nnghị hình thức xử lý đối với sinh viên vi phạm;\nHội đồng kỷ luật cấp Khoa làm việc theo nguyên tắc tập thể và kết luận của hội\nđồng phải được sự đồng ý của trên 50% thành viên hội đồng;\nHội đồng cấp Khoa do Khoa thành lập và tổ chức họp khi có sinh viên vi phạm\npháp luật, nội quy, quy chế của Nhà trường.\nb) Hội đồng kỷ luật sinh viên cấp Trường\nHội đồng kỷ luật sinh viên cấp Trường có nhiều thành viên. Số lượng thành\nviên do Hiệu trưởng quyết định theo từng vụ việc nhưng không ít hơn 3 người;\nThành phần hội đồng kỷ luật sinh viên cấp Trường gồm Chủ tịch hội đồng là\nHiệu trưởng hoặc Phó Hiệu trưởng được phân công; thường trực hội đồng là lãnh đạo\nPhòng Công tác học sinh - sinh viên; các ủy viên: Trưởng các Khoa, viên chức CTSV\ncác Khoa, Phòng Thanh tra, Pháp chế và An ninh, Đoàn thanh niên, đơn vị có liên\nquan. Thư ký là đại diện của Phòng Công tác học sinh - sinh viên;\nHội đồng có trách nhiệm xem xét nội dung sự việc, thảo luận và biểu quyết hình\nthức xử lý đối với sinh viên vi phạm;\nHội đồng làm việc theo nguyên tắc tập thể. Kết luận của hội đồng phải được sự\nđồng ý của trên 50% thành viên hội đồng.\n4. Trình tự, thủ tục và hồ sơ xét xử lý sinh viên vi phạm\na) Trình tự, thủ tục xét xử lý sinh viên vi phạm\nBước 1: Phòng Công tác học sinh - sinh viên tiếp nhận hồ sơ từ các đơn vị về\nviệc sinh viên vi phạm;\nBước 2: Phòng Công tác học sinh - sinh viên tổng hợp và gửi dữ liệu sinh viên\nvi phạm về các Khoa liên quan;\nBước 3: Khoa trao đổi, làm việc với sinh viên, giáo dục về nội dung vi phạm,\nhình thức xử lý;\nBước 4: Sinh viên có hành vi vi phạm phải làm bản kiểm điểm và tự nhận hình\nthức xử lý (trong trường hợp sinh viên không thực hiện bản kiểm điểm và không tự",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 7,
+      "text": "7\nnhận hình thức xử lý, hội đồng dựa vào các hồ sơ minh chứng và biên bản họp của\nKhoa để xem xét và quyết định hình thức xử lý);\nBước 5: Hội đồng kỷ luật sinh viên cấp Khoa họp và đề xuất hình thức xử lý;\nBước 6: Phòng Công tác học sinh - sinh viên cùng với Phòng Thanh tra, Pháp\nchế và An ninh kiểm tra hồ sơ, yêu cầu làm rõ (nếu có), chuẩn bị hồ sơ trình hội đồng\nkỷ luật sinh viên cấp Trường họp, xem xét;\nBước 7: Hội đồng kỷ luật sinh viên cấp Trường họp, kiến nghị hình thức xử lý,\nkỷ luật và kiến nghị Hiệu trưởng ra thông báo xử lý hoặc quyết định kỷ luật sinh viên\ncó hành vi vi phạm;\nBước 8: Khoa liên quan thông báo đến sinh viên có hành vi vi phạm biết hình\nthức xử lý;\nBước 9: Các Khoa tổ chức sinh hoạt và giáo dục cho sinh viên toàn Khoa mình\nbiết các nội dung vi phạm và hình thức xử lý để giúp cho sinh viên hiểu biết nhiều hơn\nvà chấp hành tốt nội quy, quy chế của Trường.\nb) Hồ sơ xử lý sinh viên vi phạm\nHồ sơ về nội dung vi phạm của sinh viên;\nBản kiểm điểm của sinh viên (trường hợp nếu sinh viên không thực hiện bản\nkiểm điểm thì có các hồ sơ minh chứng của Khoa đính kèm);\nBiên bản họp xét của hội đồng kỷ luật sinh viên cấp Khoa;\nBảng tổng hợp danh sách sinh viên vi phạm nội quy, quy định;\nBiên bản họp xét của hội đồng kỷ luật sinh viên cấp Trường;\nThông báo xử lý hoặc quyết định kỷ luật sinh viên có hành vi vi phạm;\nCác tài liệu có liên quan khác (nếu có).\n5. Hiệu lực của quyết định kỷ luật: quyết định kỷ luật sinh viên có hiệu lực kể\ntừ ngày ký quyết định, trừ trường hợp có khiếu nại về kỷ luật theo quy định tại Khoản\n6 Điều này. Phòng Công tác học sinh - sinh viên cập nhật các quyết định kỷ luật vào\nhệ thống theo quy định.\n6. Chấm dứt hiệu lực của quyết định kỷ luật\na) Khiển trách: sau 03 (ba) tháng kể từ ngày ký quyết định kỷ luật, nếu sinh\nviên không tái phạm thì hiệu lực của quyết định kỷ luật được chấm dứt;\nb) Cảnh cáo hoặc cảnh cáo lần 2: sau 06 (sáu) tháng kể từ ngày ký quyết định\nkỷ luật, nếu sinh viên không tái phạm thì hiệu lực của quyết định kỷ luật được chấm\ndứt;\nc) Đình chỉ học tập có thời hạn: khi hết thời hạn đình chỉ, sinh viên liên hệ\nKhoa, Phòng Đại học để làm thủ tục nhập học lại;\nd) Đối với những trường hợp bị phạt tù nhưng được hưởng án treo thì khi hết\nthời hạn chấp hành án, sinh viên phải xuất trình chứng nhận của cơ quan có thẩm",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 8,
+      "text": "8\nquyền về việc đã chấp hành tốt hình phạt để Nhà trường xem xét, tiếp nhận vào học\ntiếp.\n7. Quyền khiếu nại về kỷ luật\na) Sinh viên nếu không đồng ý với quyết định kỷ luật hoặc thông báo xử lý thì\ncó quyền khiếu nại. Sinh viên khiếu nại nộp đơn khiếu nại kèm theo các chứng cứ và\ngiải trình tại Phòng Thanh tra, Pháp chế và An ninh của Trường. Thời gian khiếu nại là\n15 ngày kể từ ngày ký quyết định kỷ luật. Trong trường hợp có khiếu nại, quyết định\nxử lý kỷ luật tạm thời không có hiệu lực cho đến khi giải quyết xong khiếu nại;\nb) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đơn khiếu nại, Phòng\nThanh tra, Pháp chế và An ninh thẩm định nội dung khiếu nại và làm báo cáo trình\nHiệu trưởng về nội dung khiếu nại;\nc) Trong thời hạn 30 ngày kể từ ngày nhận được báo cáo của Phòng Thanh tra,\nPháp chế và An ninh, Hiệu trưởng ra quyết định giải quyết khiếu nại theo quy định của\npháp luật và Nhà trường;\nd) Trong trường hợp không đồng ý với kết quả giải quyết khiếu nại, sinh viên bị\nkỷ luật có quyền khiếu nại đến các cấp có thẩm quyền theo pháp luật về khiếu nại, tố\ncáo.\nCHƯƠNG IV\nNỘI DUNG CÔNG TÁC SINH VIÊN\nĐiều 9. Công tác giáo dục, tuyên truyền\n1. Giáo dục, tuyên truyền sinh viên thực hiện đúng chủ trương, đường lối của\nĐảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục và Đào tạo\nvà nội quy, quy định của Nhà trường;\n2. Giáo dục sinh viên theo Chương trình giáo dục 3 nội dung đạo đức, Bộ quy\ntắc ứng xử, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các nội quy, quy định\ncủa Trường;\n3. Tổ chức đối thoại sinh viên cấp Trường tối thiểu một lần/học kỳ; cấp Khoa\ntối thiểu hai lần/học kỳ để xử lý mọi thắc mắc và giáo dục sinh viên;\n4. Tổ chức Tuần sinh hoạt công dân đầu năm, đầu khóa học;\n5. Tổ chức chào cờ đầu tuần phù hợp với điều kiện thực tế;\n6. Tổ chức kiểm tra việc chấp hành nội quy, quy định của sinh viên toàn\nTrường.\nĐiều 10. Công tác tổ chức, quản lý sinh viên\n1. Tổ chức tiếp nhận thí sinh trúng tuyển, nhập học; xếp lớp theo ngành cho\nsinh viên; làm thẻ sinh viên; chỉ định, bầu/cử Lớp trưởng, Tổ trưởng tự quản;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 9,
+      "text": "9\n2. Nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định\nhướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các\nhoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép\nvà các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự\nTrường học và các vụ việc liên quan đến sinh viên;\n3. Kiểm tra hồ sơ minh chứng ưu tiên đối tượng, khu vực tuyển sinh;\n4. Quản lý sinh viên nội trú, theo dõi sinh viên ngoại trú theo quy định;\n5. Xây dựng và tổ chức thực hiện kế hoạch công tác sinh viên phù hợp với điều\nkiện thực tế;\n6. Tổ chức các hoạt động chuyên môn, học thuật, văn hóa, văn nghệ, thể dục\nthể thao, cộng đồng, tình nguyện, phong trào; các chuyên đề kỹ năng sống, kỹ năng\nnghề nghiệp, việc làm cho sinh viên;\n7. Tổ chức các buổi Lễ của Nhà trường như: Lễ khai giảng, Lễ tốt nghiệp, Lễ\nkỷ niệm Ngày thành lập Trường, Ngày Nhà giáo Việt Nam…;\n8. Tổ chức thực hiện việc ghi nhận, đánh giá kết quả rèn luyện cho sinh viên;\n9. Cấp giấy xác nhận, in giấy chứng nhận sinh viên, xác nhận các giấy tờ liên\nquan đến sinh viên trong phạm vi thẩm quyền;\n10. Kiểm tra thông tin, tình trạng sinh viên theo nhiệm vụ được phân công;\n11. Báo cáo công tác sinh viên khi có yêu cầu.\nĐiều 11. Quản lý cơ sở dữ liệu\n1. Ứng dụng công nghệ thông tin trong công tác quản lý cơ sở dữ liệu; cập nhật,\nquản lý, lưu trữ hồ sơ sinh viên trong cơ sở dữ liệu thống nhất, phù hợp và đồng bộ với\nphần mềm quản lý của Nhà trường; bảo đảm yêu cầu truy xuất nhanh, chính xác, kịp\nthời thông tin về nhân thân sinh viên, quá trình học tập, rèn luyện và các thông tin\nkhác của các bộ phận chức năng trong Nhà trường;\n2. Cập nhật các quyết định khen thưởng, kỷ luật vào cơ sở dữ liệu của Trường;\n3. Cập nhật kết quả sinh viên tham gia các hoạt động rèn luyện vào cơ sở dữ\nliệu của Trường.\nĐiều 12. Miễn, giảm học phí; học bổng, khen thưởng, hỗ trợ sinh viên; kỷ\nluật sinh viên\n1. Tổ chức thực hiện việc miễn, giảm học phí; hỗ trợ chi phí học tập cho sinh\nviên theo quy định của Nhà nước;\n2. Xây dựng, trình duyệt hướng dẫn học bổng, khen thưởng, hỗ trợ sinh viên\nhàng năm phù hợp với tình hình thực tế;\n3. Tổ chức thực hiện việc xét học bổng, khen thưởng, hỗ trợ sinh viên theo quy\nđịnh của Trường;\n4. Tìm kiếm các nguồn hỗ trợ học bổng cho sinh viên;\n5. Xem xét và giải quyết gia hạn học phí cho sinh viên;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 10,
+      "text": "10\n6. Thực hiện thủ tục kỷ luật sinh viên theo quy định của Trường. Theo dõi và\ntổng hợp việc xử lý kỷ luật sinh viên vi phạm;\n7. Lưu hồ sơ miễn, giảm học phí; học bổng, khen thưởng, hỗ trợ sinh viên; kỷ\nluật sinh viên.\nĐiều 13. Tư vấn và dịch vụ sinh viên\n1. Tư vấn học tập, tâm lý, sinh hoạt chuyên đề, dịch vụ hỗ trợ các đối tượng\nsinh viên đặc biệt;\n2. Tổ chức thực hiện công tác y tế trường học; tổ chức khám sức khỏe cho sinh\nviên trong điều kiện cho phép; chăm sóc sức khỏe học đường cho sinh viên;\n3. Tổ chức cho sinh viên tham gia bảo hiểm y tế, bảo hiểm tai nạn vào đầu mỗi\nnăm học theo quy định;\n4. Tạo điều kiện cơ sở vật chất cho sinh viên học tập, rèn luyện, bao gồm các\nhoạt động: chuyên môn, học thuật, văn hóa, văn nghệ, thể dục thể thao, cộng đồng,\ntình nguyện, phong trào; có căn tin, nước uống trong khuôn viên Trường đảm bảo vệ\nsinh an toàn thực phẩm.\nĐiều 14. Công tác bảo đảm an ninh, trật tự Trường học\n1. Ban hành nội quy, quy định, xây dựng và tổ chức thực hiện kế hoạch kiểm\ntra, giám sát việc thực hiện của sinh viên;\n2. Quản lý hệ thống giám thị, bảo vệ và bảo đảm hệ thống này thường xuyên\ngiáo dục sinh viên chấp hành nội quy, quy chế;\n3. Tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo về công tác\nbảo đảm an ninh, trật tự, an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong\nsinh viên;\n4. Tiếp nhận và giải quyết các đơn khiếu nại của sinh viên, phụ huynh theo quy\nđịnh;\n5. Bảo đảm an ninh, trật tự trường học. Phối hợp với công an địa phương thực\nhiện các biện pháp bảo đảm an ninh, trật tự trường học.\nCHƯƠNG V\nHỆ THỐNG TỔ CHỨC\nĐiều 15. Hệ thống tổ chức quản lý và phân cấp trách nhiệm trong công tác\nsinh viên\n1. Hệ thống tổ chức, quản lý sinh viên tại Trường được quy định gồm: Hiệu\ntrưởng (hoặc Phó hiệu trưởng được phân công); Phòng Công tác học sinh - sinh viên;\nĐoàn thanh niên - Hội sinh viên; Phòng Đại học; Phòng Thanh tra, Pháp chế và An\nninh; Phòng Khảo thí và Kiểm định chất lượng; Ký túc xá; Viện Hợp tác, Nghiên cứu\nvà Đào tạo quốc tế; Trung tâm Hợp tác doanh nghiệp và Cựu sinh viên; Khoa quản lý;\nViên chức CTSV; Giảng viên giảng dạy; GVCN/GVCV; Lớp trưởng; Tổ trưởng;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 11,
+      "text": "11\n2. Hiệu trưởng (hoặc Phó Hiệu trưởng được phân công) chỉ đạo công tác sinh\nviên toàn Trường.\nĐiều 16. Phòng Công tác học sinh - sinh viên\n1. Tham mưu cho Ban Giám hiệu quyết định về công tác sinh viên của Trường;\n2. Chịu trách nhiệm chính trong việc tổ chức thực hiện Quy chế công tác sinh\nviên;\n3. Tổ chức tiếp nhận thí sinh trúng tuyển, nhập học; tổ chức tuần sinh hoạt công\ndân đầu năm học, đầu khóa học cho sinh viên;\n4. Quản lý, lưu trữ hồ sơ sinh viên;\n5. Quản lý hệ thống viên chức CTSV Khoa và bảo đảm sự phối hợp tốt giữa hệ\nthống này với hệ thống viên chức giáo vụ trong tổ chức thực hiện công tác sinh viên;\n6. Xây dựng kế hoạch công tác sinh viên cấp Trường và góp ý, phản biện kế\nhoạch công tác sinh viên cấp Khoa từng năm học;\n7. Cập nhật kết quả tham gia hoạt động, rèn luyện của sinh viên;\n8. Tham mưu, theo dõi và cập nhật kết quả xử lý sinh viên vi phạm theo\nQuy chế;\n9. Tổ chức thực hiện chính sách của Nhà nước liên quan đến sinh viên; học\nbổng, khen thưởng và hỗ trợ sinh viên theo quy định của Trường;\n10. Thực hiện các báo cáo về công tác sinh viên cho cấp trên theo yêu cầu;\n11. Chức năng, nhiệm vụ, quyền hạn trong công tác quản lý sinh viên được quy\nđịnh tại Quy chế tổ chức và hoạt động Phòng Công tác học sinh - sinh viên.\nĐiều 17. Đoàn thanh niên - Hội sinh viên\n1. Phối hợp với Phòng Công tác học sinh - sinh viên xây dựng kế hoạch để giáo\ndục đoàn viên, thanh niên, hội viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo\nđức, Bộ quy tắc ứng xử, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các nội\ndung liên quan đến việc giáo dục sinh viên;\n2. Giáo dục tư tưởng chính trị để đoàn viên, thanh niên, hội viên nắm vững và\nthực hiện đúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước;\n3. Giáo dục tư tưởng, truyền thống cho đoàn viên, thanh niên, hội viên; kịp thời\nnắm bắt tư tưởng, hành vi của đoàn viên, thanh niên, hội viên để định hướng, giáo dục;\n4. Tổ chức các hoạt động tình nguyện, hoạt động công tác xã hội, hoạt động vì\ncộng đồng, phong trào cho đoàn viên, thanh niên, hội viên;\n5. Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp vào Đảng;\n6. Phối hợp với các đơn vị trong Trường truyền thông phong trào nghiên cứu\nkhoa học trong đoàn viên, thanh niên, hội viên.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 12,
+      "text": "12\nĐiều 18. Phòng Đại học\n1. Phối hợp tổ chức tiếp nhận sinh viên trúng tuyển vào Trường theo ngành\nđăng ký;\n2. Xếp lớp theo ngành cho sinh viên để phục vụ công tác quản lý;\n3. Trình duyệt, cập nhật các quyết định ảnh hưởng đến biên chế lớp như: quyết\nđịnh nhập học, quyết định xử lý học vụ, quyết định cho sinh viên nghỉ học tạm thời,\nbảo lưu, quyết định cho sinh viên thôi học, quyết định chuyển ngành, chuyển lớp,\nchuyển khóa, chuyển bậc đào tạo, quyết định tốt nghiệp vào cơ sở dữ liệu sinh viên...;\n4. Thực hiện các công việc liên quan đến công tác quản lý học vụ theo đúng kế\nhoạch thời gian năm học đã ban hành nhằm phối hợp với Phòng Công tác học sinh -\nsinh viên thực hiện các hoạt động liên quan đến công tác sinh viên (như xét cấp học\nbổng, khen thưởng, xử lý học vụ...);\n5. Phối hợp Phòng Tài chính; Phòng Công tác học sinh - sinh viên trong việc\nyêu cầu sinh viên thực hiện nghĩa vụ học phí;\n6. Làm thư ký hội đồng xét tốt nghiệp; làm quyết định tốt nghiệp cho người học\nchương trình liên kết đào tạo quốc tế;\n7. Tư vấn học tập, tâm lý, sinh hoạt chuyên đề hỗ trợ các đối tượng sinh viên\nđặc biệt;\n8. Phối hợp với các đơn vị trong Trường tổ chức Lễ khai giảng, Lễ tốt\nnghiệp…; tổ chức phát bằng cho người học chương trình liên kết đào tạo quốc tế\nchương trình song bằng, có cấp bằng của Nhà trường;\n9. Quản lý hệ thống viên chức giáo vụ, GVCN/GVCV và bảo đảm sự phối hợp\ntốt giữa hệ thống này với hệ thống viên chức CTSV.\nĐiều 19. Viện Hợp tác, Nghiên cứu và Đào tạo quốc tế\n1. Phối hợp với Phòng Đại học để đưa sinh viên đi học chuyển tiếp giai đoạn 2;\n2. Nhận bằng tốt nghiệp từ đối tác (theo thỏa thuận riêng với từng đại học);\n3. Phối hợp các đơn vị chức năng của Nhà trường để hỗ trợ tư vấn, giải đáp các\nthắc mắc, yêu cầu và khiếu nại chính đáng của sinh viên quốc tế về các vấn đề liên\nquan đến học vụ.\nĐiều 20. Phòng Khảo thí và Kiểm định chất lượng\nQuản lý, tổ chức cấp phát văn bằng, chứng chỉ cho sinh viên; quản lý điểm đảm\nbảo dữ liệu điểm của sinh viên chính xác, an toàn; tổ chức đánh giá kết quả học tập,\nthi cử.\nĐiều 21. Phòng Thanh tra, Pháp chế và An ninh\n1. Cùng với Phòng Công tác học sinh - sinh viên giáo dục sinh viên thực hiện\ntốt Chương trình giáo dục 3 nội dung đạo đức, Bộ quy tắc ứng xử của sinh viên, văn",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 13,
+      "text": "13\nhóa lễ phép, đặc điểm nhận diện sinh viên và các nội dung liên quan đến việc giáo dục\nsinh viên;\n2. Cùng với Phòng Công tác học sinh - sinh viên theo dõi, nắm bắt tư tưởng,\nhành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích\nđộng, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia\ncác tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử\nlý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên quan đến sinh viên;\n3. Cùng với Phòng Công tác học sinh - sinh viên kiểm tra hồ sơ minh chứng các\nđối tượng được hưởng ưu tiên trong tuyển sinh, hồ sơ minh chứng các đối tượng xét\nvào nội trú ký túc xá; hồ sơ minh chứng đối tượng được xét cấp học bổng;\n4. Quản lý hệ thống giám thị, bảo vệ và bảo đảm hệ thống này thường xuyên\ngiáo dục sinh viên chấp hành nội quy, quy chế;\n5. Tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo về công tác\nbảo đảm an ninh, trật tự, an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong\nsinh viên;\n6. Tiếp nhận và giải quyết các đơn khiếu nại của sinh viên, phụ huynh theo\nquy định;\n7. Tổ chức thực hiện công tác bảo đảm an ninh, trật tự Trường học. Phối hợp\nvới công an địa phương thực hiện các biện pháp bảo đảm an ninh, trật tự trường học.\nĐiều 22. Ký túc xá\n1. Tổ chức tiếp nhận đơn xin ở nội trú của sinh viên, kiểm tra, tổng hợp và trình\nBan Giám hiệu phê duyệt;\n2. Theo dõi, nắm bắt tư tưởng, hành vi của sinh viên nội trú để có sự định\nhướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên nội trú tham gia\ncác hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái\nphép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự\nTrường học và các vụ việc liên quan đến sinh viên nội trú;\n3. Chịu trách nhiệm chính trong công tác quản lý, giáo dục đạo đức cho sinh\nviên nội trú;\n4. Phối hợp với địa phương, tổ chức quản lý tạm trú cho sinh viên theo đúng\nquy định của chính quyền địa phương;\n5. Tổ chức hoạt động tình nguyện, hoạt động cộng đồng… cho sinh viên\nnội trú;\n6. Lập hồ sơ học bổng, khen thưởng, kỷ luật; đề xuất xử lý các trường hợp vi\nphạm nội quy, quy chế ký túc xá hoặc vi phạm pháp luật trong sinh viên nội trú theo\nquy định.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 14,
+      "text": "14\nĐiều 23. Trung tâm Hợp tác doanh nghiệp và Cựu sinh viên\n1. Chịu trách nhiệm xây dựng kế hoạch và triển khai thực hiện hoạt động hỗ trợ\nsinh viên: việc làm toàn thời gian, bán thời gian, nhà trọ; hỗ trợ chỗ thực tập, kiến tập,\ntham quan thực tế cho sinh viên;\n2. Chịu trách nhiệm liên hệ với các doanh nghiệp, tổ chức xã hội, cá nhân để\ntạo nguồn hỗ trợ học bổng cho sinh viên;\n3. Tổ chức các buổi chuyên đề, hội thảo về kỹ năng nghề nghiệp nhằm giúp\nsinh viên khi tốt nghiệp có đủ năng lực và phẩm chất để đáp ứng yêu cầu đơn vị tuyển\ndụng và xã hội;\n4. Xây dựng, kết nối và phát triển tổ chức cựu sinh viên tại Trường đảm bảo\nhiệu quả.\nĐiều 24. Khoa quản lý\n1. Chịu trách nhiệm chính trong công tác sinh viên của đơn vị mình quản lý;\n2. Giáo dục sinh viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức,\nBộ quy tắc ứng xử của sinh viên, văn hóa lễ phép, đặc điểm nhận diện sinh viên… Tổ\nchức theo dõi, giám sát việc thực hiện của sinh viên Khoa quản lý; tổ chức đối thoại\ngiữa sinh viên và lãnh đạo Khoa tối thiểu hai lần/học kỳ; xử lý mọi thắc mắc và giáo\ndục đạo đức cho sinh viên;\n3. Nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định\nhướng, giáo dục và báo cáo ngay cho Phòng Công tác học sinh - sinh viên, Phòng\nThanh tra, Pháp chế và An ninh khi có vấn đề bất thường trong sinh viên; phối hợp\nngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng,\nNhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm\npháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự Trường học và các vụ việc liên\nquan đến sinh viên;\n4. Tư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp\nvới mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, hướng dẫn sinh\nviên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật…) nhằm nâng cao khả\nnăng, học tập hiệu quả;\n5. Xây dựng kế hoạch giáo dục đạo đức, kế hoạch công tác sinh viên hàng năm\nphù hợp với đặc thù ngành nghề và nhu cầu của sinh viên Khoa; tổ chức thực hiện việc\nghi nhận, đánh giá kết quả rèn luyện sinh viên Khoa đảm bảo đúng thủ tục, khách\nquan, công bằng và chính xác;\n6. Đảm bảo sự phối hợp tốt giữa các bộ phận viên chức giáo vụ, viên chức\nCTSV, GVCN/GVCV, giảng viên giảng dạy, Lớp trưởng, Tổ trưởng, Cán bộ Đoàn -\nHội trong việc tổ chức thực hiện công tác sinh viên tại Khoa;\n7. Thực hiện báo cáo công tác sinh viên của Khoa khi có yêu cầu.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 15,
+      "text": "15\nĐiều 25. Viên chức Công tác sinh viên\n1. Giáo dục sinh viên thực hiện tốt Chương trình giáo dục 3 nội dung đạo đức,\nBộ quy tắc ứng xử của sinh viên, văn hóa lễ phép, đặc điểm nhận diện sinh viên và các\nnội dung liên quan đến việc giáo dục sinh viên;\n2. Xây dựng kế hoạch công tác sinh viên hàng năm của Khoa mình; định hướng\ncác hoạt động và chịu trách nhiệm trước Khoa và Trường về các hoạt động công tác\nsinh viên của đơn vị. Giám sát, phối hợp tổ chức các câu lạc bộ, đội, nhóm trong\nKhoa;\n3. Tổ chức các hoạt động văn hóa văn nghệ, thể dục thể thao… phù hợp với nhu\ncầu của sinh viên Khoa;\n4. Theo dõi và tổng hợp kết quả đánh giá rèn luyện của sinh viên theo đúng thủ\ntục;\n5. Theo dõi, tổng hợp tình hình sinh hoạt chủ nhiệm để báo cáo Khoa, Phòng\nCông tác học sinh - sinh viên;\n6. Thực hiện hoạt động quản lý sinh viên toàn Khoa; đảm bảo nguyên tắc hoạt\nđộng nào có sinh viên của Khoa tham gia thì phải có quản lý và giám sát của viên chức\nCTSV Khoa bằng nhiều hình thức;\n7. Phối hợp với GVCN/GVCV thực hiện quy trình bầu/cử, công nhận, miễn\nnhiệm Lớp trưởng, Tổ trưởng. Quản lý hệ thống Lớp trưởng, Tổ trưởng; đánh giá Lớp\ntrưởng, Tổ trưởng từng học kỳ; giao ban mỗi tháng/lần với Tổ trưởng, Lớp trưởng;\nchịu trách nhiệm phản ảnh đầy đủ, kịp thời tất cả những vấn đề tiềm ẩn trong sinh\nviên; chịu trách nhiệm về việc nắm bắt tình hình dư luận sinh viên và báo cáo kịp thời\ncho Khoa quản lý, Phòng Công tác học sinh - sinh viên và các đơn vị liên quan;\n8. Nắm bắt tình hình sinh viên trong Khoa:\nTheo dõi tình hình học tập, rèn luyện, tư tưởng, hành vi của sinh viên thông qua\nLớp trưởng, Tổ trưởng, Ban chấp hành Chi đoàn - Chi hội sinh viên, qua các kênh\ntruyền thông khác...; đề xuất các giải pháp đối với sinh viên yếu, kém; sinh viên có\nhoàn cảnh khó khăn; sinh viên vi phạm…;\nNắm bắt về tình hình chuyên cần, tình hình sinh viên nghỉ học không lý do, sinh\nviên vắng sinh hoạt chủ nhiệm và đề xuất hình thức xử lý;\n9. Kiểm tra nền nếp sinh viên, trực chào cờ (theo lịch phân công);\n10. Thực hiện công tác giám sát, hỗ trợ Đoàn - Hội; tổ chức đánh giá năng lực\ncán bộ Đoàn - Hội của đơn vị từng học kỳ; tham mưu ban chủ nhiệm Khoa về công tác\ntổ chức, nhân sự của Đoàn khoa, Liên chi hội, Chi đoàn, Chi hội; tham gia công tác\nkiểm tra đánh giá cuối năm công tác Đoàn - Hội tại Khoa; giám sát công tác tổ chức\nđại hội/hội nghị Đoàn - Hội cấp Khoa;\n11. Nêu gương đạo đức, tác phong, lối sống... cho sinh viên.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 16,
+      "text": "16\nĐiều 26. Giảng viên giảng dạy\n1. Nắm vững quy định của Trường/Khoa về lộ trình đào tạo, yêu cầu của ngành\nhọc, chương trình học và cung cấp đầy đủ thông tin cho sinh viên hiểu để thực hiện;\n2. Am hiểu các đối tượng sinh viên khác nhau (sinh viên Xuất sắc, Giỏi, Khá,\nTrung bình khá, Trung bình, Yếu, Kém, sinh viên học lại, sinh viên cá biệt, sinh viên có\nhoàn cảnh đặc biệt…) trong từng nhóm môn học do mình phụ trách và có phương\npháp giảng dạy thích hợp; hướng dẫn, quản lý và hỗ trợ sinh viên thực hiện nhiệm vụ\ntự học thông qua sử dụng Thư viện;\n3. Thực hiện tốt các nội dung được Khoa phân công giáo dục đạo đức cho sinh\nviên; nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng,\ngiáo dục và báo cáo ngay cho Khoa;\n4. Chịu trách nhiệm quản lý sinh viên trong giờ học;\n5. Nêu gương đạo đức, tác phong, lối sống... cho sinh viên.\nĐiều 27. Giảng viên chủ nhiệm/Giảng viên cố vấn\n1. Giáo dục đạo đức cho sinh viên và các nội dung liên quan đến sinh viên\ntrong Quy chế công tác sinh viên; nhắc nhở và đề xuất xử lý những sinh viên vi phạm\nnội quy, quy định;\n2. Thực hiện tốt các nội dung được Khoa phân công giáo dục đạo đức cho sinh\nviên; nắm bắt kịp thời diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng,\ngiáo dục và báo cáo ngay cho Khoa;\n3. Tư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp\nvới mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, nội dung rèn\nluyện, định hướng nghề nghiệp, hướng dẫn sinh viên tiếp cận các nguồn lực nhằm\nnâng cao khả năng học tập hiệu quả;\n4. Sinh hoạt định kỳ với lớp của mình. Trong các buổi sinh hoạt, gặp gỡ sinh\nviên GVCN/GVCV phải thông báo đầy đủ, chính xác các yêu cầu, thông báo mới của\nNhà trường về học vụ, đào tạo, nội quy, quy chế; phải bảo đảm rằng mọi sinh viên đều\nnắm bắt kịp thời để thực hiện đúng; động viên sinh viên tích cực tham gia các phong\ntrào, các hoạt động rèn luyện…; nắm bắt tình hình học tập, tâm tư, nguyện vọng của\ntừng sinh viên trong lớp để định hướng, uốn nắn, không để sai sót. Lồng ghép nội\ndung giáo dục đạo đức vào bài học, sinh hoạt chủ nhiệm, gặp gỡ sinh viên;\n5. Tổ chức thực hiện chức năng phân Tổ, Tổ trưởng, Lớp trưởng; liên hệ với\nLớp trưởng, Tổ trưởng định kỳ ít nhất 1 lần/tháng (có thể qua email, tiếp xúc trực tiếp,\nđiện thoại...); nắm bắt tình hình do Lớp trưởng, Tổ trưởng báo cáo để kịp thời hỗ trợ,\ncho ý kiến giải quyết, giải thích, làm rõ...; hoặc có những hướng dẫn, chấn chỉnh tình\ntrạng hiểu sai thông tin. Phối hợp viên chức CTSV Khoa đánh giá hoạt động của từng\nTổ, từng thành viên vào cuối học kỳ; đồng thời góp ý điều chỉnh các nội dung chưa",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 17,
+      "text": "17\nthực hiện tốt trong học kỳ; đề xuất những giải pháp cần thiết để củng cố lực lượng Lớp\ntrưởng, Tổ trưởng luôn mạnh và hiệu quả; xây dựng được đội ngũ sinh viên nòng cốt;\n6. GVCN/GVCV có ý kiến và đề xuất cấp học bổng, khen thưởng, kỷ luật\nsinh viên;\n7. Nêu gương đạo đức, tác phong, lối sống... cho sinh viên.\nĐiều 28. Lớp trưởng, Tổ trưởng\n1. Quy trình bầu/cử, công nhận, miễn nhiệm Lớp trưởng, Tổ trưởng\na) Lớp trưởng, Tổ trưởng do Khoa chỉ định hoặc bầu/cử và Khoa gửi đề nghị\ndanh sách công nhận về Phòng Công tác học sinh - sinh viên vào tuần thứ tư, học kỳ\nmột của từng năm học;\nb) Tổ sinh viên tự quản từ 07-10 sinh viên/Tổ. Việc phân Tổ ưu tiên sắp xếp các\nsinh viên có thời khóa biểu gần giống nhau trong học kỳ vào cùng một Tổ;\nc) Nhiệm kỳ của Lớp trưởng, Tổ trưởng là một năm học. Nếu trường hợp Lớp\ntrưởng, Tổ trưởng không quản lý và điều hành Lớp, Tổ tốt (hoặc có sự thay đổi) thì\nKhoa rà soát, gửi đề xuất nhân sự mới về Phòng Công tác học sinh - sinh viên chậm\nnhất vào tuần thứ chín của học kỳ để Phòng kiểm tra và tổng hợp trình Ban Giám hiệu\nra quyết định;\nd) Việc bầu lại Lớp trưởng/Tổ trưởng có thể thực hiện:\nCăn cứ vào danh sách Lớp, Tổ, GVCN/GVCV và viên chức CTSV tổ chức họp\nLớp, Tổ để các thành viên của Lớp, Tổ đề cử nhân sự có khả năng làm Lớp trưởng, Tổ\ntrưởng và tiến hành bầu chọn;\nNếu thành viên của Lớp, Tổ không có chính kiến; hoặc nếu việc đề cử nhân sự\nbất kỳ của thành viên trong Lớp, Tổ có cơ sở là không thuyết phục, GVCN/GVCV và\nviên chức CTSV có thể căn cứ vào kết quả học tập, rèn luyện của học kỳ gần nhất và\nkhả năng của từng sinh viên để chỉ định Lớp trưởng, Tổ trưởng;\ne) Điều kiện để được bình bầu làm Lớp trưởng, Tổ trưởng:\nĐiểm trung bình học tập học kỳ gần nhất đạt từ 6.0 trở lên;\nKết quả đánh giá rèn luyện học kỳ gần nhất đạt từ 65 điểm trở lên;\nKhông vi phạm nội quy, quy chế của Nhà trường trong năm học gần nhất;\nNhững trường hợp ngoại lệ khác, Khoa đề xuất;\nf) Lớp trưởng, Tổ trưởng có thể bị miễn nhiệm khi bị một trong các trường hợp\nsau:\nKết quả đánh giá từng học kỳ không hoàn thành nhiệm vụ;\nKhông chuyên cần trong học tập, không gương mẫu, thiếu tinh thần trách nhiệm\nhoặc vắng sinh hoạt Lớp, vắng họp giao ban Lớp trưởng, Tổ trưởng 02 lần/học kỳ;\nKhông đạt điều kiện làm Lớp trưởng, Tổ trưởng.\n2. Cơ chế phối hợp Lớp trưởng/Tổ trưởng",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 18,
+      "text": "18\nCơ chế phối hợp theo chiều dọc này không ngăn cản việc sinh viên có thể có\nnhững phản ảnh trực tiếp đến GVCN/GVCV, viên chức CTSV; hoặc/và trực tiếp với\nKhoa, Phòng, Nhà trường một khi lần lượt từ Tổ trưởng, đến Lớp trưởng,\nGVCN/GVCV, viên chức CTSV, Phòng Công tác học sinh - sinh viên và các đơn vị liên\nquan (Đoàn trường, Hội sinh viên Trường) không giải quyết thỏa đáng, thuyết phục các\nthắc mắc của sinh viên; hoặc thiếu trách nhiệm trong trả lời, giải đáp, thông tin. Tuy\nnhiên, nếu sinh viên chưa phản ảnh các vấn đề của mình với Tổ trưởng mà đã phản ảnh\nvượt cấp, sinh viên chịu hoàn toàn trách nhiệm theo quy định của Trường.\n3. Nhiệm vụ của Lớp trưởng, Tổ trưởng\nNhiệm vụ Lớp trưởng\na) Gương mẫu trong học tập, rèn luyện;\nb) Liên lạc với Tổ trưởng ít nhất 01 lần/tháng để biết tình hình từng sinh viên\ntrong Lớp, hàng tháng tổng hợp báo cáo gửi GVCN/GVCV, viên chức CTSV, Phòng\nCông tác học sinh - sinh viên;\nc) Nhận kế hoạch, thông báo từ Trường, Khoa bằng nhiều cách khác nhau triển\nkhai đến Tổ trưởng, sinh viên;\nd) Đôn đốc, nhắc nhở các thành viên Lớp thực hiện tốt: đi học chuyên cần, học\nnhóm/học tổ, tự học; chấp hành nghiêm túc nội quy, quy chế Nhà trường, tham gia đầy\nđủ Tuần sinh hoạt công dân, chào cờ hàng tuần; tích cực tham gia các hoạt động tình\nnguyện, cộng đồng, văn hóa văn nghệ, thể dục thể thao… của Trường, Khoa;\ne) Nhận các thông tin phản hồi, các thắc mắc của Tổ trưởng, của sinh viên báo\ncáo GVCN/GVCV, viên chức CTSV trong vòng tối đa 24 giờ kể từ khi nghe được\nphản ảnh;\nKHOA, PHÒNG\nGVCN/GVCV,\nViên chức CTSV\nLỚP TRƯỞNG\nTRƯỜNG\nTổ trưởng n\nTổ trưởng 3\nTổ trưởng 2\nTổ trưởng 1\nSinh viên\nSinh viên\nSinh viên\nSinh viên",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 19,
+      "text": "19\nf) Liên hệ GVCN/GVCV để báo cáo tình hình Lớp, công tác của các Tổ\ntrưởng; cũng như ý kiến, phản ảnh của sinh viên.\nNhiệm vụ của Tổ trưởng\na) Gương mẫu trong học tập, rèn luyện;\nb) Biết rõ tình hình từng sinh viên trong Tổ: nắm thông tin về gia cảnh, tình\nhình học hành, chuyên cần, thái độ học, tâm lý; kỷ luật, nền nếp; tình hình tham gia\ncác hoạt động của từng sinh viên trong Tổ. Tổng hợp thông tin của Tổ gửi Lớp trưởng\n01 lần/tháng;\nc) Chủ động, chịu trách nhiệm trực tiếp trong việc phổ biến kịp thời, đầy đủ và\nchính xác thông tin của Nhà trường, Khoa, Phòng chức năng, Đoàn thể, của Lớp đến\nmọi thành viên trong Tổ nhằm bảo đảm rằng sinh viên trong Tổ nhận được thông tin\nchính xác;\nd) Nhắc nhở thường xuyên các thành viên của Tổ thực hiện tốt: đi học chuyên\ncần, học nhóm/học tổ, tự học; chấp hành nghiêm túc nội quy, quy chế Nhà trường,\ntham gia đầy đủ Tuần sinh hoạt công dân, chào cờ hàng tuần; tích cực tham gia các\nhoạt động tình nguyện, cộng đồng, văn hóa văn nghệ, thể dục thể thao… của Trường,\nKhoa;\ne) Tổ chức, phân công học nhóm, học tổ, đặc biệt lưu ý đến môn học mà thành\nviên trong Tổ có điểm yếu, kém nhiều (đề xuất với GVCN/GVCV, Khoa tổ chức ôn\ntập trước kỳ thi cho các thành viên trong Tổ).\n4. Quyền lợi của Lớp trưởng, Tổ trưởng\na) Thay mặt Lớp, Tổ đề đạt các nguyện vọng chính đáng của sinh viên đến Nhà\ntrường, Khoa thông qua GVCN/GVCV, viên chức CTSV Khoa và các Phòng chức\nnăng;\nb) Được ghi nhận kết quả tham gia hoạt động lớp, đoàn thể;\nc) Được đào tạo, huấn luyện kỹ năng: làm việc nhóm, kỹ năng lãnh đạo, kỹ\nnăng ra quyết định, kỹ năng lập kế hoạch, kỹ năng quản lý thời gian hiệu quả, kỹ năng\nxử lý văn bản…;\nd) Lớp trưởng, Tổ trưởng hoàn thành tốt nhiệm vụ trở lên sẽ được Khoa, Phòng\nCông tác học sinh - sinh viên giới thiệu vào các chương trình thực tập, internship tại\ncác Phòng, Ban, Khoa, Trung tâm của Trường.\nCHƯƠNG VI\nĐIỀU KHOẢN THI HÀNH\nĐiều 29. Hiệu lực thi hành\n1. Quy chế này có 06 Chương, 29 Điều, 20 Trang có hiệu lực thi hành kể từ\nnăm học 2025 - 2026 và thay thế Quyết định số 2505/QĐ-TĐT ngày 07/9/2022\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng về việc ban hành Quy chế công tác\nsinh viên;",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    },
+    {
+      "page_number": 20,
+      "text": "20\n2. Sinh viên, các đơn vị thuộc/trực thuộc, các cá nhân có liên quan có trách\nnhiệm thi hành Quy chế này. Trường hợp các văn bản, quy định dẫn chiếu trong Quy\nchế này có sự thay đổi thì thực hiện theo quy định mới ban hành;\n3. Trong quá trình thực hiện, khi thực tế phát sinh yêu cầu mới hoặc nếu có vấn\nđề mới về quy định của Trường; Phòng Công tác học sinh - sinh viên kịp thời tham\nmưu cho Hiệu trưởng xem xét quyết định; bảo đảm Quy chế luôn phù hợp với thực tế\nvà yêu cầu phát triển của Nhà trường./.",
+      "extraction_method": "embedded_text",
+      "quality_flags": []
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "document": {
+    "document_id": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",
+    "title": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",
+    "source_file": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "f0d5cdc987b95550af1dcb15b06ae1f772b2f0e524e3809bc83a0aad4342b965"
+  },
+  "statistics": {
+    "page_count": 7,
+    "chapter_count": 1,
+    "article_count": 6
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": null,
+      "title": null,
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "1",
+          "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Văn bản này quy định về chương trình học tiếng Anh, quy định trình độ tiếng Anh đầu vào, kỳ thi đánh giá năng lực đầu vào, quy định xét miễn môn khi nộp chứng chỉ/bảng điểm tiếng Anh quốc tế, quy định về hình thức đánh giá, quy định học vụ tiếng Anh cho sinh viên chương trình giảng dạy bằng tiếng Anh.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Đối tượng áp dụng: sinh viên chương trình giảng dạy bằng tiếng Anh bao gồm cả sinh viên chương trình dự bị tiếng Anh tại Trường Đại học Tôn Đức Thắng (trừ ngành Ngôn ngữ Anh).",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Chương trình học tiếng Anh",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chương trình tiếng Anh World English được quy định tại Phụ lục 1, gồm 03 học phan tiếng Anh chính thức trong chương trình đào tạo và 04 học phan tiếng Anh dự bị;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Khi làm thủ tục nhập học, sinh viên nộp các chứng chỉ/bảng điểm tiếng Anh quốc tế còn thời hạn, đạt từ trình độ BI trở lên được xét miễn học các học phần tiếng Anh tương ứng (với mức điểm quy định tại Phụ lục 2);",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Sinh viên phải hoàn thành các học phan tiếng Anh chính thức theo lộ trình hoc tiếng Anh (Phụ lục 1) và phải đạt tiếng Anh trình độ B2 quốc tế (đạt các chứng chỉ tiếng Anh quốc tế tương đương IELTS 6.0) theo Phụ lục 4;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Các chứng chỉ tiếng Anh quốc tế được chấp nhận gồm: IELTS, TOEIC (4 kỹ năng), TOEFL iBT, Cambridge, Aptis ESOL. Các chứng chỉ tiếng Anh quốc tế này phải được tổ chức thi trực tiếp tại các đơn vị liên kết được Bộ Giáo dục và Đào tạo phê duyệt Đề án liên kết tổ chức thi cấp chứng chỉ theo quy định.",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Điêu kiện tiêng Anh dau vào",
+              "page_start": 1,
+              "points": [
+                {
+                  "type": "point",
+                  "point": "a",
+                  "text": "Đôi với thí sinh người nước ngoài ở các nước có ngôn ngữ chính là tiêng Anh không yêu câu chứng chỉ tiêng Anh quôc tê đâu vào;",
+                  "page_start": 1
+                },
+                {
+                  "type": "point",
+                  "point": "b",
+                  "text": "Đối với thí sinh không thuộc đối tượng ở điểm a khoản 5 Điều 2 phải đạt tiếng Anh trình độ B1 quốc tế (dat các chứng chỉ tiếng Anh quốc tế tương đương IELTS 5.0). Trường hợp người học chưa đạt trình độ B1 quốc tế (tương đương IELTS > 5.0) phải dự thi Bài thi đánh giá năng lực tiếng Anh đầu vào để được xác nhận đủ điều kiện tiếng Anh theo học chương trình (trừ ngành Ngôn ngữ Anh). Bài thi đánh giá năng lực tiếng Anh đầu vào được đánh giá 4 kỹ năng (nghe, đọc, nói và viết); 2",
+                  "page_start": 1
+                },
+                {
+                  "type": "point",
+                  "point": "c",
+                  "text": "Căn cứ vào kết quả thi đánh giá năng lực tiếng Anh đầu vào, sinh viên được xếp cấp độ tiếng Anh theo lộ trình học tiếng Anh tương ứng (Phụ lục 1). Trong đó, sinh viên chỉ được xét miễn tối đa đến học phần Researcher English.",
+                  "page_start": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Quy định đánh giá",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Các học phần tiếng Anh được đánh giá theo thang điểm 100 gồm 02 thành phần điểm là điểm đánh giá quá trình (ĐQT) có ty trọng 60% và điểm thi cuối kỳ (DCK) có tỷ trọng 40%. Điểm tổng kết (DTK) được tính bằng công thức DTK = DQT+ DCK.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Khung kiểm tra đánh giá quá trình và đánh giá cuối kỳ được quy định tại bảng 1 và bảng 2 Phụ lục 3; Sinh viên phải hoàn thành ít nhất 80% khối lượng bài tập được giao và đảm bảo chuyên cần theo đúng yêu cầu của học phần mới đủ điều kiện tham gia bài thi đánh giá cuối kỳ.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Điều kiện xét đạt học phần tiếng Anh được quy định tại bảng 2 Phụ lục 3. Sau khi sinh viên học xong chương trình dự bị tiếng Anh, nếu đạt học phần Intensive Preliminary English 3 sẽ được xét đủ điều kiện đầu vào tiếng Anh của chương trình đại học giảng dạy bằng tiếng Anh. Sinh viên học môn học Influencer English, Researcher English, Master English nếu đạt sẽ được ghi nhận điểm M; đồng thời sinh viên phải tham gia dự thi chứng chỉ tiếng Anh quốc tế đạt trình độ B2 quốc tế (đạt các chứng chỉ tiếng Anh quốc tế tương đương IELTS 6.0) theo Phụ lục 4 để được ghi nhận đạt chuẩn đầu ra tiếng Anh. Chi phí thi các kỳ thi chứng chỉ tiếng Anh quốc tế sẽ do sinh viên chỉ trả.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Sinh viên chưa đạt các học phần Influencer English, Researcher English, Master English (điểm học phần chưa được ghi nhận điểm M) phải học lại các học phan tiếng Anh này được quy định tại Điều 5.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Sinh viên không đủ điều kiện dự thi học phan tiếng Anh sẽ bị ghi nhận điểm F, sinh viên vắng thi sẽ bị ghi nhận điểm V. Điểm F và điểm V được tính như điểm 0 (không) và tính vào điểm trung bình học kỳ, trung bình tích lũy.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Xét miễn các học phần tiếng Anh trong quá trình đào tạo",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Trong quá trình đào tạo, sinh viên nếu có các chứng chi/bang điểm tiếng Anh quốc tế còn thời hạn theo quy định tại Phụ lục 2 được xét miễn học phần tiếng Anh tương ứng theo khoản 2 Điều này. Các chứng chỉ tiếng Anh quốc tế không quy định thời hạn chỉ được xét công nhận miễn học phần trong vòng 02 năm kể từ ngày được cấp chứng chỉ.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Việc xét miễn các học phần tiếng Anh cho sinh viên trễ lộ trình đào tạo tiếng Anh phải tham gia học liên tục trong tất cả học kỳ, đồng thời đủ điều kiện dự thi kết thúc môn; hoặc sinh viên học tiếng Anh đúng lộ trình/trước lộ trình, theo các trường hợp sau: Trường hợp 1: Sinh viên nộp chứng chỉ/bảng điểm tiếng Anh quốc tế trước tuần bắt đầu học kỳ hoặc bắt đầu môn học ít nhất 02 tuần sẽ được xét miễn (học, thi và học phí) các học phần tiếng Anh tương ứng theo lộ trình đào tạo và thời hạn còn giá trị của chứng chỉ; 3 sinh viên phải đồng thời đề nghị hủy kết quả đăng ký môn học (nếu có) dé được miễn học và không đóng học phí học phan nay; Trường hợp 2: Sinh viên nộp chứng chỉ/bảng điểm tiếng Anh quốc tế sau thời hạn quy định ở trường hợp 1 và trước khi kết thúc môn học sẽ được miễn học phần tiếng Anh đang học. Sinh viên phải đồng thời đề nghị rút môn học (không hoàn học phi), điểm R được ghi nhận cho môn học trong học kỳ hiện tại.Trường hợp sinh viên không làm đơn đề nghị rút môn học sinh viên vẫn phải thực hiện nghĩa vụ học và thi theo quy định. Trường hợp 3: Sinh viên tốt nghiệp ngành thứ nhất Ngôn ngữ Anh Trường Đại học Tôn Đức Thắng được xét miễn học các học phan tiếng Anh trong chương trình đào tạo của ngành thứ hai. Sinh viên phải nộp chứng chỉ tiếng Anh quốc tế đầu ra theo quy định. Trường hợp 4. Sinh viên người nước ngoài ở các nước có ngôn ngữ chính là tiếng Anh được xét miễn học chương trình tiếng Anh World English.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Điểm Miễn “M” của các học phần Tiếng Anh được xét miễn theo các trường hợp quy định tại khoản 2 Điều này sẽ được ghi nhận trong phần điểm bảo lưu (nằm ngoài bảng điểm các học kỳ sinh viên học tại trường).",
+              "page_start": 3,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Quy định học vụ đối với việc hoàn thành các học phần tiếng Anh",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Sau khi được Nhà trường xếp lớp, sinh viên phải học và thi theo lộ trình đào tạo (học liên tục trong các học kỳ) cho đến khi hoàn thành các học phần tiếng Anh theo quy định. Sinh viên chưa hoàn thành chương trình học tiếng Anh sẽ bị ràng buộc điều kiện tiên quyết tiếng Anh một số môn học trong chương trình đào tạo.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Sinh viên hoàn thành các học phần tiếng Anh, chuẩn đầu ra tiếng Anh theo đúng sơ đồ đào tao dé đủ điều kiện xét học bing.",
+              "page_start": 3,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Hiệu lực thi hành",
+          "page_start": 3,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Quy định này áp dụng cho sinh viên trình độ đại học chương trình giảng dạy bằng tiếng Anh từ khóa tuyển sinh năm 2023 trở về sau.",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phòng Đại học, Phòng Khảo thí và Kiểm định Chất lượng, Phòng Thanh tra - Pháp chế và An ninh, các Khoa và Trung tâm Ngôn ngữ Sáng tạo có trách nhiệm phối hợp tổ chức quản lý sinh viên, giám sát và đảm bảo chương trình tiếng Anh được triển khai theo đúng quy định./. ~4—~ yu (* I>ii x ~ bị cy hai TONG LIEN DOAN LAO ĐỘNG VIỆT NAM CONG HOA XA HOI CHU NGHIA VIET NAM TRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hạnh phúc PHỤ LỤC 1 RÌNH HỌC TIENG ANH THEO KE HOẠCH GIẢNG DẠY kem theo quyết định số 8.%.24/0D-TPT ngày 30 tháng 4lnăm 2023 của Hiệu trưởng Trường Đại học Tôn Đức Thắng) T1 Số Mã môn À Số tín tiết k h Tén hoc phan - hoc Lộ trình học tiêng Anh oc chi a trén Lớp 0013B4 | Intensive Key gog | Hoe Oo bị tong Hũi tình Ì HK | | 0013B6 Intensive Preliminary English | - 75 0013B7 Intensive Preliminary English 2 - 75 on Gi by feng He gia Ì 0013B8 Intensive Preliminary English 3 - 75 001324 Influencer English 8 120 HKI 001325 Researcher English § 120 HK2 001326 Master English 9 135 HK3 Đạt tiếng Anh trình độ B2 quốc tế (đạt các chứng P15C60 chỉ tiếng Anh quốc tế tương đương IELTS 6.0) HK4 theo phụ lục 4 = Ya? | | \\ + TONG LIÊN DOAN LAO ĐỘNG VIỆT NAM TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG TRƯỜNG ĐẠI HỌC PHỤ LỤC 2 BANG XÉT MIỄN MON HỌC EO CÁC LOẠI CHUNG CHỈ TIENG ANH QUOC TE kèm theo quyết định s64.t2 f./QĐ-TĐT ngày 89 tháng4/năm 2023 của Hiệu trưởng Trường Đại học Tôn Đức Thắng) CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập — Tw do — Hạnh phúc $ Aptis ESOL TORIC 4 kỹ năng _| TO — Học phần ead Điểm Điểm Điểm Cambridge Ễ E 5 3 & str | xétmiễn theo IELTS TOEFL Exams a 5, 5 3 3 = chuong trinh iBT , E hị $ 4 > Z. sg ¬ © = Sh R Zz >84 | —s >50 | >60 | BI Pre/B2First/ | > 140 a _— ieee (tat cả kỹ | (tất cả kỹ | BEC Van> 140 | (tát cả kỹ | ,“ sử » | 5 | | Preliminary i h kỹ năng | năng | >550 ; nang > năng> | (tat cả kỹ năng > năng > 120 | 120 English 1,2,3 4.0) 12) 120) 120) đạt trình đạt , độ BI) trình độ BI) - Intensive > 126 Preliminary T >øs | Bl Pre/B2First/ | > 160 >153 | (tấtcả English 1,2,3 (dt x kỹ | (tất cả kỹ Cl Adv/C2Pro/| — (tất cả kỹ HE - 2_ | - Influencer wine > năn \"v BEC Van > 160 | (tâtcả kỹ | kỹ năng | năng | >600 150 | 160 English 4 3) 1 rỡ (tất cả kỹ năng > năng > đạt trình đạt - Researcher ắ 140) 140) độ BI) trình English độ BI) - Intensive Preliminary - Influencer 26.0 | 275 | Adv/C2Pro/ | >169 | dựng ns 3 | Bnglish. (tat cả kỹ | (tat cả kỹ | BEC Van/ BEC | (tat cả kỹ | ân bí san | È | 2 - Researcher năng > năng > Higher > 169 nang > nh Hội : ‘ar 160 | 170 English 5.0) 18) (tat cả kỹ nang > 149) đô B2) trình - Master English 149) : độ B2) WZN = (2 Loy TÔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM TRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hanh phúc PHỤ LỤC 3 C ĐÁNH GIA VA DIEU KIỆN XÉT DAT HOC PHAN TIENG ANH hành kèm theo quyết định s6.3¢2.%./OD-TPT ngày 30 tháng l|năm 2023 của Hiệu trưởng Trường Đại học Tôn Đức Thắng) ÃẤ IÀ a x ak pkey Mục tiêu Nội dung Tiêu chí đánh giá gt ee =\" ad (Test Type) (Objective) (Part) (Criteria) requests) (points) - Xây dựng bài - Sẵn sàng và tập trung i - Chuyén can ol 10 Theo dõi lộ | 1. Hoạt động tại lớp Th ‘a skills club trình phát | (Classroom Activities) MÃ» 3xöi: a6 nanhhan Đánh giá triển, phản - Writing portfolio 05 10 hồi kip thời Quá trình ee . - Bai tap Cambridge One 01 10 (60%) về những kỹ Tại lớp năng sinh - Kỹ năng nói 1 10 A À as Viên Can Cal «~ sk thiện 2. Kiểm tra quá trình |” BY ning việt | aS (Progress tests) - Kỹ năng nói 2/ Kỹ năng tranh luận/ A ‘ 01 10 hing bién - Ky nang viét 2 01 05 Kiểm tra Đánh giá kết | 3. Kỹ năng Đọc, Kiến | - Kiến thức ngôn ngữ TH quả cuối kỳ | thức về ngôn ngữ và | - Đọc và ngữ pháp 01 40 Tập Exing của sinh viên | Nghe (Final Tests) - Nghe hiểu và nghe viết ghi chú Bảng 2- Điều kiện xét đạt học phần tiếng Anh chương trình World English Intensive Intensive Intensive Intensive Trdtinhaty | Prdimuaty | Pfimšuøv Influencer | Researcher Master Key English English English English y ng Englshl | Englsh2 | Englsh3 5 lu k“ tối đa 40 tối đa 40 tối đa 40 tối đa 40 tối đa40 | tối đa40 tối đa 40 Điểm bài thi điểm điểm điểm điểm điểm điểm điểm cuối kỳ (số câu đúng (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng >49.09%) >31.58%) >40.35%) >49.12%) >50%) >56%) >63%) Chuyên cần tối thiểu 80% Bài tập/ Online tối thiểu 50% câu đúng Learning >70 diém > 60 diém > 65 diém > 70 diém > 65 diém > 70 diém > 75 điểm (DTK) Dat xxx “+2 YY TÔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM TRUONG ĐẠI HỌC TON ĐỨC THẮNG ĐẠI TÔN ĐỨC THẮNG ¬\" CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập — Tự do - Hạnh phúc PHỤ LỤC 4 CHUAN ĐẦU RA TIENG ANH D0 )à xÙ ém theo quyết định số. #.À.”/QĐ-TĐT ngày 30 tháng Áhăm 2023 ml của Hiệu trưởng Trường Dai học Tôn Đức Thắng) Cambridge Aptis ESOL TOEIC (4 kỹ năng) IELTS On 7. Aptis Aptis Nghe | ĐT | Gombe | vợ ESOL & | Viết | Nói Linguaskill General Advanced Doc B2 First/ Cl Adv/ C2 Pro/|> 160",
+              "page_start": 3,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "|= 6.0 | = 75 > 140 B2 quôc s P BEC Van/ | (tat cả kỹ F 3 (tât cả kỹ | (tât cả kỹ ; (tat cả kỹ tê BEC Higher > | năng đạt >650 | >160 | >170 năng > |năng > năng đạt 169 trình độ 5.0) 18) 4 trình độ B2) (tât cả kỹ năng | B2) > 149)",
+              "page_start": 7,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TÔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hạnh phúc\nQUY ĐỊNH\nVỀ việc đào tạo tiếng Anh cho sinh viên trình độ đại học,\ntÿên sâu đặc thù chương trình giảng day bang tiêng Anh\nèm theo Quyết định số 312 Ï /QĐ-TĐT ngày 30 tháng 4) năm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thăng)\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về chương trình học tiếng Anh, quy định trình độ tiếng Anh\nđầu vào, kỳ thi đánh giá năng lực đầu vào, quy định xét miễn môn khi nộp chứng chỉ/bảng\nđiểm tiếng Anh quốc tế, quy định về hình thức đánh giá, quy định học vụ tiếng Anh cho\nsinh viên chương trình giảng dạy bằng tiếng Anh.\n2. Đối tượng áp dụng: sinh viên chương trình giảng dạy bằng tiếng Anh bao gồm cả\nsinh viên chương trình dự bị tiếng Anh tại Trường Đại học Tôn Đức Thắng (trừ ngành\nNgôn ngữ Anh).\nĐiều 2. Chương trình học tiếng Anh\n1. Chương trình tiếng Anh World English được quy định tại Phụ lục 1, gồm 03 học\nphan tiếng Anh chính thức trong chương trình đào tạo và 04 học phan tiếng Anh dự bị;\n2. Khi làm thủ tục nhập học, sinh viên nộp các chứng chỉ/bảng điểm tiếng Anh quốc\ntế còn thời hạn, đạt từ trình độ BI trở lên được xét miễn học các học phần tiếng Anh tương\nứng (với mức điểm quy định tại Phụ lục 2);\n3. Sinh viên phải hoàn thành các học phan tiếng Anh chính thức theo lộ trình hoc\ntiếng Anh (Phụ lục 1) và phải đạt tiếng Anh trình độ B2 quốc tế (đạt các chứng chỉ tiếng\nAnh quốc tế tương đương IELTS 6.0) theo Phụ lục 4;\n4. Các chứng chỉ tiếng Anh quốc tế được chấp nhận gồm: IELTS, TOEIC (4 kỹ năng),\nTOEFL iBT, Cambridge, Aptis ESOL. Các chứng chỉ tiếng Anh quốc tế này phải được tổ\nchức thi trực tiếp tại các đơn vị liên kết được Bộ Giáo dục và Đào tạo phê duyệt Đề án liên\nkết tổ chức thi cấp chứng chỉ theo quy định.\n5. Điêu kiện tiêng Anh dau vào\na) Đôi với thí sinh người nước ngoài ở các nước có ngôn ngữ chính là tiêng Anh\nkhông yêu câu chứng chỉ tiêng Anh quôc tê đâu vào;\nb) Đối với thí sinh không thuộc đối tượng ở điểm a khoản 5 Điều 2 phải đạt tiếng\nAnh trình độ B1 quốc tế (dat các chứng chỉ tiếng Anh quốc tế tương đương IELTS 5.0).\nTrường hợp người học chưa đạt trình độ B1 quốc tế (tương đương IELTS > 5.0) phải dự thi\nBài thi đánh giá năng lực tiếng Anh đầu vào để được xác nhận đủ điều kiện tiếng Anh theo\nhọc chương trình (trừ ngành Ngôn ngữ Anh). Bài thi đánh giá năng lực tiếng Anh đầu vào\nđược đánh giá 4 kỹ năng (nghe, đọc, nói và viết);",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\nc) Căn cứ vào kết quả thi đánh giá năng lực tiếng Anh đầu vào, sinh viên được xếp\ncấp độ tiếng Anh theo lộ trình học tiếng Anh tương ứng (Phụ lục 1). Trong đó, sinh viên chỉ\nđược xét miễn tối đa đến học phần Researcher English.\nĐiều 3. Quy định đánh giá\n1. Các học phần tiếng Anh được đánh giá theo thang điểm 100 gồm 02 thành phần\nđiểm là điểm đánh giá quá trình (ĐQT) có ty trọng 60% và điểm thi cuối kỳ (DCK) có tỷ\ntrọng 40%. Điểm tổng kết (DTK) được tính bằng công thức DTK = DQT+ DCK.\n2. Khung kiểm tra đánh giá quá trình và đánh giá cuối kỳ được quy định tại bảng 1 và\nbảng 2 Phụ lục 3;\nSinh viên phải hoàn thành ít nhất 80% khối lượng bài tập được giao và đảm bảo\nchuyên cần theo đúng yêu cầu của học phần mới đủ điều kiện tham gia bài thi đánh giá cuối\nkỳ.\n3. Điều kiện xét đạt học phần tiếng Anh được quy định tại bảng 2 Phụ lục 3.\nSau khi sinh viên học xong chương trình dự bị tiếng Anh, nếu đạt học phần\nIntensive Preliminary English 3 sẽ được xét đủ điều kiện đầu vào tiếng Anh của chương\ntrình đại học giảng dạy bằng tiếng Anh.\nSinh viên học môn học Influencer English, Researcher English, Master English nếu\nđạt sẽ được ghi nhận điểm M; đồng thời sinh viên phải tham gia dự thi chứng chỉ tiếng Anh\nquốc tế đạt trình độ B2 quốc tế (đạt các chứng chỉ tiếng Anh quốc tế tương đương IELTS\n6.0) theo Phụ lục 4 để được ghi nhận đạt chuẩn đầu ra tiếng Anh. Chi phí thi các kỳ thi\nchứng chỉ tiếng Anh quốc tế sẽ do sinh viên chỉ trả.\n4. Sinh viên chưa đạt các học phần Influencer English, Researcher English, Master\nEnglish (điểm học phần chưa được ghi nhận điểm M) phải học lại các học phan tiếng Anh\nnày được quy định tại Điều 5.\n5. Sinh viên không đủ điều kiện dự thi học phan tiếng Anh sẽ bị ghi nhận điểm F, sinh\nviên vắng thi sẽ bị ghi nhận điểm V. Điểm F và điểm V được tính như điểm 0 (không) và\ntính vào điểm trung bình học kỳ, trung bình tích lũy.\nĐiều 4. Xét miễn các học phần tiếng Anh trong quá trình đào tạo\n1. Trong quá trình đào tạo, sinh viên nếu có các chứng chi/bang điểm tiếng Anh quốc\ntế còn thời hạn theo quy định tại Phụ lục 2 được xét miễn học phần tiếng Anh tương ứng\ntheo khoản 2 Điều này. Các chứng chỉ tiếng Anh quốc tế không quy định thời hạn chỉ được\nxét công nhận miễn học phần trong vòng 02 năm kể từ ngày được cấp chứng chỉ.\n2. Việc xét miễn các học phần tiếng Anh cho sinh viên trễ lộ trình đào tạo tiếng Anh\nphải tham gia học liên tục trong tất cả học kỳ, đồng thời đủ điều kiện dự thi kết thúc môn;\nhoặc sinh viên học tiếng Anh đúng lộ trình/trước lộ trình, theo các trường hợp sau:\nTrường hợp 1: Sinh viên nộp chứng chỉ/bảng điểm tiếng Anh quốc tế trước tuần bắt\nđầu học kỳ hoặc bắt đầu môn học ít nhất 02 tuần sẽ được xét miễn (học, thi và học phí) các\nhọc phần tiếng Anh tương ứng theo lộ trình đào tạo và thời hạn còn giá trị của chứng chỉ;",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\nsinh viên phải đồng thời đề nghị hủy kết quả đăng ký môn học (nếu có) dé được miễn học\nvà không đóng học phí học phan nay;\nTrường hợp 2: Sinh viên nộp chứng chỉ/bảng điểm tiếng Anh quốc tế sau thời hạn\nquy định ở trường hợp 1 và trước khi kết thúc môn học sẽ được miễn học phần tiếng Anh\nđang học. Sinh viên phải đồng thời đề nghị rút môn học (không hoàn học phi), điểm R\nđược ghi nhận cho môn học trong học kỳ hiện tại.Trường hợp sinh viên không làm đơn đề\nnghị rút môn học sinh viên vẫn phải thực hiện nghĩa vụ học và thi theo quy định.\nTrường hợp 3: Sinh viên tốt nghiệp ngành thứ nhất Ngôn ngữ Anh Trường Đại học\nTôn Đức Thắng được xét miễn học các học phan tiếng Anh trong chương trình đào tạo của\nngành thứ hai. Sinh viên phải nộp chứng chỉ tiếng Anh quốc tế đầu ra theo quy định.\nTrường hợp 4. Sinh viên người nước ngoài ở các nước có ngôn ngữ chính là tiếng\nAnh được xét miễn học chương trình tiếng Anh World English.\n3. Điểm Miễn “M” của các học phần Tiếng Anh được xét miễn theo các trường hợp\nquy định tại khoản 2 Điều này sẽ được ghi nhận trong phần điểm bảo lưu (nằm ngoài bảng\nđiểm các học kỳ sinh viên học tại trường).\nĐiều 5. Quy định học vụ đối với việc hoàn thành các học phần tiếng Anh\n1. Sau khi được Nhà trường xếp lớp, sinh viên phải học và thi theo lộ trình đào tạo\n(học liên tục trong các học kỳ) cho đến khi hoàn thành các học phần tiếng Anh theo quy\nđịnh. Sinh viên chưa hoàn thành chương trình học tiếng Anh sẽ bị ràng buộc điều kiện tiên\nquyết tiếng Anh một số môn học trong chương trình đào tạo.\n2. Sinh viên hoàn thành các học phần tiếng Anh, chuẩn đầu ra tiếng Anh theo đúng sơ\nđồ đào tao dé đủ điều kiện xét học bing.\nĐiều 6. Hiệu lực thi hành\n1. Quy định này áp dụng cho sinh viên trình độ đại học chương trình giảng dạy bằng\ntiếng Anh từ khóa tuyển sinh năm 2023 trở về sau.\n2. Phòng Đại học, Phòng Khảo thí và Kiểm định Chất lượng, Phòng Thanh tra - Pháp\nchế và An ninh, các Khoa và Trung tâm Ngôn ngữ Sáng tạo có trách nhiệm phối hợp tổ\nchức quản lý sinh viên, giám sát và đảm bảo chương trình tiếng Anh được triển khai theo\nđúng quy định./. ~4—~ yu (*\nI>ii\nx\n~\nbị\ncy\nhai",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 4,
+      "text": "TONG LIEN DOAN LAO ĐỘNG VIỆT NAM CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hạnh phúc\nPHỤ LỤC 1\nRÌNH HỌC TIENG ANH THEO KE HOẠCH GIẢNG DẠY\nkem theo quyết định số 8.%.24/0D-TPT ngày 30 tháng 4lnăm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nT1 Số\nMã môn À Số tín tiết k\nh Tén hoc phan - hoc Lộ trình học tiêng Anh\noc chi a\ntrén\nLớp\n0013B4 | Intensive Key gog | Hoe Oo bị tong Hũi tình Ì\nHK\n|\n|\n0013B6 Intensive Preliminary English | - 75\n0013B7 Intensive Preliminary English 2 - 75 on Gi by feng He gia Ì\n0013B8 Intensive Preliminary English 3 - 75\n001324 Influencer English 8 120 HKI\n001325 Researcher English § 120 HK2\n001326 Master English 9 135 HK3\nĐạt tiếng Anh trình độ B2 quốc tế (đạt các chứng\nP15C60 chỉ tiếng Anh quốc tế tương đương IELTS 6.0) HK4\ntheo phụ lục 4 =\nYa? | |\n\\\n+",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 5,
+      "text": "TONG LIÊN DOAN LAO ĐỘNG VIỆT NAM\nTRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\nTRƯỜNG\nĐẠI HỌC\nPHỤ LỤC 2\nBANG XÉT MIỄN MON HỌC\nEO CÁC LOẠI CHUNG CHỈ TIENG ANH QUOC TE\nkèm theo quyết định s64.t2 f./QĐ-TĐT ngày 89 tháng4/năm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập — Tw do — Hạnh phúc\n$ Aptis ESOL TORIC 4 kỹ năng _|\nTO —\nHọc phần ead Điểm Điểm Điểm Cambridge Ễ E 5 3 &\nstr | xétmiễn theo IELTS TOEFL Exams a 5, 5 3 3 =\nchuong trinh iBT , E hị $ 4 > Z.\nsg ¬ © = Sh\nR Zz\n>84 |\n—s >50 | >60 | BI Pre/B2First/ | > 140 a _—\nieee (tat cả kỹ | (tất cả kỹ | BEC Van> 140 | (tát cả kỹ | ,“ sử » | 5\n| | Preliminary i h kỹ năng | năng | >550\n; nang > năng> | (tat cả kỹ năng > năng > 120 | 120\nEnglish 1,2,3 4.0) 12) 120) 120) đạt trình đạt\n, độ BI) trình\nđộ BI)\n- Intensive > 126\nPreliminary T >øs | Bl Pre/B2First/ | > 160 >153 | (tấtcả\nEnglish 1,2,3 (dt x kỹ | (tất cả kỹ Cl Adv/C2Pro/| — (tất cả kỹ HE -\n2_ | - Influencer wine > năn \"v BEC Van > 160 | (tâtcả kỹ | kỹ năng | năng | >600 150 | 160\nEnglish 4 3) 1 rỡ (tất cả kỹ năng > năng > đạt trình đạt\n- Researcher ắ 140) 140) độ BI) trình\nEnglish độ BI)\n- Intensive\nPreliminary\n- Influencer 26.0 | 275 | Adv/C2Pro/ | >169 | dựng ns\n3 | Bnglish. (tat cả kỹ | (tat cả kỹ | BEC Van/ BEC | (tat cả kỹ | ân bí san | È | 2\n- Researcher năng > năng > Higher > 169 nang > nh Hội : ‘ar 160 | 170\nEnglish 5.0) 18) (tat cả kỹ nang > 149) đô B2) trình\n- Master English 149) : độ B2)\nWZN = (2 Loy",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 6,
+      "text": "TÔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hanh phúc\nPHỤ LỤC 3\nC ĐÁNH GIA VA DIEU KIỆN XÉT DAT HOC PHAN TIENG ANH\nhành kèm theo quyết định s6.3¢2.%./OD-TPT ngày 30 tháng l|năm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nÃẤ IÀ a x ak\npkey Mục tiêu Nội dung Tiêu chí đánh giá gt ee =\" ad\n(Test Type) (Objective) (Part) (Criteria) requests) (points)\n- Xây dựng bài\n- Sẵn sàng và tập trung\ni - Chuyén can ol 10\nTheo dõi lộ | 1. Hoạt động tại lớp Th ‘a skills club\ntrình phát | (Classroom Activities) MÃ» 3xöi: a6 nanhhan\nĐánh giá triển, phản - Writing portfolio 05 10\nhồi kip thời\nQuá trình ee . - Bai tap Cambridge One 01 10\n(60%) về những kỹ\nTại lớp năng sinh - Kỹ năng nói 1 10\nA À as\nViên Can Cal «~ sk\nthiện 2. Kiểm tra quá trình |” BY ning việt | aS\n(Progress tests) - Kỹ năng nói 2/ Kỹ năng tranh luận/\nA ‘ 01 10\nhing bién\n- Ky nang viét 2 01 05\nKiểm tra Đánh giá kết | 3. Kỹ năng Đọc, Kiến | - Kiến thức ngôn ngữ\nTH quả cuối kỳ | thức về ngôn ngữ và | - Đọc và ngữ pháp 01 40\nTập Exing của sinh viên | Nghe (Final Tests) - Nghe hiểu và nghe viết ghi chú\nBảng 2- Điều kiện xét đạt học phần tiếng Anh chương trình World English\nIntensive Intensive Intensive\nIntensive Trdtinhaty | Prdimuaty | Pfimšuøv Influencer | Researcher Master\nKey English English English English\ny ng Englshl | Englsh2 | Englsh3 5 lu k“\ntối đa 40 tối đa 40 tối đa 40 tối đa 40 tối đa40 | tối đa40 tối đa 40\nĐiểm bài thi điểm điểm điểm điểm điểm điểm điểm\ncuối kỳ (số câu đúng (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng | (số câu đúng\n>49.09%) >31.58%) >40.35%) >49.12%) >50%) >56%) >63%)\nChuyên cần tối thiểu 80%\nBài tập/\nOnline tối thiểu 50% câu đúng\nLearning\n>70 diém > 60 diém > 65 diém > 70 diém > 65 diém > 70 diém > 75 điểm\n(DTK) Dat\nxxx\n“+2\nYY",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 7,
+      "text": "TÔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM\nTRUONG ĐẠI HỌC TON ĐỨC THẮNG\nĐẠI\nTÔN ĐỨC THẮNG\n¬\"\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập — Tự do - Hạnh phúc\nPHỤ LỤC 4\nCHUAN ĐẦU RA TIENG ANH\nD0 )à xÙ ém theo quyết định số. #.À.”/QĐ-TĐT ngày 30 tháng Áhăm 2023\nml của Hiệu trưởng Trường Dai học Tôn Đức Thắng)\nCambridge Aptis ESOL TOEIC (4 kỹ năng)\nIELTS On 7. Aptis Aptis Nghe |\nĐT | Gombe | vợ ESOL & | Viết | Nói\nLinguaskill General Advanced Doc\nB2 First/ Cl\nAdv/ C2 Pro/|> 160\n2. |= 6.0 | = 75 > 140\nB2 quôc s P BEC Van/ | (tat cả kỹ F\n3 (tât cả kỹ | (tât cả kỹ ; (tat cả kỹ\ntê BEC Higher > | năng đạt >650 | >160 | >170\nnăng > |năng > năng đạt\n169 trình độ\n5.0) 18) 4 trình độ B2)\n(tât cả kỹ năng | B2)\n> 149)",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    }
+  ]
+}

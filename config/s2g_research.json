@@ -1,0 +1,23 @@
+{
+  "schema_version": "s2g-research-controller-v1",
+  "method_id": "s2g_rag_judge_first_v1",
+  "canonical_corpus": "data/corpus/canonical_corpus_v1_1/chunks.jsonl",
+  "retrieval": {
+    "mode": "hybrid_rrf_reranker",
+    "top_k": 6,
+    "bm25_depth": 100,
+    "dense_depth": 100,
+    "rrf_k": 60,
+    "candidate_depth": 100,
+    "reranker_input_depth": 50
+  },
+  "controller": {
+    "max_turns": 4,
+    "max_gaps_for_query": 1,
+    "sentence_limit": 30,
+    "parent_limit": 30,
+    "judge_first": true,
+    "pointer_only_evidence": true,
+    "answer_from_accumulated_evidence_only": true
+  }
+}

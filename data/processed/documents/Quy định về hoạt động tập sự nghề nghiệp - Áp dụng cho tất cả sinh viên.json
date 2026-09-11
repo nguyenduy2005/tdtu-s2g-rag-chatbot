@@ -1,0 +1,289 @@
+{
+  "document": {
+    "document_id": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên",
+    "title": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên",
+    "source_file": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên.pdf",
+    "document_type": null,
+    "issuer": null,
+    "year": null,
+    "version": null,
+    "issued_date": null,
+    "effective_date": null,
+    "status": null,
+    "source_sha256": "c2ef511bad341dd524b893a1d0c2a01dae3ae6ff5724d923c06cc8decb453ab1"
+  },
+  "statistics": {
+    "page_count": 2,
+    "chapter_count": 1,
+    "article_count": 7
+  },
+  "structure": [
+    {
+      "type": "chapter",
+      "number": null,
+      "title": null,
+      "page_start": 1,
+      "articles": [
+        {
+          "type": "article",
+          "article": "2",
+          "title": "Nguyên tắc áp dụng",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tập sự nghề nghiệp (TSNN) là học phần bắt buộc của chương trình giáo dục bậc đại học, được tổ chức cho sinh viên (SV) từ năm 3 trở di; tại các cơ quan nhà nước, đơn vi kinh doanh, tô chức chính trị - xã hội, các tổ chức phi chính phủ, ... có sử dụng lao động trình độ đại học với chuyên môn đúng ngành SV đã và đang học; và phù hợp với tiêu chuẩn về đơn vị TSNN của Trường (gọi tắt là đơn vị tiếp nhận);",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "SV đến làm việc thực tế, trực tiếp tác nghiệp các công việc, hoạt động nghiệp vụ cụ thể trong lĩnh vực, ngành/chuyên ngành mà SV đã được học tại đơn vị tiếp nhận. Thời hạn TSNN tối thiểu phải 02 tháng liên tục; tối đa là nguyên 1 học kỳ.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "3",
+          "title": "Mục tiêu TSNN",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "SV phải ứng dụng kiến thức, kỹ năng, nghiệp vu, ... đã học để làm việc một cách đầy đủ như một nhân viên chính thức tại Đơn vị tiếp nhận;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "SV đối chiếu nội dung đã học và thực tế làm việc ngoài đời để rút kinh nghiệm;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "SV xác định các kiến thức, kỹ năng, nghiệp vụ còn hạn chế để có kế hoạch học tập. bé sung cấp tốc trước khi ra Trường nhằm bảo đảm sau này sẽ làm việc thành công;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Gắn chặt hoạt động giáo dục với thực tiễn xã hội và thực tiễn nghề nghiệp nhằm bảo đảm răng nội hàm giáo dục luôn theo sát yêu cầu của người sử dụng lao động; bảo đảm SV đạt chuẩn đầu ra của ngành học (đã được công bố từ đầu); nhất là bảo đảm SV có việc làm ngay trong vòng 12 tháng sau khi tốt nghiệp và thành công trong công việc;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Xây dựng, phát triển quan hệ hợp tác nhiều mặt giữa Trường và đơn vị tiếp nhận.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "4",
+          "title": "Tiêu chuẩn chọn đơn vị tiếp nhận",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Đơn vị tiếp nhận ít nhất phải đáp ứng các yêu cầu sau: a) có công việc, hoạt động nghiệp vụ liên quan trực tiếp đến ngành học của SV và hoạt động này SV có thé tập sự được trong thời gian quy định; b) sẵn sàng bố trí người hướng dẫn SV TSNN;",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Ưu tiên đơn vị tiếp nhận có quy mô lớn (nhân viên tối thiểu từ 200 người trở lên), chuyên nghiệp; các đơn vị có cựu SV của Trường đang làm việc; các doanh nghiệp có truyền thống thân hữu với Trường; 3.Căn cứ yêu cầu này và đặc thù ngành học, Khoa xác định thêm các tiêu chuẩn khác hoặc/và quy định chi tiết các tiêu chí theo Khoản 1 điều này để lựa chọn đơn vị tiếp nhận mang lại lợi ích tốt nhất cho SV, bố trí cho SV làm việc đúng nghĩa là nhân viên.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "5",
+          "title": "Các hình thức tổ chức hoạt động TSNN",
+          "page_start": 1,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Tập sự tại các don vị trong nưóc: tối thiểu 02 tháng:",
+              "page_start": 1,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Tập sự ở các đơn vị nước ngoài, tập sự trong các chương trình, sự kiện đài ngày: theo kế hoạch cụ thé do Khoa trình, Hiệu trưởng phê duyệt.",
+              "page_start": 1,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "6",
+          "title": "Phương pháp đo lường kết quả TSNN",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Do lường kết quả hoạt động TSNN dựa trên 2 nội dung: Điểm hiệu quả công việc (kết quả, chất lượng TSNN) của SV do doanh nghiệp đánh giá; và Điểm do Khoa đánh giá. Hệ số và tiêu chí đánh giá của các cột điểm thành phần được quy định cụ thé trong Đề cương chỉ tiết môn học; trong đó điểm do doanh nghiệp đánh giá phải chiếm tối thiêu 30%.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Song song TSNN, SV còn phải được kiểm tra Kỹ năng thực hành chuyên môn",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Đối với khóa tuyến sinh trước 2015: — Điểm tổng kết Hoc phan TSNN là Điểm trung bình của Điểm đánh giá TSNN và Điểm kỹ năng thực hành chuyên mon; — Điểm tổng kết Học phần TSNN được xem là đạt khi Điểm kỹ năng thực hành chuyên môn và Điểm đánh giá TSNN đều phải > 5,0; — Trường hợp có | trong 2 (Điểm kỹ năng thực hành chuyên môn hoặc Điểm đánh giá TSNN) < 5,0 thì Điểm tổng kết Học phần TSNN sẽ được ghi nhận là điểm K (điểm chưa hoàn tất, chưa đạt); — SV phải thực hiện lại các Điểm chưa đạt.",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Đối với khóa tuyển sinh từ năm 2015 về sau: — _ Điểm tổng kết TSNN là Đạt khi Điểm mỗi thành phần ở Mục 1 đều phải > 5,0; — SV chưa hoàn tất TSNN phải đăng ký thực hiện lại TSNN; — Điểm kỹ năng thực hành chuyên môn được xét riêng như là điều kiện đủ để đàm bảo chuẩn đầu ra của người học. Không tính điểm kỹ năng thực hành chuyên môn vào kết quả TSNN.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "7",
+          "title": "Quy trình tô chức TSNN",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "SV đủ điều kiện TSNN đăng ký TSNN trên trang hệ thống thông tin sinh viên;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "Phòng đại học nhận và xử lý đơn đăng ký TSSN cho các trường hợp ngoại lệ;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "SV đóng học phí của Học phần TSNN;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "4",
+              "text": "Xác định danh sách các đơn vị tiếp nhận SV; trao đổi thống nhất các nội dung TSNN với đơn vị tiếp nhận để đảm bảo thực hiện được mục tiêu đã xác định ở Điều 3;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "5",
+              "text": "Phân bé SV về từng đơn vị tiếp nhận; phân công giảng viên giám sát; hướng dẫn và tập huấn bổ sung cho SV các kiến thức, kỹ năng trước khi bat đầu TSNN:; cũng như tập huấn kỹ lưỡng về nội quy, tính kỷ luật va thái độ của SV khi tham gia TSNN;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "6",
+              "text": "SV thực hiện TSSN tại đơn vi tiếp nhận và ghi nhận vào Nhật ký TSNN;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "7",
+              "text": "Giám sát quá trình TSNN của sinh viên; đánh giá kết quả TSNN của sinh viên;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "8",
+              "text": "Họp rút kinh nghiệm; cập nhật dữ liệu doanh nghiệp thân hữu; báo cáo tổng kết;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "9",
+              "text": "Gửi thư cám ơn của Trường đến đơn vị tiếp nhận.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "article": "11",
+          "title": "Sinh viên TSNN",
+          "page_start": 2,
+          "clauses": [
+            {
+              "type": "clause",
+              "clause": "1",
+              "text": "Chấp hành nghiêm túc Nội quy TSNN của đơn vị tiếp nhận và quy định này;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "2",
+              "text": "TSNN với tỉnh thần trách nhiệm, chú trọng học hỏi, để bảo đảm mục tiêu TSNN ở Điều 3; liên hệ thường xuyên với giảng viên giám sát dé báo cáo và được hỗ trợ trong quá trình TSNN;",
+              "page_start": 2,
+              "points": []
+            },
+            {
+              "type": "clause",
+              "clause": "3",
+              "text": "Chủ động đề xuất với Khoa đơn vị tiếp nhận mà SV có thể tự liên hệ nhưng phải bảo đảm đúng tiêu chí; và SV phải được làm việc như một nhân viên trong quá trình TSNN.",
+              "page_start": 2,
+              "points": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TRƯỜNG ĐẠI HỌC TON ĐỨC THANG CONG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM\nPHONG ĐẠI HỌC Độc lập — Tự do — Hạnh phúc\nTRÍCH QUY ĐỊNH VE HOAT ĐỘNG TẬP SỰ NGHE NGHIỆP\n(Trích tóm tắt theo Quy định về hoạt động tập sự nghề nghiệp\nsố 1098/OD-TPT ngày 25/6/2018)\nĐiều 2. Nguyên tắc áp dụng\n1. Tập sự nghề nghiệp (TSNN) là học phần bắt buộc của chương trình giáo dục bậc đại học,\nđược tổ chức cho sinh viên (SV) từ năm 3 trở di; tại các cơ quan nhà nước, đơn vi kinh doanh, tô chức\nchính trị - xã hội, các tổ chức phi chính phủ, ... có sử dụng lao động trình độ đại học với chuyên môn\nđúng ngành SV đã và đang học; và phù hợp với tiêu chuẩn về đơn vị TSNN của Trường (gọi tắt là đơn vị\ntiếp nhận);\n2. SV đến làm việc thực tế, trực tiếp tác nghiệp các công việc, hoạt động nghiệp vụ cụ thể trong\nlĩnh vực, ngành/chuyên ngành mà SV đã được học tại đơn vị tiếp nhận. Thời hạn TSNN tối thiểu phải 02\ntháng liên tục; tối đa là nguyên 1 học kỳ.\nĐiều 3. Mục tiêu TSNN\n1. SV phải ứng dụng kiến thức, kỹ năng, nghiệp vu, ... đã học để làm việc một cách đầy đủ như\nmột nhân viên chính thức tại Đơn vị tiếp nhận;\n2. SV đối chiếu nội dung đã học và thực tế làm việc ngoài đời để rút kinh nghiệm;\n3. SV xác định các kiến thức, kỹ năng, nghiệp vụ còn hạn chế để có kế hoạch học tập. bé sung\ncấp tốc trước khi ra Trường nhằm bảo đảm sau này sẽ làm việc thành công;\n4. Gắn chặt hoạt động giáo dục với thực tiễn xã hội và thực tiễn nghề nghiệp nhằm bảo đảm răng\nnội hàm giáo dục luôn theo sát yêu cầu của người sử dụng lao động; bảo đảm SV đạt chuẩn đầu ra của\nngành học (đã được công bố từ đầu); nhất là bảo đảm SV có việc làm ngay trong vòng 12 tháng sau khi\ntốt nghiệp và thành công trong công việc;\n5. Xây dựng, phát triển quan hệ hợp tác nhiều mặt giữa Trường và đơn vị tiếp nhận.\nĐiều 4. Tiêu chuẩn chọn đơn vị tiếp nhận\n1. Đơn vị tiếp nhận ít nhất phải đáp ứng các yêu cầu sau: a) có công việc, hoạt động nghiệp vụ\nliên quan trực tiếp đến ngành học của SV và hoạt động này SV có thé tập sự được trong thời gian quy\nđịnh; b) sẵn sàng bố trí người hướng dẫn SV TSNN;\n2. Ưu tiên đơn vị tiếp nhận có quy mô lớn (nhân viên tối thiểu từ 200 người trở lên), chuyên\nnghiệp; các đơn vị có cựu SV của Trường đang làm việc; các doanh nghiệp có truyền thống thân hữu với\nTrường;\n3.Căn cứ yêu cầu này và đặc thù ngành học, Khoa xác định thêm các tiêu chuẩn khác hoặc/và\nquy định chi tiết các tiêu chí theo Khoản 1 điều này để lựa chọn đơn vị tiếp nhận mang lại lợi ích tốt nhất\ncho SV, bố trí cho SV làm việc đúng nghĩa là nhân viên.\nĐiều 5. Các hình thức tổ chức hoạt động TSNN\n1. Tập sự tại các don vị trong nưóc: tối thiểu 02 tháng:\n2. Tập sự ở các đơn vị nước ngoài, tập sự trong các chương trình, sự kiện đài ngày: theo kế\nhoạch cụ thé do Khoa trình, Hiệu trưởng phê duyệt.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    },
+    {
+      "page_number": 2,
+      "text": "Điều 6. Phương pháp đo lường kết quả TSNN\n1. Do lường kết quả hoạt động TSNN dựa trên 2 nội dung: Điểm hiệu quả công việc (kết quả,\nchất lượng TSNN) của SV do doanh nghiệp đánh giá; và Điểm do Khoa đánh giá. Hệ số và tiêu chí đánh\ngiá của các cột điểm thành phần được quy định cụ thé trong Đề cương chỉ tiết môn học; trong đó điểm do\ndoanh nghiệp đánh giá phải chiếm tối thiêu 30%.\n2. Song song TSNN, SV còn phải được kiểm tra Kỹ năng thực hành chuyên môn\n3. Đối với khóa tuyến sinh trước 2015:\n— Điểm tổng kết Hoc phan TSNN là Điểm trung bình của Điểm đánh giá TSNN và Điểm kỹ năng\nthực hành chuyên mon;\n— Điểm tổng kết Học phần TSNN được xem là đạt khi Điểm kỹ năng thực hành chuyên môn và\nĐiểm đánh giá TSNN đều phải > 5,0;\n— Trường hợp có | trong 2 (Điểm kỹ năng thực hành chuyên môn hoặc Điểm đánh giá TSNN) < 5,0\nthì Điểm tổng kết Học phần TSNN sẽ được ghi nhận là điểm K (điểm chưa hoàn tất, chưa đạt);\n— SV phải thực hiện lại các Điểm chưa đạt.\n4. Đối với khóa tuyển sinh từ năm 2015 về sau:\n— _ Điểm tổng kết TSNN là Đạt khi Điểm mỗi thành phần ở Mục 1 đều phải > 5,0;\n— SV chưa hoàn tất TSNN phải đăng ký thực hiện lại TSNN;\n— Điểm kỹ năng thực hành chuyên môn được xét riêng như là điều kiện đủ để đàm bảo chuẩn đầu ra\ncủa người học. Không tính điểm kỹ năng thực hành chuyên môn vào kết quả TSNN.\nĐiều 7. Quy trình tô chức TSNN\n1. SV đủ điều kiện TSNN đăng ký TSNN trên trang hệ thống thông tin sinh viên;\n2. Phòng đại học nhận và xử lý đơn đăng ký TSSN cho các trường hợp ngoại lệ;\n3. SV đóng học phí của Học phần TSNN;\n4. Xác định danh sách các đơn vị tiếp nhận SV; trao đổi thống nhất các nội dung TSNN với đơn\nvị tiếp nhận để đảm bảo thực hiện được mục tiêu đã xác định ở Điều 3;\n5. Phân bé SV về từng đơn vị tiếp nhận; phân công giảng viên giám sát; hướng dẫn và tập huấn\nbổ sung cho SV các kiến thức, kỹ năng trước khi bat đầu TSNN:; cũng như tập huấn kỹ lưỡng về nội quy,\ntính kỷ luật va thái độ của SV khi tham gia TSNN;\n6. SV thực hiện TSSN tại đơn vi tiếp nhận và ghi nhận vào Nhật ký TSNN;\n7. Giám sát quá trình TSNN của sinh viên; đánh giá kết quả TSNN của sinh viên;\n8. Họp rút kinh nghiệm; cập nhật dữ liệu doanh nghiệp thân hữu; báo cáo tổng kết;\n9. Gửi thư cám ơn của Trường đến đơn vị tiếp nhận.\nĐiều 11. Sinh viên TSNN\n1. Chấp hành nghiêm túc Nội quy TSNN của đơn vị tiếp nhận và quy định này;\n2. TSNN với tỉnh thần trách nhiệm, chú trọng học hỏi, để bảo đảm mục tiêu TSNN ở Điều 3;\nliên hệ thường xuyên với giảng viên giám sát dé báo cáo và được hỗ trợ trong quá trình TSNN;\n3. Chủ động đề xuất với Khoa đơn vị tiếp nhận mà SV có thể tự liên hệ nhưng phải bảo đảm đúng\ntiêu chí; và SV phải được làm việc như một nhân viên trong quá trình TSNN.",
+      "extraction_method": "ocr_vie",
+      "quality_flags": []
+    }
+  ]
+}

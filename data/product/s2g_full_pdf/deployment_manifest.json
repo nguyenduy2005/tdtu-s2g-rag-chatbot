@@ -1,0 +1,388 @@
+{
+  "canonical_chunks_sha256": "fd2358332668de3dca8c099ff6a3dd0cf1d23b47c378f7c92835df4a08c34c02",
+  "canonical_corpus": "data/corpus/canonical_corpus_v1_1/chunks.jsonl",
+  "canonical_corpus_modified": false,
+  "coverage_statement": "All non-empty Canonical Corpus V1.1 source_text chunks are searchable; unreadable/blank pages are explicitly listed and never inferred.",
+  "documents": [
+    {
+      "chunk_count": 43,
+      "document_id": "BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC",
+      "page_count": 6,
+      "role_counts": {
+        "content": 34,
+        "context_only": 4,
+        "review": 5
+      },
+      "source_file": "BỘ QUY TẮC ỨNG XỬ CỦA NGƯỜI HỌC.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 27,
+      "document_id": "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên",
+      "page_count": 3,
+      "role_counts": {
+        "content": 10,
+        "context_only": 8,
+        "review": 9
+      },
+      "source_file": "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 482,
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC",
+      "page_count": 39,
+      "role_counts": {
+        "content": 91,
+        "context_only": 20,
+        "review": 371
+      },
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 328,
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU",
+      "page_count": 29,
+      "role_counts": {
+        "content": 68,
+        "context_only": 12,
+        "review": 248
+      },
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 320,
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU",
+      "page_count": 39,
+      "role_counts": {
+        "content": 17,
+        "context_only": 8,
+        "review": 295
+      },
+      "source_file": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 27,
+      "document_id": "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng",
+      "page_count": 5,
+      "role_counts": {
+        "content": 14,
+        "context_only": 9,
+        "review": 4
+      },
+      "source_file": "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 5,
+      "document_id": "NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC",
+      "page_count": 1,
+      "role_counts": {
+        "content": 4,
+        "context_only": 1
+      },
+      "source_file": "NHIỆM VỤ THỰC HIỆN 3 NỘI DUNG ĐẠO ĐỨC.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 48,
+      "document_id": "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC",
+      "page_count": 6,
+      "role_counts": {
+        "content": 35,
+        "context_only": 5,
+        "review": 8
+      },
+      "source_file": "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 50,
+      "document_id": "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước",
+      "page_count": 5,
+      "role_counts": {
+        "content": 27,
+        "context_only": 11,
+        "review": 12
+      },
+      "source_file": "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 58,
+      "document_id": "Nội quy phòng thi hình thức thi trực tuyến (chính thức)",
+      "page_count": 5,
+      "role_counts": {
+        "content": 37,
+        "context_only": 10,
+        "review": 11
+      },
+      "source_file": "Nội quy phòng thi hình thức thi trực tuyến (chính thức).pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 40,
+      "document_id": "PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ",
+      "page_count": 5,
+      "role_counts": {
+        "content": 21,
+        "context_only": 4,
+        "review": 15
+      },
+      "source_file": "PHỤ LỤC MỘT SỐ NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 85,
+      "document_id": "PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN",
+      "page_count": 9,
+      "role_counts": {
+        "content": 41,
+        "context_only": 3,
+        "review": 41
+      },
+      "source_file": "PHỤ LỤC NHỮNG ĐIỀU SINH VIÊN KHÔNG ĐƯỢC LÀM; NỘI DUNG VI PHẠM VÀ HÌNH THỨC XỬ LÝ SINH VIÊN.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 300,
+      "document_id": "QUY CHẾ CÔNG TÁC SINH VIÊN",
+      "page_count": 20,
+      "role_counts": {
+        "content": 213,
+        "context_only": 50,
+        "review": 37
+      },
+      "source_file": "QUY CHẾ CÔNG TÁC SINH VIÊN.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 156,
+      "document_id": "QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ",
+      "page_count": 8,
+      "role_counts": {
+        "content": 100,
+        "context_only": 37,
+        "review": 19
+      },
+      "source_file": "QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 99,
+      "document_id": "QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY",
+      "page_count": 10,
+      "role_counts": {
+        "content": 54,
+        "context_only": 29,
+        "review": 16
+      },
+      "source_file": "QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 282,
+      "document_id": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau",
+      "page_count": 25,
+      "role_counts": {
+        "content": 176,
+        "context_only": 61,
+        "review": 45
+      },
+      "source_file": "Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 81,
+      "document_id": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học",
+      "page_count": 9,
+      "role_counts": {
+        "content": 41,
+        "context_only": 13,
+        "review": 27
+      },
+      "source_file": "Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 21,
+      "document_id": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023",
+      "page_count": 4,
+      "role_counts": {
+        "content": 5,
+        "context_only": 6,
+        "review": 10
+      },
+      "source_file": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023.pdf",
+      "unavailable_pages": [
+        {
+          "document_id": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023",
+          "page": 4,
+          "quality_flags": [
+            "ocr_returned_empty_text"
+          ],
+          "reason": "empty_source_page",
+          "source_file": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023.pdf"
+        }
+      ]
+    },
+    {
+      "chunk_count": 43,
+      "document_id": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên",
+      "page_count": 2,
+      "role_counts": {
+        "content": 6,
+        "context_only": 9,
+        "review": 28
+      },
+      "source_file": "Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 106,
+      "document_id": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục",
+      "page_count": 14,
+      "role_counts": {
+        "content": 39,
+        "context_only": 24,
+        "review": 43
+      },
+      "source_file": "Quy định về ứng dụng công nghệ trong tổ chức và quản lý các hoạt động giáo dục.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 61,
+      "document_id": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",
+      "page_count": 7,
+      "role_counts": {
+        "content": 19,
+        "context_only": 27,
+        "review": 15
+      },
+      "source_file": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 10,
+      "document_id": "Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau",
+      "page_count": 1,
+      "role_counts": {
+        "content": 2,
+        "context_only": 1,
+        "review": 7
+      },
+      "source_file": "Quyết định số 1276_Sửa đổi, bổ sung quyết định số 1830 về điều kiện xét công nhân tốt nghiệp áp dụng khoá TS 2021 trở về sau.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 763,
+      "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+      "page_count": 76,
+      "role_counts": {
+        "content": 3,
+        "context_only": 1,
+        "review": 759
+      },
+      "source_file": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026.pdf",
+      "unavailable_pages": [
+        {
+          "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+          "page": 76,
+          "quality_flags": [
+            "ocr_returned_empty_text"
+          ],
+          "reason": "empty_source_page",
+          "source_file": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026.pdf"
+        }
+      ]
+    },
+    {
+      "chunk_count": 3,
+      "document_id": "THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%…",
+      "page_count": 1,
+      "role_counts": {
+        "context_only": 1,
+        "review": 2
+      },
+      "source_file": "THÔNG BÁO Về việc xét hạ bậc xếp loại tốt nghiệp Giỏi, Xuất sắc của sinh viên khóa tuyển sinh năm 2021 trở về sau do tổng số tín chỉ phải học lại vượt quá 5%….pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 31,
+      "document_id": "Thông tin các Phòng-Ban-Trung tâm",
+      "page_count": 6,
+      "role_counts": {
+        "content": 23,
+        "context_only": 5,
+        "review": 3
+      },
+      "source_file": "Thông tin các Phòng-Ban-Trung tâm.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 7,
+      "document_id": "ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU",
+      "page_count": 2,
+      "role_counts": {
+        "content": 5,
+        "context_only": 2
+      },
+      "source_file": "ĐẶC ĐIỂM NHẬN DIỆN SINH VIÊN TDTU.pdf",
+      "unavailable_pages": []
+    },
+    {
+      "chunk_count": 6,
+      "document_id": "ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN",
+      "page_count": 2,
+      "role_counts": {
+        "content": 6
+      },
+      "source_file": "ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN.pdf",
+      "unavailable_pages": []
+    }
+  ],
+  "extraction_counts": {
+    "embedded": 1942,
+    "ocr": 1540
+  },
+  "generated_at_utc": "2026-09-11T19:27:08.696524Z",
+  "indexed_chunk_count": 3482,
+  "indexed_document_count": 27,
+  "indexed_roles": [
+    "content",
+    "review",
+    "context_only"
+  ],
+  "product_id": "tdtu-regulatory-s2g-chatbot-v1",
+  "role_counts": {
+    "content": 1091,
+    "context_only": 361,
+    "review": 2030
+  },
+  "schema_version": "s2g-full-pdf-deployment-manifest-v1",
+  "source_page_count": 339,
+  "source_pdf_count": 27,
+  "unavailable_pages": [
+    {
+      "document_id": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023",
+      "page": 4,
+      "quality_flags": [
+        "ocr_returned_empty_text"
+      ],
+      "reason": "empty_source_page",
+      "source_file": "Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023.pdf"
+    },
+    {
+      "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+      "page": 76,
+      "quality_flags": [
+        "ocr_returned_empty_text"
+      ],
+      "reason": "empty_source_page",
+      "source_file": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026.pdf"
+    }
+  ]
+}

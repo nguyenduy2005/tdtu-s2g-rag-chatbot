@@ -1,0 +1,14 @@
+{
+  "schema_version": "s2g-output-policy-v1",
+  "status": "ACTIVE",
+  "policy_version": "1.0.0",
+  "legacy_controller_ceiling": 4096,
+  "new_controller_ceiling": 8192,
+  "documented_model_max_output_tokens": 128000,
+  "selection_basis": "fixed_global_power_of_two_step_above_observed_ceiling",
+  "maximum_completion_reattempts": 1,
+  "applies_to_stages": [
+    "s2g_judge",
+    "s2g_sentence_selector"
+  ]
+}

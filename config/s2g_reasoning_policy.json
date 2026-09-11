@@ -1,0 +1,18 @@
+{
+  "schema_version": "s2g-reasoning-policy-v1",
+  "status": "ACTIVE",
+  "policy_version": "1.0.0",
+  "experiment_id": "s2g_full_pdf_product_v1",
+  "created_without_ground_truth": true,
+  "created_without_benchmark_execution": true,
+  "requested_model": "gpt-5-nano",
+  "required_snapshot": "gpt-5-nano-2025-08-07",
+  "reasoning_effort": "low",
+  "max_output_tokens": 8192,
+  "maximum_completion_reattempts": 1,
+  "maximum_local_semantic_reattempts": 1,
+  "applies_to_stages": [
+    "s2g_judge",
+    "s2g_sentence_selector"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "s2g-full-pdf-product-v1",
+  "product_id": "tdtu-regulatory-s2g-chatbot-v1",
+  "canonical_corpus": "data/corpus/canonical_corpus_v1_1/chunks.jsonl",
+  "canonical_manifest": "data/corpus/canonical_corpus_v1_1/manifest.json",
+  "canonical_coverage": "data/corpus/canonical_corpus_v1_1/coverage.json",
+  "raw_pdf_root": "data/raw",
+  "indexed_roles": ["content", "review", "context_only"],
+  "retrieval_text_field": "source_text",
+  "retrieval": {
+    "bm25_depth": 100,
+    "dense_depth": 100,
+    "rrf_k": 60,
+    "candidate_depth": 100,
+    "reranker_input_depth": 50,
+    "presented_depth": 6,
+    "dense_model": "intfloat/multilingual-e5-small",
+    "dense_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "reranker_model": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+    "reranker_revision": "1427fd652930e4ba29e8149678df786c240d8825",
+    "cache_path": "outputs/s2g_product/cache/full_corpus_embeddings.npz"
+  },
+  "research_controller_config": "config/s2g_research.json",
+  "answer": {
+    "model": "gpt-5-nano",
+    "required_snapshot": "gpt-5-nano-2025-08-07",
+    "reasoning_effort": "low",
+    "max_output_tokens": 4096,
+    "maximum_transport_retries": 2
+  },
+  "deployment_outputs": "outputs/s2g_product",
+  "derived_manifest": "data/product/s2g_full_pdf/deployment_manifest.json",
+  "coverage_policy": {
+    "index_every_nonempty_canonical_chunk": true,
+    "preserve_source_text": true,
+    "do_not_infer_unreadable_pages": true,
+    "low_trust_roles_remain_searchable": true,
+    "low_trust_citations_must_be_flagged": true
+  }
+}

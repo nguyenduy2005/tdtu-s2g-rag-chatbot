@@ -1,0 +1,928 @@
+{
+  "case_count": 11,
+  "fail_count": 0,
+  "pass_count": 11,
+  "processed_structure_non_regression": {
+    "cases": [
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:fb4a92da75d1:p3:o950:576e454c32c1a06d"
+        ],
+        "previous_human": {
+          "boundary_correct": true,
+          "context_adequate": true,
+          "semantic_unit_complete": true
+        },
+        "sample_rank": 5,
+        "v1_chunk_id": "ccv0:fb4a92da75d1:p3:o950:576e454c32c1a06d"
+      },
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:457e13e9798d:p11:o2399:9b495bca083f8637"
+        ],
+        "previous_human": {
+          "boundary_correct": true,
+          "context_adequate": true,
+          "semantic_unit_complete": false
+        },
+        "sample_rank": 7,
+        "v1_chunk_id": "ccv0:457e13e9798d:p11:o2399:9b495bca083f8637"
+      },
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:f0d5cdc987b9:p3-4:o1811:71d465555c7499da",
+          "ccv0:f0d5cdc987b9:p4:o125:ec88fd78b4abed23",
+          "ccv0:f0d5cdc987b9:p4:o135:0fdfd3857eb27452",
+          "ccv0:f0d5cdc987b9:p4:o178:fbe3b223dc5e7c94",
+          "ccv0:f0d5cdc987b9:p5-6:o149:c9c33ba60c832e71",
+          "ccv0:f0d5cdc987b9:p5:o0:038cc170ed6b9a4d",
+          "ccv0:f0d5cdc987b9:p5:o33:c1c82f4d55f8879c",
+          "ccv0:f0d5cdc987b9:p5:o62:ded0b443a1210952",
+          "ccv0:f0d5cdc987b9:p5:o69:b51e7734dc036b2f",
+          "ccv0:f0d5cdc987b9:p5:o77:76f6a2d1217aad61",
+          "ccv0:f0d5cdc987b9:p5:o87:01b21227fb0ecbc4",
+          "ccv0:f0d5cdc987b9:p5:o109:1be20995b20a22b0"
+        ],
+        "previous_human": {
+          "boundary_correct": false,
+          "context_adequate": false,
+          "semantic_unit_complete": false
+        },
+        "sample_rank": 9,
+        "v1_chunk_id": "ccv0:f0d5cdc987b9:p3-5:o1811:7ec67e18439f417f"
+      },
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:01c9529d424a:p14:o555:60ee3875c832ab75"
+        ],
+        "previous_human": {
+          "boundary_correct": true,
+          "context_adequate": true,
+          "semantic_unit_complete": true
+        },
+        "sample_rank": 11,
+        "v1_chunk_id": "ccv0:01c9529d424a:p14:o555:60ee3875c832ab75"
+      },
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:6f99fd3a61d3:p7:o1608:a350d14b6298bb59"
+        ],
+        "previous_human": {
+          "boundary_correct": true,
+          "context_adequate": true,
+          "semantic_unit_complete": true
+        },
+        "sample_rank": 13,
+        "v1_chunk_id": "ccv0:6f99fd3a61d3:p7:o1608:a350d14b6298bb59"
+      },
+      {
+        "checks": {
+          "boundary": "PASS",
+          "context": "PASS",
+          "semantic_completeness": "PASS"
+        },
+        "matching_v1_1_chunk_ids": [
+          "ccv0:c502c54c946e:p3:o331:347d2142c64b30a3"
+        ],
+        "previous_human": {
+          "boundary_correct": true,
+          "context_adequate": true,
+          "semantic_unit_complete": true
+        },
+        "sample_rank": 18,
+        "v1_chunk_id": "ccv0:c502c54c946e:p3:o331:347d2142c64b30a3"
+      }
+    ],
+    "previously_correct_checks": {
+      "boundary": {
+        "pass": 5,
+        "total": 5
+      },
+      "context": {
+        "pass": 5,
+        "total": 5
+      },
+      "semantic_completeness": {
+        "pass": 4,
+        "total": 4
+      }
+    },
+    "status": "PASS"
+  },
+  "results": [
+    {
+      "document_id": "Thông tin các Phòng-Ban-Trung tâm",
+      "expected_behavior": "Complete department entry is content; table-like provenance alone does not suppress it.",
+      "final_retrieval_roles": [
+        "content"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:7d7c8e0cb9bd:p3-4:o1527:9df42acfe9db3983",
+          "final_retrieval_role": "content",
+          "pages": "3-4",
+          "quality_flags": [
+            "heuristic_structure",
+            "residual_fallback_block",
+            "source_context_absorbed",
+            "substantive_evidence_promoted_v1_1",
+            "table_like_text"
+          ],
+          "source_spans": [
+            {
+              "char_end": 1712,
+              "char_start": 1527,
+              "page": 3,
+              "source_pointer": "/pages/2/text"
+            },
+            {
+              "char_end": 234,
+              "char_start": 0,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "8.\nPhòng Tài chính\n- Thực hiện công tác hành thu, hành chi và bảo đảm đúng chế độ thu - chi theo dự\ntoán đã được Hiệu trưởng phê chuẩn; thông tin về thời hạn đóng học phí cho sinh\nviên.\n- Giám sát việc hành thu và hành chi ở tất cả các đơn vị trực thuộc, bảo đảm không\ncó sự lãng phí trong sử dụng tài chính của trường.\nThông tin liên hệ\n- Địa chỉ: Phòng A0007\n- Điện thoại: (028) 37755070\n- Email: phongkhtc@tdtu.edu.vn",
+          "structure_source": "heuristic_structure",
+          "unit_type": "table_header"
+        }
+      ],
+      "observed_behavior": "Department 8 is content.",
+      "sample_rank": 2,
+      "source_spans": [
+        {
+          "char_end": 1712,
+          "char_start": 1527,
+          "page": 3,
+          "source_pointer": "/pages/2/text"
+        },
+        {
+          "char_end": 234,
+          "char_start": 0,
+          "page": 4,
+          "source_pointer": "/pages/3/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:7d7c8e0cb9bd:p3-4:o1527:9df42acfe9db3983"
+    },
+    {
+      "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+      "expected_behavior": "Severely ambiguous OCR fee-table fragment remains review.",
+      "final_retrieval_roles": [
+        "review"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:1897f88d0052:p54:o168:04e8964c89ab7df7",
+          "final_retrieval_role": "review",
+          "pages": "54",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "ocr_table_alignment_ambiguous",
+            "residual_fallback_block",
+            "review_candidate",
+            "table_like_text",
+            "table_relation_insufficient_v1_1"
+          ],
+          "source_spans": [
+            {
+              "char_end": 245,
+              "char_start": 168,
+              "page": 54,
+              "source_pointer": "/pages/53/text"
+            }
+          ],
+          "source_text_excerpt": "25.596.500\nKhóa: pep hoe 2022 - 438.\n- Học phí học kỳ 23.219.000\nỳ 23.219.000",
+          "structure_source": "fallback",
+          "unit_type": "table_header"
+        }
+      ],
+      "observed_behavior": "Ambiguous OCR table evidence remains review.",
+      "sample_rank": 3,
+      "source_spans": [
+        {
+          "char_end": 245,
+          "char_start": 168,
+          "page": 54,
+          "source_pointer": "/pages/53/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:1897f88d0052:p54:o168:04e8964c89ab7df7"
+    },
+    {
+      "document_id": "THÔNG BÁO MỨC THU HỌC PHÍ TRÌNH ĐỘ ĐẠI HỌC, THẠC SĨ, TIẾN SĨ NĂM HỌC 2025-2026",
+      "expected_behavior": "Severely corrupted OCR table remains review.",
+      "final_retrieval_roles": [
+        "review"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:1897f88d0052:p21:o3:22817b89fe251e04",
+          "final_retrieval_role": "review",
+          "pages": "21",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "ocr_table_alignment_ambiguous",
+            "residual_fallback_block",
+            "review_candidate",
+            "table_like_text",
+            "table_relation_insufficient_v1_1"
+          ],
+          "source_spans": [
+            {
+              "char_end": 855,
+              "char_start": 3,
+              "page": 21,
+              "source_pointer": "/pages/20/text"
+            }
+          ],
+          "source_text_excerpt": "Đơn giá eae ,\n? h - thực Mức thu S\nSTT Ngành pale hada ime băng tron sói 1. CHỈ\nŠ (déng/tin | Q Và sàn chú\nchỉ) (đông/tín | (đông/môn)\nchỉ)\noie trong ‘inh ‘toanh 590.000 | 1.080.000\n- Hanh vi tổ chức (707018 890.000 | 1.080.000\n| |-Thuế(B02033 850.000 | 1.070:000\n- Quản trị tài chính (B02037 890.000 | 1.080.000; =| |\n- Thông kê trong kinh doanh va| ...\nkinh tế (C01136) 650.000\n| |-Luậtcông 01084 890.000 | 1.080.000 | |\n- Các môn ngành còn lại 890.000 | 1.080.000 ”—\nc_ | Môn chuyên ngành 890.000 ",
+          "structure_source": "fallback",
+          "unit_type": "table_header"
+        }
+      ],
+      "observed_behavior": "Ambiguous OCR table evidence remains review.",
+      "sample_rank": 6,
+      "source_spans": [
+        {
+          "char_end": 855,
+          "char_start": 3,
+          "page": 21,
+          "source_pointer": "/pages/20/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:1897f88d0052:p21:o3:22817b89fe251e04"
+    },
+    {
+      "document_id": "Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước",
+      "expected_behavior": "2.2 stops before the explicit 2.3 marker/footer; both separated spans remain accounted.",
+      "final_retrieval_roles": [
+        "content"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:ab8668fa5c97:p4:o2637:3e70d75cd5b2fc5a",
+          "final_retrieval_role": "content",
+          "pages": "4",
+          "quality_flags": [
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 2708,
+              "char_start": 2637,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "2.2. Mức 2: Trừ 50% số điểm thi nếu vi phạm 01 (một) trong các lỗi sau:",
+          "structure_source": "heuristic_structure",
+          "unit_type": "numbered_block"
+        },
+        {
+          "chunk_id": "ccv0:ab8668fa5c97:p5:o0:14683ac5a11f1d57",
+          "final_retrieval_role": "content",
+          "pages": "5",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 28,
+              "char_start": 0,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "2.3.\nVăn bản lưu hành nội bộ",
+          "structure_source": "fallback",
+          "unit_type": "fallback_block"
+        }
+      ],
+      "observed_behavior": "2.2 and the explicit 2.3/footer locus are separate, fully accounted chunks.",
+      "sample_rank": 8,
+      "source_spans": [
+        {
+          "char_end": 2708,
+          "char_start": 2637,
+          "page": 4,
+          "source_pointer": "/pages/3/text"
+        },
+        {
+          "char_end": 28,
+          "char_start": 0,
+          "page": 5,
+          "source_pointer": "/pages/4/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:ab8668fa5c97:p4-5:o2637:7623af709eb86822"
+    },
+    {
+      "document_id": "Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",
+      "expected_behavior": "Processed clause 2 stops before the explicit PHỤ LỤC 1 heading; appendix spans remain accounted separately.",
+      "final_retrieval_roles": [
+        "content",
+        "context_only",
+        "review"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p3-4:o1811:71d465555c7499da",
+          "final_retrieval_role": "review",
+          "pages": "3-4",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "processed_appendix_hard_stop_v1_1",
+            "review_candidate",
+            "source_context_absorbed"
+          ],
+          "source_spans": [
+            {
+              "char_end": 2109,
+              "char_start": 1811,
+              "page": 3,
+              "source_pointer": "/pages/2/text"
+            },
+            {
+              "char_end": 125,
+              "char_start": 0,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "2. Phòng Đại học, Phòng Khảo thí và Kiểm định Chất lượng, Phòng Thanh tra - Pháp\nchế và An ninh, các Khoa và Trung tâm Ngôn ngữ Sáng tạo có trách nhiệm phối hợp tổ\nchức quản lý sinh viên, giám sát và đảm bảo chương trình tiếng Anh được triển khai theo\nđúng quy định./. ~4—~ yu (*\nI>ii\nx\n~\nbị\ncy\nhai\nTONG LIEN DOAN LAO ĐỘNG VIỆT NAM CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG ĐẠI HỌC TON ĐỨC THANG Độc lập — Tự do — Hạnh phúc\n",
+          "structure_source": "processed_structure",
+          "unit_type": "clause"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p4:o125:ec88fd78b4abed23",
+          "final_retrieval_role": "context_only",
+          "pages": "4",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 134,
+              "char_start": 125,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "PHỤ LỤC 1",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p4:o135:0fdfd3857eb27452",
+          "final_retrieval_role": "context_only",
+          "pages": "4",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 177,
+              "char_start": 135,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "RÌNH HỌC TIENG ANH THEO KE HOẠCH GIẢNG DẠY",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p4:o178:fbe3b223dc5e7c94",
+          "final_retrieval_role": "content",
+          "pages": "4",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 831,
+              "char_start": 178,
+              "page": 4,
+              "source_pointer": "/pages/3/text"
+            }
+          ],
+          "source_text_excerpt": "kem theo quyết định số 8.%.24/0D-TPT ngày 30 tháng 4lnăm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nT1 Số\nMã môn À Số tín tiết k\nh Tén hoc phan - hoc Lộ trình học tiêng Anh\noc chi a\ntrén\nLớp\n0013B4 | Intensive Key gog | Hoe Oo bị tong Hũi tình Ì\nHK\n|\n|\n0013B6 Intensive Preliminary English | - 75\n0013B7 Intensive Preliminary English 2 - 75 on Gi by feng He gia Ì\n0013B8 Intensive Preliminary English 3 - 75\n001324 Influencer English 8 120 HKI\n001325 Researcher English § 120 HK2\n001326 Maste",
+          "structure_source": "fallback",
+          "unit_type": "fallback_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5-6:o149:c9c33ba60c832e71",
+          "final_retrieval_role": "content",
+          "pages": "5-6",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "residual_fallback_block",
+            "source_context_absorbed"
+          ],
+          "source_spans": [
+            {
+              "char_end": 1226,
+              "char_start": 149,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            },
+            {
+              "char_end": 1464,
+              "char_start": 1226,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            },
+            {
+              "char_end": 124,
+              "char_start": 0,
+              "page": 6,
+              "source_pointer": "/pages/5/text"
+            }
+          ],
+          "source_text_excerpt": "kèm theo quyết định s64.t2 f./QĐ-TĐT ngày 89 tháng4/năm 2023\ncủa Hiệu trưởng Trường Đại học Tôn Đức Thắng)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập — Tw do — Hạnh phúc\n$ Aptis ESOL TORIC 4 kỹ năng _|\nTO —\nHọc phần ead Điểm Điểm Điểm Cambridge Ễ E 5 3 &\nstr | xétmiễn theo IELTS TOEFL Exams a 5, 5 3 3 =\nchuong trinh iBT , E hị $ 4 > Z.\nsg ¬ © = Sh\nR Zz\n>84 |\n—s >50 | >60 | BI Pre/B2First/ | > 140 a _—\nieee (tat cả kỹ | (tất cả kỹ | BEC Van> 140 | (tát cả kỹ | ,“ sử » | 5\n| | Preliminary i h kỹ n",
+          "structure_source": "fallback",
+          "unit_type": "fallback_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o0:038cc170ed6b9a4d",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 32,
+              "char_start": 0,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "TONG LIÊN DOAN LAO ĐỘNG VIỆT NAM",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o33:c1c82f4d55f8879c",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 61,
+              "char_start": 33,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o62:ded0b443a1210952",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 68,
+              "char_start": 62,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "TRƯỜNG",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o69:b51e7734dc036b2f",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 76,
+              "char_start": 69,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "ĐẠI HỌC",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o77:76f6a2d1217aad61",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 86,
+              "char_start": 77,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "PHỤ LỤC 2",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o87:01b21227fb0ecbc4",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 108,
+              "char_start": 87,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "BANG XÉT MIỄN MON HỌC",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        },
+        {
+          "chunk_id": "ccv0:f0d5cdc987b9:p5:o109:1be20995b20a22b0",
+          "final_retrieval_role": "context_only",
+          "pages": "5",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 148,
+              "char_start": 109,
+              "page": 5,
+              "source_pointer": "/pages/4/text"
+            }
+          ],
+          "source_text_excerpt": "EO CÁC LOẠI CHUNG CHỈ TIENG ANH QUOC TE",
+          "structure_source": "heuristic_structure",
+          "unit_type": "heading_block"
+        }
+      ],
+      "observed_behavior": "Clause 2 terminates before separately accounted appendix headings.",
+      "sample_rank": 9,
+      "source_spans": [
+        {
+          "char_end": 2109,
+          "char_start": 1811,
+          "page": 3,
+          "source_pointer": "/pages/2/text"
+        },
+        {
+          "char_end": 831,
+          "char_start": 0,
+          "page": 4,
+          "source_pointer": "/pages/3/text"
+        },
+        {
+          "char_end": 487,
+          "char_start": 0,
+          "page": 5,
+          "source_pointer": "/pages/4/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:f0d5cdc987b9:p3-5:o1811:7ec67e18439f417f"
+    },
+    {
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC",
+      "expected_behavior": "IELTS 5.0 is not independently eligible; a content chunk exists only if its contiguous source-order row relation is complete.",
+      "final_retrieval_roles": [
+        "content"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:72996278ee10:p2:o1877:abca65489baad672",
+          "final_retrieval_role": "content",
+          "pages": "2",
+          "quality_flags": [
+            "heuristic_structure",
+            "interpretable_table_row_grouped_v1_1",
+            "residual_fallback_block",
+            "table_like_text"
+          ],
+          "source_spans": [
+            {
+              "char_end": 2200,
+              "char_start": 1877,
+              "page": 2,
+              "source_pointer": "/pages/1/text"
+            }
+          ],
+          "source_text_excerpt": "1\nChứng chỉ tiếng\nAnh quốc tế\ntương đương\nIELTS 5.0\nĐạt điểm đầu vào của\nngành đăng ký xét tuyển và\ntổng điểm xét tuyển (không\ntính điểm ưu tiên tuyển\nsinh) ≥ 24 điểm\nĐạt điểm đầu vào của\nngành đăng ký xét\ntuyển và tổng điểm xét\ntuyển (không tính điểm\nưu tiên tuyển sinh) ≥ 24\nđiểm\n10% học phí học\nkỳ 1, năm học\n2024 - 2025",
+          "structure_source": "heuristic_structure",
+          "unit_type": "table_row"
+        }
+      ],
+      "observed_behavior": "IELTS 5.0 is grouped with its contiguous criterion/condition/value row.",
+      "sample_rank": 10,
+      "source_spans": [
+        {
+          "char_end": 1928,
+          "char_start": 1919,
+          "page": 2,
+          "source_pointer": "/pages/1/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:72996278ee10:p2:o1919:d17f9837370b3841"
+    },
+    {
+      "document_id": "HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2026 - 2027 TRỞ VỀ SAU",
+      "expected_behavior": "Ambiguous OCR table fragment remains review.",
+      "final_retrieval_roles": [
+        "review"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:495026b3bab3:p32:o518:4a6b0f279e87ad3f",
+          "final_retrieval_role": "review",
+          "pages": "32",
+          "quality_flags": [
+            "heuristic_structure",
+            "ocr_derived_chunk",
+            "ocr_table_alignment_ambiguous",
+            "residual_fallback_block",
+            "review_candidate",
+            "table_like_text",
+            "table_relation_insufficient_v1_1"
+          ],
+          "source_spans": [
+            {
+              "char_end": 829,
+              "char_start": 518,
+              "page": 32,
+              "source_pointer": "/pages/31/text"
+            }
+          ],
+          "source_text_excerpt": "4\n—¬ 7.000.000 10.000.000\nHCD hoặc giải ba\nHCV hoặc giải nhất.\nat BI CAP | CB hote gidinhi | 1.500.000 | 5000.000 7.000.000\nee ee | | |\nHCD hoặc giải ba 1.000.000 | 3.000.000 5.000.000\nHCV hoặc giải nhất | 1.000.000 | 5.000.000 7.000.000 |\nDat gidi cap\ntoan thanh\nHCB hoặc giải nhì 700.000 | 3.000.000 5.000.000",
+          "structure_source": "heuristic_structure",
+          "unit_type": "table_row"
+        }
+      ],
+      "observed_behavior": "Ambiguous OCR table evidence remains review.",
+      "sample_rank": 14,
+      "source_spans": [
+        {
+          "char_end": 829,
+          "char_start": 518,
+          "page": 32,
+          "source_pointer": "/pages/31/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:495026b3bab3:p32:o518:4a6b0f279e87ad3f"
+    },
+    {
+      "document_id": "Hướng dẫn về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng",
+      "expected_behavior": "Document subtitle/heading is context_only, not content.",
+      "final_retrieval_roles": [
+        "context_only"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:f20f0ef8eb61:p1:o10:608bd41a8e74e5d8",
+          "final_retrieval_role": "context_only",
+          "pages": "1",
+          "quality_flags": [
+            "context_only_candidate",
+            "residual_fallback_block",
+            "title_fragment_context_only_v1_1"
+          ],
+          "source_spans": [
+            {
+              "char_end": 77,
+              "char_start": 10,
+              "page": 1,
+              "source_pointer": "/pages/0/text"
+            }
+          ],
+          "source_text_excerpt": "Về giao tiếp, ứng xử cho người học tại Trường Đại học Tôn Đức Thắng",
+          "structure_source": "fallback",
+          "unit_type": "fallback_block"
+        }
+      ],
+      "observed_behavior": "The non-substantive locus is not content.",
+      "sample_rank": 15,
+      "source_spans": [
+        {
+          "char_end": 77,
+          "char_start": 10,
+          "page": 1,
+          "source_pointer": "/pages/0/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:f20f0ef8eb61:p1:o10:608bd41a8e74e5d8"
+    },
+    {
+      "document_id": "Nội quy phòng thi hình thức thi trực tuyến (chính thức)",
+      "expected_behavior": "Complete processed OCR clause is content when no table/forced-split review condition applies.",
+      "final_retrieval_roles": [
+        "content"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:c502c54c946e:p3:o331:347d2142c64b30a3",
+          "final_retrieval_role": "content",
+          "pages": "3",
+          "quality_flags": [
+            "ocr_derived_chunk",
+            "source_context_absorbed",
+            "substantive_evidence_promoted_v1_1"
+          ],
+          "source_spans": [
+            {
+              "char_end": 616,
+              "char_start": 331,
+              "page": 3,
+              "source_pointer": "/pages/2/text"
+            }
+          ],
+          "source_text_excerpt": "7. CBCT đối chiếu hình ảnh TS đang dự thi và hình ảnh từ danh sách một lần nữa; nếu\nthấy có sự khác biệt thì yêu cầu TS xuất trình thé sinh viên/thẻ học viên hoặc giấy tờ\ntùy thân khác (nếu cần); nếu vẫn thấy khác thì chụp hình TS gửi kèm biên bản ghi\nnhận sau buổi thi để hậu kiểm. oe",
+          "structure_source": "processed_structure",
+          "unit_type": "clause"
+        }
+      ],
+      "observed_behavior": "Complete processed OCR clause is content.",
+      "sample_rank": 18,
+      "source_spans": [
+        {
+          "char_end": 616,
+          "char_start": 331,
+          "page": 3,
+          "source_pointer": "/pages/2/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:c502c54c946e:p3:o331:347d2142c64b30a3"
+    },
+    {
+      "document_id": "NỘI DUNG VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN TRÌNH ĐỘ ĐẠI HỌC",
+      "expected_behavior": "Table/section heading and column labels are context_only, not content.",
+      "final_retrieval_roles": [
+        "context_only"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:7917442dc147:p1:o181:1a3022165d1cde83",
+          "final_retrieval_role": "context_only",
+          "pages": "1",
+          "quality_flags": [
+            "context_only_candidate",
+            "heuristic_structure",
+            "residual_fallback_block",
+            "table_header_context_only_v1_1",
+            "table_like_text"
+          ],
+          "source_spans": [
+            {
+              "char_end": 263,
+              "char_start": 181,
+              "page": 1,
+              "source_pointer": "/pages/0/text"
+            }
+          ],
+          "source_text_excerpt": "1. Việc tuân thủ kỷ luật, nề nếp (tối đa 20 điểm):\nTT\nTiêu chí đánh giá\nThang điểm",
+          "structure_source": "heuristic_structure",
+          "unit_type": "table_row"
+        }
+      ],
+      "observed_behavior": "The non-substantive locus is not content.",
+      "sample_rank": 20,
+      "source_spans": [
+        {
+          "char_end": 263,
+          "char_start": 181,
+          "page": 1,
+          "source_pointer": "/pages/0/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:7917442dc147:p1:o181:1a3022165d1cde83"
+    },
+    {
+      "document_id": "Ban hành quy định cấp chứng nhận kỹ sư-cử nhân ưu tú - Áp dụng cho tất cả sinh viên",
+      "expected_behavior": "Administrative header/date/document number is not content.",
+      "final_retrieval_roles": [
+        "context_only"
+      ],
+      "matching_v1_1_chunks": [
+        {
+          "chunk_id": "ccv0:9250d42f41fb:p1:o0:33535ecfb31a8c6d",
+          "final_retrieval_role": "context_only",
+          "pages": "1",
+          "quality_flags": [
+            "administrative_header_context_only_v1_1",
+            "context_only_candidate",
+            "ocr_derived_chunk",
+            "residual_fallback_block"
+          ],
+          "source_spans": [
+            {
+              "char_end": 204,
+              "char_start": 0,
+              "page": 1,
+              "source_pointer": "/pages/0/text"
+            }
+          ],
+          "source_text_excerpt": "Văn bản lưu hành nội bộ\nTONG LIÊN ĐOÀN LAO ĐỘNG VIETNAM CỘNG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG Độc lập - Tự do — Hạnh phúc\nSố 2457 /QĐ-TĐT TP. Hồ Chí Minh, ngày9D tháng12 năm 2017",
+          "structure_source": "fallback",
+          "unit_type": "fallback_block"
+        }
+      ],
+      "observed_behavior": "The non-substantive locus is not content.",
+      "sample_rank": 26,
+      "source_spans": [
+        {
+          "char_end": 204,
+          "char_start": 0,
+          "page": 1,
+          "source_pointer": "/pages/0/text"
+        }
+      ],
+      "status": "PASS",
+      "v1_evidence_chunk_id": "ccv0:9250d42f41fb:p1:o0:33535ecfb31a8c6d"
+    }
+  ],
+  "schema_version": "canonical_corpus_v1_1_regression_results"
+}
