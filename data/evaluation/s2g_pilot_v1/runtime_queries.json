@@ -1,0 +1,85 @@
+{
+  "queries": [
+    {
+      "id": "P001",
+      "query": "Thi trực tuyến mà vào phòng thi trễ hơn giờ bắt đầu bao nhiêu phút thì không được dự thi?"
+    },
+    {
+      "id": "P002",
+      "query": "Trường chấp nhận những loại chứng chỉ tiếng Anh quốc tế nào?"
+    },
+    {
+      "id": "P003",
+      "query": "Điều kiện điểm học tập và rèn luyện để nhận thư khen điện tử của Hiệu trưởng là gì?"
+    },
+    {
+      "id": "P004",
+      "query": "Khối lượng học tập tối đa được công nhận và chuyển đổi tín chỉ là bao nhiêu?"
+    },
+    {
+      "id": "P005",
+      "query": "Nếu sinh viên có nhiều hành vi vi phạm cùng lúc thì cấp nào đề xuất và cấp nào quyết định hình thức kỷ luật?"
+    },
+    {
+      "id": "P006",
+      "query": "Trong lúc thi online, tự rời phòng khi chưa được cán bộ coi thi đồng ý quá bao lâu thì bị xem là vi phạm?"
+    },
+    {
+      "id": "P007",
+      "query": "Nhà trường chấm điểm rèn luyện ở đâu, và việc chấm phải tuân theo những nguyên tắc nào?"
+    },
+    {
+      "id": "P008",
+      "query": "Chứng chỉ tiếng Anh không ghi ngày hết hạn thì sau khi cấp còn được dùng để xin miễn học phần trong bao lâu?"
+    },
+    {
+      "id": "P009",
+      "query": "Điểm đã học ở ngành khác, chương trình khác hoặc trường khác có thể được xem xét quy đổi sang chương trình TDTU không?"
+    },
+    {
+      "id": "P010",
+      "query": "Nếu em tự xin nghỉ học hẳn rồi sau này muốn quay lại trường thì có phải thi tuyển lại không, và điểm cũ được xử lý thế nào?"
+    },
+    {
+      "id": "P011",
+      "query": "Trong kỳ đi thực tập, phần điểm do công ty chấm phải chiếm ít nhất bao nhiêu phần trăm?"
+    },
+    {
+      "id": "P012",
+      "query": "Bị treo điểm K hay điểm P thì có còn được xét học bổng năm học không?"
+    },
+    {
+      "id": "P013",
+      "query": "Có sẵn bằng MOS lúc nhập học thì em được bỏ qua môn Cơ sở tin học luôn không?"
+    },
+    {
+      "id": "P014",
+      "query": "Thí sinh chưa có tiếng Anh B1 quốc tế phải làm gì để đủ điều kiện đầu vào, và trường chấp nhận những chứng chỉ quốc tế nào?"
+    },
+    {
+      "id": "P015",
+      "query": "Điều kiện nhận thư khen của Hiệu trưởng khác điều kiện nhận thư khen của lãnh đạo Khoa như thế nào?"
+    },
+    {
+      "id": "P016",
+      "query": "Với sinh viên khóa trước 2015, điểm tập sự nghề nghiệp được tính và xét đạt ra sao, đồng thời điểm doanh nghiệp phải chiếm tối thiểu bao nhiêu?"
+    },
+    {
+      "id": "P017",
+      "query": "Sinh viên muốn chuyển đổi tín chỉ thì phải nộp đơn lúc nào, và tối đa được công nhận bao nhiêu phần trăm chương trình?"
+    },
+    {
+      "id": "P018",
+      "query": "Nội quy thi trực tiếp và nội quy thi trực tuyến có áp dụng cho kỳ thi tuyển sinh đầu vào không?"
+    },
+    {
+      "id": "P019",
+      "query": "Quy chế công tác sinh viên đại học và quy chế quản lý người học sau đại học áp dụng cho những đối tượng nào?"
+    },
+    {
+      "id": "P020",
+      "query": "Một học kỳ chính phải đăng ký tối thiểu bao nhiêu tín chỉ, và để xét học bổng thì số tín chỉ đạt tối thiểu là bao nhiêu?"
+    }
+  ],
+  "schema_version": "s2g-runtime-queries-v1"
+}

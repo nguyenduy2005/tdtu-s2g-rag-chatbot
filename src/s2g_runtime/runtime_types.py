@@ -24,6 +24,7 @@ class BackboneRound:
     reranked: tuple[dict[str, Any], ...]
     presented: tuple[dict[str, Any], ...]
     evidence: dict[str, EvidenceItem]
+    latency_seconds: dict[str, float] | None = None
 
 
 @dataclass(frozen=True)

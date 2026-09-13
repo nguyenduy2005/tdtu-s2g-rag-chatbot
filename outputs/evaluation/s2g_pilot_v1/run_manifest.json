@@ -1,0 +1,16 @@
+{
+  "schema_version": "s2g-pilot-run-manifest-v1",
+  "status": "PASS_PROVISIONAL_PENDING_HUMAN_GT_VERIFICATION",
+  "query_count": 20,
+  "completed_s2g_results": 20,
+  "infrastructure_failures": 0,
+  "benchmark_sha256": "68ca9a6e3029438640eb611ada331ac19bf5a5e97858c5f5aaff6526b0b33269",
+  "runtime_queries_sha256": "f13737fa97dd56ea95bd4d16f8c349abf3b50f80d801e530e6e13c48857e7b60",
+  "canonical_corpus_sha256": "fd2358332668de3dca8c099ff6a3dd0cf1d23b47c378f7c92835df4a08c34c02",
+  "requested_model": "gpt-5-nano",
+  "resolved_model": "gpt-5-nano-2025-08-07",
+  "provider_response_count": 89,
+  "unique_provider_response_ids": 89,
+  "independent_human_ground_truth_verifications": 0,
+  "independent_human_answer_reviews": 0
+}

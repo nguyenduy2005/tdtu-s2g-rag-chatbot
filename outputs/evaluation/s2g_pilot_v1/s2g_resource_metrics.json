@@ -1,0 +1,936 @@
+{
+  "cached_input_tokens": 0,
+  "estimated_cost_usd": 0.03327795,
+  "input_tokens": 143847,
+  "latency_seconds": {
+    "max": 45.715748957998585,
+    "mean": 22.978427027052383,
+    "median": 21.666309708496556,
+    "p95": 41.058955794051876
+  },
+  "output_tokens": 65214,
+  "per_query": [
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00015645,
+          "input_tokens": 697,
+          "latency_seconds": 3.526003250008216,
+          "output_tokens": 304
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00020245000000000001,
+          "input_tokens": 713,
+          "latency_seconds": 6.131859874993097,
+          "output_tokens": 417
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0004395,
+          "input_tokens": 2230,
+          "latency_seconds": 6.284302332991501,
+          "output_tokens": 820
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 18.22986795802717,
+      "estimated_cost_usd": 0.0007984,
+      "input_tokens": 3640,
+      "output_tokens": 1541,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 15.942165457992814,
+      "query_id": "P001",
+      "query_type": "direct_lookup",
+      "reasoning_tokens": 1024,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00010835,
+          "input_tokens": 559,
+          "latency_seconds": 1.537324750010157,
+          "output_tokens": 201
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00023955,
+          "input_tokens": 567,
+          "latency_seconds": 4.950669874990126,
+          "output_tokens": 528
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0002889,
+          "input_tokens": 2250,
+          "latency_seconds": 3.0895269160100725,
+          "output_tokens": 441
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 10.914168874995084,
+      "estimated_cost_usd": 0.0006368,
+      "input_tokens": 3376,
+      "output_tokens": 1170,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 9.577521541010356,
+      "query_id": "P002",
+      "query_type": "direct_lookup",
+      "reasoning_tokens": 704,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00039300000000000007,
+          "input_tokens": 1732,
+          "latency_seconds": 5.126193208998302,
+          "output_tokens": 766
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0004335000000000001,
+          "input_tokens": 1654,
+          "latency_seconds": 6.683854542003246,
+          "output_tokens": 877
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0010263499999999999,
+          "input_tokens": 4775,
+          "latency_seconds": 13.866539624985307,
+          "output_tokens": 1969
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 27.13635279200389,
+      "estimated_cost_usd": 0.00185285,
+      "input_tokens": 8161,
+      "output_tokens": 3612,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 25.676587375986855,
+      "query_id": "P003",
+      "query_type": "direct_lookup",
+      "reasoning_tokens": 2560,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.0002402,
+          "input_tokens": 876,
+          "latency_seconds": 3.0220447499887086,
+          "output_tokens": 491
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0002774,
+          "input_tokens": 820,
+          "latency_seconds": 4.522084415977588,
+          "output_tokens": 591
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.00042650000000000007,
+          "input_tokens": 1626,
+          "latency_seconds": 5.383711875008885,
+          "output_tokens": 863
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 14.34378987501259,
+      "estimated_cost_usd": 0.0009441000000000001,
+      "input_tokens": 3322,
+      "output_tokens": 1945,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 12.927841040975181,
+      "query_id": "P004",
+      "query_type": "direct_lookup",
+      "reasoning_tokens": 1344,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00030925,
+          "input_tokens": 1529,
+          "latency_seconds": 3.566335915995296,
+          "output_tokens": 582
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00035835,
+          "input_tokens": 1655,
+          "latency_seconds": 4.512106416979805,
+          "output_tokens": 689
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0004968,
+          "input_tokens": 2096,
+          "latency_seconds": 5.83962787501514,
+          "output_tokens": 980
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 15.236778499995125,
+      "estimated_cost_usd": 0.0011644000000000001,
+      "input_tokens": 5280,
+      "output_tokens": 2251,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 13.91807020799024,
+      "query_id": "P005",
+      "query_type": "direct_lookup",
+      "reasoning_tokens": 1600,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.0002755,
+          "input_tokens": 1806,
+          "latency_seconds": 3.203491583990399,
+          "output_tokens": 463
+        },
+        "s2g_judge": {
+          "calls": 3,
+          "cost_usd": 0.0007503500000000001,
+          "input_tokens": 3079,
+          "latency_seconds": 9.542167167033767,
+          "output_tokens": 1491
+        },
+        "s2g_sentence_selector": {
+          "calls": 2,
+          "cost_usd": 0.0019461,
+          "input_tokens": 10674,
+          "latency_seconds": 25.248666040977696,
+          "output_tokens": 3531
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 40.813861417002045,
+      "estimated_cost_usd": 0.0029719500000000005,
+      "input_tokens": 15559,
+      "output_tokens": 5485,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 6,
+      "provider_latency_seconds": 37.99432479200186,
+      "query_id": "P006",
+      "query_type": "paraphrase",
+      "reasoning_tokens": 4032,
+      "retrieval_rounds": 2,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.0004626,
+          "input_tokens": 1492,
+          "latency_seconds": 4.535549374995753,
+          "output_tokens": 970
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0005065,
+          "input_tokens": 1610,
+          "latency_seconds": 7.3340164170076605,
+          "output_tokens": 1065
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0008751000000000001,
+          "input_tokens": 4070,
+          "latency_seconds": 9.85910812500515,
+          "output_tokens": 1679
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 23.28873533301521,
+      "estimated_cost_usd": 0.0018442000000000003,
+      "input_tokens": 7172,
+      "output_tokens": 3714,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 21.728673917008564,
+      "query_id": "P007",
+      "query_type": "paraphrase",
+      "reasoning_tokens": 2496,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00019360000000000002,
+          "input_tokens": 1016,
+          "latency_seconds": 2.7787279580079485,
+          "output_tokens": 357
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00035455,
+          "input_tokens": 923,
+          "latency_seconds": 4.719947791978484,
+          "output_tokens": 771
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.00066525,
+          "input_tokens": 4505,
+          "latency_seconds": 6.859892166976351,
+          "output_tokens": 1100
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 15.809906415990554,
+      "estimated_cost_usd": 0.0012134,
+      "input_tokens": 6444,
+      "output_tokens": 2228,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 14.358567916962784,
+      "query_id": "P008",
+      "query_type": "paraphrase",
+      "reasoning_tokens": 1728,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00044120000000000004,
+          "input_tokens": 1720,
+          "latency_seconds": 5.3345659589977,
+          "output_tokens": 888
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0003151,
+          "input_tokens": 1622,
+          "latency_seconds": 4.325638542009983,
+          "output_tokens": 585
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0006751500000000001,
+          "input_tokens": 2351,
+          "latency_seconds": 8.212411917018471,
+          "output_tokens": 1394
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 19.165587208000943,
+      "estimated_cost_usd": 0.0014314500000000003,
+      "input_tokens": 5693,
+      "output_tokens": 2867,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 17.872616418026155,
+      "query_id": "P009",
+      "query_type": "paraphrase",
+      "reasoning_tokens": 1920,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00040520000000000004,
+          "input_tokens": 1376,
+          "latency_seconds": 6.293820749997394,
+          "output_tokens": 841
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00038600000000000006,
+          "input_tokens": 1528,
+          "latency_seconds": 5.935585000028368,
+          "output_tokens": 774
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.00104995,
+          "input_tokens": 2423,
+          "latency_seconds": 14.152082417014753,
+          "output_tokens": 2322
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 27.93767016599304,
+      "estimated_cost_usd": 0.0018411500000000002,
+      "input_tokens": 5327,
+      "output_tokens": 3937,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 26.381488167040516,
+      "query_id": "P010",
+      "query_type": "paraphrase",
+      "reasoning_tokens": 3008,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00014170000000000003,
+          "input_tokens": 586,
+          "latency_seconds": 2.1043300410092343,
+          "output_tokens": 281
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00023260000000000002,
+          "input_tokens": 724,
+          "latency_seconds": 4.043571000016527,
+          "output_tokens": 491
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.00035620000000000004,
+          "input_tokens": 2100,
+          "latency_seconds": 4.3149293339811265,
+          "output_tokens": 628
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 11.93193141699885,
+      "estimated_cost_usd": 0.0007305000000000001,
+      "input_tokens": 3410,
+      "output_tokens": 1400,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 10.462830375006888,
+      "query_id": "P011",
+      "query_type": "terminology_mismatch",
+      "reasoning_tokens": 960,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00035690000000000006,
+          "input_tokens": 1602,
+          "latency_seconds": 3.174560459010536,
+          "output_tokens": 692
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0002733,
+          "input_tokens": 1274,
+          "latency_seconds": 4.716898500017123,
+          "output_tokens": 524
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0006031500000000001,
+          "input_tokens": 2319,
+          "latency_seconds": 7.399137291999068,
+          "output_tokens": 1218
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 16.889956750004785,
+      "estimated_cost_usd": 0.0012333500000000002,
+      "input_tokens": 5195,
+      "output_tokens": 2434,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 15.290596251026727,
+      "query_id": "P012",
+      "query_type": "terminology_mismatch",
+      "reasoning_tokens": 1728,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00039850000000000004,
+          "input_tokens": 1402,
+          "latency_seconds": 3.613306457991712,
+          "output_tokens": 821
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00046330000000000004,
+          "input_tokens": 1690,
+          "latency_seconds": 6.81043316697469,
+          "output_tokens": 947
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.00115345,
+          "input_tokens": 4501,
+          "latency_seconds": 14.15405179199297,
+          "output_tokens": 2321
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 26.23273054099991,
+      "estimated_cost_usd": 0.00201525,
+      "input_tokens": 7593,
+      "output_tokens": 4089,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 24.57779141695937,
+      "query_id": "P013",
+      "query_type": "terminology_mismatch",
+      "reasoning_tokens": 3136,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00041210000000000004,
+          "input_tokens": 1698,
+          "latency_seconds": 4.770939832989825,
+          "output_tokens": 818
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00043735,
+          "input_tokens": 1555,
+          "latency_seconds": 5.90656770800706,
+          "output_tokens": 899
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0007482000000000001,
+          "input_tokens": 2636,
+          "latency_seconds": 11.016223790997174,
+          "output_tokens": 1541
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 23.56637575000059,
+      "estimated_cost_usd": 0.0015976500000000002,
+      "input_tokens": 5889,
+      "output_tokens": 3258,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 21.69373133199406,
+      "query_id": "P014",
+      "query_type": "multi_evidence",
+      "reasoning_tokens": 2496,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00048945,
+          "input_tokens": 1989,
+          "latency_seconds": 4.983027332986239,
+          "output_tokens": 975
+        },
+        "s2g_judge": {
+          "calls": 3,
+          "cost_usd": 0.0008008000000000001,
+          "input_tokens": 3928,
+          "latency_seconds": 10.189557498990325,
+          "output_tokens": 1511
+        },
+        "s2g_sentence_selector": {
+          "calls": 3,
+          "cost_usd": 0.00213585,
+          "input_tokens": 11869,
+          "latency_seconds": 20.52426187400124,
+          "output_tokens": 3856
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 40.111670459009474,
+      "estimated_cost_usd": 0.0034260999999999996,
+      "input_tokens": 17786,
+      "output_tokens": 6342,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 7,
+      "provider_latency_seconds": 35.696846705977805,
+      "query_id": "P015",
+      "query_type": "multi_evidence",
+      "reasoning_tokens": 4032,
+      "retrieval_rounds": 3,
+      "stop_reason": "STOP_NO_NEW_EVIDENCE"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00021455,
+          "input_tokens": 795,
+          "latency_seconds": 2.692637708008988,
+          "output_tokens": 437
+        },
+        "s2g_judge": {
+          "calls": 3,
+          "cost_usd": 0.00098035,
+          "input_tokens": 2743,
+          "latency_seconds": 12.109283833036898,
+          "output_tokens": 2108
+        },
+        "s2g_sentence_selector": {
+          "calls": 3,
+          "cost_usd": 0.0025358000000000004,
+          "input_tokens": 15700,
+          "latency_seconds": 25.510596416977933,
+          "output_tokens": 4377
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 45.715748957998585,
+      "estimated_cost_usd": 0.0037307,
+      "input_tokens": 19238,
+      "output_tokens": 6922,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 7,
+      "provider_latency_seconds": 40.31251795802382,
+      "query_id": "P016",
+      "query_type": "multi_evidence",
+      "reasoning_tokens": 4864,
+      "retrieval_rounds": 3,
+      "stop_reason": "STOP_NO_NEW_EVIDENCE"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00026255,
+          "input_tokens": 939,
+          "latency_seconds": 3.324838875007117,
+          "output_tokens": 539
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0002729,
+          "input_tokens": 890,
+          "latency_seconds": 4.818779124994762,
+          "output_tokens": 571
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0005682,
+          "input_tokens": 2836,
+          "latency_seconds": 5.786121416982496,
+          "output_tokens": 1066
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 15.471781125001144,
+      "estimated_cost_usd": 0.00110365,
+      "input_tokens": 4665,
+      "output_tokens": 2176,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 13.929739416984376,
+      "query_id": "P017",
+      "query_type": "multi_evidence",
+      "reasoning_tokens": 1664,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00023340000000000004,
+          "input_tokens": 716,
+          "latency_seconds": 2.8611795000033453,
+          "output_tokens": 494
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.00035270000000000006,
+          "input_tokens": 718,
+          "latency_seconds": 5.396851958998013,
+          "output_tokens": 792
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0008006500000000001,
+          "input_tokens": 1957,
+          "latency_seconds": 10.013791166013107,
+          "output_tokens": 1757
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 21.20055445897742,
+      "estimated_cost_usd": 0.0013867500000000004,
+      "input_tokens": 3391,
+      "output_tokens": 3043,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 18.271822625014465,
+      "query_id": "P018",
+      "query_type": "cross_document",
+      "reasoning_tokens": 2432,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.000263,
+          "input_tokens": 948,
+          "latency_seconds": 3.1959166250017006,
+          "output_tokens": 539
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.000559,
+          "input_tokens": 932,
+          "latency_seconds": 7.9042857909807935,
+          "output_tokens": 1281
+        },
+        "s2g_sentence_selector": {
+          "calls": 2,
+          "cost_usd": 0.0008652499999999999,
+          "input_tokens": 4449,
+          "latency_seconds": 9.34321849999833,
+          "output_tokens": 1607
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 23.439007584005594,
+      "estimated_cost_usd": 0.00168725,
+      "input_tokens": 6329,
+      "output_tokens": 3427,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 5,
+      "provider_latency_seconds": 20.443420915980823,
+      "query_id": "P019",
+      "query_type": "cross_document",
+      "reasoning_tokens": 2496,
+      "retrieval_rounds": 2,
+      "stop_reason": "STOP_NO_NEW_EVIDENCE"
+    },
+    {
+      "by_stage": {
+        "answer_reasoner": {
+          "calls": 1,
+          "cost_usd": 0.00037375,
+          "input_tokens": 1651,
+          "latency_seconds": 3.561700166988885,
+          "output_tokens": 728
+        },
+        "s2g_judge": {
+          "calls": 2,
+          "cost_usd": 0.0002987,
+          "input_tokens": 1878,
+          "latency_seconds": 4.325972374965204,
+          "output_tokens": 512
+        },
+        "s2g_sentence_selector": {
+          "calls": 1,
+          "cost_usd": 0.0009956000000000001,
+          "input_tokens": 2848,
+          "latency_seconds": 12.945346291991882,
+          "output_tokens": 2133
+        }
+      },
+      "cached_input_tokens": 0,
+      "end_to_end_latency_seconds": 22.13206495801569,
+      "estimated_cost_usd": 0.0016680500000000001,
+      "input_tokens": 6377,
+      "output_tokens": 3373,
+      "pricing": {
+        "cached_input": 0.005,
+        "input": 0.05,
+        "observed_date": "2026-09-13",
+        "output": 0.4,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+        "unit": "USD per 1M tokens"
+      },
+      "provider_calls": 4,
+      "provider_latency_seconds": 20.83301883394597,
+      "query_id": "P020",
+      "query_type": "cross_document",
+      "reasoning_tokens": 2496,
+      "retrieval_rounds": 1,
+      "stop_reason": "STOP_SUFFICIENT"
+    }
+  ],
+  "pricing": {
+    "cached_input": 0.005,
+    "input": 0.05,
+    "observed_date": "2026-09-13",
+    "output": 0.4,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+    "unit": "USD per 1M tokens"
+  },
+  "provider_calls": 89,
+  "query_count": 20,
+  "reasoning_tokens": 46720,
+  "retrieval_rounds": {
+    "max": 3.0,
+    "mean": 1.3,
+    "median": 1.0,
+    "p95": 3.0
+  },
+  "schema_version": "s2g-resource-evaluation-v1",
+  "stop_reasons": {
+    "STOP_NO_NEW_EVIDENCE": 3,
+    "STOP_SUFFICIENT": 17
+  }
+}

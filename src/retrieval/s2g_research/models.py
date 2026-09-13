@@ -45,6 +45,7 @@ class S2GResearchResult:
     stop_reason: S2GResearchStopReason
     closed: bool
     budget: dict[str, int]
+    latency_seconds: float = 0.0
     answer: Any = None
     error: dict[str, Any] | None = None
 

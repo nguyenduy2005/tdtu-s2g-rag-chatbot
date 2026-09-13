@@ -1,0 +1,55 @@
+{
+  "all_core_criteria_pass": 10,
+  "criteria": {
+    "citation_adequacy": {
+      "fail": 7,
+      "pass": 12,
+      "pass_rate_all_queries": 0.6,
+      "pass_rate_decided": 0.631578947368421,
+      "review": 1
+    },
+    "clarity": {
+      "fail": 2,
+      "pass": 18,
+      "pass_rate_all_queries": 0.9,
+      "pass_rate_decided": 0.9,
+      "review": 0
+    },
+    "completeness": {
+      "fail": 6,
+      "pass": 13,
+      "pass_rate_all_queries": 0.65,
+      "pass_rate_decided": 0.6842105263157895,
+      "review": 1
+    },
+    "correctness": {
+      "fail": 5,
+      "pass": 14,
+      "pass_rate_all_queries": 0.7,
+      "pass_rate_decided": 0.7368421052631579,
+      "review": 1
+    },
+    "faithfulness": {
+      "fail": 4,
+      "pass": 15,
+      "pass_rate_all_queries": 0.75,
+      "pass_rate_decided": 0.7894736842105263,
+      "review": 1
+    }
+  },
+  "independent_human_review": false,
+  "queries_requiring_review_or_with_failure": [
+    "P003",
+    "P007",
+    "P009",
+    "P013",
+    "P014",
+    "P015",
+    "P016",
+    "P017",
+    "P018",
+    "P019"
+  ],
+  "query_count": 20,
+  "schema_version": "s2g-answer-quality-summary-v1"
+}

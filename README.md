@@ -81,3 +81,15 @@ implemented under `src/retrieval/s2g_research/` and configured by
 `config/s2g_research.json`. It implements `Judge(C0=empty) -> gap-guided
 retrieval -> sentence-pointer extraction -> append-only evidence -> Judge`,
 with at most four retrieval turns and six presented chunks per turn.
+
+## Retrieval and answer evaluation
+
+The evaluation foundation under `src/evaluation/` measures Recall@k, MRR@10,
+evidence-group coverage, retrieval/end-to-end latency, recorded token usage, and
+estimated API cost. It also generates a blank human-review worksheet for answer
+quality. See [`docs/evaluation-protocol.md`](docs/evaluation-protocol.md).
+
+The 20-query pilot under `data/evaluation/s2g_pilot_v1/` is agent-assisted and
+still awaits human verification. The evaluator hard-fails by default until that
+checkpoint is complete; provisional engineering runs require an explicit
+`--allow-pending-human` flag.

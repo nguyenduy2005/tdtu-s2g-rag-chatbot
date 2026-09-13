@@ -92,5 +92,6 @@ class BackboneRetrieverAdapter:
                 "candidates": [dict(row) for row in result.candidates],
                 "reranked": [dict(row) for row in result.reranked],
                 "presented": [dict(row) for row in rows],
+                "latency_seconds": dict(result.latency_seconds or {}),
             },
         )

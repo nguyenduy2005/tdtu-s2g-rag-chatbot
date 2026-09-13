@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import asdict, is_dataclass
+import time
 from typing import Any, Protocol
 
 from src.s2g_runtime.runtime_types import ModelResult
@@ -71,6 +72,7 @@ class S2GResearchPipeline:
         self.config = config
 
     def run(self, query_id: str, question: str) -> S2GResearchResult:
+        pipeline_started = time.monotonic()
         query_id = query_id.strip()
         question = question.strip()
         if not query_id:
@@ -139,11 +141,13 @@ class S2GResearchPipeline:
                     break
                 query_history.append(retrieval_query)
 
+                retrieval_started = time.monotonic()
                 batch = self.retriever.retrieve(
                     retrieval_query,
                     top_k=self.config.top_k,
                     turn_index=turn_index,
                 )
+                retrieval_latency = time.monotonic() - retrieval_started
                 budget["retrieval_calls"] += 1
                 self._validate_batch(batch)
                 budget["presented_chunks"] += len(batch.items)
@@ -153,6 +157,7 @@ class S2GResearchPipeline:
                     "top_k": self.config.top_k,
                     "items": [dict(item) for item in batch.items],
                     "audit": batch.audit,
+                    "latency_seconds": retrieval_latency,
                 }
                 if not batch.items:
                     stop = S2GResearchStopReason.EMPTY_RETRIEVAL
@@ -227,6 +232,7 @@ class S2GResearchPipeline:
             stop_reason=stop,
             closed=closed,
             budget=budget,
+            latency_seconds=time.monotonic() - pipeline_started,
             answer=answer,
             error=error,
         )

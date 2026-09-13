@@ -1,0 +1,140 @@
+query_id,query_type,query,evidence_group,group_description,chunk_id,document_title,pages,structure,source_spans,source_text,human_query_natural,human_evidence_sufficient,human_chunk_relevant,human_pdf_verified,human_notes
+P001,direct_lookup,Thi trực tuyến mà vào phòng thi trễ hơn giờ bắt đầu bao nhiêu phút thì không được dự thi?,g1,Ngưỡng đi trễ của thí sinh trong thi trực tuyến,ccv0:c502c54c946e:p4:o278:aa52639274006329,Nội quy phòng thi hình thức thi trực tuyến (chính thức),4-4,"{""chapter"": null, ""section"": null, ""article"": ""3"", ""clause"": ""2"", ""point"": null}","[{""char_end"": 641, ""char_start"": 278, ""page"": 4, ""source_pointer"": ""/pages/3/text""}]","2. Có mặt tại phòng thi trực tuyến trước giờ thi ít nhất 30 phút. Trường hợp có mặt sau
+05 phút kể từ khi tinh giờ bắt đầu làm bài thi, TS không được phép dự thi và phải
+rời khỏi phòng thi trực tuyến ngay lập tức. TS phải xuất trình thẻ sinh viên/học viên
+hoặc giấy tờ tùy thân khác khi CBCT yêu cầu, trường hợp không có giấy tờ tùy thân
+phải báo cho CBCT xử lý.
+",,,,,
+P002,direct_lookup,Trường chấp nhận những loại chứng chỉ tiếng Anh quốc tế nào?,g1,Danh sách chứng chỉ tiếng Anh quốc tế được chấp nhận,ccv0:f0d5cdc987b9:p1:o1525:b1b3a0243b780039,"Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",1-1,"{""chapter"": null, ""section"": null, ""article"": ""2"", ""clause"": ""4"", ""point"": null}","[{""char_end"": 1826, ""char_start"": 1525, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","4. Các chứng chỉ tiếng Anh quốc tế được chấp nhận gồm: IELTS, TOEIC (4 kỹ năng),
+TOEFL iBT, Cambridge, Aptis ESOL. Các chứng chỉ tiếng Anh quốc tế này phải được tổ
+chức thi trực tiếp tại các đơn vị liên kết được Bộ Giáo dục và Đào tạo phê duyệt Đề án liên
+kết tổ chức thi cấp chứng chỉ theo quy định.
+",,,,,
+P003,direct_lookup,Điều kiện điểm học tập và rèn luyện để nhận thư khen điện tử của Hiệu trưởng là gì?,g1,Ngưỡng cấp thư khen điện tử của Hiệu trưởng,ccv0:614a7c8cd8ef:p2:o550:e48d069d79dcd6b2,ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN,2-2,"{""chapter"": null, ""section"": null, ""article"": null, ""clause"": null, ""point"": null}","[{""char_end"": 806, ""char_start"": 550, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","2. Đối với sinh viên đạt thành tích học tập Giỏi, Xuất sắc có điểm TB học kỳ/năm
+học ≥ 8,00 và Điểm trung bình rèn luyện học kỳ/năm học xét từ 80 điểm trở lên sẽ nhận
+được Thư khen (điện tử) từ Thầy Hiệu trưởng khen tặng (được gửi qua email cho sinh
+viên).",,,,,
+P004,direct_lookup,Khối lượng học tập tối đa được công nhận và chuyển đổi tín chỉ là bao nhiêu?,g1,Giới hạn tối đa của khối lượng được công nhận/chuyển đổi,ccv0:457e13e9798d:p22:o118:15eec94d152d861b,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,22-22,"{""chapter"": ""III"", ""section"": null, ""article"": ""28"", ""clause"": ""2"", ""point"": null}","[{""char_end"": 350, ""char_start"": 118, ""page"": 22, ""source_pointer"": ""/pages/21/text""}]","2. Trường thông báo quy định việc công nhận kết quả học tập và chuyển đổi tín chỉ trên
+Cổng thông tin sinh viên. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá
+50% khối lượng học tập tối thiểu của chương trình đào tạo.
+",,,,,
+P005,direct_lookup,Nếu sinh viên có nhiều hành vi vi phạm cùng lúc thì cấp nào đề xuất và cấp nào quyết định hình thức kỷ luật?,g1,Thẩm quyền đề xuất và quyết định khi có nhiều vi phạm,ccv0:01c9529d424a:p5:o1503:8165ff0b8cc9e014,QUY CHẾ CÔNG TÁC SINH VIÊN,5-5,"{""chapter"": ""III"", ""section"": null, ""article"": ""8"", ""clause"": ""2"", ""point"": ""a""}","[{""char_end"": 1773, ""char_start"": 1503, ""page"": 5, ""source_pointer"": ""/pages/4/text""}]","a) Trong cùng một thời điểm, sinh viên có nhiều hành vi vi phạm thì tùy theo
+tính chất, mức độ vi phạm, Hội đồng kỷ luật sinh viên cấp Khoa đề xuất hình thức xử
+lý và trình Hội đồng kỷ luật sinh viên cấp Trường xem xét, quyết định về hình thứ c và
+mứ c kỷ luâ ̣t.
+",,,,,
+P006,paraphrase,"Trong lúc thi online, tự rời phòng khi chưa được cán bộ coi thi đồng ý quá bao lâu thì bị xem là vi phạm?",g1,Thời lượng tự ý rời phòng thi trực tuyến,ccv0:c502c54c946e:p5:o245:c8eeb37bd567210a,Nội quy phòng thi hình thức thi trực tuyến (chính thức),5-5,"{""chapter"": null, ""section"": null, ""article"": ""3"", ""clause"": ""1"", ""point"": ""b""}","[{""char_end"": 324, ""char_start"": 245, ""page"": 5, ""source_pointer"": ""/pages/4/text""}]","b) Tự ý rời khỏi phòng thi trực tuyến mà không được CBCT cho phép quá 05 phút;
+",,,,,
+P007,paraphrase,"Nhà trường chấm điểm rèn luyện ở đâu, và việc chấm phải tuân theo những nguyên tắc nào?",g1,Hệ thống thực hiện và nguyên tắc đánh giá rèn luyện,ccv0:fb4a92da75d1:p1:o945:7e437012189693bc,QUY CHẾ ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY,1-1,"{""chapter"": ""I"", ""section"": null, ""article"": ""2"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 1078, ""char_start"": 945, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","1. Đánh giá kết quả rèn luyện được thực hiện trên hệ thống thông tin sinh viên, đảm
+bảo khách quan, công khai, công bằng, chính xác.
+",,,,,
+P008,paraphrase,Chứng chỉ tiếng Anh không ghi ngày hết hạn thì sau khi cấp còn được dùng để xin miễn học phần trong bao lâu?,g1,Thời hạn xét chứng chỉ không quy định thời hạn,ccv0:f0d5cdc987b9:p2:o1930:82a8a4e7970f4584,"Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",2-2,"{""chapter"": null, ""section"": null, ""article"": ""4"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 2266, ""char_start"": 1930, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","1. Trong quá trình đào tạo, sinh viên nếu có các chứng chi/bang điểm tiếng Anh quốc
+tế còn thời hạn theo quy định tại Phụ lục 2 được xét miễn học phần tiếng Anh tương ứng
+theo khoản 2 Điều này. Các chứng chỉ tiếng Anh quốc tế không quy định thời hạn chỉ được
+xét công nhận miễn học phần trong vòng 02 năm kể từ ngày được cấp chứng chỉ.
+",,,,,
+P009,paraphrase,"Điểm đã học ở ngành khác, chương trình khác hoặc trường khác có thể được xem xét quy đổi sang chương trình TDTU không?",g1,Nguồn kết quả học tập có thể được công nhận/chuyển đổi,ccv0:e381a555c613:p3:o419:cdcfab4f0ac150b4,Quy định công nhận kết quả học tập và chuyển đổi tín chỉ trong giáo dục đại học,3-3,"{""chapter"": null, ""section"": null, ""article"": ""1"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 762, ""char_start"": 419, ""page"": 3, ""source_pointer"": ""/pages/2/text""}]","1. Văn bản này quy định về việc xét công nhận kết quả học tập và chuyển đổi tin
+chỉ mà người hoc đã tích lũy từ một ngành dao tạo, một chương trình đào tạo (CTDT)
+khác, một khóa học hoặc từ một cơ sở đào tạo khác để xem xét công nhận, chuyền đổi
+sang tín chỉ của những học phần trong CTĐT của Trường Đại học Tôn Đức Thắng
+(gọi tắt là Trường).
+",,,,,
+P010,paraphrase,"Nếu em tự xin nghỉ học hẳn rồi sau này muốn quay lại trường thì có phải thi tuyển lại không, và điểm cũ được xử lý thế nào?",g1,Điều kiện quay lại học và xem xét kết quả đã tích lũy,ccv0:457e13e9798d:p10-11:o2247:680ade9262f60fb6,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,10-11,"{""chapter"": ""II"", ""section"": null, ""article"": ""16"", ""clause"": ""4"", ""point"": null}","[{""char_end"": 2691, ""char_start"": 2247, ""page"": 10, ""source_pointer"": ""/pages/9/text""}, {""char_end"": 117, ""char_start"": 0, ""page"": 11, ""source_pointer"": ""/pages/10/text""}]","4. Vì lý do cá nhân, sinh viên được quyền nộp đơn xin thôi học trừ trường hợp bị xem
+xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên xin thôi học phải thực hiện nghĩa vụ học
+phí môn học còn nợ theo Quy định về việc quản lý nguồn thu từ hoạt động giáo dục của
+Trường. Sinh viên xin thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào
+như những thí sinh khác. Việc bảo lưu và công nhận kết quả học tập đã tích lũy đối với sinh
+11
+viên xin thôi học đăng ký tuyển sinh lại tại Trường được xem xét căn cứ vào chuẩn đầu ra
+môn học và CTĐT hiện hành",,,,,
+P011,terminology_mismatch,"Trong kỳ đi thực tập, phần điểm do công ty chấm phải chiếm ít nhất bao nhiêu phần trăm?",g1,Tỷ trọng tối thiểu của điểm doanh nghiệp đánh giá trong TSNN,ccv0:c2ef511bad34:p2:o42:d5793d1d52074321,Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên,2-2,"{""chapter"": null, ""section"": null, ""article"": ""6"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 382, ""char_start"": 42, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","1. Do lường kết quả hoạt động TSNN dựa trên 2 nội dung: Điểm hiệu quả công việc (kết quả,
+chất lượng TSNN) của SV do doanh nghiệp đánh giá; và Điểm do Khoa đánh giá. Hệ số và tiêu chí đánh
+giá của các cột điểm thành phần được quy định cụ thé trong Đề cương chỉ tiết môn học; trong đó điểm do
+doanh nghiệp đánh giá phải chiếm tối thiêu 30%.
+",,,,,
+P012,terminology_mismatch,Bị treo điểm K hay điểm P thì có còn được xét học bổng năm học không?,g1,Ảnh hưởng của điểm K và điểm P đến xét học bổng,ccv0:457e13e9798d:p19:o1603:ca7419cc4f32e78c,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,19-19,"{""chapter"": ""III"", ""section"": null, ""article"": ""25"", ""clause"": ""5"", ""point"": null}","[{""char_end"": 2393, ""char_start"": 1603, ""page"": 19, ""source_pointer"": ""/pages/18/text""}]","5. Điểm chưa hoàn tất (“điểm K”) dùng để ghi nhận kết quả học tập chưa hoàn tất của
+một số môn học đặc thù (như Cơ sở tin học, Tiếng Anh, môn kỹ năng,…). Sinh viên được
+ghi nhận điểm K sẽ không thuộc diện xét học bổng năm học trong năm học xét học bổng.
+Điểm K không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy
+của sinh viên.
+Điểm chưa hoàn tất (“điểm P”) dùng để ghi nhận đã đạt kết quả đánh giá môn học ở mã
+môn học tiếng Anh cuối nhưng chưa đạt được điều kiện chuẩn đầu ra. Điểm P được tính khi
+xét điều kiện tiên quyết các môn học trước (trừ học kỳ cuối của chương trình đào tạo). Điểm
+P không tính vào tín chỉ tích lũy, điểm trung bình học kỳ, trung bình chung tích lũy của sinh
+viên nhưng sinh viên vẫn được tham gia xét học bổng năm học (trừ năm cuối",,,,,
+P013,terminology_mismatch,Có sẵn bằng MOS lúc nhập học thì em được bỏ qua môn Cơ sở tin học luôn không?,g1,Quy trình xét miễn học Cơ sở tin học khi nộp chứng chỉ MOS,ccv0:bf2483e2f33f:p3:o445:c2588ac9f6500270,Quy định về các học phần Cơ sở tin học theo chuẩn MOS - Áp dụng cho sinh viên từ khóa tuyển sinh 2022 và 2023,3-3,"{""chapter"": null, ""section"": null, ""article"": ""5"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 1404, ""char_start"": 445, ""page"": 3, ""source_pointer"": ""/pages/2/text""}]","1. Khi làm thủ tục nhập học:
+1.1 Sinh viên nộp chứng chỉ MOS Word, MOS Excel, MOS PowerPoint quốc tế
+(thỏa điều kiện chuẩn đầu ra MOS — Bảng 2) theo thông báo của Trường để xin xét miễn
+chứng chỉ MOS. Sinh viên phải nộp chi phí dự thi và tham dự bài thi đánh giá học phần Cơ
+sở tin học 1, 2, 3 tương ứng do Trường tổ chức.
++ Sinh viên đạt điểm bài thi Cơ sở tin học (> 5,0 điểm) được miễn học và xét đạt
+chuan đầu ra học phần Cơ sở tin học (MOS) tương ứng (theo Bang 2).
++ Sinh viên thi không đạt (< 5,0 điểm) phải học học phần Cơ sở tin học tương
+ứng trong chương trình đào tạo và không xét chuẩn đầu ra chứng chỉ MOS. Sinh viên chi
+được xét đạt chuẩn đầu ra chứng chỉ MOS khi đạt điểm học phần Cơ sở tin học tương ứng.
+1.2 Sinh viên nộp Bang tốt nghiệp Trung cấp công nghệ thông tin hoặc văn bằng -
+tương đương theo thông báo của Trường để được xem xét miễn học phần Cơ sở tin học tương
+ứng với chương trình sinh viên đã học (không xét miễn chứng chỉ MOS).
+",,,,,
+P014,multi_evidence,"Thí sinh chưa có tiếng Anh B1 quốc tế phải làm gì để đủ điều kiện đầu vào, và trường chấp nhận những chứng chỉ quốc tế nào?",g1,Cách xử lý khi chưa đạt B1 quốc tế,ccv0:f0d5cdc987b9:p1:o1987:5052f4be6985679e,"Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",1-1,"{""chapter"": null, ""section"": null, ""article"": ""2"", ""clause"": ""5"", ""point"": ""b""}","[{""char_end"": 2466, ""char_start"": 1987, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","b) Đối với thí sinh không thuộc đối tượng ở điểm a khoản 5 Điều 2 phải đạt tiếng
+Anh trình độ B1 quốc tế (dat các chứng chỉ tiếng Anh quốc tế tương đương IELTS 5.0).
+Trường hợp người học chưa đạt trình độ B1 quốc tế (tương đương IELTS > 5.0) phải dự thi
+Bài thi đánh giá năng lực tiếng Anh đầu vào để được xác nhận đủ điều kiện tiếng Anh theo
+học chương trình (trừ ngành Ngôn ngữ Anh). Bài thi đánh giá năng lực tiếng Anh đầu vào
+được đánh giá 4 kỹ năng (nghe, đọc, nói và viết);",,,,,
+P014,multi_evidence,"Thí sinh chưa có tiếng Anh B1 quốc tế phải làm gì để đủ điều kiện đầu vào, và trường chấp nhận những chứng chỉ quốc tế nào?",g2,Danh sách chứng chỉ tiếng Anh quốc tế được chấp nhận,ccv0:f0d5cdc987b9:p1:o1525:b1b3a0243b780039,"Quy định về việc đào tạo tiếng Anh cho sinh viên trình độ đại học, chuyên sâu đặc thù chương trình giảng dạy bằng tiếng Anh khóa tuyển sinh 2023",1-1,"{""chapter"": null, ""section"": null, ""article"": ""2"", ""clause"": ""4"", ""point"": null}","[{""char_end"": 1826, ""char_start"": 1525, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","4. Các chứng chỉ tiếng Anh quốc tế được chấp nhận gồm: IELTS, TOEIC (4 kỹ năng),
+TOEFL iBT, Cambridge, Aptis ESOL. Các chứng chỉ tiếng Anh quốc tế này phải được tổ
+chức thi trực tiếp tại các đơn vị liên kết được Bộ Giáo dục và Đào tạo phê duyệt Đề án liên
+kết tổ chức thi cấp chứng chỉ theo quy định.
+",,,,,
+P015,multi_evidence,Điều kiện nhận thư khen của Hiệu trưởng khác điều kiện nhận thư khen của lãnh đạo Khoa như thế nào?,g1,Điều kiện nhận thư khen của Hiệu trưởng,ccv0:614a7c8cd8ef:p2:o550:e48d069d79dcd6b2,ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN,2-2,"{""chapter"": null, ""section"": null, ""article"": null, ""clause"": null, ""point"": null}","[{""char_end"": 806, ""char_start"": 550, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","2. Đối với sinh viên đạt thành tích học tập Giỏi, Xuất sắc có điểm TB học kỳ/năm
+học ≥ 8,00 và Điểm trung bình rèn luyện học kỳ/năm học xét từ 80 điểm trở lên sẽ nhận
+được Thư khen (điện tử) từ Thầy Hiệu trưởng khen tặng (được gửi qua email cho sinh
+viên).",,,,,
+P015,multi_evidence,Điều kiện nhận thư khen của Hiệu trưởng khác điều kiện nhận thư khen của lãnh đạo Khoa như thế nào?,g2,Điều kiện nhận thư khen của lãnh đạo Khoa,ccv0:614a7c8cd8ef:p2:o807:766629378393083f,ĐIỀU KIỆN VỀ VIỆC CẤP THƯ KHEN HỌC TẬP - RÈN LUYỆN CHO SINH VIÊN,2-2,"{""chapter"": null, ""section"": null, ""article"": null, ""clause"": null, ""point"": null}","[{""char_end"": 1146, ""char_start"": 807, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","3. Đối với sinh viên đạt thành tích học tập Khá có điểm TB học kỳ/năm học ≥ 7,00
+và < 8,00 và điểm rèn luyện học kỳ/năm học từ 65 điểm trở lên; Sinh viên đạt thành tích
+học tập Giỏi, Xuất sắc nhưng có điểm rèn luyện < 80 điểm: sẽ nhận được Thư khen (điện
+tử) do Lãnh đạo Khoa quản lý sinh viên khen tặng (được gửi qua email cho sinh viên).",,,,,
+P016,multi_evidence,"Với sinh viên khóa trước 2015, điểm tập sự nghề nghiệp được tính và xét đạt ra sao, đồng thời điểm doanh nghiệp phải chiếm tối thiểu bao nhiêu?",g1,Cách tính và điều kiện đạt TSNN cho khóa trước 2015,ccv0:c2ef511bad34:p2:o456:3ee2ab8346eff14d,Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên,2-2,"{""chapter"": null, ""section"": null, ""article"": ""6"", ""clause"": ""3"", ""point"": null}","[{""char_end"": 953, ""char_start"": 456, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","3. Đối với khóa tuyến sinh trước 2015:
+— Điểm tổng kết Hoc phan TSNN là Điểm trung bình của Điểm đánh giá TSNN và Điểm kỹ năng
+thực hành chuyên mon;
+— Điểm tổng kết Học phần TSNN được xem là đạt khi Điểm kỹ năng thực hành chuyên môn và
+Điểm đánh giá TSNN đều phải > 5,0;
+— Trường hợp có | trong 2 (Điểm kỹ năng thực hành chuyên môn hoặc Điểm đánh giá TSNN) < 5,0
+thì Điểm tổng kết Học phần TSNN sẽ được ghi nhận là điểm K (điểm chưa hoàn tất, chưa đạt);
+— SV phải thực hiện lại các Điểm chưa đạt.
+",,,,,
+P016,multi_evidence,"Với sinh viên khóa trước 2015, điểm tập sự nghề nghiệp được tính và xét đạt ra sao, đồng thời điểm doanh nghiệp phải chiếm tối thiểu bao nhiêu?",g2,Tỷ trọng tối thiểu của điểm doanh nghiệp,ccv0:c2ef511bad34:p2:o42:d5793d1d52074321,Quy định về hoạt động tập sự nghề nghiệp - Áp dụng cho tất cả sinh viên,2-2,"{""chapter"": null, ""section"": null, ""article"": ""6"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 382, ""char_start"": 42, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","1. Do lường kết quả hoạt động TSNN dựa trên 2 nội dung: Điểm hiệu quả công việc (kết quả,
+chất lượng TSNN) của SV do doanh nghiệp đánh giá; và Điểm do Khoa đánh giá. Hệ số và tiêu chí đánh
+giá của các cột điểm thành phần được quy định cụ thé trong Đề cương chỉ tiết môn học; trong đó điểm do
+doanh nghiệp đánh giá phải chiếm tối thiêu 30%.
+",,,,,
+P017,multi_evidence,"Sinh viên muốn chuyển đổi tín chỉ thì phải nộp đơn lúc nào, và tối đa được công nhận bao nhiêu phần trăm chương trình?",g1,Thời điểm nộp đơn chuyển đổi tín chỉ,ccv0:457e13e9798d:p22:o734:3f54980ce4be5582,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,22-22,"{""chapter"": ""III"", ""section"": null, ""article"": ""28"", ""clause"": ""4"", ""point"": null}","[{""char_end"": 825, ""char_start"": 734, ""page"": 22, ""source_pointer"": ""/pages/21/text""}]","4. Sinh viên nộp đơn đề nghị công nhận kết quả học tập và chuyển đổi tín chỉ đầu mỗi
+học kỳ",,,,,
+P017,multi_evidence,"Sinh viên muốn chuyển đổi tín chỉ thì phải nộp đơn lúc nào, và tối đa được công nhận bao nhiêu phần trăm chương trình?",g2,Giới hạn khối lượng được công nhận/chuyển đổi,ccv0:457e13e9798d:p22:o118:15eec94d152d861b,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,22-22,"{""chapter"": ""III"", ""section"": null, ""article"": ""28"", ""clause"": ""2"", ""point"": null}","[{""char_end"": 350, ""char_start"": 118, ""page"": 22, ""source_pointer"": ""/pages/21/text""}]","2. Trường thông báo quy định việc công nhận kết quả học tập và chuyển đổi tín chỉ trên
+Cổng thông tin sinh viên. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá
+50% khối lượng học tập tối thiểu của chương trình đào tạo.
+",,,,,
+P018,cross_document,Nội quy thi trực tiếp và nội quy thi trực tuyến có áp dụng cho kỳ thi tuyển sinh đầu vào không?,g1,Phạm vi nội quy thi trực tiếp,ccv0:ab8668fa5c97:p2:o374:4df3552fc519cdb5,Nội quy phòng thi - Áp dụng cho tất cả sinh viên - Thay thế cho các quy định trước,2-2,"{""chapter"": null, ""section"": null, ""article"": ""04"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 507, ""char_start"": 374, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","1. Pham vi áp dung: Các ky kiểm tra va thi (gọi tắt là thi) do Trường đại hoc Tôn Đức Thắng
+tô chức (trừ kỳ thi tuyên sinh dau vào).
+",,,,,
+P018,cross_document,Nội quy thi trực tiếp và nội quy thi trực tuyến có áp dụng cho kỳ thi tuyển sinh đầu vào không?,g2,Phạm vi nội quy thi trực tuyến,ccv0:c502c54c946e:p2:o338:20457c9c8af2856b,Nội quy phòng thi hình thức thi trực tuyến (chính thức),2-2,"{""chapter"": null, ""section"": null, ""article"": ""3"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 497, ""char_start"": 338, ""page"": 2, ""source_pointer"": ""/pages/1/text""}]","1. Phạm vi áp dụng: các kỳ kiểm tra và thi (gọi tắt là thi) bang hình thức trực tuyến
+do Trường Dai học Tôn Đức Thăng tô chức (trừ ky thi tuyên sinh đâu vào).
+",,,,,
+P019,cross_document,Quy chế công tác sinh viên đại học và quy chế quản lý người học sau đại học áp dụng cho những đối tượng nào?,g1,Đối tượng của quy chế công tác sinh viên đại học,ccv0:01c9529d424a:p1:o611:1367199e061f7ffc,QUY CHẾ CÔNG TÁC SINH VIÊN,1-1,"{""chapter"": ""I"", ""section"": null, ""article"": ""2"", ""clause"": ""1"", ""point"": null}","[{""char_end"": 891, ""char_start"": 611, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","1. Sinh viên được quy định tại Quy chế này là người học được đào tạo trình độ
+đại học (chương trình đào tạo tiêu chuẩn, chương trình đào tạo tiên tiến, chương trình
+liên kết đào tạo quốc tế, chương trình đào tạo đại học bằng tiếng Anh...) tại Trường
+Đại học Tôn Đức Thắng (TDTU);
+",,,,,
+P019,cross_document,Quy chế công tác sinh viên đại học và quy chế quản lý người học sau đại học áp dụng cho những đối tượng nào?,g2,Đối tượng của quy chế quản lý người học sau đại học,ccv0:6f99fd3a61d3:p1:o715:4005c3ca8a15f73e,"QUY CHẾ QUẢN LÝ NGƯỜI HỌC TRÌNH ĐỘ THẠC SĨ, TIẾN SĨ",1-1,"{""chapter"": ""I"", ""section"": null, ""article"": ""1"", ""clause"": ""2"", ""point"": null}","[{""char_end"": 901, ""char_start"": 715, ""page"": 1, ""source_pointer"": ""/pages/0/text""}]","2. Quy chế này áp dụng đối với người học sau đại học tại Trường Đại học
+Tôn Đức Thắng và các đơn vị trực thuộc Trường, các cá nhân có liên quan đến công tác
+quản lý người học sau đại học",,,,,
+P020,cross_document,"Một học kỳ chính phải đăng ký tối thiểu bao nhiêu tín chỉ, và để xét học bổng thì số tín chỉ đạt tối thiểu là bao nhiêu?",g1,Số tín chỉ đăng ký tối thiểu của học kỳ chính,ccv0:457e13e9798d:p8:o2:4026dfdb77ef5681,Quy chế tổ chức và quản lý đào tạo - Áp dụng cho khóa tuyển sinh 2021 trở về sau,8-8,"{""chapter"": ""II"", ""section"": null, ""article"": ""12"", ""clause"": ""1"", ""point"": ""a""}","[{""char_end"": 276, ""char_start"": 2, ""page"": 8, ""source_pointer"": ""/pages/7/text""}]","a) Số tín chỉ tối thiểu cho mỗi học kỳ chính là 10 tín chỉ (trừ học kỳ cuối khóa học và
+sinh viên không đạt trình độ tiếng Anh quy định tại điểm b khoản 1 Điều này). Không quy
+định khối lượng học tập tối thiểu đối với sinh viên ở các học kỳ phụ (học kỳ hè, học kỳ dự
+thính)
+",,,,,
+P020,cross_document,"Một học kỳ chính phải đăng ký tối thiểu bao nhiêu tín chỉ, và để xét học bổng thì số tín chỉ đạt tối thiểu là bao nhiêu?",g2,Số tín chỉ đạt tối thiểu để xét học bổng,ccv0:71751eb4fa8c:p16:o2271:0f7b9a5349968295,"HƯỚNG DẪN HỌC BỔNG, KHEN THƯỞNG, HỖ TRỢ NGƯỜI HỌC; HỌC BỔNG HỖ TRỢ CHO CỘNG ĐỒNG VÀ HỖ TRỢ KHÁC TỪ NĂM HỌC 2025 - 2026 TRỞ VỀ SAU",16-16,"{""chapter"": null, ""section"": null, ""article"": null, ""clause"": null, ""point"": null}","[{""char_end"": 2576, ""char_start"": 2271, ""page"": 16, ""source_pointer"": ""/pages/15/text""}]","d) Số tín chỉ đạt tối thiểu của chương trình đào tạo ngành chính trong học kỳ xét
+từ 15 tín chỉ trở lên hoặc từ số tín chỉ chuẩn của lộ trình đào tạo học kỳ xét (các trường
+hợp ngoại lệ do Hội đồng xét học bổng xem xét). Riêng tại Phân hiệu xét theo số tín chỉ
+thực tế triển khai giảng dạy tại học kỳ xét;",,,,,

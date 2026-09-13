@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import time
 from typing import Any
 
 from src.retrieval.corpus import RetrievalDocument
@@ -29,11 +30,18 @@ class HybridRetrievalBackbone:
         self.presented_depth = presented_depth
 
     def retrieve_round(self, query: str, round_index: int) -> BackboneRound:
+        total_started = time.monotonic()
+        stage_started = time.monotonic()
         bm25 = self.bm25.retrieve(query, top_k=100)
+        bm25_latency = time.monotonic() - stage_started
+        stage_started = time.monotonic()
         dense = self.dense.retrieve(query, top_k=100)
+        dense_latency = time.monotonic() - stage_started
+        stage_started = time.monotonic()
         candidates = reciprocal_rank_fusion(
             {"bm25": bm25, "dense": dense}, k_rrf=60, top_k=100
         )
+        fusion_latency = time.monotonic() - stage_started
         for row in candidates:
             row.update(
                 round=round_index,
@@ -44,7 +52,9 @@ class HybridRetrievalBackbone:
             row.setdefault("bm25_score", None)
             row.setdefault("dense_rank", None)
             row.setdefault("dense_score", None)
+        stage_started = time.monotonic()
         reranked = self.reranker.rerank(query, candidates[:50], top_k=50)
+        reranker_latency = time.monotonic() - stage_started
         presented = [dict(row) for row in reranked[: self.presented_depth]]
         evidence = {
             row["chunk_id"]: self._evidence(self.documents[row["chunk_id"]]) for row in presented
@@ -56,6 +66,13 @@ class HybridRetrievalBackbone:
             reranked=tuple(dict(row) for row in reranked),
             presented=tuple(presented),
             evidence=evidence,
+            latency_seconds={
+                "bm25": bm25_latency,
+                "dense": dense_latency,
+                "fusion": fusion_latency,
+                "reranker": reranker_latency,
+                "total": time.monotonic() - total_started,
+            },
         )
 
     @staticmethod

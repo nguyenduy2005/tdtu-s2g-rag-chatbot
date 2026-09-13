@@ -1,0 +1,28 @@
+{
+  "schema_version": "s2g-answer-quality-agent-review-v1",
+  "reviewer": "Codex agent-assisted manual verification",
+  "independent_human_review": false,
+  "review_basis": "Question, generated answer, returned citations, frozen GT chunks, canonical source_text, and targeted PDF visual checks. REVIEW is retained where the benchmark/source interpretation is ambiguous.",
+  "reviews": [
+    {"query_id": "P001", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct five-minute threshold and consequence."},
+    {"query_id": "P002", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Complete accepted-certificate list."},
+    {"query_id": "P003", "correctness": "PASS", "completeness": "PASS", "faithfulness": "FAIL", "citation_adequacy": "PASS", "clarity": "FAIL", "notes": "Core thresholds are right, but answer adds irrelevant faculty/scholarship material and ends with a stray quote."},
+    {"query_id": "P004", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct 50 percent ceiling."},
+    {"query_id": "P005", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct faculty proposal and university decision roles."},
+    {"query_id": "P006", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct five-minute rule."},
+    {"query_id": "P007", "correctness": "FAIL", "completeness": "FAIL", "faithfulness": "PASS", "citation_adequacy": "FAIL", "clarity": "FAIL", "notes": "Retrieved statements are mostly supported but do not answer where conduct evaluation occurs or list the required principles."},
+    {"query_id": "P008", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct two-year period."},
+    {"query_id": "P009", "correctness": "PASS", "completeness": "PASS", "faithfulness": "REVIEW", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Core eligibility is supported; extra wording about degree/credit outcomes should be checked against the additional citations."},
+    {"query_id": "P010", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct re-admission and prior-result treatment."},
+    {"query_id": "P011", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correct 30 percent minimum."},
+    {"query_id": "P012", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correctly distinguishes scholarship treatment of K and P."},
+    {"query_id": "P013", "correctness": "FAIL", "completeness": "FAIL", "faithfulness": "FAIL", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "Possessing MOS alone does not immediately waive the course; the cited rule requires paying for and passing the assessment above the threshold."},
+    {"query_id": "P014", "correctness": "PASS", "completeness": "FAIL", "faithfulness": "PASS", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "Correctly states the entrance assessment but omits the requested list of accepted certificates and cites only one evidence group."},
+    {"query_id": "P015", "correctness": "FAIL", "completeness": "FAIL", "faithfulness": "FAIL", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "Answers with unrelated first-year scholarship criteria and wrongly says no faculty-letter conditions are given; neither GT group is cited."},
+    {"query_id": "P016", "correctness": "FAIL", "completeness": "FAIL", "faithfulness": "PASS", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "Declares insufficient and retrieves an unrelated conduct-scoring chunk; neither TSNN evidence group is recovered."},
+    {"query_id": "P017", "correctness": "REVIEW", "completeness": "REVIEW", "faithfulness": "PASS", "citation_adequacy": "REVIEW", "clarity": "PASS", "notes": "The answer cites a specific transfer rule requiring two weeks before the main semester, while pilot GT uses a general training rule saying the beginning of each semester. Benchmark scope needs human adjudication."},
+    {"query_id": "P018", "correctness": "PASS", "completeness": "PASS", "faithfulness": "FAIL", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "The conclusion is correct against GT, but the direct-exam scope GT is absent from citations and replaced by an unrelated online-assessment storage provision."},
+    {"query_id": "P019", "correctness": "FAIL", "completeness": "FAIL", "faithfulness": "PASS", "citation_adequacy": "FAIL", "clarity": "PASS", "notes": "Answers only the postgraduate half and omits the undergraduate regulation population."},
+    {"query_id": "P020", "correctness": "PASS", "completeness": "PASS", "faithfulness": "PASS", "citation_adequacy": "PASS", "clarity": "PASS", "notes": "Correctly gives 10 registered credits and 15 achieved credits, including the curriculum-path alternative."}
+  ]
+}
