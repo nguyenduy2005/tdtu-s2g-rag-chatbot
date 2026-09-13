@@ -28,8 +28,8 @@ from reportlab.platypus import (
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RESULTS = ROOT / "docs/s2g-pilot-evaluation-results.md"
-PROTOCOL = ROOT / "docs/evaluation-protocol.md"
+RESULTS = ROOT / "docs/s2g-pilot-evaluation-results-vi.md"
+PROTOCOL = ROOT / "docs/evaluation-protocol-vi.md"
 OUTPUT = ROOT / "output/pdf/s2g-pilot-evaluation-report.pdf"
 
 NAVY = colors.HexColor("#17324D")
@@ -310,8 +310,8 @@ def header_footer(canvas, doc) -> None:
         canvas.line(18 * mm, height - 13 * mm, width - 18 * mm, height - 13 * mm)
         canvas.setFont("Arial", 7.5)
         canvas.setFillColor(MUTED)
-        canvas.drawString(18 * mm, height - 10 * mm, "S2G-RAG PILOT EVALUATION")
-        canvas.drawRightString(width - 18 * mm, 10 * mm, f"Page {doc.page}")
+        canvas.drawString(18 * mm, height - 10 * mm, "BÁO CÁO ĐÁNH GIÁ PILOT S2G-RAG")
+        canvas.drawRightString(width - 18 * mm, 10 * mm, f"Trang {doc.page}")
     canvas.restoreState()
 
 
@@ -326,31 +326,31 @@ def build() -> None:
         leftMargin=18 * mm,
         topMargin=19 * mm,
         bottomMargin=17 * mm,
-        title="S2G-RAG Pilot Evaluation Report and Protocol",
+        title="Báo cáo kết quả và quy trình đánh giá pilot S2G-RAG",
         author="TDTU Regulatory S2G-RAG Project",
-        subject="Retrieval, evidence coverage, answer quality, latency, and cost evaluation",
+        subject="Đánh giá retrieval, độ bao phủ evidence, chất lượng câu trả lời, độ trễ và chi phí",
     )
     story = [
         Spacer(1, 27 * mm),
         HRFlowable(width="28%", thickness=4, color=BLUE, hAlign="LEFT"),
         Spacer(1, 10 * mm),
-        Paragraph("S2G-RAG PILOT<br/>EVALUATION REPORT", st["cover_title"]),
+        Paragraph("BÁO CÁO ĐÁNH GIÁ<br/>PILOT S2G-RAG", st["cover_title"]),
         Paragraph(
-            "Retrieval effectiveness, evidence coverage, answer quality, latency, cost, and reproducible evaluation protocol",
+            "Hiệu quả retrieval, độ bao phủ evidence, chất lượng câu trả lời, độ trễ, chi phí và quy trình đánh giá có thể tái lập",
             st["cover_subtitle"],
         ),
         Spacer(1, 16 * mm),
         Paragraph(
-            "PROVISIONAL - AGENT-ASSISTED PILOT<br/>Not a frozen thesis benchmark until independent human verification is complete.",
+            "KẾT QUẢ TẠM THỜI - PILOT CÓ HỖ TRỢ CỦA AGENT<br/>Chưa phải benchmark khóa luận đã đóng băng cho đến khi hoàn tất kiểm chứng độc lập bởi con người.",
             st["status"],
         ),
         Spacer(1, 17 * mm),
         Table(
             [
-                [Paragraph("Corpus", st["small"]), Paragraph("Canonical Corpus V1.1 - 27 PDFs - 3,482 chunks", st["body"])],
-                [Paragraph("Pilot", st["small"]), Paragraph("20 queries - 27 evidence groups - 23 unique GT chunks", st["body"])],
-                [Paragraph("Runtime", st["small"]), Paragraph("20/20 completed - 89 GPT-5 nano responses - 0 infrastructure failures", st["body"])],
-                [Paragraph("Document date", st["small"]), Paragraph(date.today().isoformat(), st["body"])],
+                [Paragraph("Corpus", st["small"]), Paragraph("Canonical Corpus V1.1 - 27 PDF - 3.482 chunk", st["body"])],
+                [Paragraph("Pilot", st["small"]), Paragraph("20 câu hỏi - 27 nhóm evidence - 23 GT chunk duy nhất", st["body"])],
+                [Paragraph("Thực thi", st["small"]), Paragraph("Hoàn thành 20/20 - 89 phản hồi GPT-5 nano - 0 lỗi hạ tầng", st["body"])],
+                [Paragraph("Ngày báo cáo", st["small"]), Paragraph(date.today().isoformat(), st["body"])],
             ],
             colWidths=[35 * mm, 125 * mm],
             style=TableStyle([
@@ -363,11 +363,11 @@ def build() -> None:
             ]),
         ),
         Spacer(1, 22 * mm),
-        Paragraph("TDTU Regulatory S2G-RAG Chatbot", st["small"]),
+        Paragraph("Chatbot S2G-RAG tra cứu quy định TDTU", st["small"]),
         PageBreak(),
-        Paragraph("Part I - Pilot Evaluation Results", st["h1"]),
+        Paragraph("Phần I - Kết quả đánh giá pilot", st["h1"]),
         Paragraph(
-            "Observed results from the completed 20-query engineering pilot. All caveats and validity limits are retained.",
+            "Kết quả quan sát từ pilot kỹ thuật gồm 20 câu hỏi. Toàn bộ cảnh báo và giới hạn về tính hợp lệ được giữ nguyên.",
             st["small"],
         ),
         Spacer(1, 5 * mm),
@@ -375,9 +375,9 @@ def build() -> None:
     story.extend(markdown_story(RESULTS, st))
     story.extend([
         PageBreak(),
-        Paragraph("Appendix A - Evaluation Protocol", st["h1"]),
+        Paragraph("Phụ lục A - Quy trình đánh giá", st["h1"]),
         Paragraph(
-            "Definitions, ground-truth firewall, reproducible commands, human-review requirements, and interpretation limits.",
+            "Định nghĩa, ground-truth firewall, lệnh tái lập, yêu cầu kiểm tra của con người và giới hạn diễn giải.",
             st["small"],
         ),
         Spacer(1, 5 * mm),
@@ -388,7 +388,7 @@ def build() -> None:
         HRFlowable(width="100%", thickness=0.5, color=RULE),
         Spacer(1, 3 * mm),
         Paragraph(
-            "Source documents: docs/s2g-pilot-evaluation-results.md and docs/evaluation-protocol.md. Generated reproducibly without modifying either source file.",
+            "Nguồn nội dung: docs/s2g-pilot-evaluation-results.md và docs/evaluation-protocol.md. Bản tiếng Việt giữ nguyên số liệu và thuật ngữ kỹ thuật của hai tài liệu nguồn.",
             st["small"],
         ),
     ])
