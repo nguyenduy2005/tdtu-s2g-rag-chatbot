@@ -29,23 +29,32 @@ chatbot/
 │   ├── raw/                     # 27 immutable source PDFs
 │   ├── processed/documents/     # 27 source-traceability JSON files
 │   ├── corpus/canonical_corpus_v1_1/
+│   ├── evaluation/s2g_pilot_v1/ # 20-query pilot benchmark and GT review
 │   └── product/s2g_full_pdf/    # Derived deployment manifest
 ├── docs/
 │   ├── s2g-full-pdf-chatbot.md
-│   └── s2g-research-architecture.md # Judge-first research controller
+│   ├── s2g-research-architecture.md # Judge-first research controller
+│   ├── evaluation-protocol-vi.md
+│   ├── s2g-pilot-rerun-2026-09-13.md # Latest pilot report
+│   └── archive/                 # Superseded/English reports
+├── output/pdf/                  # Current user-facing PDF report
 ├── outputs/
-│   └── s2g_product/cache/       # Reusable full-corpus embedding cache
+│   ├── s2g_product/cache/       # Reusable full-corpus embedding cache
+│   └── evaluation/              # Current and archived experiment artifacts
 ├── src/
 │   ├── product_s2g/             # Streamlit UI and end-to-end orchestration
 │   ├── retrieval/               # Retrieval primitives and judge-first S2G
-│   └── s2g_runtime/             # OpenAI, validation, retry, and audit support
+│   ├── s2g_runtime/             # OpenAI, validation, retry, and audit support
+│   └── evaluation/              # Benchmark validation, runners, and metrics
 └── tests/
     ├── product_s2g/
-    └── s2g_research/
+    ├── s2g_research/
+    └── evaluation/
 ```
 
-The workspace contains no benchmark/comparator implementation. Runtime traces
-are generated only when a user asks a question and are ignored by Git.
+The workspace contains one S2G pilot benchmark and its evaluation utilities; it
+does not contain comparator-method implementations. Product runtime traces and
+the large per-query pilot runtime directory are ignored by Git.
 
 ## Install
 
@@ -87,9 +96,14 @@ with at most four retrieval turns and six presented chunks per turn.
 The evaluation foundation under `src/evaluation/` measures Recall@k, MRR@10,
 evidence-group coverage, retrieval/end-to-end latency, recorded token usage, and
 estimated API cost. It also generates a blank human-review worksheet for answer
-quality. See [`docs/evaluation-protocol.md`](docs/evaluation-protocol.md).
+quality. See [`docs/evaluation-protocol-vi.md`](docs/evaluation-protocol-vi.md).
 
 The 20-query pilot under `data/evaluation/s2g_pilot_v1/` is agent-assisted and
 still awaits human verification. The evaluator hard-fails by default until that
 checkpoint is complete; provisional engineering runs require an explicit
 `--allow-pending-human` flag.
+
+The current diagnostic run is
+`outputs/evaluation/s2g_pilot_rerun_20260913/`. The superseded first run is kept
+under `outputs/evaluation/archive/s2g_pilot_v1/` for provenance. See
+`outputs/evaluation/README.md` before interpreting experiment artifacts.

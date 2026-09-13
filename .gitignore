@@ -10,3 +10,4 @@ __pycache__/
 *.tmp
 outputs/s2g_product/runtime/
 outputs/evaluation/*/s2g_runtime/runtime/
+outputs/evaluation/archive/*/s2g_runtime/runtime/
