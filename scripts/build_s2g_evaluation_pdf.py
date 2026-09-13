@@ -28,7 +28,7 @@ from reportlab.platypus import (
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RESULTS = ROOT / "docs/s2g-pilot-evaluation-results-vi.md"
+RESULTS = ROOT / "docs/s2g-pilot-rerun-2026-09-13.md"
 PROTOCOL = ROOT / "docs/evaluation-protocol-vi.md"
 OUTPUT = ROOT / "output/pdf/s2g-pilot-evaluation-report.pdf"
 
@@ -326,7 +326,7 @@ def build() -> None:
         leftMargin=18 * mm,
         topMargin=19 * mm,
         bottomMargin=17 * mm,
-        title="Báo cáo kết quả và quy trình đánh giá pilot S2G-RAG",
+        title="Báo cáo chạy lại pilot và quy trình đánh giá S2G-RAG",
         author="TDTU Regulatory S2G-RAG Project",
         subject="Đánh giá retrieval, độ bao phủ evidence, chất lượng câu trả lời, độ trễ và chi phí",
     )
@@ -349,7 +349,7 @@ def build() -> None:
             [
                 [Paragraph("Corpus", st["small"]), Paragraph("Canonical Corpus V1.1 - 27 PDF - 3.482 chunk", st["body"])],
                 [Paragraph("Pilot", st["small"]), Paragraph("20 câu hỏi - 27 nhóm evidence - 23 GT chunk duy nhất", st["body"])],
-                [Paragraph("Thực thi", st["small"]), Paragraph("Hoàn thành 20/20 - 89 phản hồi GPT-5 nano - 0 lỗi hạ tầng", st["body"])],
+                [Paragraph("Thực thi", st["small"]), Paragraph("Hoàn thành 20/20 - 94 provider calls tính cả lần retry P004", st["body"])],
                 [Paragraph("Ngày báo cáo", st["small"]), Paragraph(date.today().isoformat(), st["body"])],
             ],
             colWidths=[35 * mm, 125 * mm],
@@ -388,7 +388,7 @@ def build() -> None:
         HRFlowable(width="100%", thickness=0.5, color=RULE),
         Spacer(1, 3 * mm),
         Paragraph(
-            "Nguồn nội dung: docs/s2g-pilot-evaluation-results.md và docs/evaluation-protocol.md. Bản tiếng Việt giữ nguyên số liệu và thuật ngữ kỹ thuật của hai tài liệu nguồn.",
+            "Nguồn nội dung: docs/s2g-pilot-rerun-2026-09-13.md và docs/evaluation-protocol-vi.md. Số liệu lấy từ artifact chạy lại dưới outputs/evaluation/s2g_pilot_rerun_20260913/.",
             st["small"],
         ),
     ])
