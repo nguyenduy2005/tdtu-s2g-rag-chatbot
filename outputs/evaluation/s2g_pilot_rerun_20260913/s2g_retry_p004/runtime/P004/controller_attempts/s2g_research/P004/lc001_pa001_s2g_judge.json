@@ -1,0 +1,58 @@
+{
+  "artifact_hash": "b0393ddf85dae5c873ca7517a1bd5430f57acd117406019ab45ad6aa1964233f",
+  "attempt_type": "INITIAL",
+  "audit_state": "FINALIZED",
+  "cached_input_tokens": 0,
+  "completion_attempt_index": 1,
+  "controller_stage": "s2g_judge",
+  "experiment_id": "tdtu-regulatory-s2g-chatbot-v1",
+  "incomplete_details": null,
+  "input_hash": "4ffae180c2926dd6cbfb7b72bb1a57e4adbd3174b37a0618e503a69ec820caf9",
+  "input_tokens": 227,
+  "latency_seconds": 5.21961954201106,
+  "local_validation_result": "PASS",
+  "logical_call_index": 1,
+  "max_output_tokens": 8192,
+  "method": "s2g_research",
+  "output_tokens": 511,
+  "parsed_output": {
+    "gaps": [
+      {
+        "category": "attribute",
+        "description": "No official value provided for the maximum recognized study load in the evidence context.",
+        "slot": "max_credit_load",
+        "target": "max_credit_load"
+      },
+      {
+        "category": "attribute",
+        "description": "No official value provided for the maximum transferable credits in the evidence context.",
+        "slot": "max_transferable_credits",
+        "target": "max_transferable_credits"
+      },
+      {
+        "category": "relation",
+        "description": "Lack of policy document/context (country/institution-specific rules) to determine how credits are recognized and transferred.",
+        "slot": "policy_context",
+        "target": null
+      }
+    ],
+    "sufficient": false
+  },
+  "prompt_hash": "a0219633e04eefae7f020bb197c874498ddf7ee596f0c07eab4258477c0d3432",
+  "provider_attempt_index": 1,
+  "provider_response_id": "resp_0efa33d87419a14c016aa6a101c60887d0b72d7e534b0cb84c",
+  "provider_status": "completed",
+  "query_id": "P004",
+  "raw_output": "{\"sufficient\":false,\"gap_items\":[{\"category\":\"attribute\",\"target\":\"max_credit_load\",\"slot\":\"max_credit_load\",\"description\":\"No official value provided for the maximum recognized study load in the evidence context.\"},{\"category\":\"attribute\",\"target\":\"max_transferable_credits\",\"slot\":\"max_transferable_credits\",\"description\":\"No official value provided for the maximum transferable credits in the evidence context.\"},{\"category\":\"relation\",\"target\":null,\"slot\":\"policy_context\",\"description\":\"Lack of policy document/context (country/institution-specific rules) to determine how credits are recognized and transferred.\"}]}",
+  "reasoning_tokens": 320,
+  "requested_model": "gpt-5-nano",
+  "resolved_snapshot": "gpt-5-nano-2025-08-07",
+  "round": 0,
+  "schema_hash": "7755e4410078caa0a3665ef4421648325945d20afeca608737b8ede560803043",
+  "schema_validation_result": "PASS",
+  "schema_version": "s2g-controller-attempt-audit-v1",
+  "semantic_attempt_index": 1,
+  "timestamp": "2026-09-13T13:11:32.776802Z",
+  "transport_retry_index": 0,
+  "validation_error": null
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "s2g-answer-quality-review-v1",
+  "independent_human_review": false,
+  "review_provenance": "Agent-assisted manual comparison against benchmark ground-truth chunks and canonical source_text; not an independent human annotation study.",
+  "reviews": [
+    {"query_id":"P001","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng ngưỡng 5 phút và hậu quả không được dự thi."},
+    {"query_id":"P002","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Liệt kê đầy đủ năm loại chứng chỉ được chấp nhận theo GT."},
+    {"query_id":"P003","correctness":"PASS","completeness":"PASS","faithfulness":"FAIL","citation_adequacy":"PASS","clarity":"FAIL","notes":"Có đúng ngưỡng 8,00 và 80 điểm nhưng trộn thêm một danh sách điều kiện khác, gây nhiễu và mâu thuẫn ngữ cảnh."},
+    {"query_id":"P004","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng mức trần 50% khối lượng tối thiểu của chương trình."},
+    {"query_id":"P005","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng vai trò Hội đồng cấp Khoa đề xuất và cấp Trường quyết định."},
+    {"query_id":"P006","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng quy định quá 5 phút tự ý rời phòng thi trực tuyến."},
+    {"query_id":"P007","correctness":"FAIL","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"FAIL","clarity":"FAIL","notes":"Không nêu đúng hệ thống thông tin sinh viên và bỏ sót các nguyên tắc khách quan, công khai, công bằng, chính xác; thay bằng quy tắc chấm tối đa 20 điểm."},
+    {"query_id":"P008","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng thời hạn 2 năm kể từ ngày cấp."},
+    {"query_id":"P009","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Trả lời đúng khả năng công nhận/chuyển đổi; phần bổ sung vẫn có căn cứ trong evidence được chọn."},
+    {"query_id":"P010","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng yêu cầu dự tuyển lại và cách xem xét bảo lưu/công nhận kết quả cũ; có thêm chi tiết không cần thiết nhưng có nguồn."},
+    {"query_id":"P011","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng mức tối thiểu 30% do doanh nghiệp đánh giá."},
+    {"query_id":"P012","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Phân biệt đúng điểm K không được xét và điểm P vẫn được xét, trừ năm cuối."},
+    {"query_id":"P013","correctness":"FAIL","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Có kết luận không tự động được miễn, nhưng chưa nêu rõ bắt buộc nộp phí và dự bài đánh giá khi nhập học; cách diễn đạt 'đạt điểm học phần' làm mờ điều kiện thực tế."},
+    {"query_id":"P014","correctness":"PASS","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"FAIL","clarity":"PASS","notes":"Nêu đúng bài đánh giá đầu vào nhưng không trả lời danh sách IELTS, TOEIC 4 kỹ năng, TOEFL iBT, Cambridge và Aptis ESOL; thiếu GT thứ hai trong citation."},
+    {"query_id":"P015","correctness":"FAIL","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"FAIL","clarity":"PASS","notes":"Tuyên bố thiếu căn cứ dù benchmark có đủ hai điều kiện độc lập cho thư khen Hiệu trưởng và lãnh đạo Khoa."},
+    {"query_id":"P016","correctness":"FAIL","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"FAIL","clarity":"PASS","notes":"Tìm được mức 30% nhưng bỏ sót hoàn toàn cách tính và điều kiện đạt dành cho khóa trước 2015."},
+    {"query_id":"P017","correctness":"REVIEW","completeness":"REVIEW","faithfulness":"PASS","citation_adequacy":"REVIEW","clarity":"PASS","notes":"Trả lời đủ hai ý nhưng thêm mốc trước học kỳ chính ít nhất 2 tuần từ một quy định cụ thể, trong khi GT pilot dùng phát biểu chung 'đầu mỗi học kỳ'; cần người kiểm tra phạm vi áp dụng."},
+    {"query_id":"P018","correctness":"PASS","completeness":"PASS","faithfulness":"FAIL","citation_adequacy":"FAIL","clarity":"PASS","notes":"Kết luận cho cả thi trực tiếp và trực tuyến là đúng theo GT, nhưng citation chỉ chứng minh rõ phần trực tuyến."},
+    {"query_id":"P019","correctness":"FAIL","completeness":"FAIL","faithfulness":"PASS","citation_adequacy":"FAIL","clarity":"PASS","notes":"Chỉ trả lời đối tượng sau đại học và bỏ sót đối tượng sinh viên đại học của tài liệu còn lại."},
+    {"query_id":"P020","correctness":"PASS","completeness":"PASS","faithfulness":"PASS","citation_adequacy":"PASS","clarity":"PASS","notes":"Đúng 10 tín chỉ đăng ký và 15 tín chỉ đạt hoặc theo lộ trình chuẩn để xét học bổng."}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "artifact_hash": "afa92afb7b8445eac0676fb17dd682c93c102f3dffb53910f40af0b3e3741076",
+  "attempt_type": "INITIAL",
+  "audit_state": "FINALIZED",
+  "cached_input_tokens": 0,
+  "completion_attempt_index": 1,
+  "controller_stage": "s2g_sentence_selector",
+  "experiment_id": "tdtu-regulatory-s2g-chatbot-v1",
+  "incomplete_details": null,
+  "input_hash": "0673b879c0238b73d137b2a4849b17e63cfc7bab30d2074c281b27fe783a5eff",
+  "input_tokens": 2207,
+  "latency_seconds": 4.578444667014992,
+  "local_validation_result": "PASS",
+  "logical_call_index": 2,
+  "max_output_tokens": 8192,
+  "method": "s2g_research",
+  "output_tokens": 925,
+  "parsed_output": {
+    "sentence_ids": [
+      "s2g:ccv0:457e13e9798d:p22:o118:15eec94d152d861b:113:231:5aec8c8be25f498e",
+      "s2g:ccv0:e381a555c613:p4:o1150:0de290e8d1d7cb92:0:181:e61acfaaf94444c4",
+      "s2g:ccv0:457e13e9798d:p8:o856:de21ede7a30e3128:0:92:f988e043cc45d8f1",
+      "s2g:ccv0:e381a555c613:p4:o1332:ee9e289102bf3f16:0:281:05b8c720cc58f3a9"
+    ]
+  },
+  "prompt_hash": "1f45eb8003aecb5b182487e3a453e6f388536ea59baff70f273018fef71ab9bb",
+  "provider_attempt_index": 1,
+  "provider_response_id": "resp_0d4efd68af197069016aa6a106e29087d097584553d42b2cca",
+  "provider_status": "completed",
+  "query_id": "P004",
+  "raw_output": "{\"evidence_global_ids\":[\"s2g:ccv0:457e13e9798d:p22:o118:15eec94d152d861b:113:231:5aec8c8be25f498e\",\"s2g:ccv0:e381a555c613:p4:o1150:0de290e8d1d7cb92:0:181:e61acfaaf94444c4\",\"s2g:ccv0:457e13e9798d:p8:o856:de21ede7a30e3128:0:92:f988e043cc45d8f1\",\"s2g:ccv0:e381a555c613:p4:o1332:ee9e289102bf3f16:0:281:05b8c720cc58f3a9\"]}",
+  "reasoning_tokens": 704,
+  "requested_model": "gpt-5-nano",
+  "resolved_snapshot": "gpt-5-nano-2025-08-07",
+  "round": 0,
+  "schema_hash": "16d576c3b59807935e6930b4284d6081d95bb539c63a89db6b7fd8875ea9db3a",
+  "schema_validation_result": "PASS",
+  "schema_version": "s2g-controller-attempt-audit-v1",
+  "semantic_attempt_index": 1,
+  "timestamp": "2026-09-13T13:11:39.214657Z",
+  "transport_retry_index": 0,
+  "validation_error": null
+}
